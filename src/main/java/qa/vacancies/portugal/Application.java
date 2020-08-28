@@ -32,7 +32,7 @@ public class Application {
     public static void main(String[] args) {
         MarkdownFileWriter.truncateMarkdown(README);
         MarkdownFileWriter.appendMarkdown(README, fillTop());
-        MarkdownFileWriter.appendMarkdown(README, IT_JOBS_VACANCIES.getSb());
+        MarkdownFileWriter.appendMarkdown(README, IT_JOBS_VACANCIES.stringBuilder());
     }
 
     private static StringBuilder fillTop() {

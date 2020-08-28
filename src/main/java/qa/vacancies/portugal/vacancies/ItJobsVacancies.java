@@ -16,7 +16,11 @@ import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 public class ItJobsVacancies implements MarkdownStringBuilder {
+    private static final String BRAGA_ID = "4";
+    private static final String PORTO_ID = "18";
     private static final String AVEIRO_ID = "1";
+    private static final String COIMBRA_ID = "8";
+    private static final String LISBOA_ID = "14";
 
     private final ItJobsPage itJobsPage;
     private final StringBuilder sb;
@@ -27,28 +31,44 @@ public class ItJobsVacancies implements MarkdownStringBuilder {
     }
 
     @Override
-    public StringBuilder getSb() {
+    public StringBuilder stringBuilder() {
         sb.append(new Heading("ItJobs", 3)).append("\n\n");
-
-        appendVacancies("Aveiro", getVacanciesAveiro());
-        // all of them
+        appendVacancies("Braga", getVacanciesForLocation(BRAGA_ID));
+        appendVacancies("Porto", getVacanciesForLocation(PORTO_ID));
+        appendVacancies("Aveiro", getVacanciesForLocation(AVEIRO_ID));
+        appendVacancies("Coimbra", getVacanciesForLocation(COIMBRA_ID));
+        appendVacancies("Lisboa", getVacanciesForLocation(LISBOA_ID));
 
         return sb;
     }
 
-    private Set<Vacancy> getVacanciesAveiro() {
-        List<Vacancy> testAutomationAveiro = getVacanciesForLocation(AVEIRO_ID, Constants.TEST_AUTOMATION_QUERY);
-        List<Vacancy> qualityAssuranceAveiro = getVacanciesForLocation(AVEIRO_ID, Constants.QUALITY_ASSURANCE_QUERY);
-        return mergeLists(testAutomationAveiro, qualityAssuranceAveiro);
-    }
-
-    private List<Vacancy> getVacanciesForLocation(String locationId, String query) {
-        return itJobsPage
-                .openAndSearch(locationId, query)
+    /**
+     * Searches for "test automation" and "quality assurance" vacancies.
+     *
+     * @param locationId location identifier
+     * @return a unique list of vacancies for the given location
+     */
+    private Set<Vacancy> getVacanciesForLocation(String locationId) {
+        List<Vacancy> testAutomation = itJobsPage
+                .openAndSearch(locationId, Constants.TEST_AUTOMATION_QUERY)
                 .getVacancies();
+
+        List<Vacancy> qualityAssurance = itJobsPage
+                .openAndSearch(locationId, Constants.QUALITY_ASSURANCE_QUERY)
+                .getVacancies();
+
+        return mergeListsToSet(testAutomation, qualityAssurance);
     }
 
-    private Set<Vacancy> mergeLists(List<Vacancy> testAutomationList, List<Vacancy> qualityAssuranceList) {
+    /**
+     * Since lists may have overlapped vacancies, this method merges two lists into a set.
+     * Thus, ensuring the uniqueness of each vacancy.
+     *
+     * @param testAutomationList   test automation vacancy list
+     * @param qualityAssuranceList quality assurance vacancy list
+     * @return a set of unique vacancies
+     */
+    private Set<Vacancy> mergeListsToSet(List<Vacancy> testAutomationList, List<Vacancy> qualityAssuranceList) {
         return Stream
                 .concat(testAutomationList.stream(), qualityAssuranceList.stream())
                 .collect(Collectors.toSet());
@@ -57,15 +77,13 @@ public class ItJobsVacancies implements MarkdownStringBuilder {
     @SafeVarargs
     private void appendVacancies(String location, Set<Vacancy>... vacancies) {
         sb.append(new Heading(location, 5)).append("\n\n");
-        Arrays.stream(vacancies).forEach(set -> {
-            set.forEach(vacancy -> {
-                sb.append(new BoldText(vacancy.getTitle()))
-                        .append(" @")
-                        .append(new ItalicText(vacancy.getCompany()))
-                        .append(" ")
-                        .append(new Link("here", vacancy.getUrl()))
-                        .append("\n\n");
-            });
-        });
+        Arrays.stream(vacancies).forEach(set ->
+                set.forEach(vacancy ->
+                        sb.append(new BoldText(vacancy.getTitle()))
+                                .append(" @")
+                                .append(new ItalicText(vacancy.getCompany()))
+                                .append(" ")
+                                .append(new Link("here", vacancy.getUrl()))
+                                .append("\n\n")));
     }
 }
