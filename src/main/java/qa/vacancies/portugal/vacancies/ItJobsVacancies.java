@@ -57,7 +57,7 @@ public class ItJobsVacancies implements MarkdownStringBuilder {
 
     @SafeVarargs
     private void appendVacancies(String location, Set<Vacancy>... vacancies) {
-        sb.append(new Heading(location, 4));
+        sb.append(new Heading(location, 5));
         sb.append("\n\n");
         Arrays.stream(vacancies).forEach(set -> {
             set.forEach(vacancy -> {
