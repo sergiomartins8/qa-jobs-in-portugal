@@ -44,7 +44,7 @@ public class Application {
                 .append(new Image("", FORKS_SHIELD)).append("\n")
                 .append(new Image("", LINKEDIN_SHIELD)).append("\n\n")
                 .append(new ItalicText("An awesome curated list of the most recent QA vacancies in Portugal :portugal:")).append(" ")
-                .append(new ItalicText("Updates every day!")).append(new Text(" \uD83C\uDD95")).append("\n\n")
+                .append(new ItalicText("Updates every day!")).append(new Text(" :new:")).append("\n\n")
                 .append(new Image("", RELEASE_BUILD_SHIELD)).append("\n")
                 .append(new Image("", RELEASES_SHIELD)).append("\n")
                 .append(new Image("", ISSUES_SHIELD)).append("\n")
