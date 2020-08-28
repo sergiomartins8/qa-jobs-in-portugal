@@ -28,8 +28,7 @@ public class ItJobsVacancies implements MarkdownStringBuilder {
 
     @Override
     public StringBuilder getSb() {
-        sb.append(new Heading("ItJobs", 3));
-        sb.append("\n\n");
+        sb.append(new Heading("ItJobs", 3)).append("\n\n");
 
         appendVacancies("Aveiro", getVacanciesAveiro());
         // all of them
@@ -57,16 +56,15 @@ public class ItJobsVacancies implements MarkdownStringBuilder {
 
     @SafeVarargs
     private void appendVacancies(String location, Set<Vacancy>... vacancies) {
-        sb.append(new Heading(location, 5));
-        sb.append("\n\n");
+        sb.append(new Heading(location, 5)).append("\n\n");
         Arrays.stream(vacancies).forEach(set -> {
             set.forEach(vacancy -> {
-                sb.append(new BoldText(vacancy.getTitle()));
-                sb.append(" @");
-                sb.append(new ItalicText(vacancy.getCompany()));
-                sb.append(" ");
-                sb.append(new Link("here", vacancy.getUrl()));
-                sb.append("\n\n");
+                sb.append(new BoldText(vacancy.getTitle()))
+                        .append(" @")
+                        .append(new ItalicText(vacancy.getCompany()))
+                        .append(" ")
+                        .append(new Link("here", vacancy.getUrl()))
+                        .append("\n\n");
             });
         });
     }

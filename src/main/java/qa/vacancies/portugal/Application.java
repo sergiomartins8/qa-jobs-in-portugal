@@ -32,38 +32,24 @@ public class Application {
     public static void main(String[] args) {
         MarkdownFileWriter.truncateMarkdown(README);
         MarkdownFileWriter.appendMarkdown(README, fillTop());
-//        MarkdownFileWriter.appendMarkdown(README, IT_JOBS_VACANCIES.getSb());
+        MarkdownFileWriter.appendMarkdown(README, IT_JOBS_VACANCIES.getSb());
     }
 
     private static StringBuilder fillTop() {
         StringBuilder sb = new StringBuilder();
-        sb.append(new Heading(TITLE, 1));
-        sb.append("\n\n");
-        sb.append(new Image("", UNICORN_IMAGE));
-        sb.append("\n\n");
-        sb.append(new Image("", STAR_IF_USEFUL_SHIELD));
-        sb.append("\n");
-        sb.append(new Image("", STARS_SHIELD));
-        sb.append("\n");
-        sb.append(new Image("", FORKS_SHIELD));
-        sb.append("\n");
-        sb.append(new Image("", LINKEDIN_SHIELD));
-        sb.append("\n\n");
-        sb.append("\n\n");
-        sb.append(new ItalicText("An awesome curated list of the most recent QA vacancies in Portugal :portugal:"));
-        sb.append(" ");
-        sb.append(new ItalicText("Updates every day!"));
-        sb.append(new Text(" \uD83C\uDD95"));
-        sb.append("\n\n");
-        sb.append(new Image("", RELEASE_BUILD_SHIELD));
-        sb.append("\n");
-        sb.append(new Image("", RELEASES_SHIELD));
-        sb.append("\n");
-        sb.append(new Image("", ISSUES_SHIELD));
-        sb.append("\n");
-        sb.append(new Image("", CONTRIBUTORS_SHIELD));
-        sb.append("\n");
-        sb.append(new Image("", LICENSE_SHIELD));
+        sb.append(new Heading(TITLE, 1)).append("\n\n")
+                .append(new Image("", UNICORN_IMAGE)).append("\n\n")
+                .append(new Image("", STAR_IF_USEFUL_SHIELD)).append("\n")
+                .append(new Image("", STARS_SHIELD)).append("\n")
+                .append(new Image("", FORKS_SHIELD)).append("\n")
+                .append(new Image("", LINKEDIN_SHIELD)).append("\n\n")
+                .append(new ItalicText("An awesome curated list of the most recent QA vacancies in Portugal :portugal:")).append(" ")
+                .append(new ItalicText("Updates every day!")).append(new Text(" \uD83C\uDD95")).append("\n\n")
+                .append(new Image("", RELEASE_BUILD_SHIELD)).append("\n")
+                .append(new Image("", RELEASES_SHIELD)).append("\n")
+                .append(new Image("", ISSUES_SHIELD)).append("\n")
+                .append(new Image("", CONTRIBUTORS_SHIELD)).append("\n")
+                .append(new Image("", LICENSE_SHIELD)).append("\n\n");
         return sb;
     }
 }
