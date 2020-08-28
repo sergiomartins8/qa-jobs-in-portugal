@@ -20,7 +20,7 @@ public class Application {
 
     private static StringBuilder fillTop() {
         StringBuilder sb = new StringBuilder();
-        sb.append(new Heading("QA Vacancies in Portugal", 1));
+        sb.append(new Heading("QA Vacancies in Portugal :portugal:", 1));
         sb.append("\n\n");
         return sb;
     }
