@@ -51,7 +51,7 @@ public class Application {
         sb.append("\n\n");
         sb.append("\n\n");
         sb.append(new ItalicText("An awesome curated list of the most recent QA vacancies in Portugal :portugal:"));
-        sb.append("\n\n");
+        sb.append(" ");
         sb.append(new ItalicText("Updates every day!"));
         sb.append(new Text(" \uD83C\uDD95"));
         sb.append("\n\n");
