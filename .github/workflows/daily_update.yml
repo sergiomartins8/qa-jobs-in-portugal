@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkouta
+      - name: Checkout
         uses: actions/checkout@v2
         with:
           persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
@@ -42,6 +42,7 @@ jobs:
           git config --local user.email "sehfit@gmail.com"
           git config --local user.name "sergiomartins8"
           git commit -am ":new: daily update!"
+
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
