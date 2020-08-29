@@ -3,9 +3,14 @@ package qa.vacancies.portugal;
 import net.steppschuh.markdowngenerator.image.Image;
 import net.steppschuh.markdowngenerator.text.emphasis.ItalicText;
 import net.steppschuh.markdowngenerator.text.heading.Heading;
+import net.steppschuh.markdowngenerator.text.quote.Quote;
 import qa.vacancies.portugal.utils.markdown.MarkdownFileWriter;
 import qa.vacancies.portugal.utils.markdown.MarkdownStringBuilder;
 import qa.vacancies.portugal.vacancies.ItJobsVacancies;
+
+import java.time.LocalDateTime;
+import java.time.format.DateTimeFormatter;
+import java.util.Locale;
 
 public class Application {
     private static final String README = "README.md";
@@ -31,6 +36,7 @@ public class Application {
     public static void main(String[] args) {
         MarkdownFileWriter.truncateMarkdown(README);
         MarkdownFileWriter.appendMarkdown(README, fillTop());
+        MarkdownFileWriter.appendMarkdown(README, lastUpdated());
         MarkdownFileWriter.appendMarkdown(README, IT_JOBS_VACANCIES.stringBuilder());
     }
 
@@ -49,6 +55,16 @@ public class Application {
                 .append(new Image("", CONTRIBUTORS_SHIELD)).append("\n")
                 .append(new Image("", LICENSE_SHIELD)).append("\n\n")
                 .append(new Heading(VACANCIES, 2)).append("\n\n");
+        return sb;
+    }
+
+    private static StringBuilder lastUpdated() {
+        LocalDateTime localDateTime = LocalDateTime.now();
+        DateTimeFormatter dateTimeFormatter = DateTimeFormatter.ofPattern("E, dd MMM yyyy HH:mm", Locale.ENGLISH);
+        String lastUpdated = dateTimeFormatter.format(localDateTime);
+
+        StringBuilder sb = new StringBuilder();
+        sb.append(new Quote(new ItalicText("Last updated: " + lastUpdated))).append("\n\n");
         return sb;
     }
 }
