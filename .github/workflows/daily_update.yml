@@ -2,7 +2,7 @@ name: daily-update
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '0 0 * * *'
 
 jobs:
   build:
@@ -42,6 +42,7 @@ jobs:
           git config --local user.email "sehfit@gmail.com"
           git config --local user.name "sergiomartins8"
           git commit -am ":new: daily update!"
+
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
