@@ -1,0 +1,43 @@
+name: daily-update
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
+          fetch-depth: 0 # otherwise, will fail to push refs to dest repo
+
+      - name: Run chrome browser
+        run: docker-compose up -d chrome
+
+      - name: Wait containers
+        uses: jakejarvis/wait-action@master
+        with:
+          time: '30s'
+
+      - name: Check available containers
+        run: docker ps
+
+      - name: Update vacancies
+        run: |
+          mvn -B install \
+            -Dselenide.headless=true \
+            -Dselenide.remote=http://0.0.0.0:4444/wd/hub
+
+      - name: Commit files
+        run: |
+          git config --local user.email "sehfit@gmail.com"
+          git config --local user.name "sergiomartins8"
+          git commit -am ":new: daily update!"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
