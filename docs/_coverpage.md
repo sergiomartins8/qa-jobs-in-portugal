@@ -1,6 +1,6 @@
 ![](https://media.giphy.com/media/TakOTvDEIHtz4Xdbnp/giphy.gif)
 
-# QA Vacancies in Portugal
+# QA vacancies in Portugal
 > _An awesome curated list of the most recent QA vacancies in Portugal, updated every day!_
 
 [![GitHub forks](https://img.shields.io/github/forks/sergiomartins8/qa-vacancies-in-portugal.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/sergiomartins8/qa-vacancies-in-portugal/network/)
