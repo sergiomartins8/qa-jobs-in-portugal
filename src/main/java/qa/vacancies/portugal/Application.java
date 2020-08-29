@@ -4,6 +4,7 @@ import net.steppschuh.markdowngenerator.image.Image;
 import net.steppschuh.markdowngenerator.text.emphasis.ItalicText;
 import net.steppschuh.markdowngenerator.text.heading.Heading;
 import net.steppschuh.markdowngenerator.text.quote.Quote;
+import qa.vacancies.portugal.utils.constants.Constants;
 import qa.vacancies.portugal.utils.markdown.MarkdownFileWriter;
 import qa.vacancies.portugal.utils.markdown.MarkdownStringBuilder;
 import qa.vacancies.portugal.vacancies.ItJobsVacancies;
@@ -42,7 +43,7 @@ public class Application {
 
     private static StringBuilder fillTop() {
         StringBuilder sb = new StringBuilder();
-        sb.append(new Heading(TITLE, 1)).append("\n\n")
+        sb.append(new Heading(TITLE, Constants.HEADING_TITLE)).append("\n\n")
                 .append(new Image("", STAR_IF_USEFUL_SHIELD)).append("\n")
                 .append(new Image("", STARS_SHIELD)).append("\n")
                 .append(new Image("", FORKS_SHIELD)).append("\n")
@@ -54,7 +55,7 @@ public class Application {
                 .append(new Image("", ISSUES_SHIELD)).append("\n")
                 .append(new Image("", CONTRIBUTORS_SHIELD)).append("\n")
                 .append(new Image("", LICENSE_SHIELD)).append("\n\n")
-                .append(new Heading(VACANCIES, 2)).append("\n\n");
+                .append(new Heading(VACANCIES, Constants.HEADING_SUBTITLE)).append("\n\n");
         return sb;
     }
 

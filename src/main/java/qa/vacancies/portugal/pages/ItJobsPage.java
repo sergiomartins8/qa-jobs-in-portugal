@@ -13,6 +13,8 @@ import static com.codeborne.selenide.Selenide.open;
 
 public class ItJobsPage extends PageObject<ItJobsPage> {
     private static final String BLOCK_BORDERLESS_SELECTOR = ".block.borderless";
+    private static final String TITLE_SELECTOR = ".title";
+    private static final String LIST_NAME_SELECTOR = ".list-name";
 
     public ItJobsPage openAndSearch(String locationId, String query) {
         open("https://www.itjobs.pt/emprego?location=" + locationId + "&q=" + query);
@@ -37,18 +39,18 @@ public class ItJobsPage extends PageObject<ItJobsPage> {
     private boolean containsQuery(SelenideElement element) {
         return Stream
                 .of(Constants.QUERIES)
-                .anyMatch(query -> element.$(".title").getText().toLowerCase().contains(query));
+                .anyMatch(query -> element.$(TITLE_SELECTOR).getText().toLowerCase().contains(query));
     }
 
     private String getTitle(SelenideElement element) {
-        return element.$(".title").getText();
+        return element.$(TITLE_SELECTOR).getText();
     }
 
     private String getCompany(SelenideElement element) {
-        return element.$(".list-name").getText();
+        return element.$(LIST_NAME_SELECTOR).getText();
     }
 
     private String getUrl(SelenideElement element) {
-        return element.$(".title").getAttribute("href");
+        return element.$(TITLE_SELECTOR).getAttribute("href");
     }
 }

@@ -32,13 +32,12 @@ public class ItJobsVacancies implements MarkdownStringBuilder {
 
     @Override
     public StringBuilder stringBuilder() {
-        sb.append(new Heading("ItJobs", 3)).append("\n\n");
+        sb.append(new Heading("ItJobs", Constants.HEADING_WEBSITE)).append("\n\n");
         appendVacancies("Braga", getVacanciesForLocation(BRAGA_ID));
         appendVacancies("Porto", getVacanciesForLocation(PORTO_ID));
         appendVacancies("Aveiro", getVacanciesForLocation(AVEIRO_ID));
         appendVacancies("Coimbra", getVacanciesForLocation(COIMBRA_ID));
         appendVacancies("Lisboa", getVacanciesForLocation(LISBOA_ID));
-
         return sb;
     }
 
@@ -76,7 +75,7 @@ public class ItJobsVacancies implements MarkdownStringBuilder {
 
     @SafeVarargs
     private void appendVacancies(String location, Set<Vacancy>... vacancies) {
-        sb.append(new Heading(location, 4)).append("\n\n");
+        sb.append(new Heading(location, Constants.HEADING_LOCATION)).append("\n\n");
         Arrays.stream(vacancies).forEach(set ->
                 set.forEach(vacancy ->
                         sb.append(new BoldText(vacancy.getTitle()))
