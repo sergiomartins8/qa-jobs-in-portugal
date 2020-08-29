@@ -1,8 +1,6 @@
 QA Vacancies in Portugal :portugal:
 ===================================
 
-![](docs/img/my_unicorn.png)
-
 ![](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99)
 ![](https://img.shields.io/github/stars/sergiomartins8/qa-vacancies-in-portugal)
 ![](https://img.shields.io/github/forks/sergiomartins8/qa-vacancies-in-portugal)
@@ -16,9 +14,11 @@ _An awesome curated list of the most recent QA vacancies in Portugal :portugal:_
 ![](https://img.shields.io/github/contributors/sergiomartins8/qa-vacancies-in-portugal)
 ![](https://img.shields.io/github/license/sergiomartins8/qa-vacancies-in-portugal)
 
+## Vacancies
+
 ### ItJobs
 
-##### Braga
+#### Braga
 
 **Test Automation Engineer** @_Michael Page Portugal_ [here](https://www.itjobs.pt/oferta/352834/test-automation-engineer-m-f)
 
@@ -28,7 +28,7 @@ _An awesome curated list of the most recent QA vacancies in Portugal :portugal:_
 
 **Test Automation Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/352537/test-automation-engineer)
 
-##### Porto
+#### Porto
 
 **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/352506/test-automation-engineer)
 
@@ -62,7 +62,7 @@ _An awesome curated list of the most recent QA vacancies in Portugal :portugal:_
 
 **Quality Assurance Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/351990/quality-assurance-engineer-q-a-e)
 
-##### Aveiro
+#### Aveiro
 
 **QA Automation Tester** @_Experis_ [here](https://www.itjobs.pt/oferta/353409/qa-automation-tester)
 
@@ -74,7 +74,7 @@ _An awesome curated list of the most recent QA vacancies in Portugal :portugal:_
 
 **Test Automation Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/352537/test-automation-engineer)
 
-##### Coimbra
+#### Coimbra
 
 **Software QA Engineer** @_WIT - Software_ [here](https://www.itjobs.pt/oferta/353561/software-qa-engineer)
 
@@ -84,7 +84,7 @@ _An awesome curated list of the most recent QA vacancies in Portugal :portugal:_
 
 **Quality Assurance Engineer** @_Smart Consulting_ [here](https://www.itjobs.pt/oferta/353550/quality-assurance-engineer)
 
-##### Lisboa
+#### Lisboa
 
 **Tester Automação - Quality Assurance Consultant** @_Adentis_ [here](https://www.itjobs.pt/oferta/353589/tester-automacao-quality-assurance-consultant)
 
