@@ -8,7 +8,7 @@ QA Vacancies in Portugal :portugal:
 ![](https://img.shields.io/github/forks/sergiomartins8/qa-vacancies-in-portugal)
 ![](https://img.shields.io/badge/-sergiomartins8-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergiomartins8/)
 
-_An awesome curated list of the most recent QA vacancies in Portugal :portugal:_ _updated every day!_ :new:
+_An awesome curated list of the most recent QA vacancies in Portugal :portugal:_ _Updates every day!_ :new:
 
 ![](https://img.shields.io/github/v/release/sergiomartins8/qa-vacancies-in-portugal)
 ![](https://github.com/sergiomartins8/qa-vacancies-in-portugal/workflows/release/badge.svg)
@@ -54,7 +54,7 @@ _An awesome curated list of the most recent QA vacancies in Portugal :portugal:_
 
 **Ticket Management & Quality Assurance** @_Experis_ [here](https://www.itjobs.pt/oferta/353399/ticket-management-quality-assurance)
 
-**Test Automation Engineer** @_SYSMATCH - Consultores de Sistemas de Informação_ [here](https://www.itjobs.pt/oferta/351958/test-automation-engineer)
+**Test Automation Engineer** @_SYSMATCH - Consultores de Sistemas de InformaÃ§Ã£o_ [here](https://www.itjobs.pt/oferta/351958/test-automation-engineer)
 
 **Quality Assurance Analyst** @_Jumia Porto Tech Center_ [here](https://www.itjobs.pt/oferta/353022/quality-assurance-analyst)
 
@@ -86,19 +86,15 @@ _An awesome curated list of the most recent QA vacancies in Portugal :portugal:_
 
 ##### Lisboa
 
-**Tester Automação - Quality Assurance Consultant** @_Adentis_ [here](https://www.itjobs.pt/oferta/353589/tester-automacao-quality-assurance-consultant)
+**Tester AutomaÃ§Ã£o - Quality Assurance Consultant** @_Adentis_ [here](https://www.itjobs.pt/oferta/353589/tester-automacao-quality-assurance-consultant)
 
 **QA - Agile Tester** @_InnoTech_ [here](https://www.itjobs.pt/oferta/353495/qa-agile-tester)
 
 **Lead of QA** @_InnoTech_ [here](https://www.itjobs.pt/oferta/353930/lead-of-qa)
 
-**Quality Assurance** @_KWAN_ [here](https://www.itjobs.pt/oferta/351986/quality-assurance)
-
 **Quality Assurance Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/352686/quality-assurance-engineer)
 
-**Software Developer – Test Automation** @_agap2IT_ [here](https://www.itjobs.pt/oferta/350315/software-developer-test-automation)
-
-**Test Automation Engineer** @_Smart Consulting_ [here](https://www.itjobs.pt/oferta/351025/test-automation-engineer)
+**Quality Assurance** @_KWAN_ [here](https://www.itjobs.pt/oferta/351986/quality-assurance)
 
 **Test Automation Engineer** @_Adentis_ [here](https://www.itjobs.pt/oferta/351599/test-automation-engineer)
 
@@ -110,7 +106,7 @@ _An awesome curated list of the most recent QA vacancies in Portugal :portugal:_
 
 **QA Automation Engineer** @_InnoTech_ [here](https://www.itjobs.pt/oferta/353929/qa-automation-engineer)
 
-**Release & QA Manager – Energy Sector** @_Altran_ [here](https://www.itjobs.pt/oferta/353604/release-qa-manager-energy-sector)
+**Release & QA Manager â€“ Energy Sector** @_Altran_ [here](https://www.itjobs.pt/oferta/353604/release-qa-manager-energy-sector)
 
 **Software QA Engineer** @_WIT - Software_ [here](https://www.itjobs.pt/oferta/353561/software-qa-engineer)
 
@@ -118,7 +114,7 @@ _An awesome curated list of the most recent QA vacancies in Portugal :portugal:_
 
 **Quality Assurance.** @_KWAN_ [here](https://www.itjobs.pt/oferta/352285/quality-assurance)
 
-**Tester for Backend Automation Development** @_SYSMATCH - Consultores de Sistemas de Informação_ [here](https://www.itjobs.pt/oferta/350413/tester-for-backend-automation-development)
+**Tester for Backend Automation Development** @_SYSMATCH - Consultores de Sistemas de InformaÃ§Ã£o_ [here](https://www.itjobs.pt/oferta/350413/tester-for-backend-automation-development)
 
 **QA Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/351973/qa-engineer)
 
