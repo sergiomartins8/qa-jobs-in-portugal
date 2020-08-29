@@ -1,7 +1,6 @@
 package qa.vacancies.portugal;
 
 import net.steppschuh.markdowngenerator.image.Image;
-import net.steppschuh.markdowngenerator.text.Text;
 import net.steppschuh.markdowngenerator.text.emphasis.ItalicText;
 import net.steppschuh.markdowngenerator.text.heading.Heading;
 import qa.vacancies.portugal.utils.markdown.MarkdownFileWriter;
@@ -10,7 +9,7 @@ import qa.vacancies.portugal.vacancies.ItJobsVacancies;
 
 public class Application {
     private static final String README = "README.md";
-    private static final String TITLE = "QA Vacancies in Portugal :portugal:";
+    private static final String TITLE = "QA vacancies in Portugal";
     private static final String VACANCIES = "Vacancies";
     private static final String STAR_IF_USEFUL_SHIELD = "https://img.shields.io/static/v1"
             + "?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99";
@@ -42,8 +41,8 @@ public class Application {
                 .append(new Image("", STARS_SHIELD)).append("\n")
                 .append(new Image("", FORKS_SHIELD)).append("\n")
                 .append(new Image("", LINKEDIN_SHIELD)).append("\n\n")
-                .append(new ItalicText("An awesome curated list of the most recent QA vacancies in Portugal :portugal:")).append(" ")
-                .append(new ItalicText("updated every day!")).append(new Text(" :new:")).append("\n\n")
+                .append(new ItalicText("An awesome curated list of the most recent QA vacancies in Portugal, updated every day!"))
+                .append("\n\n")
                 .append(new Image("", RELEASE_BUILD_SHIELD)).append("\n")
                 .append(new Image("", RELEASES_SHIELD)).append("\n")
                 .append(new Image("", ISSUES_SHIELD)).append("\n")

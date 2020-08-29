@@ -1,12 +1,12 @@
-QA Vacancies in Portugal :portugal:
-===================================
+QA vacancies in Portugal
+========================
 
 ![](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99)
 ![](https://img.shields.io/github/stars/sergiomartins8/qa-vacancies-in-portugal)
 ![](https://img.shields.io/github/forks/sergiomartins8/qa-vacancies-in-portugal)
 ![](https://img.shields.io/badge/-sergiomartins8-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergiomartins8/)
 
-_An awesome curated list of the most recent QA vacancies in Portugal :portugal:_ _updated every day!_ :new:
+_An awesome curated list of the most recent QA vacancies in Portugal, updated every day!_
 
 ![](https://img.shields.io/github/v/release/sergiomartins8/qa-vacancies-in-portugal)
 ![](https://github.com/sergiomartins8/qa-vacancies-in-portugal/workflows/release/badge.svg)
@@ -14,7 +14,8 @@ _An awesome curated list of the most recent QA vacancies in Portugal :portugal:_
 ![](https://img.shields.io/github/contributors/sergiomartins8/qa-vacancies-in-portugal)
 ![](https://img.shields.io/github/license/sergiomartins8/qa-vacancies-in-portugal)
 
-## Vacancies
+Vacancies
+---------
 
 ### ItJobs
 
