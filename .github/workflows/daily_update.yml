@@ -16,7 +16,7 @@ jobs:
           fetch-depth: 0 # otherwise, will fail to push refs to dest repo
 
       - name: Run chrome browser
-        run: docker-compose up chrome -d
+        run: docker-compose up -d chrome
 
       - name: Wait containers
         uses: jakejarvis/wait-action@master
