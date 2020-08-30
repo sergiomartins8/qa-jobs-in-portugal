@@ -11,23 +11,18 @@ import java.util.stream.Stream;
 import static com.codeborne.selenide.Selenide.$$;
 import static com.codeborne.selenide.Selenide.open;
 
-public class ItJobsPage extends PageObject<ItJobsPage> {
+public class ItJobsPage implements PageObject<ItJobsPage> {
     private static final String BLOCK_BORDERLESS_SELECTOR = ".block.borderless";
     private static final String TITLE_SELECTOR = ".title";
     private static final String LIST_NAME_SELECTOR = ".list-name";
 
+    @Override
     public ItJobsPage openAndSearch(String locationId, String query) {
         open("https://www.itjobs.pt/emprego?location=" + locationId + "&q=" + query);
         return this;
     }
 
-    /**
-     * Extracts vacancy details from the user interface to build a {@link Vacancy} list.
-     * <br>
-     * The list is built by filtering for the desired queries available on {@link Constants#QUERIES}
-     *
-     * @return list of vacancies.
-     */
+    @Override
     public List<Vacancy> getVacancies() {
         return $$(BLOCK_BORDERLESS_SELECTOR)
                 .stream()
