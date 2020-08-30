@@ -75,7 +75,7 @@ While the prerequisites above must be satisfied prior to having your pull reques
 * Limit the first line to 72 characters or less
 * Reference issues and pull requests liberally after the first line
 * Consider starting the commit message with an applicable emoji:
-    * ☀️ `:sun:` when adding a new feature
+    * ☀️ `:sunny:` when adding a new feature
     * 🐛 `:bug:` when fixing a bug
     * 🔥 `:fire:` when removing code or files
     * 🤖 `:robot:` when fixing the CI build
