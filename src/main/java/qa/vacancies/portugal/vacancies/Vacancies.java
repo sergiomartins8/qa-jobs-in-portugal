@@ -57,9 +57,8 @@ public abstract class Vacancies implements MarkdownStringBuilder {
      */
     protected <T extends PageObject<T>> void appendVacancies(StringBuilder sb, PageObject<T> po) {
         locations
-                .forEach((locationName, locationId) -> {
-                    appendVacanciesForLocation(sb, locationName, getVacanciesForLocation(po, locationId));
-                });
+                .forEach((locationName, locationId) ->
+                        appendVacanciesForLocation(sb, locationName, getVacanciesForLocation(po, locationId)));
     }
 
     private void appendVacanciesForLocation(StringBuilder sb, String location, Set<Vacancy> vacancies) {
