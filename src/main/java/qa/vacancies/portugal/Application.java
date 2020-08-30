@@ -9,6 +9,7 @@ import qa.vacancies.portugal.utils.constants.Constants;
 import qa.vacancies.portugal.utils.markdown.MarkdownFileWriter;
 import qa.vacancies.portugal.utils.markdown.MarkdownStringBuilder;
 import qa.vacancies.portugal.vacancies.GlassdoorVacancies;
+import qa.vacancies.portugal.vacancies.IndeedVacancies;
 import qa.vacancies.portugal.vacancies.ItJobsVacancies;
 
 import java.time.LocalDateTime;
@@ -32,6 +33,7 @@ public class Application {
     private static final String LICENSE_SHIELD = "https://img.shields.io/github/license/sergiomartins8/qa-vacancies-in-portugal";
 
     private static final MarkdownStringBuilder GLASSDOOR_VACANCIES = new GlassdoorVacancies();
+    private static final MarkdownStringBuilder INDEED_VACANCIES = new IndeedVacancies();
     private static final MarkdownStringBuilder IT_JOBS_VACANCIES = new ItJobsVacancies();
 
     /**
@@ -42,6 +44,7 @@ public class Application {
         MarkdownFileWriter.appendMarkdown(README, fillTop());
         MarkdownFileWriter.appendMarkdown(README, lastUpdated());
         MarkdownFileWriter.appendMarkdown(README, GLASSDOOR_VACANCIES.stringBuilder());
+        MarkdownFileWriter.appendMarkdown(README, INDEED_VACANCIES.stringBuilder());
         MarkdownFileWriter.appendMarkdown(README, IT_JOBS_VACANCIES.stringBuilder());
     }
 
