@@ -9,7 +9,6 @@ import qa.vacancies.portugal.utils.constants.Constants;
 import qa.vacancies.portugal.utils.markdown.MarkdownStringBuilder;
 import qa.vacancies.portugal.utils.model.Vacancy;
 
-import java.util.Arrays;
 import java.util.List;
 import java.util.Set;
 import java.util.stream.Collectors;
@@ -73,16 +72,15 @@ public class ItJobsVacancies implements MarkdownStringBuilder {
                 .collect(Collectors.toSet());
     }
 
-    @SafeVarargs
-    private void appendVacancies(String location, Set<Vacancy>... vacancies) {
+    private void appendVacancies(String location, Set<Vacancy> vacancies) {
         sb.append(new Heading(location, Constants.HEADING_LOCATION)).append("\n\n");
-        Arrays.stream(vacancies).forEach(set ->
-                set.forEach(vacancy ->
-                        sb.append(new BoldText(vacancy.getTitle()))
-                                .append(" @")
-                                .append(new ItalicText(vacancy.getCompany()))
-                                .append(" ")
-                                .append(new Link("here", vacancy.getUrl()))
-                                .append("\n\n")));
+
+        vacancies.forEach(vacancy ->
+                sb.append(new BoldText(vacancy.getTitle()))
+                        .append(" @")
+                        .append(new ItalicText(vacancy.getCompany()))
+                        .append(" ")
+                        .append(new Link("here", vacancy.getUrl()))
+                        .append("\n\n"));
     }
 }
