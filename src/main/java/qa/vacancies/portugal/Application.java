@@ -7,6 +7,7 @@ import net.steppschuh.markdowngenerator.text.quote.Quote;
 import qa.vacancies.portugal.utils.constants.Constants;
 import qa.vacancies.portugal.utils.markdown.MarkdownFileWriter;
 import qa.vacancies.portugal.utils.markdown.MarkdownStringBuilder;
+import qa.vacancies.portugal.vacancies.GlassdoorVacancies;
 import qa.vacancies.portugal.vacancies.ItJobsVacancies;
 
 import java.time.LocalDateTime;
@@ -16,6 +17,7 @@ import java.util.Locale;
 public class Application {
     private static final String README = "README.md";
     private static final String TITLE = "QA vacancies in Portugal";
+    private static final String DESCRIPTION = "An awesome curated list of the most recent QA vacancies in Portugal, updated every day!";
     private static final String VACANCIES = "Vacancies";
     private static final String STAR_IF_USEFUL_SHIELD = "https://img.shields.io/static/v1"
             + "?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99";
@@ -30,6 +32,7 @@ public class Application {
     private static final String LICENSE_SHIELD = "https://img.shields.io/github/license/sergiomartins8/qa-vacancies-in-portugal";
 
     private static final MarkdownStringBuilder IT_JOBS_VACANCIES = new ItJobsVacancies();
+    private static final MarkdownStringBuilder GLASSDOOR_VACANCIES = new GlassdoorVacancies();
 
     /**
      * Magic.
@@ -39,6 +42,7 @@ public class Application {
         MarkdownFileWriter.appendMarkdown(README, fillTop());
         MarkdownFileWriter.appendMarkdown(README, lastUpdated());
         MarkdownFileWriter.appendMarkdown(README, IT_JOBS_VACANCIES.stringBuilder());
+        MarkdownFileWriter.appendMarkdown(README, GLASSDOOR_VACANCIES.stringBuilder());
     }
 
     private static StringBuilder fillTop() {
@@ -48,7 +52,7 @@ public class Application {
                 .append(new Image("", STARS_SHIELD)).append("\n")
                 .append(new Image("", FORKS_SHIELD)).append("\n")
                 .append(new Image("", LINKEDIN_SHIELD)).append("\n\n")
-                .append(new ItalicText("An awesome curated list of the most recent QA vacancies in Portugal, updated every day!"))
+                .append(new ItalicText(DESCRIPTION))
                 .append("\n\n")
                 .append(new Image("", RELEASE_BUILD_SHIELD)).append("\n")
                 .append(new Image("", RELEASES_SHIELD)).append("\n")
