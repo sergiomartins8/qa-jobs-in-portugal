@@ -31,8 +31,8 @@ public class Application {
     private static final String CONTRIBUTORS_SHIELD = "https://img.shields.io/github/contributors/sergiomartins8/qa-vacancies-in-portugal";
     private static final String LICENSE_SHIELD = "https://img.shields.io/github/license/sergiomartins8/qa-vacancies-in-portugal";
 
-    private static final MarkdownStringBuilder IT_JOBS_VACANCIES = new ItJobsVacancies();
     private static final MarkdownStringBuilder GLASSDOOR_VACANCIES = new GlassdoorVacancies();
+    private static final MarkdownStringBuilder IT_JOBS_VACANCIES = new ItJobsVacancies();
 
     /**
      * Magic.
@@ -41,8 +41,8 @@ public class Application {
         MarkdownFileWriter.truncateMarkdown(README);
         MarkdownFileWriter.appendMarkdown(README, fillTop());
         MarkdownFileWriter.appendMarkdown(README, lastUpdated());
-        MarkdownFileWriter.appendMarkdown(README, IT_JOBS_VACANCIES.stringBuilder());
         MarkdownFileWriter.appendMarkdown(README, GLASSDOOR_VACANCIES.stringBuilder());
+        MarkdownFileWriter.appendMarkdown(README, IT_JOBS_VACANCIES.stringBuilder());
     }
 
     private static StringBuilder fillTop() {
@@ -52,8 +52,7 @@ public class Application {
                 .append(new Image("", STARS_SHIELD)).append("\n")
                 .append(new Image("", FORKS_SHIELD)).append("\n")
                 .append(new Image("", LINKEDIN_SHIELD)).append("\n\n")
-                .append(new ItalicText(DESCRIPTION))
-                .append("\n\n")
+                .append(new ItalicText(DESCRIPTION)).append("\n\n")
                 .append(new Image("", RELEASE_BUILD_SHIELD)).append("\n")
                 .append(new Image("", RELEASES_SHIELD)).append("\n")
                 .append(new Image("", ISSUES_SHIELD)).append("\n")
