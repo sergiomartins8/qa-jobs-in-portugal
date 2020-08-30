@@ -17,7 +17,7 @@ _An awesome curated list of the most recent QA vacancies in Portugal, updated ev
 Vacancies
 ---------
 
-> _Last updated: Sat, 29 Aug 2020 18:35_
+> _Last updated: Sun, 30 Aug 2020 00:23_
 
 ### ItJobs
 
