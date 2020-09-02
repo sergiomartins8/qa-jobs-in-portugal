@@ -18,9 +18,8 @@ public class GlassdoorPage implements PageObject<GlassdoorPage> {
     private static final String JOB_INFO_ITEM_SELECTOR = "a.jobInfoItem";
 
     @Override
-    public GlassdoorPage openAndSearch(String locationId, String query) {
-        open("https://www.glassdoor.com/Job/jobs.htm?locT=C&locId=" + locationId
-                + "&jobType=&context=Jobs&sc.keyword=" + query);
+    public GlassdoorPage openAndSearch(String urlTemplate, Object... params) {
+        open(String.format(urlTemplate, params));
         return this;
     }
 
