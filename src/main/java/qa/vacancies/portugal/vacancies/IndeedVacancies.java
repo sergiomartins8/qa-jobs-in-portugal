@@ -2,18 +2,23 @@ package qa.vacancies.portugal.vacancies;
 
 import qa.vacancies.portugal.pages.IndeedPage;
 import qa.vacancies.portugal.pages.PageObject;
+import qa.vacancies.portugal.utils.model.Location;
 
 public class IndeedVacancies extends Vacancies {
-    private static final String AVEIRO_ID = "Aveiro";
-    private static final String BRAGA_ID = "Braga";
-    private static final String COIMBRA_ID = "Coimbra";
-    private static final String LISBOA_ID = "Lisboa";
-    private static final String PORTO_ID = "Porto";
+    private static final String URL_TEMPLATE = "https://pt.indeed.com/ofertas?l=%s&q=%s";
+    private static final String URL_TEMPLATE_REMOTE = "https://pt.indeed.com/ofertas?l=%s&q=%s";
+
+    private static final Location AVEIRO = Location.builder().urlTemplate(URL_TEMPLATE).id("Aveiro").build();
+    private static final Location BRAGA = Location.builder().urlTemplate(URL_TEMPLATE).id("Braga").build();
+    private static final Location COIMBRA = Location.builder().urlTemplate(URL_TEMPLATE).id("Coimbra").build();
+    private static final Location LISBOA = Location.builder().urlTemplate(URL_TEMPLATE).id("Lisboa").build();
+    private static final Location PORTO = Location.builder().urlTemplate(URL_TEMPLATE).id("Porto").build();
+    private static final Location REMOTE = Location.builder().urlTemplate(URL_TEMPLATE_REMOTE).id("Remoto").build();
 
     private final PageObject<IndeedPage> indeedPage;
 
     public IndeedVacancies() {
-        super(AVEIRO_ID, BRAGA_ID, COIMBRA_ID, LISBOA_ID, PORTO_ID);
+        super(AVEIRO, BRAGA, COIMBRA, LISBOA, PORTO, REMOTE);
         indeedPage = new IndeedPage();
     }
 

@@ -2,18 +2,24 @@ package qa.vacancies.portugal.vacancies;
 
 import qa.vacancies.portugal.pages.GlassdoorPage;
 import qa.vacancies.portugal.pages.PageObject;
+import qa.vacancies.portugal.utils.model.Location;
 
 public class GlassdoorVacancies extends Vacancies {
-    private static final String AVEIRO_ID = "3185896";
-    private static final String BRAGA_ID = "3227540";
-    private static final String COIMBRA_ID = "3177365";
-    private static final String LISBOA_ID = "3192045";
-    private static final String PORTO_ID = "3183562";
+    private static final String URL_TEMPLATE = "https://www.glassdoor.com/Job/jobs.htm?locT=C&locId=%s&jobType=&context=Jobs&sc.keyword=%s";
+    private static final String URL_TEMPLATE_REMOTE
+            = "https://www.glassdoor.com/Job/jobs.htm?locT=N&locId=195&jobType=&context=Jobs&remoteWorkType=%s&sc.keyword=%s";
+
+    private static final Location AVEIRO = Location.builder().urlTemplate(URL_TEMPLATE).id("3185896").build();
+    private static final Location BRAGA = Location.builder().urlTemplate(URL_TEMPLATE).id("3227540").build();
+    private static final Location COIMBRA = Location.builder().urlTemplate(URL_TEMPLATE).id("3177365").build();
+    private static final Location LISBOA = Location.builder().urlTemplate(URL_TEMPLATE).id("3192045").build();
+    private static final Location PORTO = Location.builder().urlTemplate(URL_TEMPLATE).id("3183562").build();
+    private static final Location REMOTE = Location.builder().urlTemplate(URL_TEMPLATE_REMOTE).id("1").build();
 
     private final PageObject<GlassdoorPage> glassdoorPage;
 
     public GlassdoorVacancies() {
-        super(AVEIRO_ID, BRAGA_ID, COIMBRA_ID, LISBOA_ID, PORTO_ID);
+        super(AVEIRO, BRAGA, COIMBRA, LISBOA, PORTO, REMOTE);
         glassdoorPage = new GlassdoorPage();
     }
 

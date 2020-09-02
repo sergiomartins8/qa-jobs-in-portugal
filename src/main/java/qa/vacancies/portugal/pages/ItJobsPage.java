@@ -17,8 +17,8 @@ public class ItJobsPage implements PageObject<ItJobsPage> {
     private static final String LIST_NAME_SELECTOR = ".list-name";
 
     @Override
-    public ItJobsPage openAndSearch(String locationId, String query) {
-        open("https://www.itjobs.pt/emprego?location=" + locationId + "&q=" + query);
+    public ItJobsPage openAndSearch(String urlTemplate, Object... params) {
+        open(String.format(urlTemplate, params));
         return this;
     }
 
@@ -33,8 +33,8 @@ public class ItJobsPage implements PageObject<ItJobsPage> {
 
     private boolean containsQuery(SelenideElement element) {
         return Stream
-                .of(Constants.QUERIES)
-                .anyMatch(query -> element.$(TITLE_SELECTOR).getText().toLowerCase().contains(query));
+                .of(Constants.KEYWORDS)
+                .anyMatch(keyword -> element.$(TITLE_SELECTOR).getText().toLowerCase().contains(keyword));
     }
 
     private String getTitle(SelenideElement element) {

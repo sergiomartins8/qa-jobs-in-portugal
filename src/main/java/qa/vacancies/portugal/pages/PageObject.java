@@ -13,18 +13,18 @@ import java.util.List;
 public interface PageObject<T extends PageObject<T>> {
 
     /**
-     * Opens the browser to facilitate a query search for a given location.
+     * Opens the browser to facilitate a search for the given parameters.
      *
-     * @param locationId location identifier
-     * @param query      search query
+     * @param urlTemplate url template
+     * @param params      search params
      * @return the current page
      */
-    T openAndSearch(String locationId, String query);
+    T openAndSearch(String urlTemplate, Object... params);
 
     /**
      * Extracts vacancy details from a single webpage to build a {@link Vacancy} list.
      * <br>
-     * The list is built by filtering for the desired queries available on {@link Constants#QUERIES}
+     * The list is built by filtering for the desired queries available on {@link Constants#KEYWORDS}
      *
      * @return list of vacancies.
      */

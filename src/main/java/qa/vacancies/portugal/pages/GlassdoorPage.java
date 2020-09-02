@@ -18,9 +18,8 @@ public class GlassdoorPage implements PageObject<GlassdoorPage> {
     private static final String JOB_INFO_ITEM_SELECTOR = "a.jobInfoItem";
 
     @Override
-    public GlassdoorPage openAndSearch(String locationId, String query) {
-        open("https://www.glassdoor.com/Job/jobs.htm?locT=C&locId=" + locationId
-                + "&jobType=&context=Jobs&sc.keyword=" + query);
+    public GlassdoorPage openAndSearch(String urlTemplate, Object... params) {
+        open(String.format(urlTemplate, params));
         return this;
     }
 
@@ -35,8 +34,8 @@ public class GlassdoorPage implements PageObject<GlassdoorPage> {
 
     private boolean containsQuery(SelenideElement element) {
         return Stream
-                .of(Constants.QUERIES)
-                .anyMatch(query -> element.$(JOB_TITLE_SELECTOR).getText().toLowerCase().contains(query));
+                .of(Constants.KEYWORDS)
+                .anyMatch(keyword -> element.$(JOB_TITLE_SELECTOR).getText().toLowerCase().contains(keyword));
     }
 
     private String getTitle(SelenideElement element) {

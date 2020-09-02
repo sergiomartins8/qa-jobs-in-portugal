@@ -18,8 +18,8 @@ public class IndeedPage implements PageObject<IndeedPage> {
     private static final String TITLE_URL_SELECTOR = ".title a";
 
     @Override
-    public IndeedPage openAndSearch(String locationId, String query) {
-        open("https://pt.indeed.com/ofertas?q=" + query + "&l=" + locationId);
+    public IndeedPage openAndSearch(String urlTemplate, Object... params) {
+        open(String.format(urlTemplate, params));
         return this;
     }
 
@@ -34,8 +34,8 @@ public class IndeedPage implements PageObject<IndeedPage> {
 
     private boolean containsQuery(SelenideElement element) {
         return Stream
-                .of(Constants.QUERIES)
-                .anyMatch(query -> element.$(TITLE_SELECTOR).getText().toLowerCase().contains(query));
+                .of(Constants.KEYWORDS)
+                .anyMatch(keyword -> element.$(TITLE_SELECTOR).getText().toLowerCase().contains(keyword));
     }
 
     private String getTitle(SelenideElement element) {
