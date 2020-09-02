@@ -2,18 +2,18 @@ package qa.vacancies.portugal.vacancies;
 
 import qa.vacancies.portugal.pages.IndeedPage;
 import qa.vacancies.portugal.pages.PageObject;
-import qa.vacancies.portugal.utils.model.Search;
+import qa.vacancies.portugal.utils.model.Location;
 
 public class IndeedVacancies extends Vacancies {
     private static final String URL_TEMPLATE = "https://pt.indeed.com/ofertas?l=%s&q=%s";
     private static final String URL_TEMPLATE_REMOTE = "https://pt.indeed.com/ofertas?l=%s&q=%s";
 
-    private static final Search AVEIRO = Search.builder().urlTemplate(URL_TEMPLATE).locationId("Aveiro").build();
-    private static final Search BRAGA = Search.builder().urlTemplate(URL_TEMPLATE).locationId("Braga").build();
-    private static final Search COIMBRA = Search.builder().urlTemplate(URL_TEMPLATE).locationId("Coimbra").build();
-    private static final Search LISBOA = Search.builder().urlTemplate(URL_TEMPLATE).locationId("Lisboa").build();
-    private static final Search PORTO = Search.builder().urlTemplate(URL_TEMPLATE).locationId("Porto").build();
-    private static final Search REMOTE = Search.builder().urlTemplate(URL_TEMPLATE_REMOTE).locationId("Remoto").build();
+    private static final Location AVEIRO = Location.builder().urlTemplate(URL_TEMPLATE).id("Aveiro").build();
+    private static final Location BRAGA = Location.builder().urlTemplate(URL_TEMPLATE).id("Braga").build();
+    private static final Location COIMBRA = Location.builder().urlTemplate(URL_TEMPLATE).id("Coimbra").build();
+    private static final Location LISBOA = Location.builder().urlTemplate(URL_TEMPLATE).id("Lisboa").build();
+    private static final Location PORTO = Location.builder().urlTemplate(URL_TEMPLATE).id("Porto").build();
+    private static final Location REMOTE = Location.builder().urlTemplate(URL_TEMPLATE_REMOTE).id("Remoto").build();
 
     private final PageObject<IndeedPage> indeedPage;
 

@@ -33,8 +33,8 @@ public class ItJobsPage implements PageObject<ItJobsPage> {
 
     private boolean containsQuery(SelenideElement element) {
         return Stream
-                .of(Constants.QUERIES)
-                .anyMatch(query -> element.$(TITLE_SELECTOR).getText().toLowerCase().contains(query));
+                .of(Constants.KEYWORDS)
+                .anyMatch(keyword -> element.$(TITLE_SELECTOR).getText().toLowerCase().contains(keyword));
     }
 
     private String getTitle(SelenideElement element) {

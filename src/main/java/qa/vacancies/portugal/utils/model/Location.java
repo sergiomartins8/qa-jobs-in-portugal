@@ -11,7 +11,7 @@ import lombok.ToString;
 @Builder
 @ToString
 @EqualsAndHashCode
-public class Search {
-    private String locationId;
+public class Location {
+    private String id;
     private String urlTemplate;
 }

@@ -7,7 +7,7 @@ import net.steppschuh.markdowngenerator.text.heading.Heading;
 import qa.vacancies.portugal.pages.PageObject;
 import qa.vacancies.portugal.utils.constants.Constants;
 import qa.vacancies.portugal.utils.markdown.MarkdownStringBuilder;
-import qa.vacancies.portugal.utils.model.Search;
+import qa.vacancies.portugal.utils.model.Location;
 import qa.vacancies.portugal.utils.model.Vacancy;
 
 import java.util.Map;
@@ -17,19 +17,19 @@ import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 public abstract class Vacancies implements MarkdownStringBuilder {
-    private final Map<String, Search> locations;
+    private final Map<String, Location> locations;
 
     /**
      * Vacations constructor.
      *
-     * @param aveiro    Aveiro identifier
-     * @param braga   Braga identifier
-     * @param coimbra Coimbra identifier
-     * @param lisboa  Lisboa identifier
-     * @param porto   Porto identifier
-     * @param remote    Porto identifier
+     * @param aveiro  Aveiro location
+     * @param braga   Braga location
+     * @param coimbra Coimbra location
+     * @param lisboa  Lisboa location
+     * @param porto   Porto location
+     * @param remote  Porto location
      */
-    public Vacancies(Search aveiro, Search braga, Search coimbra, Search lisboa, Search porto, Search remote) {
+    public Vacancies(Location aveiro, Location braga, Location coimbra, Location lisboa, Location porto, Location remote) {
         locations = new TreeMap<>(Map
                 .of("Aveiro", aveiro,
                         "Braga", braga,
@@ -60,8 +60,8 @@ public abstract class Vacancies implements MarkdownStringBuilder {
      */
     protected <T extends PageObject<T>> void appendVacancies(StringBuilder sb, PageObject<T> po) {
         locations
-                .forEach((locationName, search) ->
-                        appendVacanciesForLocation(sb, locationName, getVacanciesForLocation(po, search)));
+                .forEach((locationName, location) ->
+                        appendVacanciesForLocation(sb, locationName, getVacanciesForLocation(po, location)));
     }
 
     private void appendVacanciesForLocation(StringBuilder sb, String location, Set<Vacancy> vacancies) {
@@ -76,11 +76,11 @@ public abstract class Vacancies implements MarkdownStringBuilder {
                         .append("\n\n"));
     }
 
-    private <T extends PageObject<T>> Set<Vacancy> getVacanciesForLocation(PageObject<T> po, Search search) {
+    private <T extends PageObject<T>> Set<Vacancy> getVacanciesForLocation(PageObject<T> po, Location location) {
         return Stream
                 .of(Constants.TEST_AUTOMATION_QUERY, Constants.QUALITY_ASSURANCE_QUERY)
                 .flatMap(query -> po
-                        .openAndSearch(search.getUrlTemplate(), search.getLocationId(), query)
+                        .openAndSearch(location.getUrlTemplate(), location.getId(), query)
                         .getVacancies()
                         .stream())
                 .collect(Collectors.toSet());
