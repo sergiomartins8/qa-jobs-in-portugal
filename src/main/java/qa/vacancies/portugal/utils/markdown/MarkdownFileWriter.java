@@ -21,6 +21,11 @@ public class MarkdownFileWriter {
     }
 
     @SneakyThrows(value = IOException.class)
+    public static void appendMarkdown(String filename, byte[] bytes) {
+        Files.write(Paths.get(filename), bytes, StandardOpenOption.APPEND);
+    }
+
+    @SneakyThrows(value = IOException.class)
     public static void truncateMarkdown(String filename) {
         Files.write(Paths.get(filename), "".getBytes(), StandardOpenOption.TRUNCATE_EXISTING);
     }

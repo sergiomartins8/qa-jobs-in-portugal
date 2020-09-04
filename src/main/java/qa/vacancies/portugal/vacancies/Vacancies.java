@@ -1,6 +1,7 @@
 package qa.vacancies.portugal.vacancies;
 
 import net.steppschuh.markdowngenerator.link.Link;
+import net.steppschuh.markdowngenerator.list.UnorderedList;
 import net.steppschuh.markdowngenerator.text.emphasis.BoldText;
 import net.steppschuh.markdowngenerator.text.emphasis.ItalicText;
 import net.steppschuh.markdowngenerator.text.heading.Heading;
@@ -10,6 +11,8 @@ import qa.vacancies.portugal.utils.markdown.MarkdownStringBuilder;
 import qa.vacancies.portugal.utils.model.Location;
 import qa.vacancies.portugal.utils.model.Vacancy;
 
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Map;
 import java.util.Set;
 import java.util.TreeMap;
@@ -65,15 +68,20 @@ public abstract class Vacancies implements MarkdownStringBuilder {
     }
 
     private void appendVacanciesForLocation(StringBuilder sb, String location, Set<Vacancy> vacancies) {
+        List<String> vacancyDescriptionsList = new ArrayList<>();
+
         sb.append(new Heading(location, Constants.HEADING_LOCATION)).append("\n\n");
 
         vacancies
-                .forEach(vacancy -> sb.append(new BoldText(vacancy.getTitle()))
-                        .append(" @")
-                        .append(new ItalicText(vacancy.getCompany()))
-                        .append(" ")
-                        .append(new Link("here", vacancy.getUrl()))
-                        .append("\n\n"));
+                .forEach(vacancy -> {
+                    String vacancyDescription = new BoldText(vacancy.getTitle())
+                            + " @" + new ItalicText(vacancy.getCompany()) + " "
+                            + new Link("here", vacancy.getUrl()) + "\n\n";
+
+                    vacancyDescriptionsList.add(vacancyDescription);
+                });
+
+        sb.append(new UnorderedList<>(vacancyDescriptionsList));
     }
 
     private <T extends PageObject<T>> Set<Vacancy> getVacanciesForLocation(PageObject<T> po, Location location) {
