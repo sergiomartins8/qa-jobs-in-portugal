@@ -14,7 +14,7 @@ _An awesome curated list of the most recent QA vacancies in Portugal, updated ev
 [![](https://img.shields.io/github/contributors/sergiomartins8/qa-vacancies-in-portugal)](https://github.com/sergiomartins8/qa-vacancies-in-portugal/graphs/contributors)
 [![](https://img.shields.io/github/license/sergiomartins8/qa-vacancies-in-portugal)](https://github.com/sergiomartins8/qa-vacancies-in-portugal/blob/master/LICENSE)
 
-**[Explore the docs »](docs/DOCUMENTATION.md)**
+**[Explore the docs »](https://github.com/sergiomartins8/qa-vacancies-in-portugal/blob/master/docs/DOCUMENTATION.md)**
 
 [Ask Question](https://github.com/sergiomartins8/qa-vacancies-in-portugal/issues) 
 ·
@@ -24,7 +24,7 @@ _An awesome curated list of the most recent QA vacancies in Portugal, updated ev
 
 ### Contents
 * [About](#about)
-* [Contributing](docs/CONTRIBUTING.md)
+* [Contributing](https://github.com/sergiomartins8/qa-vacancies-in-portugal/blob/master/docs/CONTRIBUTING.md)
 * [Vacancies](#vacancies)
   * [Glassdor](#glassdoor)
   * [Indeed](#indeed)
@@ -35,7 +35,7 @@ Inspired by the COVID-19 tragic events of unemployment arising within my network
 
 Using my automation expertise, every day and automatically, this solution goes through websites that allow organizations to publicly list new opportunities and aggregates them in a simple and smooth list available for everyone who wishes to apply.
 
-That being said, all I ask is that if you have a GitHub account, you star this repository and like/share this post, so we can reach and support as many people as possible!
+That being said, all I ask is that if you have a GitHub account, you star this repository and share it, so we can reach and support as many people as possible!
 
 Vacancies
 ---------
