@@ -6,3 +6,4 @@ target/
 .project
 *.iml
 /.vscode
+debug.log
