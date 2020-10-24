@@ -8,6 +8,7 @@ import qa.vacancies.portugal.utils.markdown.MarkdownStringBuilder;
 import qa.vacancies.portugal.vacancies.GlassdoorVacancies;
 import qa.vacancies.portugal.vacancies.IndeedVacancies;
 import qa.vacancies.portugal.vacancies.ItJobsVacancies;
+import qa.vacancies.portugal.vacancies.LandingJobsVacancies;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
@@ -20,6 +21,7 @@ public class Application {
     private static final MarkdownStringBuilder GLASSDOOR_VACANCIES = new GlassdoorVacancies();
     private static final MarkdownStringBuilder INDEED_VACANCIES = new IndeedVacancies();
     private static final MarkdownStringBuilder IT_JOBS_VACANCIES = new ItJobsVacancies();
+    private static final MarkdownStringBuilder LANDING_JOBS_VACANCIES = new LandingJobsVacancies();
 
     /**
      * Magic.
@@ -31,6 +33,7 @@ public class Application {
         MarkdownFileWriter.appendMarkdown(README, GLASSDOOR_VACANCIES.stringBuilder());
         MarkdownFileWriter.appendMarkdown(README, INDEED_VACANCIES.stringBuilder());
         MarkdownFileWriter.appendMarkdown(README, IT_JOBS_VACANCIES.stringBuilder());
+        MarkdownFileWriter.appendMarkdown(README, LANDING_JOBS_VACANCIES.stringBuilder());
     }
 
     private static StringBuilder lastUpdated() {
