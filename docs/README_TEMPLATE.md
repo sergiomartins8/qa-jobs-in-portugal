@@ -29,6 +29,7 @@ _An awesome curated list of the most recent QA vacancies in Portugal, updated ev
   * [Glassdor](#glassdoor)
   * [Indeed](#indeed)
   * [ItJobs](#itjobs)
+  * [LandingJobs](#landingjobs)
 
 ## About
 Inspired by the COVID-19 tragic events of unemployment arising within my network connections, I decided to develop this open-source project with the goal of supporting those who are tireless looking for a new QA opportunity here, in my beloved Portugal.
