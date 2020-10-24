@@ -17,7 +17,7 @@ import static com.codeborne.selenide.Selenide.open;
 
 public class LandingJobsPage implements PageObject<LandingJobsPage> {
     private static final String SEARCH_SPINNER_SELECTOR = "#search_spinner";
-    private static final String BLOCK_BORDERLESS_SELECTOR = ".lj-jobcard ";
+    private static final String CARD_SELECTOR = ".lj-jobcard ";
     private static final String TITLE_SELECTOR = ".lj-jobcard-name";
     private static final String LIST_NAME_SELECTOR = ".lj-jobcard-company";
 
@@ -32,7 +32,7 @@ public class LandingJobsPage implements PageObject<LandingJobsPage> {
     public List<Vacancy> getVacancies() {
         $(SEARCH_SPINNER_SELECTOR).shouldNotBe(visible);
 
-        return $$(BLOCK_BORDERLESS_SELECTOR)
+        return $$(CARD_SELECTOR)
                 .stream()
                 .filter(this::containsQuery)
                 .map(element -> Vacancy.builder().title(getTitle(element)).company(getCompany(element)).url(getUrl(element)).build())
@@ -46,7 +46,7 @@ public class LandingJobsPage implements PageObject<LandingJobsPage> {
     }
 
     private String getTitle(SelenideElement element) {
-        return element.$(TITLE_SELECTOR).innerText();
+        return element.$(TITLE_SELECTOR).innerText().trim();
     }
 
     private String getCompany(SelenideElement element) {
