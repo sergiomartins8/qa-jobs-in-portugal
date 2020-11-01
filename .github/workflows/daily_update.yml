@@ -39,7 +39,7 @@ jobs:
 
       - name: Commit files
         run: |
-          git config --local user.email "sehfit@gmail.com"
+          git config --local user.email "sergiomartins8.dev@gmail.com"
           git config --local user.name "sergiomartins8"
           git commit -am ":new: daily update!"
 
