@@ -41,345 +41,333 @@ That being said, all I ask is that if you have a GitHub account, you star this r
 Vacancies
 ---------
 
-> _Last updated: Thu, 12 Nov 2020 00:39_
+> _Last updated: Fri, 13 Nov 2020 00:39_
 
 ### Glassdoor
 
 #### Aveiro
 
-- **Software Test Engineer (m/f/d)** @_Siemens_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=106&ao=4120&s=58&guid=00000175b9e51e38b578da14b7b4ea1e&src=GD_JOB_AD&t=SR&vt=w&cs=1_08d2cf32&cb=1605141601955&jobListingId=3717826578)
+- **QA Engineer** @_Fuze_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1068021&s=58&guid=00000175bf0b333d96968133f8652653&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_f9bab79a&cb=1605227983866&jobListingId=3720492838)
 
 
-- **Software Engineer in Test** @_Talkdesk_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=109&ao=8095&s=58&guid=00000175b9e51e38b578da14b7b4ea1e&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_5d6e6ecb&cb=1605141601956&jobListingId=3562291758)
+- **Software Quality Assurance Engineer (M/F)** @_Bosch Group_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=102&ao=4134&s=58&guid=00000175bf0b50b187a11499d6cf18d9&src=GD_JOB_AD&t=SR&vt=w&cs=1_b15fd754&cb=1605227991280&jobListingId=3715730026)
 
 
-- **Firmware Test Engineer (M/F)** @_Bosch Group_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=104&ao=4134&s=58&guid=00000175b9e51e38b578da14b7b4ea1e&src=GD_JOB_AD&t=SR&vt=w&cs=1_ab3ada5c&cb=1605141601952&jobListingId=3707132639)
+- **Software Engineer in Test** @_Talkdesk_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=109&ao=8095&s=58&guid=00000175bf0b333d96968133f8652653&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_abd7ba03&cb=1605227983871&jobListingId=3562291758)
 
 
-- **Test Automation Engineer (m/f)** @_Mindera_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=102&ao=14295&s=58&guid=00000175b9e51e38b578da14b7b4ea1e&src=GD_JOB_AD&t=SR&vt=w&cs=1_69e82c6a&cb=1605141601952&jobListingId=2789907744)
+- **Software Tester (M/F)** @_Bosch Group_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=111&ao=4134&s=58&guid=00000175bf0b333d96968133f8652653&src=GD_JOB_AD&t=SR&vt=w&cs=1_23afd8f3&cb=1605227983872&jobListingId=3687291631)
 
 
-- **Software Engineer in Test** @_Talkdesk_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=103&ao=8095&s=58&guid=00000175b9e53ad58766b65863080e86&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_f2b0a37b&cb=1605141609248&jobListingId=3562291758)
+- **Test Automation Engineer (m/f)** @_Mindera_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=103&ao=14295&s=58&guid=00000175bf0b333d96968133f8652653&src=GD_JOB_AD&t=SR&vt=w&cs=1_fa5a81cb&cb=1605227983867&jobListingId=2789907744)
 
 
-- **Software Quality Assurance Engineer (M/F)** @_Bosch Group_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=102&ao=4134&s=58&guid=00000175b9e53ad58766b65863080e86&src=GD_JOB_AD&t=SR&vt=w&cs=1_f6aa529b&cb=1605141609247&jobListingId=3715730026)
+- **Software Quality Assurance Engineer (M/F)** @_Bosch Group_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=112&ao=4134&s=58&guid=00000175bf0b333d96968133f8652653&src=GD_JOB_AD&t=SR&vt=w&cs=1_c518d141&cb=1605227983873&jobListingId=3715730026)
 
 
-- **Software Tester (M/F)** @_Bosch Group_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=112&ao=4134&s=58&guid=00000175b9e51e38b578da14b7b4ea1e&src=GD_JOB_AD&t=SR&vt=w&cs=1_10de1d22&cb=1605141601958&jobListingId=3687291631)
+- **Software Test Engineer (m/f/d)** @_Siemens_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=105&ao=37049&s=58&guid=00000175bf0b333d96968133f8652653&src=GD_JOB_AD&t=SR&vt=w&cs=1_2ad7bbdf&cb=1605227983869&jobListingId=3690198808)
 
 
-- **Senior TPS Test Engineer -(m/f/d)** @_Siemens_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=107&ao=37049&s=58&guid=00000175b9e51e38b578da14b7b4ea1e&src=GD_JOB_AD&t=SR&vt=w&cs=1_2cd4e110&cb=1605141601956&jobListingId=3717584407)
+- **Senior TPS Test Engineer -(m/f/d)** @_Siemens_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=106&ao=37049&s=58&guid=00000175bf0b333d96968133f8652653&src=GD_JOB_AD&t=SR&vt=w&cs=1_bf664cb1&cb=1605227983870&jobListingId=3717584407)
 
 
-- **Software Quality Assurance Engineer (M/F)** @_Bosch Group_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=113&ao=4134&s=58&guid=00000175b9e51e38b578da14b7b4ea1e&src=GD_JOB_AD&t=SR&vt=w&cs=1_56aa7ce0&cb=1605141601958&jobListingId=3715730026)
+- **Firmware Test Engineer (M/F)** @_Bosch Group_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=104&ao=4134&s=58&guid=00000175bf0b333d96968133f8652653&src=GD_JOB_AD&t=SR&vt=w&cs=1_5d830e94&cb=1605227983867&jobListingId=3707132639)
 
 
-- **Software Test Automation Engineer** @_Bosch Group_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=109&ao=4134&s=58&guid=00000175b9e53ad58766b65863080e86&src=GD_JOB_AD&t=SR&vt=w&cs=1_c66828ba&cb=1605141609251&jobListingId=3732965498)
+- **Quality Assurance Engineer** @_Ubiwhere_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=66506&s=58&guid=00000175bf0b50b187a11499d6cf18d9&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_4e4cb757&cb=1605227991280&jobListingId=3677056881)
 
 
-- **Software Test Automation Engineer** @_Bosch Group_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=110&ao=4134&s=58&guid=00000175b9e51e38b578da14b7b4ea1e&src=GD_JOB_AD&t=SR&vt=w&cs=1_a6eab69e&cb=1605141601957&jobListingId=3732965498)
+- **Software Test Automation Engineer** @_Bosch Group_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=109&ao=4134&s=58&guid=00000175bf0b50b187a11499d6cf18d9&src=GD_JOB_AD&t=SR&vt=w&cs=1_819dad75&cb=1605227991283&jobListingId=3732965498)
 
 
-- **Quality Assurance Engineer** @_Ubiwhere_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=66506&s=58&guid=00000175b9e53ad58766b65863080e86&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_09b93298&cb=1605141609247&jobListingId=3677056881)
+- **Software Test Automation Engineer** @_Bosch Group_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=110&ao=4134&s=58&guid=00000175bf0b333d96968133f8652653&src=GD_JOB_AD&t=SR&vt=w&cs=1_50536256&cb=1605227983871&jobListingId=3732965498)
 
 
-- **QA Engineer** @_Fuze_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1068021&s=58&guid=00000175b9e51e38b578da14b7b4ea1e&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_0f036352&cb=1605141601952&jobListingId=3720492838)
+- **Software Engineer in Test** @_Talkdesk_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=103&ao=8095&s=58&guid=00000175bf0b50b187a11499d6cf18d9&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_b54526b4&cb=1605227991281&jobListingId=3562291758)
 
 #### Braga
 
-- **QA Specialist Lead** @_CSG_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=105&ao=841636&s=58&guid=00000175b9e54e749f30475c373f8f38&src=GD_JOB_AD&t=SR&vt=w&cs=1_444ee383&cb=1605141614252&jobListingId=3735311836)
+- **QA Specialist** @_CSG_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=102&ao=841636&s=58&guid=00000175bf0b644ca14b0cda4fa97a80&src=GD_JOB_AD&t=SR&vt=w&cs=1_861e1d70&cb=1605227996283&jobListingId=3738245339)
 
 
-- **Quality Owner - Braga** @_OutSystems_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=106&ao=949134&s=58&guid=00000175b9e54e749f30475c373f8f38&src=GD_JOB_AD&t=SR&vt=w&cs=1_ae38a43e&cb=1605141614252&jobListingId=3084389349)
+- **Test Automation Engineer** @_Uphold_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=103&ao=66506&s=58&guid=00000175bf0b644ca14b0cda4fa97a80&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_fb1c20db&cb=1605227996283&jobListingId=3726919452)
 
 
-- **Composite Manufacturing Quality Assurance** @_CorPower Ocean_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=102&ao=478887&s=58&guid=00000175b9e560ab94efb8d1cfb24deb&src=GD_JOB_AD&t=SR&vt=w&cs=1_c06c0bca&cb=1605141618901&jobListingId=3736893903)
+- **Quality Assurance Analyst** @_Uphold_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=66506&s=58&guid=00000175bf0b76709dcfec0f69f17913&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_dea5c48a&cb=1605228000923&jobListingId=3731071133)
 
 
-- **Quality Assurance Analyst** @_Uphold_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=66506&s=58&guid=00000175b9e560ab94efb8d1cfb24deb&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_2ccbfca5&cb=1605141618901&jobListingId=3731071133)
+- **Quality Owner - Braga** @_OutSystems_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=106&ao=949134&s=58&guid=00000175bf0b644ca14b0cda4fa97a80&src=GD_JOB_AD&t=SR&vt=w&cs=1_09ce42a4&cb=1605227996285&jobListingId=3084389349)
 
 
-- **Test Engineer** @_Kelvin Inc_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1124248&s=58&guid=00000175b9e54e749f30475c373f8f38&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_65062fe9&cb=1605141614250&jobListingId=3708926900)
+- **Composite Manufacturing Quality Assurance** @_CorPower Ocean_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=102&ao=478887&s=58&guid=00000175bf0b76709dcfec0f69f17913&src=GD_JOB_AD&t=SR&vt=w&cs=1_320233e5&cb=1605228000923&jobListingId=3736893903)
 
 
-- **QA Specialist** @_CSG_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=102&ao=841636&s=58&guid=00000175b9e54e749f30475c373f8f38&src=GD_JOB_AD&t=SR&vt=w&cs=1_21e8fbea&cb=1605141614251&jobListingId=3738245339)
+- **Test Engineer** @_Kelvin Inc_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1124248&s=58&guid=00000175bf0b644ca14b0cda4fa97a80&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_c2f0c973&cb=1605227996282&jobListingId=3708926900)
 
 
-- **Test Automation Engineer** @_Uphold_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=103&ao=66506&s=58&guid=00000175b9e54e749f30475c373f8f38&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_5ceac641&cb=1605141614251&jobListingId=3726919452)
+- **Quality Assurance Analyst** @_Uphold_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=108&ao=66506&s=58&guid=00000175bf0b644ca14b0cda4fa97a80&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_d6ae8b98&cb=1605227996286&jobListingId=3731071133)
 
 
-- **Quality Assurance Analyst** @_Uphold_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=109&ao=66506&s=58&guid=00000175b9e54e749f30475c373f8f38&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_1453146b&cb=1605141614255&jobListingId=3731071133)
+- **QA Specialist Lead** @_CSG_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=104&ao=841636&s=58&guid=00000175bf0b644ca14b0cda4fa97a80&src=GD_JOB_AD&t=SR&vt=w&cs=1_86b37c70&cb=1605227996284&jobListingId=3735311836)
 
 #### Coimbra
 
-- **QA Automation Engineer** @_Talkdesk_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=105&ao=8095&s=58&guid=00000175b9e56e43a388e5d41f4bb5b1&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_0c307438&cb=1605141622397&jobListingId=3085030922)
+- **Test Automation Engineer (m/f)** @_Mindera_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=103&ao=14295&s=58&guid=00000175bf0b84c981a275b01b0c8e50&src=GD_JOB_AD&t=SR&vt=w&cs=1_9e356da6&cb=1605228004616&jobListingId=3529900905)
 
 
-- **Test Automation Engineer (m/f)** @_Mindera_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=103&ao=14295&s=58&guid=00000175b9e56e43a388e5d41f4bb5b1&src=GD_JOB_AD&t=SR&vt=w&cs=1_ff66206b&cb=1605141622396&jobListingId=3529900905)
+- **Quality Assurance Engineer** @_Feedzai_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=102&ao=1081319&s=58&guid=00000175bf0b84c981a275b01b0c8e50&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_c8581c9e&cb=1605228004615&jobListingId=3576713689)
 
 
-- **Quality Assurance Engineer** @_Feedzai_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=102&ao=1081319&s=58&guid=00000175b9e56e43a388e5d41f4bb5b1&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_a90b5153&cb=1605141622395&jobListingId=3576713689)
+- **Quality Assurance Engineer** @_Feedzai_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1081319&s=149&guid=00000175bf0b9472a53d7e55a764b6a0&src=GD_JOB_AD&t=SRFJ&vt=w&ea=1&cs=1_fcad54e7&cb=1605228008603&jobListingId=3576713689)
 
 
-- **Test Automation Engineer (m/f)** @_Mindera_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=102&ao=14295&s=58&guid=00000175b9e57da084c122c4f66ebbda&src=GD_JOB_AD&t=SR&vt=w&cs=1_eaee0fa6&cb=1605141626335&jobListingId=3529900905)
+- **QA Automation Engineer** @_Talkdesk_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=105&ao=8095&s=58&guid=00000175bf0b84c981a275b01b0c8e50&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_6d6339f5&cb=1605228004617&jobListingId=3085030922)
 
 
-- **Quality Assurance Engineer** @_Feedzai_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1081319&s=149&guid=00000175b9e57da0ba3bd3296969476b&src=GD_JOB_AD&t=SRFJ&vt=w&ea=1&cs=1_cd2b5b58&cb=1605141626335&jobListingId=3576713689)
+- **Software Engineer in Test** @_Feedzai_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1081319&s=58&guid=00000175bf0b84c981a275b01b0c8e50&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_3ec37111&cb=1605228004615&jobListingId=3640812066)
 
 
-- **Software Engineer in Test** @_Feedzai_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1081319&s=58&guid=00000175b9e56e43a388e5d41f4bb5b1&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_5f903cdc&cb=1605141622394&jobListingId=3640812066)
+- **Test Automation Engineer (m/f)** @_Mindera_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=103&ao=14295&s=58&guid=00000175bf0b9472a28faefb853e3caa&src=GD_JOB_AD&t=SR&vt=w&cs=1_9a865eb2&cb=1605228008603&jobListingId=3529900905)
 
 #### Lisboa
 
-- **Automation Software Tester - Railway Sector (M/F)** @_Altran Group_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=123&ao=191997&s=58&guid=00000175b9e58b0f841780d052d36113&src=GD_JOB_AD&t=SR&vt=w&cs=1_fddc987c&cb=1605141629890&jobListingId=3636859069)
+- **Automation Test Engineer** @_BOLD by Devoteam_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=104&ao=4120&s=58&guid=00000175bf0ba21d8f4a7d480a853327&src=GD_JOB_AD&t=SR&vt=w&cs=1_64ed0817&cb=1605228012158&jobListingId=3738904671)
 
 
-- **Test Automation Engineer** @_Thales_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=106&ao=912904&s=58&guid=00000175b9e58b0f841780d052d36113&src=GD_JOB_AD&t=SR&vt=w&cs=1_84a200b4&cb=1605141629881&jobListingId=3671808893)
+- **Quality Assurance Engineer (f/m/x)** @_Mercedes-Benz.io Portugal_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=103&ao=43297&s=58&guid=00000175bf0bbed489172abcbddefce8&src=GD_JOB_AD&t=SR&vt=w&cs=1_52b40eef&cb=1605228019584&jobListingId=3631348948)
 
 
-- **Senior Software Quality Assurance Specialist** @_Cross Border Talents_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=128&ao=14295&s=58&guid=00000175b9e5a857b4364f8c9a0799b4&src=GD_JOB_AD&t=SR&vt=w&cs=1_251837f9&cb=1605141637298&jobListingId=3693311980)
+- **Automation Tester** @_BJSS_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=105&ao=8095&s=58&guid=00000175bf0ba21d8f4a7d480a853327&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_caecb4c0&cb=1605228012158&jobListingId=3709494385)
 
 
-- **Quality Assurance Engineer** @_Feedzai_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1081319&s=149&guid=00000175b9e5a857a2e972520777f87e&src=GD_JOB_AD&t=SRFJ&vt=w&ea=1&cs=1_9ae87cab&cb=1605141637282&jobListingId=3576713691)
+- **Automation Test Architect (M/F) Banking Sector** @_Altran Group_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=120&ao=191997&s=58&guid=00000175bf0ba21d8f4a7d480a853327&src=GD_JOB_AD&t=SR&vt=w&cs=1_0a7c481c&cb=1605228012164&jobListingId=3478279569)
 
 
-- **Automation Tester** @_BJSS_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=102&ao=8095&s=58&guid=00000175b9e58b0f841780d052d36113&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_2f2c6b39&cb=1605141629879&jobListingId=3709494385)
+- **QA Engineer** @_Tech Firefly_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=113&ao=14295&s=58&guid=00000175bf0bbed489172abcbddefce8&src=GD_JOB_AD&t=SR&vt=w&cs=1_21b589c2&cb=1605228019591&jobListingId=3664352484)
 
 
-- **Academia IT Quality Assurance (Software Testing ) | (M/F) - Centro de Lisboa** @_Altran Group_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=115&ao=191997&s=58&guid=00000175b9e5a857b4364f8c9a0799b4&src=GD_JOB_AD&t=SR&vt=w&cs=1_7e8305ab&cb=1605141637292&jobListingId=3727371729)
+- **Quality Assurance Analyst (Lisbon, PT)** @_Amyris_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=128&ao=178504&s=58&guid=00000175bf0bbed489172abcbddefce8&src=GD_JOB_AD&t=SR&vt=w&cs=1_ea781df5&cb=1605228019599&jobListingId=3682855519)
 
 
-- **QA Engineer** @_Lifebit Biotech Ltd_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=130&ao=14295&s=58&guid=00000175b9e58b0f841780d052d36113&src=GD_JOB_AD&t=SR&vt=w&cs=1_7ba2f451&cb=1605141629894&jobListingId=3650727368)
+- **Automation Software Tester - Railway Sector (M/F)** @_Altran Group_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=125&ao=191997&s=58&guid=00000175bf0ba21d8f4a7d480a853327&src=GD_JOB_AD&t=SR&vt=w&cs=1_d7401411&cb=1605228012167&jobListingId=3636859069)
 
 
-- **Telecommunications Testing Engineer (4G/5G)** @_Nokia_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=120&ao=938916&s=58&guid=00000175b9e58b0f841780d052d36113&src=GD_JOB_AD&t=SR&vt=w&cs=1_f41fd1eb&cb=1605141629889&jobListingId=3697200260)
+- **Academia IT Quality Assurance (Software Testing ) | (M/F) - Centro de Lisboa** @_Altran Group_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=112&ao=191997&s=58&guid=00000175bf0bbed489172abcbddefce8&src=GD_JOB_AD&t=SR&vt=w&cs=1_6195ecdd&cb=1605228019590&jobListingId=3727371729)
 
 
-- **QA Engineer - Industries** @_Talkdesk_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=114&ao=8095&s=58&guid=00000175b9e58b0f841780d052d36113&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_7eb704a5&cb=1605141629886&jobListingId=3709514250)
+- **Software Developer in Test (SDET)** @_LetsGetChecked_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=117&ao=14295&s=58&guid=00000175bf0ba21d8f4a7d480a853327&src=GD_JOB_AD&t=SR&vt=w&cs=1_e0d3829e&cb=1605228012164&jobListingId=3739926038)
 
 
-- **Quality Assurance Engineer** @_Feedzai_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=117&ao=1081319&s=58&guid=00000175b9e58b0f841780d052d36113&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_f4416301&cb=1605141629887&jobListingId=3576713691)
+- **QA Engineer - Industries** @_Talkdesk_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=121&ao=8095&s=58&guid=00000175bf0ba21d8f4a7d480a853327&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_4e5c4e22&cb=1605228012165&jobListingId=3709514250)
 
 
-- **QA Automation Tester** @_Cleverti_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=127&ao=4120&s=58&guid=00000175b9e58b0f841780d052d36113&src=GD_JOB_AD&t=SR&vt=w&cs=1_b656fa3b&cb=1605141629893&jobListingId=3609220222)
+- **Software Engineer - Test Automation** @_Canonical_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=124&ao=8095&s=58&guid=00000175bf0ba21d8f4a7d480a853327&src=GD_JOB_AD&t=SR&vt=w&cs=1_462eb38d&cb=1605228012167&jobListingId=3695431944)
 
 
-- **QA Engineer - Product Team** @_Truphone_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=114&ao=14295&s=58&guid=00000175b9e5a857b4364f8c9a0799b4&src=GD_JOB_AD&t=SR&vt=w&cs=1_1f2e4754&cb=1605141637291&jobListingId=3635401575)
+- **Quality Assurance Engineer** @_Feedzai_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1081319&s=149&guid=00000175bf0bbed4ae6369a8f4d1ba26&src=GD_JOB_AD&t=SRFJ&vt=w&ea=1&cs=1_2e3d21e4&cb=1605228019583&jobListingId=3576713691)
 
 
-- **Head of Software Quality** @_OutSystems_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=109&ao=949134&s=58&guid=00000175b9e58b0f841780d052d36113&src=GD_JOB_AD&t=SR&vt=w&cs=1_3503edbe&cb=1605141629883&jobListingId=3667227843)
+- **Test Expert (W/M)** @_Altran Group_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=126&ao=191997&s=58&guid=00000175bf0ba21d8f4a7d480a853327&src=GD_JOB_AD&t=SR&vt=w&cs=1_3b2ab355&cb=1605228012167&jobListingId=3716201656)
 
 
-- **Test Automation Specialist (Cloud, ML)** @_Nokia_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=938916&s=149&guid=00000175b9e58b0f8908dd0118cbed35&src=GD_JOB_AD&t=SRFJ&vt=w&cs=1_c25bdc80&cb=1605141629878&jobListingId=3732000266)
+- **Quality Assurance Engineer** @_Vision-Box_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=129&ao=940227&s=58&guid=00000175bf0ba21d8f4a7d480a853327&src=GD_JOB_AD&t=SR&vt=w&cs=1_fc938173&cb=1605228012170&jobListingId=3690013290)
 
 
-- **Automation Test Engineer** @_BOLD by Devoteam_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=105&ao=4120&s=58&guid=00000175b9e58b0f841780d052d36113&src=GD_JOB_AD&t=SR&vt=w&cs=1_34479abf&cb=1605141629880&jobListingId=3738904671)
+- **Automation Engineer (QA)** @_Binary Eleven Tech_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=114&ao=66506&s=58&guid=00000175bf0ba21d8f4a7d480a853327&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_81308af3&cb=1605228012163&jobListingId=3710051386)
 
 
-- **Software Engineer - Test Automation** @_Canonical_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=125&ao=8095&s=58&guid=00000175b9e58b0f841780d052d36113&src=GD_JOB_AD&t=SR&vt=w&cs=1_16842125&cb=1605141629891&jobListingId=3695431944)
+- **QA Engineer - Product Team** @_Truphone_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=114&ao=14295&s=58&guid=00000175bf0bbed489172abcbddefce8&src=GD_JOB_AD&t=SR&vt=w&cs=1_af252599&cb=1605228019591&jobListingId=3635401575)
 
 
-- **Quality Assurance Engineer** @_Vision-Box_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=105&ao=940227&s=58&guid=00000175b9e5a857b4364f8c9a0799b4&src=GD_JOB_AD&t=SR&vt=w&cs=1_255f3c7f&cb=1605141637285&jobListingId=3690013290)
+- **Head of Software Quality** @_OutSystems_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=125&ao=949134&s=58&guid=00000175bf0bbed489172abcbddefce8&src=GD_JOB_AD&t=SR&vt=w&cs=1_41235776&cb=1605228019597&jobListingId=3667227843)
 
 
-- **Tester** @_Evident (NL)_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=130&ao=85944&s=58&guid=00000175b9e5a857b4364f8c9a0799b4&src=GD_JOB_AD&t=SR&vt=w&cs=1_e4bb6fbf&cb=1605141637299&jobListingId=3709335472)
+- **Head of Software Quality** @_OutSystems_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=109&ao=949134&s=58&guid=00000175bf0ba21d8f4a7d480a853327&src=GD_JOB_AD&t=SR&vt=w&cs=1_00a2067f&cb=1605228012160&jobListingId=3667227843)
 
 
-- **Software Developer in Test (SDET)** @_LetsGetChecked_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=113&ao=14295&s=58&guid=00000175b9e58b0f841780d052d36113&src=GD_JOB_AD&t=SR&vt=w&cs=1_0059fc21&cb=1605141629886&jobListingId=3739926038)
+- **Test Automation Engineer** @_Imaginary Cloud_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=107&ao=315495&s=58&guid=00000175bf0ba21d8f4a7d480a853327&src=GD_JOB_AD&t=SR&vt=w&cs=1_44a1dda9&cb=1605228012159&jobListingId=3707239129)
 
 
-- **QA Engineer** @_Talkdesk_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=116&ao=8095&s=58&guid=00000175b9e58b0f841780d052d36113&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_39003a3a&cb=1605141629887&jobListingId=3727335314)
+- **Telecommunications Testing Engineer (4G/5G)** @_Nokia_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=122&ao=938916&s=58&guid=00000175bf0ba21d8f4a7d480a853327&src=GD_JOB_AD&t=SR&vt=w&cs=1_0ba8c8f8&cb=1605228012166&jobListingId=3697200260)
 
 
-- **Quality Assurance Tester** @_Syone_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=111&ao=4120&s=58&guid=00000175b9e5a857b4364f8c9a0799b4&src=GD_JOB_AD&t=SR&vt=w&cs=1_c59f5bdf&cb=1605141637289&jobListingId=3699803222)
+- **Junior Test Automation Engineer (TP)** @_Truphone_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1103685&s=149&guid=00000175bf0ba21db6321aeeac052e7e&src=GD_JOB_AD&t=SRFJ&vt=w&cs=1_e1e7141c&cb=1605228012156&jobListingId=3637994348)
 
 
-- **Software Engineer in Test** @_Feedzai_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=104&ao=1081319&s=58&guid=00000175b9e58b0f841780d052d36113&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_ca8d3d57&cb=1605141629879&jobListingId=3640812150)
+- **Quality Assurance Tester** @_Syone_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=119&ao=4120&s=58&guid=00000175bf0bbed489172abcbddefce8&src=GD_JOB_AD&t=SR&vt=w&cs=1_ca6a36ce&cb=1605228019594&jobListingId=3699803222)
 
 
-- **Test Engineer** @_Carpe Data_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=109&ao=4341&s=58&guid=00000175b9e5a857b4364f8c9a0799b4&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_528d567f&cb=1605141637288&jobListingId=3635355992)
+- **QA Engineer** @_Talkdesk_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=116&ao=8095&s=58&guid=00000175bf0ba21d8f4a7d480a853327&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_0ca1d1fb&cb=1605228012163&jobListingId=3727335314)
 
 
-- **Junior Test Automation Engineer (TP)** @_Truphone_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=102&ao=1103685&s=149&guid=00000175b9e58b0f8908dd0118cbed35&src=GD_JOB_AD&t=SRFJ&vt=w&cs=1_af2ec1c4&cb=1605141629878&jobListingId=3637994348)
+- **Junior Test Automation Engineer (TP)** @_Truphone_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1103685&s=58&guid=00000175bf0bbed489172abcbddefce8&src=GD_JOB_AD&t=SR&vt=w&cs=1_6a24c1ae&cb=1605228019584&jobListingId=3637994348)
 
 
-- **Junior Test Automation Engineer (TP)** @_Truphone_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1103685&s=58&guid=00000175b9e5a857b4364f8c9a0799b4&src=GD_JOB_AD&t=SR&vt=w&cs=1_da2fa363&cb=1605141637283&jobListingId=3637994348)
+- **Quality Assurance Engineer** @_Damia Group_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=106&ao=315495&s=58&guid=00000175bf0bbed489172abcbddefce8&src=GD_JOB_AD&t=SR&vt=w&cs=1_b8c04e0d&cb=1605228019587&jobListingId=3701229281)
 
 
-- **Automation Engineer (QA)** @_Binary Eleven Tech_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=112&ao=66506&s=58&guid=00000175b9e58b0f841780d052d36113&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_7e8793e0&cb=1605141629885&jobListingId=3710051386)
+- **Test Engineer** @_Carpe Data_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=108&ao=4341&s=58&guid=00000175bf0bbed489172abcbddefce8&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_878d4ddb&cb=1605228019587&jobListingId=3635355992)
 
 
-- **QA Automation Tester** @_Cleverti_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=126&ao=4120&s=58&guid=00000175b9e5a857b4364f8c9a0799b4&src=GD_JOB_AD&t=SR&vt=w&cs=1_02df7e76&cb=1605141637297&jobListingId=3609220222)
+- **Tester BI** @_Binary Eleven Tech_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=118&ao=66506&s=58&guid=00000175bf0ba21d8f4a7d480a853327&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_063d5c43&cb=1605228012164&jobListingId=3681569414)
 
 
-- **Automation Tester** @_BJSS_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=127&ao=8095&s=58&guid=00000175b9e5a857b4364f8c9a0799b4&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_245be0a8&cb=1605141637298&jobListingId=3709494385)
+- **QA Engineer** @_Tech Firefly_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=123&ao=14295&s=58&guid=00000175bf0ba21d8f4a7d480a853327&src=GD_JOB_AD&t=SR&vt=w&cs=1_15dc25c5&cb=1605228012167&jobListingId=3664352484)
 
 
-- **Head of Software Quality** @_OutSystems_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=120&ao=949134&s=58&guid=00000175b9e5a857b4364f8c9a0799b4&src=GD_JOB_AD&t=SR&vt=w&cs=1_4108d9ac&cb=1605141637294&jobListingId=3667227843)
+- **Quality Assurance Engineer** @_Feedzai_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=115&ao=1081319&s=58&guid=00000175bf0ba21d8f4a7d480a853327&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_deddef6c&cb=1605228012163&jobListingId=3576713691)
 
 
-- **Quality Assurance Tester - Games Tester (Publishing)** @_Miniclip_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=102&ao=994804&s=149&guid=00000175b9e5a857a2e972520777f87e&src=GD_JOB_AD&t=SRFJ&vt=w&cs=1_55ea2913&cb=1605141637283&jobListingId=3739545381)
+- **Test Automation Specialist (Cloud, ML)** @_Nokia_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=102&ao=938916&s=149&guid=00000175bf0ba21db6321aeeac052e7e&src=GD_JOB_AD&t=SRFJ&vt=w&cs=1_8c920958&cb=1605228012156&jobListingId=3732000266)
 
 
-- **Test Automation Engineer** @_Imaginary Cloud_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=107&ao=315495&s=58&guid=00000175b9e58b0f841780d052d36113&src=GD_JOB_AD&t=SR&vt=w&cs=1_71003668&cb=1605141629881&jobListingId=3707239129)
+- **Quality Assurance - Telecommunications (W/M)** @_Altran Group_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=121&ao=191997&s=58&guid=00000175bf0bbed489172abcbddefce8&src=GD_JOB_AD&t=SR&vt=w&cs=1_24a07fa8&cb=1605228019594&jobListingId=3725879267)
 
 
-- **QA Engineer** @_Tech Firefly_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=122&ao=14295&s=58&guid=00000175b9e58b0f841780d052d36113&src=GD_JOB_AD&t=SR&vt=w&cs=1_4576b76d&cb=1605141629890&jobListingId=3664352484)
+- **Test Automation Trainee (m/f/d)** @_Siemens_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=110&ao=4120&s=58&guid=00000175bf0ba21d8f4a7d480a853327&src=GD_JOB_AD&t=SR&vt=w&cs=1_a90ca694&cb=1605228012160&jobListingId=3738490537)
 
 
-- **Automation Test Architect (M/F) Banking Sector** @_Altran Group_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=121&ao=191997&s=58&guid=00000175b9e58b0f841780d052d36113&src=GD_JOB_AD&t=SR&vt=w&cs=1_5ad6dab4&cb=1605141629890&jobListingId=3478279569)
+- **QA Automation Tester** @_Cleverti_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=113&ao=4120&s=58&guid=00000175bf0ba21d8f4a7d480a853327&src=GD_JOB_AD&t=SR&vt=w&cs=1_369d5cab&cb=1605228012162&jobListingId=3609220222)
 
 
-- **- Software Business and Quality Assurance Analyst** @_Syone_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=129&ao=4120&s=58&guid=00000175b9e5a857b4364f8c9a0799b4&src=GD_JOB_AD&t=SR&vt=w&cs=1_05e94982&cb=1605141637298&jobListingId=3607329993)
+- **Quality Assurance Engineer** @_Vision-Box_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=104&ao=940227&s=58&guid=00000175bf0bbed489172abcbddefce8&src=GD_JOB_AD&t=SR&vt=w&cs=1_f05f27db&cb=1605228019585&jobListingId=3690013290)
 
 
-- **Tester BI** @_Binary Eleven Tech_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=118&ao=66506&s=58&guid=00000175b9e58b0f841780d052d36113&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_339cb782&cb=1605141629888&jobListingId=3681569414)
+- **QA Automation Tester** @_Damia Group_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=119&ao=315495&s=58&guid=00000175bf0ba21d8f4a7d480a853327&src=GD_JOB_AD&t=SR&vt=w&cs=1_e8165034&cb=1605228012164&jobListingId=3711903414)
 
 
-- **Test Expert (W/M)** @_Altran Group_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=126&ao=191997&s=58&guid=00000175b9e58b0f841780d052d36113&src=GD_JOB_AD&t=SR&vt=w&cs=1_0e8b5894&cb=1605141629892&jobListingId=3716201656)
+- **Quality Assurance Tester - Games Tester (Publishing)** @_Miniclip_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=102&ao=994804&s=149&guid=00000175bf0bbed4ae6369a8f4d1ba26&src=GD_JOB_AD&t=SRFJ&vt=w&cs=1_e13f745c&cb=1605228019583&jobListingId=3739545381)
 
 
-- **Quality Assurance Analyst (Lisbon, PT)** @_Amyris_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=128&ao=178504&s=58&guid=00000175b9e58b0f841780d052d36113&src=GD_JOB_AD&t=SR&vt=w&cs=1_8bf1821c&cb=1605141629893&jobListingId=3682855519)
+- **Software Engineer in Test** @_Feedzai_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=102&ao=1081319&s=58&guid=00000175bf0ba21d8f4a7d480a853327&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_4a469bc7&cb=1605228012157&jobListingId=3640812150)
 
 
-- **Quality Assurance Analyst (Lisbon, PT)** @_Amyris_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=121&ao=178504&s=58&guid=00000175b9e5a857b4364f8c9a0799b4&src=GD_JOB_AD&t=SR&vt=w&cs=1_173e8899&cb=1605141637295&jobListingId=3682855519)
+- **QA Automation Tester** @_Cleverti_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=111&ao=4120&s=58&guid=00000175bf0bbed489172abcbddefce8&src=GD_JOB_AD&t=SR&vt=w&cs=1_c27640f3&cb=1605228019590&jobListingId=3609220222)
 
 
-- **Quality Assurance Engineer (f/m/x)** @_Mercedes-Benz.io Portugal_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=103&ao=43297&s=58&guid=00000175b9e5a857b4364f8c9a0799b4&src=GD_JOB_AD&t=SR&vt=w&cs=1_e2bf6c22&cb=1605141637284&jobListingId=3631348948)
+- **Test Automation Engineer** @_Thales_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=106&ao=912904&s=58&guid=00000175bf0ba21d8f4a7d480a853327&src=GD_JOB_AD&t=SR&vt=w&cs=1_b103eb75&cb=1605228012159&jobListingId=3671808893)
 
 
-- **Quality Assurance Engineer** @_Damia Group_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=107&ao=315495&s=58&guid=00000175b9e5a857b4364f8c9a0799b4&src=GD_JOB_AD&t=SR&vt=w&cs=1_6dc055a9&cb=1605141637288&jobListingId=3701229281)
+- **Mobile Test Engineer (Android, iOS)** @_Onfido_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=128&ao=148364&s=58&guid=00000175bf0ba21d8f4a7d480a853327&src=GD_JOB_AD&t=SR&vt=w&cs=1_f4bc266d&cb=1605228012169&jobListingId=3651472766)
 
 
-- **Test Automation Trainee (m/f/d)** @_Siemens_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=110&ao=4120&s=58&guid=00000175b9e58b0f841780d052d36113&src=GD_JOB_AD&t=SR&vt=w&cs=1_9cad4d55&cb=1605141629884&jobListingId=3738490537)
+- **- Software Business and Quality Assurance Analyst** @_Syone_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=130&ao=4120&s=58&guid=00000175bf0bbed489172abcbddefce8&src=GD_JOB_AD&t=SR&vt=w&cs=1_1affa0f4&cb=1605228019599&jobListingId=3607329993)
 
 
-- **Quality Assurance Engineer** @_Vision-Box_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=129&ao=940227&s=58&guid=00000175b9e58b0f841780d052d36113&src=GD_JOB_AD&t=SR&vt=w&cs=1_c9326ab2&cb=1605141629894&jobListingId=3690013290)
-
-
-- **Automation Tester** @_BOLD by Devoteam_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=108&ao=4120&s=58&guid=00000175b9e58b0f841780d052d36113&src=GD_JOB_AD&t=SR&vt=w&cs=1_71fbe9c0&cb=1605141629882&jobListingId=3627726448)
-
-
-- **QA Automation Tester** @_Damia Group_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=119&ao=315495&s=58&guid=00000175b9e58b0f841780d052d36113&src=GD_JOB_AD&t=SR&vt=w&cs=1_ddb7bbf5&cb=1605141629888&jobListingId=3711903414)
-
-
-- **QA Engineer** @_Tech Firefly_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=108&ao=14295&s=58&guid=00000175b9e5a857b4364f8c9a0799b4&src=GD_JOB_AD&t=SR&vt=w&cs=1_9e6008c4&cb=1605141637288&jobListingId=3664352484)
-
-
-- **Quality Assurance - Telecommunications (W/M)** @_Altran Group_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=117&ao=191997&s=58&guid=00000175b9e5a857b4364f8c9a0799b4&src=GD_JOB_AD&t=SR&vt=w&cs=1_ebd7a2e6&cb=1605141637292&jobListingId=3725879267)
+- **Automation Tester** @_BOLD by Devoteam_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=108&ao=4120&s=58&guid=00000175bf0ba21d8f4a7d480a853327&src=GD_JOB_AD&t=SR&vt=w&cs=1_445a0201&cb=1605228012159&jobListingId=3627726448)
 
 #### Porto
 
-- **Automation Tester** @_Claranet_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=105&ao=4134&s=58&guid=00000175b9e5c37a8c87df9aa9e67005&src=GD_JOB_AD&t=SR&vt=w&cs=1_e159ffb2&cb=1605141644268&jobListingId=3710639469)
+- **Mobile Software Engineer in Test** @_DefinedCrowd Corporation_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=112&ao=14295&s=58&guid=00000175bf0bda429e5059ffde2b24fe&src=GD_JOB_AD&t=SR&vt=w&cs=1_4f4c2206&cb=1605228026519&jobListingId=3685335126)
 
 
-- **Quality Assurance Engineer (W/M) - Braga** @_Altran Group_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=109&ao=191997&s=58&guid=00000175b9e5de7c842a7f7e1e3db2cd&src=GD_JOB_AD&t=SR&vt=w&cs=1_52c1e3b8&cb=1605141651148&jobListingId=3716200122)
+- **- Senior QA Engineer** @_Syone_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=119&ao=4120&s=58&guid=00000175bf0bf691b08a044e4023b461&src=GD_JOB_AD&t=SR&vt=w&cs=1_d62f2351&cb=1605228033762&jobListingId=3684832378)
 
 
-- **Test Manager** @_OLR_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=130&ao=315495&s=58&guid=00000175b9e5c37a8c87df9aa9e67005&src=GD_JOB_AD&t=SR&vt=w&cs=1_dde110dc&cb=1605141644295&jobListingId=3690556623)
+- **Quality Assurance Engineer** @_HypeLabs_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=103&ao=588939&s=58&guid=00000175bf0bf691b08a044e4023b461&src=GD_JOB_AD&t=SR&vt=w&cs=1_42c339d6&cb=1605228033752&jobListingId=3730228004)
 
 
-- **Quality Assurance Engineer (m/f)** @_akapeople_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=104&ao=4120&s=58&guid=00000175b9e5de7c842a7f7e1e3db2cd&src=GD_JOB_AD&t=SR&vt=w&cs=1_d44c527b&cb=1605141651145&jobListingId=3713594187)
+- **QA Automation Engineer** @_Damia Group_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=104&ao=315495&s=58&guid=00000175bf0bda429e5059ffde2b24fe&src=GD_JOB_AD&t=SR&vt=w&cs=1_c99c9832&cb=1605228026511&jobListingId=3631327055)
 
 
-- **Quality Assurance Engineer (W/M) - Braga** @_Altran Group_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=115&ao=191997&s=58&guid=00000175b9e5c37a8c87df9aa9e67005&src=GD_JOB_AD&t=SR&vt=w&cs=1_849b9f03&cb=1605141644283&jobListingId=3716200122)
+- **Software Test Automation Engineer** @_Bosch Group_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=116&ao=4134&s=58&guid=00000175bf0bda429e5059ffde2b24fe&src=GD_JOB_AD&t=SR&vt=w&cs=1_691fe91d&cb=1605228026521&jobListingId=3732965498)
 
 
-- **Quality Assurance Engineer** @_HypeLabs_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=129&ao=588939&s=58&guid=00000175b9e5c37a8c87df9aa9e67005&src=GD_JOB_AD&t=SR&vt=w&cs=1_80068be2&cb=1605141644294&jobListingId=3730228004)
+- **QA Engineer** @_Binary Eleven Tech_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=117&ao=66506&s=58&guid=00000175bf0bda429e5059ffde2b24fe&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_8a833000&cb=1605228026521&jobListingId=3710051296)
 
 
-- **Junior Software Tester (W/M)** @_Altran Group_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=115&ao=191997&s=58&guid=00000175b9e5de7c842a7f7e1e3db2cd&src=GD_JOB_AD&t=SR&vt=w&cs=1_6f57ee23&cb=1605141651151&jobListingId=3377337313)
+- **Test Manager** @_OLR_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=130&ao=315495&s=58&guid=00000175bf0bda429e5059ffde2b24fe&src=GD_JOB_AD&t=SR&vt=w&cs=1_c37ce689&cb=1605228026528&jobListingId=3690556623)
 
 
-- **Test Automation Engineer (m/f)** @_Mindera_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=107&ao=14295&s=58&guid=00000175b9e5de7c842a7f7e1e3db2cd&src=GD_JOB_AD&t=SR&vt=w&cs=1_28a7de3f&cb=1605141651147&jobListingId=2768667148)
+- **Mobile Software Engineer in Test** @_DefinedCrowd Corporation_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=120&ao=14295&s=58&guid=00000175bf0bf691b08a044e4023b461&src=GD_JOB_AD&t=SR&vt=w&cs=1_b1c6aa22&cb=1605228033762&jobListingId=3685335126)
 
 
-- **- Senior QA Engineer** @_Syone_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=117&ao=4120&s=58&guid=00000175b9e5de7c842a7f7e1e3db2cd&src=GD_JOB_AD&t=SR&vt=w&cs=1_20e091c4&cb=1605141651151&jobListingId=3684832378)
+- **Xstore QA** @_OLR_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=119&ao=315495&s=58&guid=00000175bf0bda429e5059ffde2b24fe&src=GD_JOB_AD&t=SR&vt=w&cs=1_32c870d5&cb=1605228026522&jobListingId=3508597457)
 
 
-- **Quality Assurance Engineer** @_Feedzai_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1081319&s=149&guid=00000175b9e5de7cbdf54b9c7942455d&src=GD_JOB_AD&t=SRFJ&vt=w&ea=1&cs=1_8c003b73&cb=1605141651145&jobListingId=3576713690)
+- **Quality Assurance Engineer** @_Feedzai_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=106&ao=1081319&s=58&guid=00000175bf0bda429e5059ffde2b24fe&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_13613bcd&cb=1605228026514&jobListingId=3576713690)
 
 
-- **QA Engineer** @_Becker Professional Education_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=108&ao=37049&s=58&guid=00000175b9e5de7c842a7f7e1e3db2cd&src=GD_JOB_AD&t=SR&vt=w&cs=1_e47c8da3&cb=1605141651148&jobListingId=3735165940)
+- **Quality Assurance Engineer** @_HypeLabs_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=127&ao=588939&s=58&guid=00000175bf0bda429e5059ffde2b24fe&src=GD_JOB_AD&t=SR&vt=w&cs=1_a9e094d3&cb=1605228026527&jobListingId=3730228004)
 
 
-- **Mobile Software Engineer in Test** @_DefinedCrowd Corporation_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=120&ao=14295&s=58&guid=00000175b9e5de7c842a7f7e1e3db2cd&src=GD_JOB_AD&t=SR&vt=w&cs=1_8d1fea65&cb=1605141651153&jobListingId=3685335126)
+- **Quality Assurance Analyst** @_Wolters Kluwer_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=102&ao=242900&s=58&guid=00000175bf0bf691b08a044e4023b461&src=GD_JOB_AD&t=SR&vt=w&cs=1_3a68a7d9&cb=1605228033751&jobListingId=3731850232)
 
 
-- **Senior Software Development Engineer in Test - Merlin - Porto** @_Checkout.com_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=117&ao=148364&s=58&guid=00000175b9e5c37a8c87df9aa9e67005&src=GD_JOB_AD&t=SR&vt=w&cs=1_c841f0c5&cb=1605141644285&jobListingId=3681265013)
+- **Quality Assurance Engineer (W/M) - Braga** @_Altran Group_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=112&ao=191997&s=58&guid=00000175bf0bf691b08a044e4023b461&src=GD_JOB_AD&t=SR&vt=w&cs=1_61c64034&cb=1605228033758&jobListingId=3716200122)
 
 
-- **Xstore QA** @_OLR_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=118&ao=315495&s=58&guid=00000175b9e5c37a8c87df9aa9e67005&src=GD_JOB_AD&t=SR&vt=w&cs=1_495effe9&cb=1605141644286&jobListingId=3508597457)
+- **Test Automation Engineer (m/f)** @_Mindera_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=108&ao=14295&s=58&guid=00000175bf0bf691b08a044e4023b461&src=GD_JOB_AD&t=SR&vt=w&cs=1_6e4880bd&cb=1605228033756&jobListingId=2768667148)
 
 
-- **Test Automation Engineer (m/f)** @_Mindera_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=109&ao=14295&s=58&guid=00000175b9e5c37a8c87df9aa9e67005&src=GD_JOB_AD&t=SR&vt=w&cs=1_4103ad58&cb=1605141644275&jobListingId=2768667148)
+- **Software Test Automation Engineer** @_Bosch Group_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=124&ao=4134&s=58&guid=00000175bf0bf691b08a044e4023b461&src=GD_JOB_AD&t=SR&vt=w&cs=1_97956139&cb=1605228033764&jobListingId=3732965498)
 
 
-- **QA Engineer** @_Becker Professional Education_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=110&ao=37049&s=58&guid=00000175b9e5c37a8c87df9aa9e67005&src=GD_JOB_AD&t=SR&vt=w&cs=1_58f36bba&cb=1605141644276&jobListingId=3735165940)
+- **Quality Assurance Analyst** @_Wolters Kluwer_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=125&ao=242900&s=58&guid=00000175bf0bda429e5059ffde2b24fe&src=GD_JOB_AD&t=SR&vt=w&cs=1_7e568167&cb=1605228026525&jobListingId=3731850232)
 
 
-- **Software Testing (manual testing)- Porto/Braga (Portugal)** @_Ginetta_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=106&ao=14295&s=58&guid=00000175b9e5de7c842a7f7e1e3db2cd&src=GD_JOB_AD&t=SR&vt=w&cs=1_0313ed62&cb=1605141651146&jobListingId=3704577550)
+- **Software Engineer in Test** @_Feedzai_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=103&ao=1081319&s=58&guid=00000175bf0bda429e5059ffde2b24fe&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_8ffd9bca&cb=1605228026510&jobListingId=3640812157)
 
 
-- **Quality Assurance Engineer** @_HypeLabs_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=103&ao=588939&s=58&guid=00000175b9e5de7c842a7f7e1e3db2cd&src=GD_JOB_AD&t=SR&vt=w&cs=1_7e1a7991&cb=1605141651145&jobListingId=3730228004)
+- **Senior Software Development Engineer in Test - Merlin - Porto** @_Checkout.com_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=115&ao=148364&s=58&guid=00000175bf0bda429e5059ffde2b24fe&src=GD_JOB_AD&t=SR&vt=w&cs=1_c9e1613c&cb=1605228026520&jobListingId=3681265013)
 
 
-- **Quality Assurance Analyst** @_Wolters Kluwer_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=102&ao=242900&s=58&guid=00000175b9e5de7c842a7f7e1e3db2cd&src=GD_JOB_AD&t=SR&vt=w&cs=1_06b1e79e&cb=1605141651145&jobListingId=3731850232)
+- **Automation Tester** @_Claranet_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=102&ao=4134&s=58&guid=00000175bf0bda429e5059ffde2b24fe&src=GD_JOB_AD&t=SR&vt=w&cs=1_2fa53ddf&cb=1605228026510&jobListingId=3710639469)
 
 
-- **Mobile Software Engineer in Test** @_DefinedCrowd Corporation_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=113&ao=14295&s=58&guid=00000175b9e5c37a8c87df9aa9e67005&src=GD_JOB_AD&t=SR&vt=w&cs=1_34daad3a&cb=1605141644280&jobListingId=3685335126)
+- **Quality Assurance Engineer** @_Feedzai_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1081319&s=149&guid=00000175bf0bf6919aa8a78c7793dc33&src=GD_JOB_AD&t=SRFJ&vt=w&ea=1&cs=1_51853a5f&cb=1605228033751&jobListingId=3576713690)
 
 
-- **Software Engineer in Test** @_Feedzai_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=102&ao=1081319&s=58&guid=00000175b9e5c37a8c87df9aa9e67005&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_f46b14f6&cb=1605141644264&jobListingId=3640812157)
+- **Quality Assurance Engineer (W/M) - Braga** @_Altran Group_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=114&ao=191997&s=58&guid=00000175bf0bda429e5059ffde2b24fe&src=GD_JOB_AD&t=SR&vt=w&cs=1_ff0d103f&cb=1605228026520&jobListingId=3716200122)
 
 
-- **Automation Tester (W/M)** @_Altran Group_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=112&ao=191997&s=58&guid=00000175b9e5c37a8c87df9aa9e67005&src=GD_JOB_AD&t=SR&vt=w&cs=1_2d9cd2f1&cb=1605141644278&jobListingId=3377333475)
+- **QA Engineer** @_Becker Professional Education_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=107&ao=37049&s=58&guid=00000175bf0bf691b08a044e4023b461&src=GD_JOB_AD&t=SR&vt=w&cs=1_a293d321&cb=1605228033755&jobListingId=3735165940)
 
 
-- **QA Engineer** @_Binary Eleven Tech_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=114&ao=66506&s=58&guid=00000175b9e5c37a8c87df9aa9e67005&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_ee28d890&cb=1605141644283&jobListingId=3710051296)
+- **QA Engineer** @_Becker Professional Education_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=111&ao=37049&s=58&guid=00000175bf0bda429e5059ffde2b24fe&src=GD_JOB_AD&t=SR&vt=w&cs=1_2365e486&cb=1605228026518&jobListingId=3735165940)
 
 
-- **Test Automation Engineer (Mobile) - Aveiro (M/F)** @_Altran Group_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=103&ao=191997&s=58&guid=00000175b9e5c37a8c87df9aa9e67005&src=GD_JOB_AD&t=SR&vt=w&cs=1_8aa46329&cb=1605141644265&jobListingId=3720720408)
+- **QA Engineer** @_Fuze_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1068021&s=58&guid=00000175bf0bda429e5059ffde2b24fe&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_e74ba746&cb=1605228026510&jobListingId=3720492832)
 
 
-- **QA Automation Engineer** @_Damia Group_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=107&ao=315495&s=58&guid=00000175b9e5c37a8c87df9aa9e67005&src=GD_JOB_AD&t=SR&vt=w&cs=1_781ce5dc&cb=1605141644270&jobListingId=3631327055)
+- **Automation Tester (W/M)** @_Altran Group_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=113&ao=191997&s=58&guid=00000175bf0bda429e5059ffde2b24fe&src=GD_JOB_AD&t=SR&vt=w&cs=1_560a5dcd&cb=1605228026519&jobListingId=3377333475)
 
 
-- **Software Test Automation Engineer** @_Bosch Group_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=116&ao=4134&s=58&guid=00000175b9e5c37a8c87df9aa9e67005&src=GD_JOB_AD&t=SR&vt=w&cs=1_77821f48&cb=1605141644295&jobListingId=3732965498)
+- **Software Testing (manual testing)- Porto/Braga (Portugal)** @_Ginetta_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=106&ao=14295&s=58&guid=00000175bf0bf691b08a044e4023b461&src=GD_JOB_AD&t=SR&vt=w&cs=1_3fcaad25&cb=1605228033754&jobListingId=3704577550)
 
 
-- **Quality Assurance Engineer** @_Feedzai_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=108&ao=1081319&s=58&guid=00000175b9e5c37a8c87df9aa9e67005&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_12c1aa34&cb=1605141644274&jobListingId=3576713690)
+- **Quality Assurance Engineer (m/f)** @_akapeople_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=104&ao=4120&s=58&guid=00000175bf0bf691b08a044e4023b461&src=GD_JOB_AD&t=SR&vt=w&cs=1_e895123c&cb=1605228033752&jobListingId=3713594187)
 
 
-- **Xstore QA** @_OLR_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=111&ao=315495&s=58&guid=00000175b9e5de7c842a7f7e1e3db2cd&src=GD_JOB_AD&t=SR&vt=w&cs=1_e5329d97&cb=1605141651148&jobListingId=3508597457)
+- **Xstore QA** @_OLR_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=111&ao=315495&s=58&guid=00000175bf0bf691b08a044e4023b461&src=GD_JOB_AD&t=SR&vt=w&cs=1_d9ebddd0&cb=1605228033758&jobListingId=3508597457)
 
 
-- **RPA Developer – Test Automation (W/M)** @_Altran Group_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=111&ao=191997&s=58&guid=00000175b9e5c37a8c87df9aa9e67005&src=GD_JOB_AD&t=SR&vt=w&cs=1_c76038a4&cb=1605141644277&jobListingId=3377336560)
+- **Junior Software Tester (W/M)** @_Altran Group_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=117&ao=191997&s=58&guid=00000175bf0bf691b08a044e4023b461&src=GD_JOB_AD&t=SR&vt=w&cs=1_4cb3c9c8&cb=1605228033761&jobListingId=3377337313)
 
 
-- **Software Test Automation Engineer** @_Bosch Group_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=124&ao=4134&s=58&guid=00000175b9e5de7c842a7f7e1e3db2cd&src=GD_JOB_AD&t=SR&vt=w&cs=1_ab4c217e&cb=1605141651155&jobListingId=3732965498)
+- **Test Automation Engineer (Mobile) - Aveiro (M/F)** @_Altran Group_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=105&ao=191997&s=58&guid=00000175bf0bda429e5059ffde2b24fe&src=GD_JOB_AD&t=SR&vt=w&cs=1_2153d82d&cb=1605228026514&jobListingId=3720720408)
 
 
-- **QA Engineer** @_Fuze_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=1068021&s=58&guid=00000175b9e5c37a8c87df9aa9e67005&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_f9d65113&cb=1605141644260&jobListingId=3720492832)
+- **RPA Developer – Test Automation (W/M)** @_Altran Group_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=110&ao=191997&s=58&guid=00000175bf0bda429e5059ffde2b24fe&src=GD_JOB_AD&t=SR&vt=w&cs=1_bcf6b798&cb=1605228026518&jobListingId=3377336560)
 
 
-- **Quality Assurance Analyst** @_Wolters Kluwer_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=127&ao=242900&s=58&guid=00000175b9e5c37a8c87df9aa9e67005&src=GD_JOB_AD&t=SR&vt=w&cs=1_aadd85e0&cb=1605141644293&jobListingId=3731850232)
+- **Test Automation Engineer (m/f)** @_Mindera_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=108&ao=14295&s=58&guid=00000175bf0bda429e5059ffde2b24fe&src=GD_JOB_AD&t=SR&vt=w&cs=1_3a952264&cb=1605228026516&jobListingId=2768667148)
 
 #### Remote
 
-- **Test Automation Engineer** @_Imaginary Cloud_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=315495&s=58&guid=00000175b9e5f83ba20fd9ddac5f0bed&src=GD_JOB_AD&t=SR&vt=w&cs=1_372f835f&cb=1605141657725&jobListingId=3707239129)
+- **Senior QA Engineer** @_Moteefe_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=103&ao=14295&s=58&guid=00000175bf0c110fa9c3421f4f0490a4&src=GD_JOB_AD&t=SR&vt=w&cs=1_5aaab887&cb=1605228040525&jobListingId=3683675610)
 
 
-- **Test Engineer** @_Carpe Data_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=4341&s=58&guid=00000175b9e6072aa03013ea507e50da&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_944f2973&cb=1605141661548&jobListingId=3635355992)
+- **Senior Test Engineer (Biometrics)** @_Onfido_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=104&ao=148364&s=58&guid=00000175bf0c110fa9c3421f4f0490a4&src=GD_JOB_AD&t=SR&vt=w&cs=1_33f6d3fe&cb=1605228040525&jobListingId=3655525945)
 
 
-- **Senior QA Engineer** @_Moteefe_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=103&ao=14295&s=58&guid=00000175b9e5f83ba20fd9ddac5f0bed&src=GD_JOB_AD&t=SR&vt=w&cs=1_426ac258&cb=1605141657726&jobListingId=3683675610)
+- **Test Engineer** @_Carpe Data_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=4341&s=58&guid=00000175bf0c20b898bb992e7b21e7bb&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_8fdd4e0b&cb=1605228044530&jobListingId=3635355992)
 
 
-- **Mobile Test Engineer (Android, iOS)** @_Onfido_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=102&ao=148364&s=58&guid=00000175b9e5f83ba20fd9ddac5f0bed&src=GD_JOB_AD&t=SR&vt=w&cs=1_baddd372&cb=1605141657725&jobListingId=3651472766)
+- **Mobile Test Engineer (Android, iOS)** @_Onfido_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=102&ao=148364&s=58&guid=00000175bf0c110fa9c3421f4f0490a4&src=GD_JOB_AD&t=SR&vt=w&cs=1_a21da9ad&cb=1605228040525&jobListingId=3651472766)
 
 
-- **Senior Test Engineer (Biometrics)** @_Onfido_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=104&ao=148364&s=58&guid=00000175b9e5f83ba20fd9ddac5f0bed&src=GD_JOB_AD&t=SR&vt=w&cs=1_2b36a921&cb=1605141657726&jobListingId=3655525945)
+- **Test Automation Engineer** @_Imaginary Cloud_ [here](https://www.glassdoor.com/partner/jobListing.htm?pos=101&ao=315495&s=58&guid=00000175bf0c110fa9c3421f4f0490a4&src=GD_JOB_AD&t=SR&vt=w&cs=1_2feff980&cb=1605228040525&jobListingId=3707239129)
 
 ### Indeed
 
@@ -460,9 +448,6 @@ Vacancies
 
 #### Lisboa
 
-- **Junior Automation Tester** @_BOLD by Devoteam_ [here](https://pt.indeed.com/rc/clk?jk=39dfc45b5f02795c&fccid=38a00091645a0176&vjs=3)
-
-
 - **Academia IT Quality Assurance (Software Testing ) | (M/F)** @_Altran_ [here](https://pt.indeed.com/rc/clk?jk=7cc7411dee8b1f2b&fccid=397876ae47f9c1c3&vjs=3)
 
 
@@ -478,6 +463,9 @@ Vacancies
 - **Test Automation Specialist (Cloud, ML)** @_NSW Nokia Software_ [here](https://pt.indeed.com/rc/clk?jk=95220226fac17c97&fccid=def5ff75b102229a&vjs=3)
 
 
+- **Tester** @_KCS IT_ [here](https://pt.indeed.com/rc/clk?jk=feb8e1b6879abfbf&fccid=ee421a5b4c76e74e&vjs=3)
+
+
 - **Quality Assurance (mobility area)** @_Dellent Consulting_ [here](https://pt.indeed.com/rc/clk?jk=f734dd24d8c40dd9&fccid=1156797aa9b2decc&vjs=3)
 
 
@@ -490,13 +478,16 @@ Vacancies
 - **Quality Assurance Tester - Games Tester (Publishing)** @_Miniclip_ [here](https://pt.indeed.com/rc/clk?jk=a30f6447199eb52e&fccid=2922a5760b3ec0a8&vjs=3)
 
 
+- **Quality Assurance - Oeiras (M/F)** @_askblue_ [here](https://pt.indeed.com/rc/clk?jk=6a2f328672a683c2&fccid=828daf95719fcc7d&vjs=3)
+
+
 - **Automation Test Engineer** @_Funcom_ [here](https://pt.indeed.com/rc/clk?jk=c4bee2c14724125a&fccid=8dad907382b1fc8e&vjs=3)
 
 
 - **Quality Assurance** @_Prime Engineering_ [here](https://pt.indeed.com/rc/clk?jk=e4ea4c93be7b8698&fccid=8fb37dc0dbf50a73&vjs=3)
 
 
-- **Tester - Automation Consultant** @_Red IT_ [here](https://pt.indeed.com/rc/clk?jk=48b98e63d22cfc53&fccid=dc0d4e2f112f064f&vjs=3)
+- **Quality Assurance Manager / Engineer / Analyst (f/m/x)** @_diconium group_ [here](https://pt.indeed.com/rc/clk?jk=daeb67475c157053&fccid=82d5b185512893c3&vjs=3)
 
 
 - **Quality Assurance** @_NEX T Engineering_ [here](https://pt.indeed.com/rc/clk?jk=181bb8d853087d60&fccid=ab4fda8e64df7efe&vjs=3)
@@ -511,10 +502,10 @@ Vacancies
 - **Lead Automation Test Engineer** @_Funcom_ [here](https://pt.indeed.com/rc/clk?jk=a905635726f9765c&fccid=8dad907382b1fc8e&vjs=3)
 
 
+- **SENIOR QA ENGINEER** @_BOLD International_ [here](https://pt.indeed.com/rc/clk?jk=32fc69691bed20c4&fccid=e62ff921e73e040f&vjs=3)
+
+
 - **Quality Assurance Engineer** @_Feedzai_ [here](https://pt.indeed.com/rc/clk?jk=738383c0c154f56a&fccid=ad93a7e288dc7118&vjs=3)
-
-
-- **Quality Assurance Specialist** @_ALTEN_ [here](https://pt.indeed.com/rc/clk?jk=e37c15691fb93a09&fccid=f452ff89851e4578&vjs=3)
 
 
 - **Tester automation** @_Prime Engineering_ [here](https://pt.indeed.com/rc/clk?jk=5bdf91cf8427f24f&fccid=8fb37dc0dbf50a73&vjs=3)
@@ -535,13 +526,13 @@ Vacancies
 - **Automation Tester (m/f) – Lisboa** @_Ankix_ [here](https://pt.indeed.com/rc/clk?jk=18d33d46580ff5e8&fccid=50acb935164bacd8&vjs=3)
 
 
+- **Test Engineer** @_The Virtual Forge_ [here](https://pt.indeed.com/rc/clk?jk=874e9829df395585&fccid=dc40ad3a7629b7ed&vjs=3)
+
+
 - **Quality Assurance** @_SYSMATCH - Consultores de Sistemas de Informação_ [here](https://pt.indeed.com/rc/clk?jk=7ca0fdfb63eb1239&fccid=28201fb0025ec4a4&vjs=3)
 
 
 - **Quality Assurance (m/f) - Lisboa** @_Ankix_ [here](https://pt.indeed.com/rc/clk?jk=8934558e5be31dd6&fccid=50acb935164bacd8&vjs=3)
-
-
-- **Test Automation Engineer** @_Thales Group_ [here](https://pt.indeed.com/rc/clk?jk=d665f87d05f2de4c&fccid=b920aab5fd60595d&vjs=3)
 
 
 - **Test Automation Developer** @_Ankix_ [here](https://pt.indeed.com/rc/clk?jk=34dc7e588c352e77&fccid=50acb935164bacd8&vjs=3)
@@ -572,7 +563,7 @@ Vacancies
 - **Quality Analyst (m/f)** @_Voltalia_ [here](https://pt.indeed.com/rc/clk?jk=3b5d7075ffb0e4c7&fccid=3e6de7b80cbdac6f&vjs=3)
 
 
-- **Automation Tester** @_gfi_ [here](https://pt.indeed.com/rc/clk?jk=d3a6ef33ea64be17&fccid=e463fc7104734a53&vjs=3)
+- **QA Automation Engineer** @_Adentis_ [here](https://pt.indeed.com/rc/clk?jk=fdf975229ee06888&fccid=cd3d0857bc7b0852&vjs=3)
 
 
 - **Quality Assurance Engineer** @_Feedzai_ [here](https://pt.indeed.com/rc/clk?jk=e51e0cf23a1cb78f&fccid=ad93a7e288dc7118&vjs=3)
@@ -588,6 +579,9 @@ Vacancies
 
 
 - **Quality Assurance Engineer** @_Losch Services - Portugal_ [here](https://pt.indeed.com/rc/clk?jk=e5d5243a6bc5a602&fccid=2acf72bfba972478&vjs=3)
+
+
+- **QA - Engineer** @_Ebankit - Omnichannel Innovation_ [here](https://pt.indeed.com/rc/clk?jk=e2509cef4c6acef0&fccid=59138d62e990b643&vjs=3)
 
 
 - **quality assurance test automation developer – maia** @_Generix Group_ [here](https://pt.indeed.com/rc/clk?jk=d7fa9a2f932bec5b&fccid=cab42a999f2ba61c&vjs=3)
@@ -614,19 +608,16 @@ Vacancies
 - **Test Automation Engineer** @_Cocus_ [here](https://pt.indeed.com/rc/clk?jk=c57f206798706bcd&fccid=7f95aba834fa5372&vjs=3)
 
 
-- **Quality Assurance Engineer** @_HypeLabs_ [here](https://pt.indeed.com/rc/clk?jk=164227e7bd25bd9b&fccid=16e6c865f3a6b5a8&vjs=3)
-
-
 - **Quality Assurance Engineer** @_Prime Engineering_ [here](https://pt.indeed.com/rc/clk?jk=7360cc71b13494b3&fccid=8fb37dc0dbf50a73&vjs=3)
-
-
-- **QA Analyst** @_Blip_ [here](https://pt.indeed.com/rc/clk?jk=b9ff199cfe573de4&fccid=215f4162bebe8644&vjs=3)
 
 
 - **QA Engineer** @_Thing Pink_ [here](https://pt.indeed.com/rc/clk?jk=9f93f2ac66ee105e&fccid=2c06dc5dba8e443a&vjs=3)
 
 
 - **Automation Tester** @_Red IT_ [here](https://pt.indeed.com/rc/clk?jk=7e902948c0e162e6&fccid=dc0d4e2f112f064f&vjs=3)
+
+
+- **Quality Assurance Engineer** @_akapeople_ [here](https://pt.indeed.com/rc/clk?jk=3c8dbca8189b24c3&fccid=b608252bb1145cf3&vjs=3)
 
 
 - **Quality Assurance Analyst** @_Basecone_ [here](https://pt.indeed.com/rc/clk?jk=f0c76e26192dcec5&fccid=a97b98ef2591f889&vjs=3)
@@ -641,9 +632,6 @@ Vacancies
 ### ItJobs
 
 #### Aveiro
-
-- **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/358840/test-automation-engineer)
-
 
 - **Test Automation Engineer (Mobile)** @_Altran_ [here](https://www.itjobs.pt/oferta/360483/test-automation-engineer-mobile)
 
@@ -662,9 +650,6 @@ Vacancies
 
 #### Coimbra
 
-- **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/358840/test-automation-engineer)
-
-
 - **Test Automation Engineer** @_Dellent Consulting_ [here](https://www.itjobs.pt/oferta/362068/test-automation-engineer)
 
 
@@ -682,9 +667,6 @@ Vacancies
 
 
 - **QA - Agile Tester** @_InnoTech_ [here](https://www.itjobs.pt/oferta/362288/qa-agile-tester)
-
-
-- **Quality Assurance Analyst** @_SYSMATCH - Consultores de Sistemas de Informação_ [here](https://www.itjobs.pt/oferta/356395/quality-assurance-analyst)
 
 
 - **Quality Assurance** @_SYSMATCH - Consultores de Sistemas de Informação_ [here](https://www.itjobs.pt/oferta/358311/quality-assurance)
@@ -760,7 +742,7 @@ Vacancies
 - **QA Engineer** @_Adtalem_ [here](https://www.itjobs.pt/oferta/362401/qa-engineer)
 
 
-- **Quality Assurance Engineer** @_akapeople_ [here](https://www.itjobs.pt/oferta/359667/quality-assurance-engineer)
+- **Quality Assurance Engineer** @_akapeople_ [here](https://www.itjobs.pt/oferta/362784/quality-assurance-engineer)
 
 
 - **Software Automation Tester** @_KCS IT_ [here](https://www.itjobs.pt/oferta/359158/software-automation-tester)
@@ -778,9 +760,6 @@ Vacancies
 - **Quality Assurance Engineer** @_Global Shares_ [here](https://www.itjobs.pt/oferta/361922/quality-assurance-engineer)
 
 
-- **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/358840/test-automation-engineer)
-
-
 - **Quality Assurance Engineer** @_Losch Services - Portugal_ [here](https://www.itjobs.pt/oferta/362001/quality-assurance-engineer)
 
 
@@ -793,9 +772,6 @@ Vacancies
 - **Quality Assurance Analyst** @_Basecone_ [here](https://www.itjobs.pt/oferta/361604/quality-assurance-analyst)
 
 
-- **Quality Assurance Engineer** @_KCS IT_ [here](https://www.itjobs.pt/oferta/358462/quality-assurance-engineer)
-
-
 - **Test Automation Engineer** @_SYSMATCH - Consultores de Sistemas de Informação_ [here](https://www.itjobs.pt/oferta/356787/test-automation-engineer)
 
 
@@ -806,6 +782,9 @@ Vacancies
 
 
 - **Test Automation Engineer** @_Dellent Consulting_ [here](https://www.itjobs.pt/oferta/358938/test-automation-engineer)
+
+
+- **QA - Engineer** @_Ebankit - Omnichannel Innovation_ [here](https://www.itjobs.pt/oferta/362808/qa-engineer)
 
 
 - **Automation Tester** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/362234/automation-tester)
