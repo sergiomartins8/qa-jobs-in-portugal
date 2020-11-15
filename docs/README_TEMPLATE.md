@@ -26,7 +26,7 @@ _An awesome curated list of the most recent QA vacancies in Portugal, updated ev
 * [About](#about)
 * [Contributing](https://github.com/sergiomartins8/qa-vacancies-in-portugal/blob/master/docs/CONTRIBUTING.md)
 * [Vacancies](#vacancies)
-  * [Glassdor](#glassdoor)
+  * [Glassdoor](#glassdoor)
   * [Indeed](#indeed)
   * [ItJobs](#itjobs)
   * [LandingJobs](#landingjobs)
