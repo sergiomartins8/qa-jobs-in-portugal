@@ -10,13 +10,13 @@ import java.util.Objects;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-import static com.codeborne.selenide.Condition.visible;
+import static com.codeborne.selenide.Condition.exist;
 import static com.codeborne.selenide.Selenide.$;
 import static com.codeborne.selenide.Selenide.$$;
 import static com.codeborne.selenide.Selenide.open;
 
 public class LandingJobsPage implements PageObject<LandingJobsPage> {
-    private static final String SEARCH_SPINNER_SELECTOR = "#search_spinner";
+    private static final String SEARCH_SPINNER_SELECTOR = "#search_spinner.stopped";
     private static final String CARD_SELECTOR = ".lj-jobcard ";
     private static final String TITLE_SELECTOR = ".lj-jobcard-name";
     private static final String LIST_NAME_SELECTOR = ".lj-jobcard-company";
@@ -30,7 +30,7 @@ public class LandingJobsPage implements PageObject<LandingJobsPage> {
 
     @Override
     public List<Vacancy> getVacancies() {
-        $(SEARCH_SPINNER_SELECTOR).shouldNotBe(visible);
+        $(SEARCH_SPINNER_SELECTOR).should(exist);
 
         return $$(CARD_SELECTOR)
                 .stream()
