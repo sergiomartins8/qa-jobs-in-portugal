@@ -30,7 +30,7 @@ public class LandingJobsPage implements PageObject<LandingJobsPage> {
 
     @Override
     public List<Vacancy> getVacancies() {
-        $(SEARCH_SPINNER_SELECTOR).should(exist);
+        $(SEARCH_SPINNER_SELECTOR).waitUntil(exist, 10000L);
 
         return $$(CARD_SELECTOR)
                 .stream()
