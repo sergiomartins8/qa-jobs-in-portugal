@@ -37,6 +37,14 @@ jobs:
             -Dselenide.headless=true \
             -Dselenide.remote=http://0.0.0.0:4444/wd/hub
 
+      - name: Archive production artifacts
+        uses: actions/upload-artifact@v2
+        if: always
+        with:
+          name: artifacts
+          path: |
+            build
+
       - name: Commit files
         run: |
           git config --local user.email "sergiomartins8.dev@gmail.com"
