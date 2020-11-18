@@ -38,7 +38,7 @@ public class ItJobsPage implements PageObject<ItJobsPage> {
     }
 
     private String getTitle(SelenideElement element) {
-        return element.$(TITLE_SELECTOR).getText().trim();
+        return element.$(TITLE_SELECTOR).getText();
     }
 
     private String getCompany(SelenideElement element) {
