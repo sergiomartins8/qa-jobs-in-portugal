@@ -39,7 +39,7 @@ jobs:
 
       - name: Archive production artifacts
         uses: actions/upload-artifact@v2
-        if: always
+        if: always()
         with:
           name: artifacts
           path: |
