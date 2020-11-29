@@ -1,7 +1,7 @@
 package qa.vacancies.portugal.pages;
 
 import com.codeborne.selenide.SelenideElement;
-import qa.vacancies.portugal.utils.constants.Constants;
+import qa.vacancies.portugal.utils.constants.SearchFor;
 import qa.vacancies.portugal.utils.model.Vacancy;
 
 import java.util.List;
@@ -9,19 +9,12 @@ import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 import static com.codeborne.selenide.Selenide.$$;
-import static com.codeborne.selenide.Selenide.open;
 
-public class GlassdoorPage implements PageObject<GlassdoorPage> {
+public class GlassdoorPage implements VacancyPage {
     private static final String GRID_SELECTOR = ".jlGrid.hover .gdGrid";
     private static final String JOB_TITLE_SELECTOR = ".jobTitle";
     private static final String JOB_HEADER_SELECTOR = ".jobHeader";
     private static final String JOB_INFO_ITEM_SELECTOR = "a.jobInfoItem";
-
-    @Override
-    public GlassdoorPage openAndSearch(String urlTemplate, Object... params) {
-        open(String.format(urlTemplate, params));
-        return this;
-    }
 
     @Override
     public List<Vacancy> getVacancies() {
@@ -33,8 +26,7 @@ public class GlassdoorPage implements PageObject<GlassdoorPage> {
     }
 
     private boolean containsQuery(SelenideElement element) {
-        return Stream
-                .of(Constants.KEYWORDS)
+        return Stream.of(SearchFor.KEYWORDS)
                 .anyMatch(keyword -> element.$(JOB_TITLE_SELECTOR).getText().toLowerCase().contains(keyword));
     }
 
