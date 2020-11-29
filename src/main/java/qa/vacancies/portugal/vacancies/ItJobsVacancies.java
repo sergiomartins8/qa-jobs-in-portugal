@@ -16,7 +16,7 @@ import static com.codeborne.selenide.Selenide.open;
 
 public class ItJobsVacancies implements Vacancies {
     private static final String URL_TEMPLATE_ON_SITE = "https://www.itjobs.pt/emprego?location=%s&q=%s";
-    private static final Map<String, String> VACANCIES_ON_SITE = new TreeMap<>(Map
+    private static final Map<String, String> VACANCIES_ON_SITE_ID = new TreeMap<>(Map
             .of("Aveiro", "1",
                     "Braga", "4",
                     "Coimbra", "8",
@@ -42,7 +42,7 @@ public class ItJobsVacancies implements Vacancies {
     }
 
     private void setVacanciesOnSite() {
-        VACANCIES_ON_SITE.forEach((locationName, locationId) -> {
+        VACANCIES_ON_SITE_ID.forEach((locationName, locationId) -> {
             Set<Vacancy> onSiteVacancies = getVacanciesForLocation(URL_TEMPLATE_ON_SITE, locationId);
             vacancies.put(locationName, onSiteVacancies);
         });

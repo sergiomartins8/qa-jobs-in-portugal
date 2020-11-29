@@ -17,7 +17,7 @@ import static com.codeborne.selenide.Selenide.open;
 public class GlassdoorVacancies implements Vacancies {
     private static final String URL_TEMPLATE_ON_SITE
             = "https://www.glassdoor.com/Job/jobs.htm?locT=C&locId=%s&jobType=&context=Jobs&sc.keyword=%s";
-    private static final Map<String, String> VACANCIES_ON_SITE = new TreeMap<>(Map
+    private static final Map<String, String> VACANCIES_ON_SITE_ID = new TreeMap<>(Map
             .of("Aveiro", "3185896",
                     "Braga", "3227540",
                     "Coimbra", "3177365",
@@ -44,7 +44,7 @@ public class GlassdoorVacancies implements Vacancies {
     }
 
     private void setVacanciesOnSite() {
-        VACANCIES_ON_SITE.forEach((locationName, locationId) -> {
+        VACANCIES_ON_SITE_ID.forEach((locationName, locationId) -> {
             Set<Vacancy> onSiteVacancies = getVacanciesForLocation(URL_TEMPLATE_ON_SITE, locationId);
             vacancies.put(locationName, onSiteVacancies);
         });

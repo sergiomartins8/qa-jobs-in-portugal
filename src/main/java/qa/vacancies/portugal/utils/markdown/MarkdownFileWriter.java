@@ -48,7 +48,7 @@ public class MarkdownFileWriter {
 
         vacancies.forEach((locationName, vacancySet) -> {
             List<String> vacancyDescriptionsList = new ArrayList<>();
-            sb.append(new Heading(locationName, Constants.HEADING_LOCATION)).append("\n\n");
+            sb.append(new Heading(locationName, 4)).append("\n\n");
             vacancySet.forEach(vacancy -> {
                 String vacancyDescription = new BoldText(vacancy.getTitle())
                         + " @" + new ItalicText(vacancy.getCompany()) + " "

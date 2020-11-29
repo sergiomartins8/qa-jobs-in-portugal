@@ -50,7 +50,7 @@ public class Application {
 
     private static StringBuilder setHeader(String website) {
         StringBuilder sb = new StringBuilder();
-        sb.append(new Heading(website, Constants.HEADING_WEBSITE)).append("\n\n");
+        sb.append(new Heading(website, 3)).append("\n\n");
         return sb;
     }
 }
