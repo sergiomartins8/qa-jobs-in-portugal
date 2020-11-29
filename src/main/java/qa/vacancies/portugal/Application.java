@@ -3,7 +3,6 @@ package qa.vacancies.portugal;
 import net.steppschuh.markdowngenerator.text.emphasis.ItalicText;
 import net.steppschuh.markdowngenerator.text.heading.Heading;
 import net.steppschuh.markdowngenerator.text.quote.Quote;
-import qa.vacancies.portugal.utils.constants.Constants;
 import qa.vacancies.portugal.utils.markdown.MarkdownFileReader;
 import qa.vacancies.portugal.utils.markdown.MarkdownFileWriter;
 import qa.vacancies.portugal.vacancies.GlassdoorVacancies;

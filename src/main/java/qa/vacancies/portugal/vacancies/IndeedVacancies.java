@@ -1,7 +1,7 @@
 package qa.vacancies.portugal.vacancies;
 
 import qa.vacancies.portugal.pages.IndeedPage;
-import qa.vacancies.portugal.utils.constants.Constants;
+import qa.vacancies.portugal.utils.constants.SearchFor;
 import qa.vacancies.portugal.utils.model.Vacancy;
 
 import java.util.Collection;
@@ -54,10 +54,10 @@ public class IndeedVacancies implements Vacancies {
     }
 
     private Set<Vacancy> getVacanciesForLocation(String urlTemplate, String locationId) {
-        open(String.format(urlTemplate, locationId, Constants.TEST_AUTOMATION_QUERY));
+        open(String.format(urlTemplate, locationId, SearchFor.TEST_AUTOMATION_QUERY));
         List<Vacancy> vacancyListTestAutomation = indeedPage.getVacancies();
 
-        open(String.format(urlTemplate, locationId, Constants.QUALITY_ASSURANCE_QUERY));
+        open(String.format(urlTemplate, locationId, SearchFor.QUALITY_ASSURANCE_QUERY));
         List<Vacancy> vacancyListQualityAssurance = indeedPage.getVacancies();
 
         return Stream.of(vacancyListTestAutomation, vacancyListQualityAssurance)

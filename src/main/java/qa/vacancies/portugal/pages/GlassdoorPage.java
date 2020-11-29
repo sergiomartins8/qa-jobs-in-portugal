@@ -1,7 +1,7 @@
 package qa.vacancies.portugal.pages;
 
 import com.codeborne.selenide.SelenideElement;
-import qa.vacancies.portugal.utils.constants.Constants;
+import qa.vacancies.portugal.utils.constants.SearchFor;
 import qa.vacancies.portugal.utils.model.Vacancy;
 
 import java.util.List;
@@ -26,7 +26,7 @@ public class GlassdoorPage implements VacancyPage {
     }
 
     private boolean containsQuery(SelenideElement element) {
-        return Stream.of(Constants.KEYWORDS)
+        return Stream.of(SearchFor.KEYWORDS)
                 .anyMatch(keyword -> element.$(JOB_TITLE_SELECTOR).getText().toLowerCase().contains(keyword));
     }
 

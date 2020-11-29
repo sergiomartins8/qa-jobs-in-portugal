@@ -7,7 +7,6 @@ import net.steppschuh.markdowngenerator.list.UnorderedList;
 import net.steppschuh.markdowngenerator.text.emphasis.BoldText;
 import net.steppschuh.markdowngenerator.text.emphasis.ItalicText;
 import net.steppschuh.markdowngenerator.text.heading.Heading;
-import qa.vacancies.portugal.utils.constants.Constants;
 import qa.vacancies.portugal.utils.model.Vacancy;
 
 import java.io.IOException;
