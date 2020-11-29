@@ -9,18 +9,11 @@ import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 import static com.codeborne.selenide.Selenide.$$;
-import static com.codeborne.selenide.Selenide.open;
 
-public class ItJobsPage implements PageObject<ItJobsPage> {
+public class ItJobsPage implements VacancyPage {
     private static final String BLOCK_BORDERLESS_SELECTOR = ".block.borderless";
     private static final String TITLE_SELECTOR = ".title";
     private static final String LIST_NAME_SELECTOR = ".list-name";
-
-    @Override
-    public ItJobsPage openAndSearch(String urlTemplate, Object... params) {
-        open(String.format(urlTemplate, params));
-        return this;
-    }
 
     @Override
     public List<Vacancy> getVacancies() {
@@ -32,8 +25,7 @@ public class ItJobsPage implements PageObject<ItJobsPage> {
     }
 
     private boolean containsQuery(SelenideElement element) {
-        return Stream
-                .of(Constants.KEYWORDS)
+        return Stream.of(Constants.KEYWORDS)
                 .anyMatch(keyword -> element.$(TITLE_SELECTOR).getText().toLowerCase().contains(keyword));
     }
 
