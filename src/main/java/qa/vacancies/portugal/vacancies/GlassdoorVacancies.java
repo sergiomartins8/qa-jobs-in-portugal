@@ -1,18 +1,11 @@
 package qa.vacancies.portugal.vacancies;
 
 import qa.vacancies.portugal.pages.GlassdoorPage;
-import qa.vacancies.portugal.utils.constants.SearchFor;
 import qa.vacancies.portugal.utils.model.Vacancy;
 
-import java.util.Collection;
-import java.util.List;
 import java.util.Map;
 import java.util.Set;
 import java.util.TreeMap;
-import java.util.stream.Collectors;
-import java.util.stream.Stream;
-
-import static com.codeborne.selenide.Selenide.open;
 
 public class GlassdoorVacancies implements Vacancies {
     private static final String URL_TEMPLATE_ON_SITE
@@ -45,25 +38,13 @@ public class GlassdoorVacancies implements Vacancies {
 
     private void setVacanciesOnSite() {
         VACANCIES_ON_SITE_ID.forEach((locationName, locationId) -> {
-            Set<Vacancy> onSiteVacancies = getVacanciesForLocation(URL_TEMPLATE_ON_SITE, locationId);
+            Set<Vacancy> onSiteVacancies = getVacanciesForLocation(URL_TEMPLATE_ON_SITE, locationId, glassdoorPage);
             vacancies.put(locationName, onSiteVacancies);
         });
     }
 
     private void setVacanciesRemote() {
-        Set<Vacancy> remoteVacancies = getVacanciesForLocation(URL_TEMPLATE_REMOTE, VACANCIES_REMOTE_ID);
+        Set<Vacancy> remoteVacancies = getVacanciesForLocation(URL_TEMPLATE_REMOTE, VACANCIES_REMOTE_ID, glassdoorPage);
         vacancies.put("Remote", remoteVacancies);
-    }
-
-    private Set<Vacancy> getVacanciesForLocation(String urlTemplate, String locationId) {
-        open(String.format(urlTemplate, locationId, SearchFor.TEST_AUTOMATION_QUERY));
-        List<Vacancy> vacancyListTestAutomation = glassdoorPage.getVacancies();
-
-        open(String.format(urlTemplate, locationId, SearchFor.QUALITY_ASSURANCE_QUERY));
-        List<Vacancy> vacancyListQualityAssurance = glassdoorPage.getVacancies();
-
-        return Stream.of(vacancyListTestAutomation, vacancyListQualityAssurance)
-                .flatMap(Collection::stream)
-                .collect(Collectors.toSet());
     }
 }
