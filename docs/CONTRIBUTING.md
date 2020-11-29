@@ -37,10 +37,7 @@ Fill in [the template](../.github/ISSUE_TEMPLATE/enhancement.md), including the 
 
 ### Your first code contribution
 
-Unsure where to begin contributing? You can start by looking for **utils** methods or classes you would like to see implemented:
-
-* Database connections (e.g. MongoDB, PostgreSQL)
-* File readers (e.g. Excel, PDF)
+Unsure where to begin contributing? You can start by looking for improving the documentation, refactoring existing implementations (methods or classes), or integrate a new provider into the project that you would like to see implemented.
 
 ### Pull Requests
 
@@ -48,7 +45,7 @@ The process described here has several goals:
 
 - Maintain qa-vacancies-in-portugal's quality
 - Fix problems that are important to users
-- Engage the community in working toward the best possible ui automation template ✨
+- Engage the community in working toward the best possible portuguese vacancy list ✨
 - Enable a sustainable system for maintaining and review contributions
 
 Please follow these steps to have your contribution considered:
