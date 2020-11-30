@@ -12,7 +12,12 @@
 
 ## Understand the Architecture
 
-TBA
+The project architecture is pretty straight forward. There are mainly three packages:
+1. `pages` map a stateless webpage for a single website.
+1. `vacancies` applies the state (ie. page navigation) to the current page in order to extract vacancies on a single website page.
+1. `utils` set of util methods that contain the ability to model objects, write those to markdown files and so on.
+
+![](img/architecture.png)
 
 ## How do I execute the project?
 
