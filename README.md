@@ -40,7 +40,7 @@ That being said, all I ask is that if you have a GitHub account, you star this r
 Vacancies
 ---------
 
-> _Last updated: Sun, 31 Jan 2021 01:01_
+> _Last updated: Mon, 01 Feb 2021 01:01_
 
 ### Glassdoor
 
@@ -135,12 +135,6 @@ Vacancies
 - **Test Automation (M/F)** @_Altran_ [here](https://pt.indeed.com/rc/clk?jk=252093e9e3c9fdd9&fccid=397876ae47f9c1c3&vjs=3)
 
 
-- **Quality Assurance (m/f)** @_Talenter_ [here](https://pt.indeed.com/rc/clk?jk=07cee2017d88aab8&fccid=85ed89ef0cb8bfea&vjs=3)
-
-
-- **Junior Automation Tester** @_BOLD International_ [here](https://pt.indeed.com/rc/clk?jk=db327232feb69745&fccid=e62ff921e73e040f&vjs=3)
-
-
 - **Senior Quality Assurance** @_BOLD by Devoteam_ [here](https://pt.indeed.com/rc/clk?jk=3a8f652c4fe8888a&fccid=38a00091645a0176&vjs=3)
 
 
@@ -151,6 +145,12 @@ Vacancies
 
 
 - **Quality Assurance Engineer** @_Joonam_ [here](https://pt.indeed.com/rc/clk?jk=6407d6dfa9c97eef&fccid=f5115c844879580a&vjs=3)
+
+
+- **Test Automation Engineer** @_Winprovit_ [here](https://pt.indeed.com/rc/clk?jk=64c572722b9cd167&fccid=437f773f8cd99b7b&vjs=3)
+
+
+- **Quality Assurance Developer** @_Bee engineering_ [here](https://pt.indeed.com/rc/clk?jk=25f423f85767cfcb&fccid=09f7cefab40f6c96&vjs=3)
 
 
 - **Quality Assurance** @_Prime Engineering_ [here](https://pt.indeed.com/rc/clk?jk=e4ea4c93be7b8698&fccid=8fb37dc0dbf50a73&vjs=3)
@@ -205,33 +205,6 @@ Vacancies
 
 #### Porto
 
-- **QA Automation Engineer** @_Switch_ [here](https://pt.indeed.com/rc/clk?jk=39a3667664845722&fccid=5a024d70fc0d9218&vjs=3)
-
-
-- **Tester / Quality Assurance Engineer** @_Prime Engineering_ [here](https://pt.indeed.com/rc/clk?jk=375f1f92735c68aa&fccid=8fb37dc0dbf50a73&vjs=3)
-
-
-- **Software Quality Assurance Tester (m/f)** @_Ambidata Digital Innovation Solutions & Consulting..._ [here](https://pt.indeed.com/rc/clk?jk=661a486901d55fb2&fccid=01f4623dfb512b6e&vjs=3)
-
-
-- **Automation Tester** @_Aubay_ [here](https://pt.indeed.com/rc/clk?jk=aa79873e67e5bcd5&fccid=f7aa4cbc87e7e5d7&vjs=3)
-
-
-- **Automation Tester** @_gfi_ [here](https://pt.indeed.com/rc/clk?jk=d3a6ef33ea64be17&fccid=e463fc7104734a53&vjs=3)
-
-
-- **Test Automation Engineer** @_Mindera_ [here](https://pt.indeed.com/rc/clk?jk=5dd0e778e428a3d0&fccid=4d8a7f1354f1e37a&vjs=3)
-
-
-- **API QA Automation Engineer** @_Aubay_ [here](https://pt.indeed.com/rc/clk?jk=3ec67373e6cee924&fccid=f7aa4cbc87e7e5d7&vjs=3)
-
-
-- **Quality Assurance Analyst** @_Farfetch_ [here](https://pt.indeed.com/rc/clk?jk=77b2398fcc4fc813&fccid=9f5fb2f8ae2fcc49&vjs=3)
-
-
-- **test automation developer – maia** @_Generix Group_ [here](https://pt.indeed.com/rc/clk?jk=176cd8d0d6338989&fccid=cab42a999f2ba61c&vjs=3)
-
-
 - **Quality Automation Engineer** @_Red IT_ [here](https://pt.indeed.com/rc/clk?jk=7175332573eae5c7&fccid=dc0d4e2f112f064f&vjs=3)
 
 
@@ -244,10 +217,19 @@ Vacancies
 - **Quality Assurance Engineer** @_Celfocus_ [here](https://pt.indeed.com/rc/clk?jk=96fe90d7690d57e3&fccid=ffee7fe7fb450ea1&vjs=3)
 
 
+- **QA Automation Engineer** @_Switch_ [here](https://pt.indeed.com/rc/clk?jk=39a3667664845722&fccid=5a024d70fc0d9218&vjs=3)
+
+
+- **Tester / Quality Assurance Engineer** @_Prime Engineering_ [here](https://pt.indeed.com/rc/clk?jk=375f1f92735c68aa&fccid=8fb37dc0dbf50a73&vjs=3)
+
+
 - **Quality Assurance Engineer** @_HypeLabs_ [here](https://pt.indeed.com/rc/clk?jk=47fa46f9ca63d055&fccid=16e6c865f3a6b5a8&vjs=3)
 
 
 - **Junior QA Automation Engineer** @_Switch_ [here](https://pt.indeed.com/rc/clk?jk=5d670d9b49388f9d&fccid=5a024d70fc0d9218&vjs=3)
+
+
+- **Software Quality Assurance Tester (m/f)** @_Ambidata Digital Innovation Solutions & Consulting..._ [here](https://pt.indeed.com/rc/clk?jk=661a486901d55fb2&fccid=01f4623dfb512b6e&vjs=3)
 
 
 - **junior qa analyst** @_Bright Technologies_ [here](https://pt.indeed.com/rc/clk?jk=1e0c145467e48fff&fccid=2cc391b37782acca&vjs=3)
@@ -259,16 +241,31 @@ Vacancies
 - **Quality Assurance Engineer** @_KCS IT_ [here](https://pt.indeed.com/rc/clk?jk=04435a5574ebf9be&fccid=ee421a5b4c76e74e&vjs=3)
 
 
+- **Automation Tester** @_Aubay_ [here](https://pt.indeed.com/rc/clk?jk=aa79873e67e5bcd5&fccid=f7aa4cbc87e7e5d7&vjs=3)
+
+
 - **Quality Assurance Analyst (m/f)** @_akapeople_ [here](https://pt.indeed.com/rc/clk?jk=55dce840905a32f6&fccid=b608252bb1145cf3&vjs=3)
 
 
 - **Senior Test Engineer** @_Farfetch_ [here](https://pt.indeed.com/rc/clk?jk=72a1f1f017a147f9&fccid=9f5fb2f8ae2fcc49&vjs=3)
 
 
+- **Automation Tester** @_gfi_ [here](https://pt.indeed.com/rc/clk?jk=d3a6ef33ea64be17&fccid=e463fc7104734a53&vjs=3)
+
+
 - **Software Quality Assurance Engineer** @_25Friday_ [here](https://pt.indeed.com/rc/clk?jk=ed48813019b5afb5&fccid=0708e8a4da420cca&vjs=3)
 
 
-- **QA Tester** @_Pixelmatters_ [here](https://pt.indeed.com/rc/clk?jk=c36ce7428159cdad&fccid=30a5c77e6767217f&vjs=3)
+- **QA Team Leader** @_Experis_ [here](https://pt.indeed.com/rc/clk?jk=40ca3b6b0d527de3&fccid=ca2b244e2a15ca5c&vjs=3)
+
+
+- **Test Automation Engineer** @_Mindera_ [here](https://pt.indeed.com/rc/clk?jk=5dd0e778e428a3d0&fccid=4d8a7f1354f1e37a&vjs=3)
+
+
+- **API QA Automation Engineer** @_Aubay_ [here](https://pt.indeed.com/rc/clk?jk=3ec67373e6cee924&fccid=f7aa4cbc87e7e5d7&vjs=3)
+
+
+- **Quality Assurance Analyst** @_Farfetch_ [here](https://pt.indeed.com/rc/clk?jk=77b2398fcc4fc813&fccid=9f5fb2f8ae2fcc49&vjs=3)
 
 
 - **Quality Assurance Engineer** @_Prime Engineering_ [here](https://pt.indeed.com/rc/clk?jk=7360cc71b13494b3&fccid=8fb37dc0dbf50a73&vjs=3)
@@ -389,9 +386,6 @@ Vacancies
 - **Quality Assurance Test Engineer** @_BOLD International_ [here](https://www.itjobs.pt/oferta/370279/quality-assurance-test-engineer)
 
 #### Porto
-
-- **Test Automation Engineer** @_BOLD International_ [here](https://www.itjobs.pt/oferta/367051/test-automation-engineer)
-
 
 - **Quality Assurance Engineer** @_KCS IT_ [here](https://www.itjobs.pt/oferta/370663/quality-assurance-engineer)
 
