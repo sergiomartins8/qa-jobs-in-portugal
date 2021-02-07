@@ -14,7 +14,7 @@
 
 The project architecture is pretty straight forward. There are mainly three packages:
 1. `pages` map a stateless webpage for a single website.
-1. `vacancies` applies the state (ie. page navigation) to the current page in order to extract vacancies on a single website page.
+1. `jobs` applies the state (ie. page navigation) to the current page in order to extract jobs on a single website page.
 1. `utils` set of util methods that contain the ability to model objects, write those to markdown files and so on.
 
 ![](img/architecture.png)
@@ -22,7 +22,7 @@ The project architecture is pretty straight forward. There are mainly three pack
 ## How do I execute the project?
 
 1. Set gitlab ssh-keys (https://docs.gitlab.com/ee/ssh/)
-1. `git clone git@github.com:sergiomartins8/qa-vacancies-in-portugal.git`
+1. `git clone git@github.com:sergiomartins8/qa-jobs-in-portugal.git`
 1. Using Intellij, enable `annotation processing` under preferences, and install `lombok` plugin
 1. Open terminal and execute `$ mvn install`
 

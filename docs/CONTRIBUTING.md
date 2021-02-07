@@ -1,6 +1,6 @@
 👍🎉 First off, thanks for taking the time to contribute! 🎉👍
 
-The following is a set of guidelines for contributing to qa-vacancies-in-portugal. 
+The following is a set of guidelines for contributing to qa-jobs-in-portugal. 
 These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
 
 #### Table of contents
@@ -18,21 +18,21 @@ These are mostly guidelines, not rules. Use your best judgment, and feel free to
 
 ## I just have a question!
 
-Questions and/or discussions are tracked as [issues](https://github.com/sergiomartins8/qa-vacancies-in-portugal/issues).
-Fill in [the template](../.github/ISSUE_TEMPLATE/need-help-with-qa-vacancies-in-portugal.md).
+Questions and/or discussions are tracked as [issues](https://github.com/sergiomartins8/qa-jobs-in-portugal/issues).
+Fill in [the template](../.github/ISSUE_TEMPLATE/need-help-with-qa-jobs-in-portugal.md).
 
 ## How can I contribute?
 
 ### Reporting bugs
 
-Bug reports are tracked as [issues](https://github.com/sergiomartins8/qa-vacancies-in-portugal/issues).
+Bug reports are tracked as [issues](https://github.com/sergiomartins8/qa-jobs-in-portugal/issues).
 Fill in [the template](../.github/ISSUE_TEMPLATE/bug_report.md), the information it asks for helps to resolve issues faster.
 
 > **Note:** If you find a **closed** issue that seems like it is the same thing that you're experiencing, open a new issue and include a link to the original issue in the body of your new one.
 
 ### Suggesting Enhancements
 
-Enhancement suggestions are tracked as [issues](https://github.com/sergiomartins8/qa-vacancies-in-portugal/issues).
+Enhancement suggestions are tracked as [issues](https://github.com/sergiomartins8/qa-jobs-in-portugal/issues).
 Fill in [the template](../.github/ISSUE_TEMPLATE/enhancement.md), including the steps that you imagine you would take if the feature you're requesting existed.
 
 ### Your first code contribution
@@ -43,7 +43,7 @@ Unsure where to begin contributing? You can start by looking for improving the d
 
 The process described here has several goals:
 
-- Maintain qa-vacancies-in-portugal's quality
+- Maintain qa-jobs-in-portugal's quality
 - Fix problems that are important to users
 - Engage the community in working toward the best possible portuguese vacancy list ✨
 - Enable a sustainable system for maintaining and review contributions

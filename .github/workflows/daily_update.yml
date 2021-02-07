@@ -31,7 +31,7 @@ jobs:
       - name: Check available containers
         run: docker ps
 
-      - name: Update vacancies
+      - name: Update jobs
         run: |
           mvn -B install \
             -Dselenide.headless=true \
