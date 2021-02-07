@@ -1,4 +1,4 @@
-package qa.vacancies.portugal.utils.markdown;
+package qa.jobs.portugal.utils.markdown;
 
 import lombok.SneakyThrows;
 import lombok.experimental.UtilityClass;

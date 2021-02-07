@@ -4,14 +4,14 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>qa.vacancies.portugal</groupId>
-    <artifactId>qa-vacancies-in-portugal</artifactId>
-    <version>1.4.2</version>
+    <groupId>qa.jobs.portugal</groupId>
+    <artifactId>qa-jobs-in-portugal</artifactId>
+    <version>1.4.3</version>
     <packaging>jar</packaging>
 
-    <name>qa-vacancies-in-portugal</name>
-    <description>A curated list of the most recent QA vacancies in Portugal</description>
-    <url>https://github.com/sergiomartins8/qa-vacancies-in-portugal</url>
+    <name>qa-jobs-in-portugal</name>
+    <description>A curated list of the most recent QA jobs in Portugal</description>
+    <url>https://github.com/sergiomartins8/qa-jobs-in-portugal</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -41,7 +41,7 @@
                             <goal>java</goal>
                         </goals>
                         <configuration>
-                            <mainClass>qa.vacancies.portugal.Application</mainClass>
+                            <mainClass>qa.jobs.portugal.Application</mainClass>
                             <cleanupDaemonThreads>false</cleanupDaemonThreads>
                         </configuration>
                     </execution>

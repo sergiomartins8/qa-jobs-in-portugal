@@ -1,4 +1,4 @@
-package qa.vacancies.portugal.utils.model;
+package qa.jobs.portugal.utils.model;
 
 import lombok.Builder;
 import lombok.EqualsAndHashCode;
@@ -11,7 +11,7 @@ import lombok.ToString;
 @Builder
 @ToString
 @EqualsAndHashCode
-public class Vacancy {
+public class Job {
     private String title;
     private String company;
     private String url;

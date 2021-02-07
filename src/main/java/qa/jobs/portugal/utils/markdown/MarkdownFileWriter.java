@@ -1,4 +1,4 @@
-package qa.vacancies.portugal.utils.markdown;
+package qa.jobs.portugal.utils.markdown;
 
 import lombok.SneakyThrows;
 import lombok.experimental.UtilityClass;
@@ -7,7 +7,7 @@ import net.steppschuh.markdowngenerator.list.UnorderedList;
 import net.steppschuh.markdowngenerator.text.emphasis.BoldText;
 import net.steppschuh.markdowngenerator.text.emphasis.ItalicText;
 import net.steppschuh.markdowngenerator.text.heading.Heading;
-import qa.vacancies.portugal.utils.model.Vacancy;
+import qa.jobs.portugal.utils.model.Job;
 
 import java.io.IOException;
 import java.nio.file.Files;
@@ -36,16 +36,16 @@ public class MarkdownFileWriter {
     }
 
     /**
-     * Append all the vacancies list to a given markdown file.
+     * Append all the jobs list to a given markdown file.
      *
-     * @param filename  name of the markdown file
-     * @param vacancies map of vacancies
+     * @param filename name of the markdown file
+     * @param jobs     map of jobs
      */
     @SneakyThrows(value = IOException.class)
-    public static void appendMarkdown(String filename, Map<String, Set<Vacancy>> vacancies) {
+    public static void appendMarkdown(String filename, Map<String, Set<Job>> jobs) {
         StringBuilder sb = new StringBuilder();
 
-        vacancies.forEach((locationName, vacancySet) -> {
+        jobs.forEach((locationName, vacancySet) -> {
             List<String> vacancyDescriptionsList = new ArrayList<>();
             sb.append(new Heading(locationName, 4)).append("\n\n");
             vacancySet.forEach(vacancy -> {

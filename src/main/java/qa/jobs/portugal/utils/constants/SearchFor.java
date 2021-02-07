@@ -1,4 +1,4 @@
-package qa.vacancies.portugal.utils.constants;
+package qa.jobs.portugal.utils.constants;
 
 import lombok.experimental.UtilityClass;
 

@@ -1,8 +1,8 @@
-package qa.vacancies.portugal.pages;
+package qa.jobs.portugal.pages;
 
 import com.codeborne.selenide.SelenideElement;
-import qa.vacancies.portugal.utils.constants.SearchFor;
-import qa.vacancies.portugal.utils.model.Vacancy;
+import qa.jobs.portugal.utils.constants.SearchFor;
+import qa.jobs.portugal.utils.model.Job;
 
 import java.util.List;
 import java.util.stream.Collectors;
@@ -17,11 +17,11 @@ public class GlassdoorPage implements VacancyPage {
     private static final String JOB_INFO_ITEM_SELECTOR = "a.jobInfoItem";
 
     @Override
-    public List<Vacancy> getVacancies() {
+    public List<Job> getJobs() {
         return $$(GRID_SELECTOR)
                 .stream()
                 .filter(this::containsQuery)
-                .map(element -> Vacancy.builder().title(getTitle(element)).company(getCompany(element)).url(getUrl(element)).build())
+                .map(element -> Job.builder().title(getTitle(element)).company(getCompany(element)).url(getUrl(element)).build())
                 .collect(Collectors.toList());
     }
 
