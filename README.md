@@ -40,7 +40,7 @@ That being said, all I ask is that if you have a GitHub account, you star this r
 Vacancies
 ---------
 
-> _Last updated: Sat, 06 Feb 2021 00:48_
+> _Last updated: Sun, 07 Feb 2021 00:50_
 
 ### Glassdoor
 
@@ -63,10 +63,10 @@ Vacancies
 - **Software Tester (M/F)** @_Bosch_ [here](https://pt.indeed.com/rc/clk?jk=9e0750a749239613&fccid=a2faf1301ac6ad4b&vjs=3)
 
 
+- **QA Automation Tester** @_GoContact_ [here](https://pt.indeed.com/rc/clk?jk=0f10183883eb415e&fccid=0e50ca19ecb40cb2&vjs=3)
+
+
 - **Software Test Engineer (m/f/d)** @_SIEMENS MOBILITY, UNIPESSOAL LDA_ [here](https://pt.indeed.com/rc/clk?jk=951e9d49723bdb63&fccid=3b89b9ec324f96c8&vjs=3)
-
-
-- **QUALITY ASSURANCE ENGINEER** @_Skyline Communications_ [here](https://pt.indeed.com/rc/clk?jk=454bcc151e1cf035&fccid=cc7691b3c9984f79&vjs=3)
 
 
 - **IoT System Test Engineer for Gateways with Mobile Apps (M/F)** @_Bosch_ [here](https://pt.indeed.com/rc/clk?jk=83fccd04e3346b39&fccid=a2faf1301ac6ad4b&vjs=3)
@@ -84,6 +84,9 @@ Vacancies
 - **Quality Assurance Engineer** @_RIS 2048_ [here](https://pt.indeed.com/rc/clk?jk=e4f6e3723327c558&fccid=07f25799c9dd0ab6&vjs=3)
 
 
+- **Quality Assurance Engineer** @_Experis_ [here](https://pt.indeed.com/rc/clk?jk=fca57ccd6c3c6b78&fccid=ca2b244e2a15ca5c&vjs=3)
+
+
 - **Senior TPS Test Engineer (m/f/d)** @_SIEMENS MOBILITY, UNIPESSOAL LDA_ [here](https://pt.indeed.com/rc/clk?jk=e636450f05ccb1b2&fccid=3b89b9ec324f96c8&vjs=3)
 
 
@@ -91,12 +94,6 @@ Vacancies
 
 
 - **software test engineer** @_Randstad_ [here](https://pt.indeed.com/rc/clk?jk=eba1fdba25ee6c8c&fccid=f8b265243da9f9d7&vjs=3)
-
-
-- **QA Automation Tester** @_GoContact_ [here](https://pt.indeed.com/rc/clk?jk=0f10183883eb415e&fccid=0e50ca19ecb40cb2&vjs=3)
-
-
-- **Purchasing Quality Engineer (M/F)** @_Bosch_ [here](https://pt.indeed.com/rc/clk?jk=89f30d065334935a&fccid=a2faf1301ac6ad4b&vjs=3)
 
 #### Braga
 
@@ -138,6 +135,9 @@ Vacancies
 - **Test Automation Engineer** @_e.near_ [here](https://pt.indeed.com/rc/clk?jk=da87fda102583d72&fccid=1c32d74979f08b61&vjs=3)
 
 
+- **Test Automation (M/F)** @_Altran_ [here](https://pt.indeed.com/rc/clk?jk=252093e9e3c9fdd9&fccid=397876ae47f9c1c3&vjs=3)
+
+
 - **Quality Assurance (m/f)** @_Talenter_ [here](https://pt.indeed.com/rc/clk?jk=07cee2017d88aab8&fccid=85ed89ef0cb8bfea&vjs=3)
 
 
@@ -162,13 +162,7 @@ Vacancies
 - **Technical Engineer – Junior Test Automation** @_agap2IT_ [here](https://pt.indeed.com/rc/clk?jk=4b681f88a1b78b43&fccid=b59eb80a618b0458&vjs=3)
 
 
-- **Quality Assurance Manager / Engineer / Analyst (f/m/x)** @_diconium group_ [here](https://pt.indeed.com/rc/clk?jk=daeb67475c157053&fccid=82d5b185512893c3&vjs=3)
-
-
 - **Test Automation Engineer** @_Imaginary Cloud_ [here](https://pt.indeed.com/rc/clk?jk=2d6d2b6acd5f3da9&fccid=584e1bab4c11c906&vjs=3)
-
-
-- **Test Automation Developer** @_HCCM Consulting_ [here](https://pt.indeed.com/rc/clk?jk=4f9021b90446d2b3&fccid=134b8186a7772e36&vjs=3)
 
 
 - **Operational Excellence and Quality Assurance Professional (m...** @_Siemens S.A._ [here](https://pt.indeed.com/rc/clk?jk=5c64438cbdd4d9df&fccid=3b89b9ec324f96c8&vjs=3)
@@ -180,7 +174,7 @@ Vacancies
 - **QA AUTOMATION** @_BOLD International_ [here](https://pt.indeed.com/rc/clk?jk=436d1c0b6764d84f&fccid=e62ff921e73e040f&vjs=3)
 
 
-- **Test Engineer / Test Automation Engineer (f/m/x)** @_diconium group_ [here](https://pt.indeed.com/rc/clk?jk=667a59a0862ddaf5&fccid=82d5b185512893c3&vjs=3)
+- **Quality Assurance (M/F)** @_NBCC_ [here](https://pt.indeed.com/rc/clk?jk=bbf0a2be7395423c&fccid=b237ce9ae95cb272&vjs=3)
 
 
 - **Quality Assurance** @_SYSMATCH - Consultores de Sistemas de Informação_ [here](https://pt.indeed.com/rc/clk?jk=f57af8a534fb98b1&fccid=28201fb0025ec4a4&vjs=3)
@@ -205,6 +199,9 @@ Vacancies
 
 
 - **Quality Assurance Engineer (f/m/x)** @_Mercedes-Benz Germany_ [here](https://pt.indeed.com/rc/clk?jk=a8af6bde9ec99b0e&fccid=33fa1494c1a3ee87&vjs=3)
+
+
+- **Automation Tester (m/f)** @_Ankix_ [here](https://pt.indeed.com/rc/clk?jk=060e09cead472633&fccid=50acb935164bacd8&vjs=3)
 
 
 - **Quality Assurance Professional** @_Celfocus_ [here](https://pt.indeed.com/rc/clk?jk=25f2f1dcb0c90659&fccid=ffee7fe7fb450ea1&vjs=3)
