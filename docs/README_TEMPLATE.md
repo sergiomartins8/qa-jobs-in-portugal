@@ -34,6 +34,6 @@ Inspired by the COVID-19 tragic events of unemployment arising within my network
 
 Using my automation expertise, every day and automatically, this solution goes through websites that allow organizations to publicly list new opportunities and aggregates them in a simple and smooth list available for everyone who wishes to apply.
 
-jobs
+Jobs
 ---------
 
