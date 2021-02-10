@@ -4,7 +4,6 @@ import net.steppschuh.markdowngenerator.text.emphasis.ItalicText;
 import net.steppschuh.markdowngenerator.text.heading.Heading;
 import net.steppschuh.markdowngenerator.text.quote.Quote;
 import qa.jobs.portugal.jobs.Jobs;
-import qa.jobs.portugal.jobs.JobsGlassdoor;
 import qa.jobs.portugal.jobs.JobsIndeed;
 import qa.jobs.portugal.jobs.JobsItJobs;
 import qa.jobs.portugal.utils.markdown.MarkdownFileReader;
@@ -18,7 +17,6 @@ public class Application {
     private static final String README = "README.md";
     private static final String README_TEMPLATE = "docs/README_TEMPLATE.md";
 
-    private static final Jobs GLASSDOOR = new JobsGlassdoor();
     private static final Jobs INDEED = new JobsIndeed();
     private static final Jobs IT_JOBS = new JobsItJobs();
 
@@ -29,8 +27,6 @@ public class Application {
         MarkdownFileWriter.truncateMarkdown(README);
         MarkdownFileWriter.appendMarkdown(README, MarkdownFileReader.getMarkdown(README_TEMPLATE));
         MarkdownFileWriter.appendMarkdown(README, lastUpdated());
-        MarkdownFileWriter.appendMarkdown(README, setHeader("Glassdoor"));
-        MarkdownFileWriter.appendMarkdown(README, GLASSDOOR.getJobs());
         MarkdownFileWriter.appendMarkdown(README, setHeader("Indeed"));
         MarkdownFileWriter.appendMarkdown(README, INDEED.getJobs());
         MarkdownFileWriter.appendMarkdown(README, setHeader("ItJobs"));

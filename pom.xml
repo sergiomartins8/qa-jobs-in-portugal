@@ -6,11 +6,11 @@
 
     <groupId>qa.jobs.portugal</groupId>
     <artifactId>qa-jobs-in-portugal</artifactId>
-    <version>1.4.3</version>
+    <version>1.5.0</version>
     <packaging>jar</packaging>
 
     <name>qa-jobs-in-portugal</name>
-    <description>A curated list of the most recent QA jobs in Portugal</description>
+    <description>A curated list of the most recent QA job openings in Portugal</description>
     <url>https://github.com/sergiomartins8/qa-jobs-in-portugal</url>
 
     <properties>
@@ -93,7 +93,7 @@
         <dependency>
             <groupId>com.codeborne</groupId>
             <artifactId>selenide</artifactId>
-            <version>5.15.0</version>
+            <version>5.18.0</version>
         </dependency>
     </dependencies>
 </project>
