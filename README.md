@@ -37,11 +37,14 @@ Using my automation expertise, every day and automatically, this solution goes t
 Jobs
 ---------
 
-> _Last updated: Mon, 22 Feb 2021 00:51_
+> _Last updated: Tue, 23 Feb 2021 00:50_
 
 ### Indeed
 
 #### Aveiro
+
+- **Test Automation Engineer (m/f)** @_Mindera_ [here](https://pt.indeed.com/rc/clk?jk=ceb64be3b5991dac&fccid=4d8a7f1354f1e37a&vjs=3)
+
 
 - **QA Automation Tester** @_GoContact_ [here](https://pt.indeed.com/rc/clk?jk=0f10183883eb415e&fccid=0e50ca19ecb40cb2&vjs=3)
 
@@ -67,9 +70,6 @@ Jobs
 - **Purchasing Quality Engineer (M/F)** @_Bosch_ [here](https://pt.indeed.com/rc/clk?jk=89f30d065334935a&fccid=a2faf1301ac6ad4b&vjs=3)
 
 
-- **QA Automation Engineer** @_Talkdesk_ [here](https://pt.indeed.com/rc/clk?jk=151b7149439c6273&fccid=d11078692223e115&vjs=3)
-
-
 - **Senior TPS Test Engineer (m/f/d)** @_SIEMENS MOBILITY, UNIPESSOAL LDA_ [here](https://pt.indeed.com/rc/clk?jk=e636450f05ccb1b2&fccid=3b89b9ec324f96c8&vjs=3)
 
 
@@ -89,6 +89,9 @@ Jobs
 - **Test System Engineer (m/f)** @_Bosch Group_ [here](https://pt.indeed.com/rc/clk?jk=f5d35882b510cce8&fccid=a2faf1301ac6ad4b&vjs=3)
 
 #### Coimbra
+
+- **QA Automation Developer** @_Noesis_ [here](https://pt.indeed.com/rc/clk?jk=c99d4abb127e427f&fccid=0d565aebfda01a2f&vjs=3)
+
 
 - **Quality Assurance Automation Engineer** @_Carne Group_ [here](https://pt.indeed.com/rc/clk?jk=35e1ccbd085fce44&fccid=8465779f102aaca9&vjs=3)
 
@@ -136,22 +139,22 @@ Jobs
 - **Quality Assurance** @_Prime Engineering_ [here](https://pt.indeed.com/rc/clk?jk=e4ea4c93be7b8698&fccid=8fb37dc0dbf50a73&vjs=3)
 
 
+- **Quality Assurance Engineer** @_Prime Engineering_ [here](https://pt.indeed.com/rc/clk?jk=84ff4b4cc7448255&fccid=8fb37dc0dbf50a73&vjs=3)
+
+
 - **Quality Assurance Manager / Engineer / Analyst (f/m/x)** @_diconium group_ [here](https://pt.indeed.com/rc/clk?jk=daeb67475c157053&fccid=82d5b185512893c3&vjs=3)
 
 
 - **Safety and Quality Assurance Manager** @_Thales Group_ [here](https://pt.indeed.com/rc/clk?jk=1481f6c50437c508&fccid=b920aab5fd60595d&vjs=3)
 
 
-- **Software Quality Assurance Engineer** @_Multipessoal_ [here](https://pt.indeed.com/rc/clk?jk=b3fe96938d57d35a&fccid=15845400f44653e7&vjs=3)
-
-
-- **Test Automation Engineer** @_Imaginary Cloud_ [here](https://pt.indeed.com/rc/clk?jk=2d6d2b6acd5f3da9&fccid=584e1bab4c11c906&vjs=3)
-
-
 - **Quality Assurance Officer Distribution** @_Norgine_ [here](https://pt.indeed.com/rc/clk?jk=2a090c61844718c7&fccid=6a25d31cdc7123e3&vjs=3)
 
 
 - **Quality Assurance Analyst (m / f) - Germany** @_HIKMA FARMACÊUTICA_ [here](https://pt.indeed.com/rc/clk?jk=29746d85e29cc489&fccid=b1ef15709b7f78a7&vjs=3)
+
+
+- **Test Automation Developer** @_HCCM Consulting_ [here](https://pt.indeed.com/rc/clk?jk=4f9021b90446d2b3&fccid=134b8186a7772e36&vjs=3)
 
 
 - **Operational Excellence and Quality Assurance Professional (m...** @_Siemens S.A._ [here](https://pt.indeed.com/rc/clk?jk=5c64438cbdd4d9df&fccid=3b89b9ec324f96c8&vjs=3)
@@ -166,13 +169,13 @@ Jobs
 - **Junior QA Test Automation (m/f)** @_SysMatch_ [here](https://pt.indeed.com/rc/clk?jk=2f5b95823fe97fb1&fccid=029f937867cc6258&vjs=3)
 
 
-- **Test Engineer / Test Automation Engineer (f/m/x)** @_diconium group_ [here](https://pt.indeed.com/rc/clk?jk=667a59a0862ddaf5&fccid=82d5b185512893c3&vjs=3)
-
-
 - **Tester automation** @_Prime Engineering_ [here](https://pt.indeed.com/rc/clk?jk=5bdf91cf8427f24f&fccid=8fb37dc0dbf50a73&vjs=3)
 
 
-- **Quality Automation Engineer** @_Red IT_ [here](https://pt.indeed.com/rc/clk?jk=1721f39f9a523195&fccid=dc0d4e2f112f064f&vjs=3)
+- **Test Engineer / Test Automation Engineer (f/m/x)** @_diconium group_ [here](https://pt.indeed.com/rc/clk?jk=667a59a0862ddaf5&fccid=82d5b185512893c3&vjs=3)
+
+
+- **QA Automation Tester** @_Prime Engineering_ [here](https://pt.indeed.com/rc/clk?jk=40d569b891bd37f9&fccid=8fb37dc0dbf50a73&vjs=3)
 
 
 - **Test Automation Expert (M/F)** @_Altran_ [here](https://pt.indeed.com/rc/clk?jk=0c2b574817262374&fccid=397876ae47f9c1c3&vjs=3)
@@ -191,10 +194,13 @@ Jobs
 
 #### Porto
 
+- **Test Engineer** @_KWAN_ [here](https://pt.indeed.com/rc/clk?jk=d1d787177e546aa4&fccid=804900dc6b4ab467&vjs=3)
+
+
+- **Quality Assurance Engineer** @_PrimeIT Consulting_ [here](https://pt.indeed.com/rc/clk?jk=fd9c1ff06fb1fd99&fccid=5e52c93d7de55e93&vjs=3)
+
+
 - **Quality Assurance Automation Engineer** @_Celfocus_ [here](https://pt.indeed.com/rc/clk?jk=96fe90d7690d57e3&fccid=ffee7fe7fb450ea1&vjs=3)
-
-
-- **Supplier Quality Analyst** @_The Manitowoc Company_ [here](https://pt.indeed.com/rc/clk?jk=2990a3e0f1a04da2&fccid=24cd47e39a360e46&vjs=3)
 
 
 - **Quality Assurance Analyst** @_Jumia Group_ [here](https://pt.indeed.com/rc/clk?jk=65699df090e660c1&fccid=6fb6c4e9861764db&vjs=3)
@@ -209,25 +215,10 @@ Jobs
 - **Quality Assurance Engineer** @_Planet_ [here](https://pt.indeed.com/rc/clk?jk=473ded4dd7a1a951&fccid=42f30da79b80ead7&vjs=3)
 
 
-- **Junior QA Automation Engineer** @_Switch_ [here](https://pt.indeed.com/rc/clk?jk=5d670d9b49388f9d&fccid=5a024d70fc0d9218&vjs=3)
-
-
 - **Software Quality Assurance Tester (m/f)** @_Ambidata Digital Innovation Solutions & Consulting..._ [here](https://pt.indeed.com/rc/clk?jk=661a486901d55fb2&fccid=01f4623dfb512b6e&vjs=3)
 
 
-- **Senior Quality Assurance Tester** @_Planet_ [here](https://pt.indeed.com/rc/clk?jk=608fa21b5c890352&fccid=42f30da79b80ead7&vjs=3)
-
-
-- **junior qa analyst** @_Bright Technologies_ [here](https://pt.indeed.com/rc/clk?jk=1e0c145467e48fff&fccid=2cc391b37782acca&vjs=3)
-
-
-- **Senior Associate | Risk Assurance | Porto** @_PwC_ [here](https://pt.indeed.com/rc/clk?jk=526e785645886043&fccid=5e964c4afc56b180&vjs=3)
-
-
 - **Quality Automation Engineer** @_Red IT_ [here](https://pt.indeed.com/rc/clk?jk=452909ea4fdfb9fd&fccid=dc0d4e2f112f064f&vjs=3)
-
-
-- **Quality Assurance Analyst (Tester)** @_skeeled_ [here](https://pt.indeed.com/rc/clk?jk=a92bd0187e715115&fccid=c53eb1f127c4a289&vjs=3)
 
 
 - **Automation Tester** @_gfi_ [here](https://pt.indeed.com/rc/clk?jk=d3a6ef33ea64be17&fccid=e463fc7104734a53&vjs=3)
@@ -236,22 +227,40 @@ Jobs
 - **Test Automation Engineer** @_Dellent Consulting_ [here](https://pt.indeed.com/rc/clk?jk=6053d4076e6e9b1d&fccid=1156797aa9b2decc&vjs=3)
 
 
-- **Senior Software Developer in Test - Merlin - Porto** @_Checkout.com_ [here](https://pt.indeed.com/rc/clk?jk=7c60362efcfa2d33&fccid=a14326eb59ec50db&vjs=3)
+- **test automation developer – maia** @_Generix Group_ [here](https://pt.indeed.com/rc/clk?jk=176cd8d0d6338989&fccid=cab42a999f2ba61c&vjs=3)
+
+
+- **Supplier Quality Analyst** @_The Manitowoc Company_ [here](https://pt.indeed.com/rc/clk?jk=2990a3e0f1a04da2&fccid=24cd47e39a360e46&vjs=3)
+
+
+- **quality assurance test automation developer – maia** @_Generix Group_ [here](https://pt.indeed.com/rc/clk?jk=d7fa9a2f932bec5b&fccid=cab42a999f2ba61c&vjs=3)
+
+
+- **Junior QA Automation Engineer** @_Switch_ [here](https://pt.indeed.com/rc/clk?jk=5d670d9b49388f9d&fccid=5a024d70fc0d9218&vjs=3)
+
+
+- **Senior Quality Assurance Tester** @_Planet_ [here](https://pt.indeed.com/rc/clk?jk=608fa21b5c890352&fccid=42f30da79b80ead7&vjs=3)
+
+
+- **Senior Associate | Risk Assurance | Porto** @_PwC_ [here](https://pt.indeed.com/rc/clk?jk=526e785645886043&fccid=5e964c4afc56b180&vjs=3)
+
+
+- **Quality Assurance Engineer** @_KCS IT_ [here](https://pt.indeed.com/rc/clk?jk=04435a5574ebf9be&fccid=ee421a5b4c76e74e&vjs=3)
+
+
+- **Test Automation Engineer** @_BOLD International_ [here](https://pt.indeed.com/rc/clk?jk=ad2609aef7d52c18&fccid=e62ff921e73e040f&vjs=3)
+
+
+- **Quality Assurance Analyst (Tester)** @_skeeled_ [here](https://pt.indeed.com/rc/clk?jk=a92bd0187e715115&fccid=c53eb1f127c4a289&vjs=3)
 
 
 - **Software Quality Assurance Engineer** @_25Friday_ [here](https://pt.indeed.com/rc/clk?jk=ed48813019b5afb5&fccid=0708e8a4da420cca&vjs=3)
 
 
-- **Quality Assurance Engineer Expert** @_KCS IT_ [here](https://pt.indeed.com/rc/clk?jk=27d82bb3bb1280cf&fccid=ee421a5b4c76e74e&vjs=3)
-
-
-- **Automation Tester** @_Growin - Know to grow_ [here](https://pt.indeed.com/rc/clk?jk=086962cf978c9ea2&fccid=af79a6af3ca7b6ea&vjs=3)
+- **Supplier Quality Engineer (m/f)** @_Spring Professional_ [here](https://pt.indeed.com/rc/clk?jk=6b0434a2b6a99a2f&fccid=5b9b13c05b84001b&vjs=3)
 
 
 - **Quality Assurance Engineer** @_Prime Engineering_ [here](https://pt.indeed.com/rc/clk?jk=7360cc71b13494b3&fccid=8fb37dc0dbf50a73&vjs=3)
-
-
-- **Converter Software Test & Verification Trainee** @_Vestas_ [here](https://pt.indeed.com/rc/clk?jk=0bbee588fea8c766&fccid=4e8a74cd622db073&vjs=3)
 
 
 - **Test Automation Engineer** @_Aubay_ [here](https://pt.indeed.com/rc/clk?jk=3934c6b82f201442&fccid=f7aa4cbc87e7e5d7&vjs=3)
@@ -264,7 +273,7 @@ Jobs
 - **Tester (m/f)** @_Match Profiler_ [here](https://pt.indeed.com/rc/clk?jk=82624627f2f1eaa9&fccid=e38ce4c52026932e&vjs=3)
 
 
-- **Quality Assurance Engineer (M/F)** @_Mozantech_ [here](https://pt.indeed.com/company/Mozantech/jobs/Quality-Assurance-Engineer-360d20d3b2cedae7?fccid=f40026539dd5b4e3&vjs=3)
+- **Quality Assurance Engineer** @_Mozantech_ [here](https://pt.indeed.com/company/Mozantech/jobs/Quality-Assurance-Engineer-9e429f9eb9e8d649?fccid=f40026539dd5b4e3&vjs=3)
 
 ### ItJobs
 
@@ -330,6 +339,9 @@ Jobs
 - **Technical Engineer – Junior Test Automation** @_agap2IT_ [here](https://www.itjobs.pt/oferta/372181/technical-engineer-junior-test-automation-portugal)
 
 
+- **DevOps - Software Quality Assurance** @_SYSMATCH - Consultores de Sistemas de Informação_ [here](https://www.itjobs.pt/oferta/370643/devops-software-quality-assurance)
+
+
 - **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/373982/quality-assurance-developer)
 
 
@@ -378,9 +390,6 @@ Jobs
 - **Quality Assurance Engineer** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/372918/quality-assurance-engineer)
 
 
-- **Quality Assurance Analyst** @_SYSMATCH - Consultores de Sistemas de Informação_ [here](https://www.itjobs.pt/oferta/369387/quality-assurance-analyst)
-
-
 - **Senior Quality Assurance** @_BOLD International_ [here](https://www.itjobs.pt/oferta/368377/senior-quality-assurance)
 
 
@@ -409,6 +418,9 @@ Jobs
 - **Quality Assurance Automation Engineer** @_HUUB_ [here](https://www.itjobs.pt/oferta/370399/quality-assurance-automation-engineer)
 
 
+- **Quality Assurance Tester** @_InnoTech_ [here](https://www.itjobs.pt/oferta/374556/quality-assurance-tester)
+
+
 - **Quality Automation Engineer** @_Red IT_ [here](https://www.itjobs.pt/oferta/368647/quality-automation-engineer)
 
 
@@ -433,9 +445,6 @@ Jobs
 - **Automation Tester** @_Aubay_ [here](https://www.itjobs.pt/oferta/370083/automation-tester)
 
 
-- **Software Developer in Testing** @_QAValue_ [here](https://www.itjobs.pt/oferta/373707/software-developer-in-testing)
-
-
 - **Test Engineer** @_The Virtual Forge_ [here](https://www.itjobs.pt/oferta/372495/test-engineer)
 
 
@@ -446,6 +455,9 @@ Jobs
 
 
 - **Quality Assurance Engineer** @_PrimeIT Consulting_ [here](https://www.itjobs.pt/oferta/372308/quality-assurance-engineer)
+
+
+- **Senior Test Engineer** @_Farfetch_ [here](https://www.itjobs.pt/oferta/374519/senior-test-engineer)
 
 
 - **Quality Assurance Engineer** @_XING Portugal_ [here](https://www.itjobs.pt/oferta/370318/quality-assurance-engineer)
@@ -461,6 +473,9 @@ Jobs
 - **Quality Assurance - Tester** @_BABEL - Sistemas de Informação_ [here](https://www.itjobs.pt/oferta/373022/quality-assurance-tester)
 
 
+- **Automation Tester** @_Inoweiser_ [here](https://www.itjobs.pt/oferta/374117/automation-tester-fully-remote)
+
+
 - **Software Developer in Testing** @_QAValue_ [here](https://www.itjobs.pt/oferta/373707/software-developer-in-testing)
 
 
@@ -474,9 +489,6 @@ Jobs
 
 
 - **Quality Assurance Automation Engineer** @_HUUB_ [here](https://www.itjobs.pt/oferta/370399/quality-assurance-automation-engineer)
-
-
-- **Tester BI** @_Closer_ [here](https://www.itjobs.pt/oferta/374271/tester-bi)
 
 
 - **Senior QA Engineer** @_Michael Page Portugal_ [here](https://www.itjobs.pt/oferta/371614/senior-qa-engineer-m-f-full-remote)
