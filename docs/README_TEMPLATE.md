@@ -26,13 +26,12 @@ _An awesome curated list of the most recent QA job openings in Portugal, updated
 * [About](#about)
 * [Contributing](https://github.com/sergiomartins8/qa-jobs-in-portugal/blob/master/docs/CONTRIBUTING.md)
 * [Jobs](#jobs)
-  * [Indeed](#indeed)
   * [ItJobs](#itjobs)
 
 ## About
 Inspired by the COVID-19 tragic events of unemployment arising within my network connections, I decided to develop this open-source project with the goal of supporting those who are tireless looking for a new QA opportunity here, in my beloved Portugal.
 
-Using my automation expertise, every day and automatically, this solution goes through websites that allow organizations to publicly list new opportunities and aggregates them in a simple and smooth list available for everyone who wishes to apply.
+Every day and automatically, this solution goes through websites that allow organizations to publicly list new opportunities and aggregates them in a simple and smooth list available for everyone who wishes to apply.
 
 Jobs
 ---------
