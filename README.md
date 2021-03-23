@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Mon, 22 Mar 2021 01:00_
+> _Last updated: Tue, 23 Mar 2021 00:54_
 
 ### ItJobs
 
@@ -81,16 +81,19 @@ Jobs
 - **Test Automation Expert** @_SYSMATCH - Consultores de Sistemas de Informação_ [here](https://www.itjobs.pt/oferta/370360/test-automation-expert)
 
 
+- **Quality Assurance Engineer** @_Dixtior Consulting_ [here](https://www.itjobs.pt/oferta/378732/quality-assurance-engineer)
+
+
 - **Quality Assurance** @_KWAN_ [here](https://www.itjobs.pt/oferta/375606/quality-assurance)
 
 
 - **Quality Assurance Specialist** @_BOLD International_ [here](https://www.itjobs.pt/oferta/376118/quality-assurance-specialist)
 
 
-- **Test Automation Expertise** @_Ankix_ [here](https://www.itjobs.pt/oferta/371768/test-automation-expertise)
-
-
 - **Quality Assurance** @_Winprovit - Soluções Inteligentes_ [here](https://www.itjobs.pt/oferta/373701/quality-assurance)
+
+
+- **Automation Dev/QA Engineer** @_Olisipo_ [here](https://www.itjobs.pt/oferta/377863/automation-dev-qa-engineer)
 
 
 - **DevOps - Software Quality Assurance** @_SYSMATCH - Consultores de Sistemas de Informação_ [here](https://www.itjobs.pt/oferta/370643/devops-software-quality-assurance)
@@ -136,9 +139,6 @@ Jobs
 
 
 - **Quality Assurance** @_Claranet Talent_ [here](https://www.itjobs.pt/oferta/373468/quality-assurance)
-
-
-- **Quality Assurance Engineer (.Net skills)** @_Noesis Portugal - Consultadoria em Sistemas de Informação, SA_ [here](https://www.itjobs.pt/oferta/377393/quality-assurance-engineer-net-skills-lisbon)
 
 
 - **Quality Assurance Engineer** @_BOLD International_ [here](https://www.itjobs.pt/oferta/375350/quality-assurance-engineer)
@@ -188,6 +188,9 @@ Jobs
 
 
 - **Test Automation Engineer** @_Euronext_ [here](https://www.itjobs.pt/oferta/377097/test-automation-engineer)
+
+
+- **QA Manager** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/378451/qa-manager)
 
 
 - **Test Automation Engineer** @_Dellent Consulting_ [here](https://www.itjobs.pt/oferta/373235/test-automation-engineer-remote)
