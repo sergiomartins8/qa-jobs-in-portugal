@@ -36,11 +36,14 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Thu, 25 Mar 2021 00:30_
+> _Last updated: Fri, 26 Mar 2021 00:55_
 
 ### ItJobs
 
 #### Aveiro
+
+- **Test Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/379134/test-engineer)
+
 
 - **QA Manager** @_WIT - Software_ [here](https://www.itjobs.pt/oferta/377081/qa-manager)
 
@@ -55,9 +58,14 @@ Jobs
 
 #### Braga
 
+- **Test Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/379134/test-engineer)
+
 #### Coimbra
 
 - **Quality Assurance Tester** @_Take the Wind_ [here](https://www.itjobs.pt/oferta/375993/quality-assurance-tester-take-the-wind)
+
+
+- **Test Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/379134/test-engineer)
 
 
 - **Automation Test Lead** @_Noesis Portugal - Consultadoria em Sistemas de Informação, SA_ [here](https://www.itjobs.pt/oferta/374929/automation-test-lead-full-remote)
@@ -170,6 +178,9 @@ Jobs
 - **Quality Assurance Tester** @_InnoTech_ [here](https://www.itjobs.pt/oferta/374556/quality-assurance-tester)
 
 
+- **Test Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/379134/test-engineer)
+
+
 - **Quality Assurance Engineer** @_Cocus_ [here](https://www.itjobs.pt/oferta/376271/quality-assurance-engineer)
 
 
@@ -177,9 +188,6 @@ Jobs
 
 
 - **Test Automation Engineer** @_Euronext_ [here](https://www.itjobs.pt/oferta/377097/test-automation-engineer)
-
-
-- **QA Manager** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/378451/qa-manager)
 
 
 - **Automation Developer / QA Engineer** @_Winprovit - Soluções Inteligentes_ [here](https://www.itjobs.pt/oferta/376629/automation-developer-qa-engineer)
@@ -198,10 +206,16 @@ Jobs
 
 #### Remote
 
+- **Quality Assurance Tester** @_Take the Wind_ [here](https://www.itjobs.pt/oferta/375993/quality-assurance-tester-take-the-wind)
+
+
 - **Automation Test Lead** @_Noesis Portugal - Consultadoria em Sistemas de Informação, SA_ [here](https://www.itjobs.pt/oferta/374929/automation-test-lead-full-remote)
 
 
 - **Automation/Spark Tester** @_BOLD International_ [here](https://www.itjobs.pt/oferta/375347/automation-spark-tester)
+
+
+- **QA Manager** @_WIT - Software_ [here](https://www.itjobs.pt/oferta/377081/qa-manager)
 
 
 - **Software Test Engineer** @_BrandBastion_ [here](https://www.itjobs.pt/oferta/379190/software-test-engineer-remote)
@@ -210,29 +224,20 @@ Jobs
 - **Quality Assurance Specialist** @_BOLD International_ [here](https://www.itjobs.pt/oferta/376118/quality-assurance-specialist)
 
 
-- **Quality Tester** @_Dellent Consulting_ [here](https://www.itjobs.pt/oferta/379006/quality-tester)
-
-
-- **QA Engineer** @_SYSMATCH - Consultores de Sistemas de Informação_ [here](https://www.itjobs.pt/oferta/369624/qa-engineer)
-
-
-- **Quality Assurance Tester** @_Take the Wind_ [here](https://www.itjobs.pt/oferta/375993/quality-assurance-tester-take-the-wind)
-
-
-- **QA Manager** @_WIT - Software_ [here](https://www.itjobs.pt/oferta/377081/qa-manager)
-
-
 - **Quality Assurance Engineer** @_BOLD International_ [here](https://www.itjobs.pt/oferta/375350/quality-assurance-engineer)
 
 
 - **Automation Tester** @_Inoweiser_ [here](https://www.itjobs.pt/oferta/374117/automation-tester-fully-remote)
 
 
-- **Software Developer in Testing** @_QAValue_ [here](https://www.itjobs.pt/oferta/373707/software-developer-in-testing)
-
-
 - **QA Automation Engineer** @_Closer_ [here](https://www.itjobs.pt/oferta/373893/qa-automation-engineer)
 
 
 - **QA Tester** @_Pixelmatters_ [here](https://www.itjobs.pt/oferta/377195/qa-tester)
+
+
+- **Quality Tester** @_Dellent Consulting_ [here](https://www.itjobs.pt/oferta/379006/quality-tester)
+
+
+- **QA Engineer** @_SYSMATCH - Consultores de Sistemas de Informação_ [here](https://www.itjobs.pt/oferta/369624/qa-engineer)
 
