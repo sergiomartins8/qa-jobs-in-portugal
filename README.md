@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Fri, 26 Mar 2021 00:55_
+> _Last updated: Sat, 27 Mar 2021 01:05_
 
 ### ItJobs
 
@@ -141,10 +141,10 @@ Jobs
 - **Test Automation Developer** @_Ankix_ [here](https://www.itjobs.pt/oferta/375463/test-automation-developer)
 
 
-- **Quality Assurance** @_Claranet Talent_ [here](https://www.itjobs.pt/oferta/373468/quality-assurance)
-
-
 - **Quality Assurance Engineer** @_BOLD International_ [here](https://www.itjobs.pt/oferta/375350/quality-assurance-engineer)
+
+
+- **Quality Assurance Sénior** @_Experis_ [here](https://www.itjobs.pt/oferta/373872/quality-assurance-senior)
 
 
 - **Quality Assurance Test Engineer** @_BOLD International_ [here](https://www.itjobs.pt/oferta/376772/quality-assurance-test-engineer)
@@ -237,7 +237,4 @@ Jobs
 
 
 - **Quality Tester** @_Dellent Consulting_ [here](https://www.itjobs.pt/oferta/379006/quality-tester)
-
-
-- **QA Engineer** @_SYSMATCH - Consultores de Sistemas de Informação_ [here](https://www.itjobs.pt/oferta/369624/qa-engineer)
 
