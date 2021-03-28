@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sat, 27 Mar 2021 01:05_
+> _Last updated: Sun, 28 Mar 2021 01:07_
 
 ### ItJobs
 
@@ -102,10 +102,10 @@ Jobs
 - **Test Automation Expert** @_Ankix_ [here](https://www.itjobs.pt/oferta/375458/test-automation-expert)
 
 
+- **Software Developer – Test Automation** @_agap2IT_ [here](https://www.itjobs.pt/oferta/379565/software-developer-test-automation)
+
+
 - **API QA Automation Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/375003/api-qa-automation-engineer)
-
-
-- **Automation Tester** @_Inoweiser_ [here](https://www.itjobs.pt/oferta/374117/automation-tester-fully-remote)
 
 
 - **Test Automation Engineer** @_Imaginary Cloud_ [here](https://www.itjobs.pt/oferta/375980/test-automation-engineer)
@@ -158,9 +158,6 @@ Jobs
 #### Porto
 
 - **Automation Tester** @_Aubay_ [here](https://www.itjobs.pt/oferta/376344/automation-tester)
-
-
-- **Test Automation Engineer** @_SYSMATCH - Consultores de Sistemas de Informação_ [here](https://www.itjobs.pt/oferta/369744/test-automation-engineer)
 
 
 - **Quality Assurance Analyst** @_Basecone_ [here](https://www.itjobs.pt/oferta/375533/quality-assurance-analyst)
