@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sun, 28 Mar 2021 01:07_
+> _Last updated: Mon, 29 Mar 2021 01:09_
 
 ### ItJobs
 
@@ -144,9 +144,6 @@ Jobs
 - **Quality Assurance Engineer** @_BOLD International_ [here](https://www.itjobs.pt/oferta/375350/quality-assurance-engineer)
 
 
-- **Quality Assurance Sénior** @_Experis_ [here](https://www.itjobs.pt/oferta/373872/quality-assurance-senior)
-
-
 - **Quality Assurance Test Engineer** @_BOLD International_ [here](https://www.itjobs.pt/oferta/376772/quality-assurance-test-engineer)
 
 
@@ -225,9 +222,6 @@ Jobs
 
 
 - **Automation Tester** @_Inoweiser_ [here](https://www.itjobs.pt/oferta/374117/automation-tester-fully-remote)
-
-
-- **QA Automation Engineer** @_Closer_ [here](https://www.itjobs.pt/oferta/373893/qa-automation-engineer)
 
 
 - **QA Tester** @_Pixelmatters_ [here](https://www.itjobs.pt/oferta/377195/qa-tester)
