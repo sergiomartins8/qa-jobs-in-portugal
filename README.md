@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Mon, 29 Mar 2021 01:09_
+> _Last updated: Tue, 30 Mar 2021 01:05_
 
 ### ItJobs
 
@@ -90,6 +90,9 @@ Jobs
 - **Quality Assurance Specialist** @_BOLD International_ [here](https://www.itjobs.pt/oferta/376118/quality-assurance-specialist)
 
 
+- **Software Quality Assurance Tester** @_NEX T Engineering_ [here](https://www.itjobs.pt/oferta/379235/software-quality-assurance-tester)
+
+
 - **DevOps - Software Quality Assurance** @_SYSMATCH - Consultores de Sistemas de Informação_ [here](https://www.itjobs.pt/oferta/370643/devops-software-quality-assurance)
 
 
@@ -103,9 +106,6 @@ Jobs
 
 
 - **Software Developer – Test Automation** @_agap2IT_ [here](https://www.itjobs.pt/oferta/379565/software-developer-test-automation)
-
-
-- **API QA Automation Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/375003/api-qa-automation-engineer)
 
 
 - **Test Automation Engineer** @_Imaginary Cloud_ [here](https://www.itjobs.pt/oferta/375980/test-automation-engineer)
@@ -151,6 +151,9 @@ Jobs
 
 
 - **Software Quality Assurance Tester** @_NEX T Engineering_ [here](https://www.itjobs.pt/oferta/378234/software-quality-assurance-tester)
+
+
+- **QA Automation** @_InnoTech_ [here](https://www.itjobs.pt/oferta/379812/qa-automation)
 
 #### Porto
 
@@ -215,6 +218,9 @@ Jobs
 - **Software Test Engineer** @_BrandBastion_ [here](https://www.itjobs.pt/oferta/379190/software-test-engineer-remote)
 
 
+- **Senior QA Engineer** @_Michael Page Portugal_ [here](https://www.itjobs.pt/oferta/379498/senior-qa-engineer-m-f-full-remote)
+
+
 - **Quality Assurance Specialist** @_BOLD International_ [here](https://www.itjobs.pt/oferta/376118/quality-assurance-specialist)
 
 
@@ -222,6 +228,9 @@ Jobs
 
 
 - **Automation Tester** @_Inoweiser_ [here](https://www.itjobs.pt/oferta/374117/automation-tester-fully-remote)
+
+
+- **QA Engineer** @_Inventsys_ [here](https://www.itjobs.pt/oferta/379049/qa-engineer)
 
 
 - **QA Tester** @_Pixelmatters_ [here](https://www.itjobs.pt/oferta/377195/qa-tester)
