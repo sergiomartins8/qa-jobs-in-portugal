@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Tue, 30 Mar 2021 01:05_
+> _Last updated: Wed, 31 Mar 2021 01:02_
 
 ### ItJobs
 
