@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sat, 03 Apr 2021 01:06_
+> _Last updated: Sun, 04 Apr 2021 01:14_
 
 ### ItJobs
 
@@ -105,9 +105,6 @@ Jobs
 - **Quality Assurance Engineer** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/380362/quality-assurance-engineer)
 
 
-- **DevOps - Software Quality Assurance** @_SYSMATCH - Consultores de Sistemas de Informação_ [here](https://www.itjobs.pt/oferta/370643/devops-software-quality-assurance)
-
-
 - **Test Automation Engineer** @_Smart Consulting_ [here](https://www.itjobs.pt/oferta/377654/test-automation-engineer)
 
 
@@ -147,6 +144,9 @@ Jobs
 - **Test Automation Specialist** @_agap2IT_ [here](https://www.itjobs.pt/oferta/375080/test-automation-specialist-portugal)
 
 
+- **Automation Tester** @_Inoweiser_ [here](https://www.itjobs.pt/oferta/380294/automation-tester)
+
+
 - **QA Automation Tester** @_Novabase_ [here](https://www.itjobs.pt/oferta/378540/qa-automation-tester)
 
 
@@ -166,6 +166,9 @@ Jobs
 
 
 - **Software Quality Assurance Tester** @_NEX T Engineering_ [here](https://www.itjobs.pt/oferta/378234/software-quality-assurance-tester)
+
+
+- **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/380390/quality-assurance-developer)
 
 
 - **QA Automation** @_InnoTech_ [here](https://www.itjobs.pt/oferta/379812/qa-automation)
@@ -193,9 +196,6 @@ Jobs
 - **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/375017/test-automation-engineer)
 
 
-- **Quality Assurance Tester** @_InnoTech_ [here](https://www.itjobs.pt/oferta/374556/quality-assurance-tester)
-
-
 - **Test Engineer** @_The Virtual Forge_ [here](https://www.itjobs.pt/oferta/379122/test-engineer)
 
 
@@ -215,9 +215,6 @@ Jobs
 
 
 - **Quality Assurance Engineer** @_Closer_ [here](https://www.itjobs.pt/oferta/378138/quality-assurance-engineer)
-
-
-- **Senior Test Engineer** @_Farfetch_ [here](https://www.itjobs.pt/oferta/374519/senior-test-engineer)
 
 
 - **Automation Tester** @_Adentis_ [here](https://www.itjobs.pt/oferta/376901/automation-tester)
