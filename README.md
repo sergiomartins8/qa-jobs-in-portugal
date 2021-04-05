@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sun, 04 Apr 2021 01:14_
+> _Last updated: Mon, 05 Apr 2021 01:09_
 
 ### ItJobs
 
@@ -52,9 +52,6 @@ Jobs
 
 
 - **Quality Assurance Analyst** @_Olisipo_ [here](https://www.itjobs.pt/oferta/375906/quality-assurance-analyst)
-
-
-- **Mobile Application Tester** @_Olisipo_ [here](https://www.itjobs.pt/oferta/374725/mobile-application-tester)
 
 
 - **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/375017/test-automation-engineer)
