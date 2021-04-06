@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Mon, 05 Apr 2021 01:09_
+> _Last updated: Tue, 06 Apr 2021 01:08_
 
 ### ItJobs
 
@@ -52,9 +52,6 @@ Jobs
 
 
 - **Quality Assurance Analyst** @_Olisipo_ [here](https://www.itjobs.pt/oferta/375906/quality-assurance-analyst)
-
-
-- **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/375017/test-automation-engineer)
 
 #### Braga
 
@@ -81,9 +78,6 @@ Jobs
 
 
 - **QA Manager** @_WIT - Software_ [here](https://www.itjobs.pt/oferta/377081/qa-manager)
-
-
-- **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/375017/test-automation-engineer)
 
 #### Lisboa
 
@@ -114,16 +108,10 @@ Jobs
 - **Test Engineer** @_The Virtual Forge_ [here](https://www.itjobs.pt/oferta/379122/test-engineer)
 
 
-- **Test Automation Engineer** @_Imaginary Cloud_ [here](https://www.itjobs.pt/oferta/375980/test-automation-engineer)
-
-
 - **Software Quality Assurance Teste** @_NEX T Engineering_ [here](https://www.itjobs.pt/oferta/378659/software-quality-assurance-teste)
 
 
 - **Senior Quality Assurance** @_BOLD International_ [here](https://www.itjobs.pt/oferta/375126/senior-quality-assurance)
-
-
-- **Test Automation Developer** @_SYSMATCH - Consultores de Sistemas de Informação_ [here](https://www.itjobs.pt/oferta/370886/test-automation-developer)
 
 
 - **Quality Assurance** @_SYSMATCH - Consultores de Sistemas de Informação_ [here](https://www.itjobs.pt/oferta/374052/quality-assurance)
@@ -135,7 +123,13 @@ Jobs
 - **Test Automation Expertise** @_Match Profiler_ [here](https://www.itjobs.pt/oferta/371721/test-automation-expertise)
 
 
+- **Test Automation** @_SYSMATCH - Consultores de Sistemas de Informação_ [here](https://www.itjobs.pt/oferta/371806/test-automation)
+
+
 - **Quality Assurance Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/375619/quality-assurance-engineer)
+
+
+- **Test Automation Engineer** @_Imaginary Cloud_ [here](https://www.itjobs.pt/oferta/380725/test-automation-engineer)
 
 
 - **Test Automation Specialist** @_agap2IT_ [here](https://www.itjobs.pt/oferta/375080/test-automation-specialist-portugal)
@@ -188,9 +182,6 @@ Jobs
 
 
 - **API QA Automation Engineer** @_Aubay_ [here](https://www.itjobs.pt/oferta/376343/api-qa-automation-engineer)
-
-
-- **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/375017/test-automation-engineer)
 
 
 - **Test Engineer** @_The Virtual Forge_ [here](https://www.itjobs.pt/oferta/379122/test-engineer)
