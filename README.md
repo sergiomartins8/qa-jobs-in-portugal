@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Tue, 06 Apr 2021 01:08_
+> _Last updated: Wed, 07 Apr 2021 01:07_
 
 ### ItJobs
 
@@ -52,6 +52,9 @@ Jobs
 
 
 - **Quality Assurance Analyst** @_Olisipo_ [here](https://www.itjobs.pt/oferta/375906/quality-assurance-analyst)
+
+
+- **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/380812/test-automation-engineer)
 
 #### Braga
 
@@ -79,6 +82,9 @@ Jobs
 
 - **QA Manager** @_WIT - Software_ [here](https://www.itjobs.pt/oferta/377081/qa-manager)
 
+
+- **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/380812/test-automation-engineer)
+
 #### Lisboa
 
 - **Quality Assurance Engineer** @_Dixtior Consulting_ [here](https://www.itjobs.pt/oferta/378732/quality-assurance-engineer)
@@ -88,9 +94,6 @@ Jobs
 
 
 - **Quality Assurance Specialist** @_BOLD International_ [here](https://www.itjobs.pt/oferta/376118/quality-assurance-specialist)
-
-
-- **Software Quality Assurance Tester** @_NEX T Engineering_ [here](https://www.itjobs.pt/oferta/379235/software-quality-assurance-tester)
 
 
 - **Quality Assurance Engineer** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/380362/quality-assurance-engineer)
@@ -147,6 +150,9 @@ Jobs
 - **Technical Engineer – Test automation / RPA** @_agap2IT_ [here](https://www.itjobs.pt/oferta/379628/technical-engineer-test-automation-rpa)
 
 
+- **Quality Assurance Engineer (.Net skills)** @_Noesis Portugal - Consultadoria em Sistemas de Informação, SA_ [here](https://www.itjobs.pt/oferta/377393/quality-assurance-engineer-net-skills-lisbon)
+
+
 - **Quality Assurance Engineer** @_BOLD International_ [here](https://www.itjobs.pt/oferta/375350/quality-assurance-engineer)
 
 
@@ -172,9 +178,6 @@ Jobs
 - **Quality Assurance (QA) Engineer** @_Present Technologies_ [here](https://www.itjobs.pt/oferta/380258/quality-assurance-qa-engineer)
 
 
-- **Software Quality Assurance Tester** @_NEX T Engineering_ [here](https://www.itjobs.pt/oferta/379235/software-quality-assurance-tester)
-
-
 - **Quality Assurance Analyst** @_Basecone_ [here](https://www.itjobs.pt/oferta/375533/quality-assurance-analyst)
 
 
@@ -182,6 +185,9 @@ Jobs
 
 
 - **API QA Automation Engineer** @_Aubay_ [here](https://www.itjobs.pt/oferta/376343/api-qa-automation-engineer)
+
+
+- **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/380812/test-automation-engineer)
 
 
 - **Test Engineer** @_The Virtual Forge_ [here](https://www.itjobs.pt/oferta/379122/test-engineer)
@@ -240,9 +246,6 @@ Jobs
 
 
 - **Quality Assurance Engineer** @_BOLD International_ [here](https://www.itjobs.pt/oferta/375350/quality-assurance-engineer)
-
-
-- **Tester** @_Match Profiler_ [here](https://www.itjobs.pt/oferta/371644/tester)
 
 
 - **QA Engineer** @_Inventsys_ [here](https://www.itjobs.pt/oferta/379049/qa-engineer)
