@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Fri, 09 Apr 2021 01:05_
+> _Last updated: Sun, 11 Apr 2021 01:11_
 
 ### ItJobs
 
@@ -159,13 +159,13 @@ Jobs
 - **Technical Engineer – Test automation / RPA** @_agap2IT_ [here](https://www.itjobs.pt/oferta/379628/technical-engineer-test-automation-rpa)
 
 
+- **DevOps / Test Automation** @_Amaris_ [here](https://www.itjobs.pt/oferta/381024/devops-test-automation)
+
+
 - **Quality Assurance Engineer** @_BOLD International_ [here](https://www.itjobs.pt/oferta/375350/quality-assurance-engineer)
 
 
 - **Quality Assurance Test Engineer** @_BOLD International_ [here](https://www.itjobs.pt/oferta/376772/quality-assurance-test-engineer)
-
-
-- **QA Automation Tester** @_Papersoft_ [here](https://www.itjobs.pt/oferta/377931/qa-automation-tester)
 
 
 - **Software Quality Assurance Tester** @_NEX T Engineering_ [here](https://www.itjobs.pt/oferta/378234/software-quality-assurance-tester)
@@ -185,6 +185,9 @@ Jobs
 
 
 - **Quality Assurance Analyst** @_Basecone_ [here](https://www.itjobs.pt/oferta/375533/quality-assurance-analyst)
+
+
+- **Test Engineer – Trainee** @_Euronext_ [here](https://www.itjobs.pt/oferta/381383/test-engineer-trainee)
 
 
 - **Test Automation Engineer** @_Olisipo_ [here](https://www.itjobs.pt/oferta/376816/test-automation-engineer)
@@ -261,6 +264,9 @@ Jobs
 
 
 - **QA Engineer** @_Inventsys_ [here](https://www.itjobs.pt/oferta/379049/qa-engineer)
+
+
+- **Manual/Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/381267/manual-automation-tester)
 
 
 - **QA Automation Tester** @_Papersoft_ [here](https://www.itjobs.pt/oferta/377931/qa-automation-tester)
