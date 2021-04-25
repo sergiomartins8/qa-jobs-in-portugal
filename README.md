@@ -36,16 +36,13 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sat, 24 Apr 2021 01:09_
+> _Last updated: Sun, 25 Apr 2021 01:14_
 
 ### ItJobs
 
 #### Aveiro
 
 - **Test Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/379134/test-engineer)
-
-
-- **QA Manager** @_WIT - Software_ [here](https://www.itjobs.pt/oferta/377081/qa-manager)
 
 
 - **Test Automation Engineer** @_Dellent Consulting_ [here](https://www.itjobs.pt/oferta/382366/test-automation-engineer)
@@ -72,9 +69,6 @@ Jobs
 
 
 - **Quality Assurance (QA) Engineer** @_Present Technologies_ [here](https://www.itjobs.pt/oferta/380258/quality-assurance-qa-engineer)
-
-
-- **QA Manager** @_WIT - Software_ [here](https://www.itjobs.pt/oferta/377081/qa-manager)
 
 
 - **Test Automation Engineer** @_Dellent Consulting_ [here](https://www.itjobs.pt/oferta/382366/test-automation-engineer)
@@ -156,6 +150,9 @@ Jobs
 - **DevOps / Test Automation** @_Amaris_ [here](https://www.itjobs.pt/oferta/381024/devops-test-automation)
 
 
+- **Quality Assurance Engineer (.Net skills)** @_Noesis Portugal - Consultadoria em Sistemas de Informação, SA_ [here](https://www.itjobs.pt/oferta/377393/quality-assurance-engineer-net-skills-lisbon)
+
+
 - **Test Automation Developer** @_Match Profiler_ [here](https://www.itjobs.pt/oferta/376753/test-automation-developer)
 
 
@@ -169,6 +166,9 @@ Jobs
 
 
 - **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/380390/quality-assurance-developer)
+
+
+- **QA Automation** @_InnoTech_ [here](https://www.itjobs.pt/oferta/379812/qa-automation)
 
 #### Porto
 
@@ -203,9 +203,6 @@ Jobs
 
 
 - **Test Automation Engineer** @_BOLD International_ [here](https://www.itjobs.pt/oferta/378643/test-automation-engineer)
-
-
-- **Test Automation Engineer** @_Euronext_ [here](https://www.itjobs.pt/oferta/377097/test-automation-engineer)
 
 
 - **Python Test Automation Engineer** @_Inetum_ [here](https://www.itjobs.pt/oferta/382401/python-test-automation-engineer)
