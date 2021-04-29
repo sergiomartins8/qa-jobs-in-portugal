@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Wed, 28 Apr 2021 01:09_
+> _Last updated: Thu, 29 Apr 2021 01:07_
 
 ### ItJobs
 
@@ -193,6 +193,9 @@ Jobs
 - **Senior Test Engineer** @_Farfetch_ [here](https://www.itjobs.pt/oferta/382119/senior-test-engineer)
 
 
+- **Quality Assurance Engineer - ERP** @_Farfetch_ [here](https://www.itjobs.pt/oferta/383684/quality-assurance-engineer-erp)
+
+
 - **QA Manager** @_WIT - Software_ [here](https://www.itjobs.pt/oferta/383376/qa-manager)
 
 
@@ -206,9 +209,6 @@ Jobs
 
 
 - **Automation Tester** @_Aubay_ [here](https://www.itjobs.pt/oferta/383096/automation-tester)
-
-
-- **Test Automation Engineer** @_Aubay_ [here](https://www.itjobs.pt/oferta/377222/test-automation-engineer)
 
 
 - **Test Automation Engineer** @_BOLD International_ [here](https://www.itjobs.pt/oferta/378643/test-automation-engineer)
@@ -282,6 +282,9 @@ Jobs
 
 
 - **Software Tester (Team Lead)** @_Dellent Consulting_ [here](https://www.itjobs.pt/oferta/382825/software-tester-team-lead)
+
+
+- **Junior Automation Test Engineer** @_Findmore_ [here](https://www.itjobs.pt/oferta/383250/junior-automation-test-engineer)
 
 
 - **Test Automation Engineer** @_HUUB_ [here](https://www.itjobs.pt/oferta/382908/test-automation-engineer)
