@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Thu, 06 May 2021 01:00_
+> _Last updated: Fri, 07 May 2021 01:03_
 
 ### ItJobs
 
@@ -106,6 +106,9 @@ Jobs
 
 
 - **Quality Assurance** @_KWAN_ [here](https://www.itjobs.pt/oferta/382798/quality-assurance)
+
+
+- **QA Automation Tester** @_Papersoft_ [here](https://www.itjobs.pt/oferta/385187/qa-automation-tester)
 
 
 - **Quality Assurance Engineer** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/380362/quality-assurance-engineer)
@@ -189,9 +192,6 @@ Jobs
 - **Automation Tester** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/384725/automation-tester)
 
 
-- **API QA Automation Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/381805/api-qa-automation-engineer)
-
-
 - **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/380390/quality-assurance-developer)
 
 #### Porto
@@ -212,6 +212,9 @@ Jobs
 
 
 - **Senior Test Engineer** @_Farfetch_ [here](https://www.itjobs.pt/oferta/382119/senior-test-engineer)
+
+
+- **Quality Assurance Engineer** @_Aubay_ [here](https://www.itjobs.pt/oferta/384350/quality-assurance-engineer)
 
 
 - **Quality Assurance Engineer** @_Winprovit - Soluções Inteligentes_ [here](https://www.itjobs.pt/oferta/384204/quality-assurance-engineer)
@@ -247,9 +250,6 @@ Jobs
 - **Automation Tester** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/384725/automation-tester)
 
 
-- **Automation Tester** @_Adentis_ [here](https://www.itjobs.pt/oferta/383911/automation-tester)
-
-
 - **Senior Test Engineer** @_akapeople_ [here](https://www.itjobs.pt/oferta/384033/senior-test-engineer)
 
 
@@ -273,9 +273,6 @@ Jobs
 
 
 - **QA Engineer** @_Michael Page Portugal_ [here](https://www.itjobs.pt/oferta/382685/qa-engineer-m-f-full-remote)
-
-
-- **Senior QA Engineer** @_Michael Page Portugal_ [here](https://www.itjobs.pt/oferta/379498/senior-qa-engineer-m-f-full-remote)
 
 
 - **Automation Tester Engineer** @_AI4MedImaging_ [here](https://www.itjobs.pt/oferta/381230/automation-tester-engineer)
