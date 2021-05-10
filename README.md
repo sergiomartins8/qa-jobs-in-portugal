@@ -36,14 +36,11 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sun, 09 May 2021 01:06_
+> _Last updated: Mon, 10 May 2021 01:05_
 
 ### ItJobs
 
 #### Aveiro
-
-- **Test Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/379134/test-engineer)
-
 
 - **Test Automation Engineer** @_Dellent Consulting_ [here](https://www.itjobs.pt/oferta/382366/test-automation-engineer)
 
@@ -64,9 +61,6 @@ Jobs
 
 #### Braga
 
-- **Test Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/379134/test-engineer)
-
-
 - **Automation Tester Engineer** @_AI4MedImaging_ [here](https://www.itjobs.pt/oferta/381230/automation-tester-engineer)
 
 
@@ -79,9 +73,6 @@ Jobs
 - **Quality Assurance Engineer** @_Banco Atlântico - Europa_ [here](https://www.itjobs.pt/oferta/384493/quality-assurance-engineer)
 
 #### Coimbra
-
-- **Test Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/379134/test-engineer)
-
 
 - **Quality Assurance (QA) Engineer** @_Present Technologies_ [here](https://www.itjobs.pt/oferta/380258/quality-assurance-qa-engineer)
 
@@ -139,6 +130,9 @@ Jobs
 
 
 - **Test Automation Engineer** @_SYSMATCH - Consultores de Sistemas de Informação_ [here](https://www.itjobs.pt/oferta/376461/test-automation-engineer)
+
+
+- **Quality Assurance Engineer (fibra ótica/telecom)** @_Dellent Consulting_ [here](https://www.itjobs.pt/oferta/385360/quality-assurance-engineer-fibra-otica-telecom)
 
 
 - **Quality Assurance Automation Engineer** @_Grupo Your_ [here](https://www.itjobs.pt/oferta/383093/quality-assurance-automation-engineer-mf-referencia-yp-dw-qe)
@@ -220,13 +214,7 @@ Jobs
 - **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/380812/test-automation-engineer)
 
 
-- **QA Engineer** @_Michael Page Portugal_ [here](https://www.itjobs.pt/oferta/385091/qa-engineer-m-f-full-remote)
-
-
 - **Quality Assurance Engineer** @_Cocus_ [here](https://www.itjobs.pt/oferta/382492/quality-assurance-engineer)
-
-
-- **Test Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/379134/test-engineer)
 
 
 - **Quality Assurance Analyst** @_Match Profiler_ [here](https://www.itjobs.pt/oferta/378737/quality-assurance-analyst)
@@ -242,6 +230,9 @@ Jobs
 
 
 - **Quality Assurance Analyst** @_Basecone_ [here](https://www.itjobs.pt/oferta/382199/quality-assurance-analyst)
+
+
+- **QA Analyst - French Speaker** @_Natixis Portugal_ [here](https://www.itjobs.pt/oferta/385118/qa-analyst-french-speaker)
 
 
 - **Automation Tester** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/384725/automation-tester)
@@ -273,6 +264,9 @@ Jobs
 
 
 - **Automation Tester Engineer** @_AI4MedImaging_ [here](https://www.itjobs.pt/oferta/381230/automation-tester-engineer)
+
+
+- **QA Automation Engineer** @_Link Consulting_ [here](https://www.itjobs.pt/oferta/385331/qa-automation-engineer)
 
 
 - **Automation Test Engineer** @_Findmore_ [here](https://www.itjobs.pt/oferta/383269/automation-test-engineer)
