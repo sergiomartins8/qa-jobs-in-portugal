@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Tue, 11 May 2021 01:05_
+> _Last updated: Wed, 12 May 2021 01:07_
 
 ### ItJobs
 
@@ -111,9 +111,6 @@ Jobs
 - **Test Automation Engineer** @_Smart Consulting_ [here](https://www.itjobs.pt/oferta/384761/test-automation-engineer)
 
 
-- **Software Developer – Test Automation** @_agap2IT_ [here](https://www.itjobs.pt/oferta/379565/software-developer-test-automation)
-
-
 - **Test Automation Expertise** @_Ankix_ [here](https://www.itjobs.pt/oferta/378899/test-automation-expertise)
 
 
@@ -156,9 +153,6 @@ Jobs
 - **Quality Assurance Engineer** @_Dixtior Consulting_ [here](https://www.itjobs.pt/oferta/382332/quality-assurance-engineer)
 
 
-- **Automation Test Engineer** @_Findmore_ [here](https://www.itjobs.pt/oferta/383269/automation-test-engineer)
-
-
 - **Quality Assurance Test Engineer** @_BOLD International_ [here](https://www.itjobs.pt/oferta/384319/quality-assurance-test-engineer)
 
 
@@ -172,6 +166,9 @@ Jobs
 
 
 - **Test Automation Developer** @_Match Profiler_ [here](https://www.itjobs.pt/oferta/376753/test-automation-developer)
+
+
+- **Technical Engineer – Test automation / RPA** @_agap2IT_ [here](https://www.itjobs.pt/oferta/385411/technical-engineer-test-automation-rpa)
 
 
 - **Automation Tester** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/384725/automation-tester)
@@ -217,6 +214,9 @@ Jobs
 - **Test Automation Engineer** @_BOLD International_ [here](https://www.itjobs.pt/oferta/378643/test-automation-engineer)
 
 
+- **Senior Specialist in Functional Tests** @_Claranet Talent_ [here](https://www.itjobs.pt/oferta/385834/senior-specialist-in-functional-tests)
+
+
 - **Python Test Automation Engineer** @_Inetum_ [here](https://www.itjobs.pt/oferta/382401/python-test-automation-engineer)
 
 
@@ -241,9 +241,6 @@ Jobs
 - **Quality Assurance Engineer - CRM** @_Farfetch_ [here](https://www.itjobs.pt/oferta/383681/quality-assurance-engineer-crm)
 
 
-- **QA Engineer** @_Michael Page Portugal_ [here](https://www.itjobs.pt/oferta/385089/qa-engineer-m-f)
-
-
 - **Test Automation Engineer** @_HUUB_ [here](https://www.itjobs.pt/oferta/382908/test-automation-engineer)
 
 
@@ -258,9 +255,6 @@ Jobs
 
 
 - **Quality Tester** @_Dellent Consulting_ [here](https://www.itjobs.pt/oferta/382367/quality-tester)
-
-
-- **QA Engineer** @_Michael Page Portugal_ [here](https://www.itjobs.pt/oferta/382685/qa-engineer-m-f-full-remote)
 
 
 - **Automation Tester Engineer** @_AI4MedImaging_ [here](https://www.itjobs.pt/oferta/381230/automation-tester-engineer)
@@ -279,6 +273,9 @@ Jobs
 
 
 - **QA Engineer** @_Michael Page Portugal_ [here](https://www.itjobs.pt/oferta/385091/qa-engineer-m-f-full-remote)
+
+
+- **QA Manager** @_Contentserv Technologies_ [here](https://www.itjobs.pt/oferta/385670/qa-manager)
 
 
 - **QA Automation Tester** @_Findmore_ [here](https://www.itjobs.pt/oferta/382283/qa-automation-tester)
