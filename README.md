@@ -36,11 +36,14 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Mon, 17 May 2021 01:10_
+> _Last updated: Tue, 18 May 2021 01:14_
 
 ### ItJobs
 
 #### Aveiro
+
+- **Test Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/386605/test-engineer)
+
 
 - **Test Automation Engineer** @_Dellent Consulting_ [here](https://www.itjobs.pt/oferta/382366/test-automation-engineer)
 
@@ -54,15 +57,15 @@ Jobs
 - **Software Test Engineer** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/385765/software-test-engineer)
 
 
-- **QA Manager** @_WIT - Software_ [here](https://www.itjobs.pt/oferta/383376/qa-manager)
-
-
 - **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/380812/test-automation-engineer)
 
 
 - **Automation Tester** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/385990/automation-tester)
 
 #### Braga
+
+- **Test Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/386605/test-engineer)
+
 
 - **Automation Tester Engineer** @_AI4MedImaging_ [here](https://www.itjobs.pt/oferta/381230/automation-tester-engineer)
 
@@ -77,6 +80,9 @@ Jobs
 
 #### Coimbra
 
+- **Test Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/386605/test-engineer)
+
+
 - **Test Automation Engineer** @_Imaginary Cloud_ [here](https://www.itjobs.pt/oferta/386062/test-automation-engineer)
 
 
@@ -87,9 +93,6 @@ Jobs
 
 
 - **Quality Assurance Engineer** @_Novabase_ [here](https://www.itjobs.pt/oferta/385299/quality-assurance-engineer)
-
-
-- **QA Manager** @_WIT - Software_ [here](https://www.itjobs.pt/oferta/383376/qa-manager)
 
 
 - **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/380812/test-automation-engineer)
@@ -244,16 +247,10 @@ Jobs
 - **Senior Quality Assurance Engineer** @_New Work SE_ [here](https://www.itjobs.pt/oferta/382593/quality-assurance-engineer)
 
 
-- **Quality Assurance Engineer** @_Banco Atlântico - Europa_ [here](https://www.itjobs.pt/oferta/384493/quality-assurance-engineer)
-
-
 - **Test Automation Engineer** @_Euronext_ [here](https://www.itjobs.pt/oferta/386321/test-automation-engineer)
 
 
 - **Test Automation Engineer** @_SYSMATCH - Consultores de Sistemas de Informação_ [here](https://www.itjobs.pt/oferta/379895/test-automation-engineer)
-
-
-- **Test Engineer - Architecture Group** @_Farfetch_ [here](https://www.itjobs.pt/oferta/386009/test-engineer-architecture-group)
 
 
 - **Senior Test Engineer** @_Farfetch_ [here](https://www.itjobs.pt/oferta/382119/senior-test-engineer)
@@ -263,6 +260,9 @@ Jobs
 
 
 - **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/380812/test-automation-engineer)
+
+
+- **Test Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/386605/test-engineer)
 
 
 - **Senior Test Engineer** @_akapeople_ [here](https://www.itjobs.pt/oferta/384033/senior-test-engineer)
