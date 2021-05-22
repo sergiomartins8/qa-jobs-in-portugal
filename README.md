@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Fri, 21 May 2021 01:11_
+> _Last updated: Sat, 22 May 2021 01:10_
 
 ### ItJobs
 
@@ -55,9 +55,6 @@ Jobs
 
 
 - **Software Test Engineer** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/385765/software-test-engineer)
-
-
-- **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/380812/test-automation-engineer)
 
 
 - **Automation Tester** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/386872/automation-tester)
@@ -93,9 +90,6 @@ Jobs
 
 
 - **Quality Assurance Engineer** @_Novabase_ [here](https://www.itjobs.pt/oferta/385299/quality-assurance-engineer)
-
-
-- **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/380812/test-automation-engineer)
 
 #### Lisboa
 
@@ -211,9 +205,6 @@ Jobs
 - **Quality Assurance Analyst** @_Match Profiler_ [here](https://www.itjobs.pt/oferta/378737/quality-assurance-analyst)
 
 
-- **Test Automation Engineer** @_BOLD International_ [here](https://www.itjobs.pt/oferta/378643/test-automation-engineer)
-
-
 - **Python Test Automation Engineer** @_Inetum_ [here](https://www.itjobs.pt/oferta/382401/python-test-automation-engineer)
 
 
@@ -259,9 +250,6 @@ Jobs
 - **Quality Assurance Engineer** @_Novabase_ [here](https://www.itjobs.pt/oferta/385299/quality-assurance-engineer)
 
 
-- **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/380812/test-automation-engineer)
-
-
 - **Test Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/386605/test-engineer)
 
 
@@ -296,10 +284,10 @@ Jobs
 - **Automation Test Engineer** @_Findmore_ [here](https://www.itjobs.pt/oferta/383269/automation-test-engineer)
 
 
-- **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/380812/test-automation-engineer)
-
-
 - **QA Engineer** @_Michael Page Portugal_ [here](https://www.itjobs.pt/oferta/385091/qa-engineer-m-f-full-remote)
+
+
+- **Senior Specialist in Functional Tests** @_Claranet Talent_ [here](https://www.itjobs.pt/oferta/385834/senior-specialist-in-functional-tests)
 
 
 - **QA Automation Tester – Estágio IEFP** @_Papersoft_ [here](https://www.itjobs.pt/oferta/386797/qa-automation-tester-estagio-iefp)
