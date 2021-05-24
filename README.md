@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sun, 23 May 2021 01:20_
+> _Last updated: Mon, 24 May 2021 01:17_
 
 ### ItJobs
 
@@ -68,9 +68,6 @@ Jobs
 
 
 - **Quality Assurance Analyst** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/386922/quality-assurance-analyst)
-
-
-- **Automation Tester Engineer** @_AI4MedImaging_ [here](https://www.itjobs.pt/oferta/381230/automation-tester-engineer)
 
 
 - **Quality Assurance Engineer** @_Novabase_ [here](https://www.itjobs.pt/oferta/385299/quality-assurance-engineer)
@@ -270,9 +267,6 @@ Jobs
 
 
 - **QA Automation Tester** @_Papersoft_ [here](https://www.itjobs.pt/oferta/385187/qa-automation-tester)
-
-
-- **Automation Tester Engineer** @_AI4MedImaging_ [here](https://www.itjobs.pt/oferta/381230/automation-tester-engineer)
 
 
 - **Quality Assurance Engineer** @_Novabase_ [here](https://www.itjobs.pt/oferta/385299/quality-assurance-engineer)
