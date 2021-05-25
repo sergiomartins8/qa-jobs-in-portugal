@@ -36,13 +36,16 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Mon, 24 May 2021 01:17_
+> _Last updated: Tue, 25 May 2021 01:14_
 
 ### ItJobs
 
 #### Aveiro
 
 - **Test Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/386605/test-engineer)
+
+
+- **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/387459/test-automation-engineer)
 
 
 - **Quality Assurance Analyst** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/386922/quality-assurance-analyst)
@@ -83,6 +86,9 @@ Jobs
 - **Test Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/386605/test-engineer)
 
 
+- **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/387459/test-automation-engineer)
+
+
 - **Test Automation Engineer** @_Imaginary Cloud_ [here](https://www.itjobs.pt/oferta/386062/test-automation-engineer)
 
 
@@ -100,6 +106,9 @@ Jobs
 
 
 - **Quality Assurance** @_KWAN_ [here](https://www.itjobs.pt/oferta/382798/quality-assurance)
+
+
+- **Automation Tester** @_DECSKILL_ [here](https://www.itjobs.pt/oferta/386342/automation-tester)
 
 
 - **Test Manager** @_Olisipo_ [here](https://www.itjobs.pt/oferta/386757/test-manager)
@@ -162,9 +171,6 @@ Jobs
 - **Quality Assurance Test Engineer** @_BOLD International_ [here](https://www.itjobs.pt/oferta/384319/quality-assurance-test-engineer)
 
 
-- **DevOps / Test Automation** @_Amaris_ [here](https://www.itjobs.pt/oferta/381024/devops-test-automation)
-
-
 - **DevOps - Software Quality Assurance** @_SYSMATCH - Consultores de Sistemas de Informação_ [here](https://www.itjobs.pt/oferta/380682/devops-software-quality-assurance)
 
 
@@ -182,6 +188,9 @@ Jobs
 #### Porto
 
 - **Quality Assurance Engineer** @_Losch Services - Portugal_ [here](https://www.itjobs.pt/oferta/385230/quality-assurance-engineer)
+
+
+- **QA & Continuous Testing – Architect/Manager** @_Noesis Portugal - Consultadoria em Sistemas de Informação, SA_ [here](https://www.itjobs.pt/oferta/387570/qa-continuous-testing-architect-manager-lisbon-porto-m-f)
 
 
 - **Quality Assurance Engineer** @_Olisipo_ [here](https://www.itjobs.pt/oferta/386356/quality-assurance-engineer)
@@ -233,6 +242,9 @@ Jobs
 
 
 - **Test Automation Engineer** @_Euronext_ [here](https://www.itjobs.pt/oferta/386321/test-automation-engineer)
+
+
+- **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/387459/test-automation-engineer)
 
 
 - **Quality Assurance Analyst** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/386922/quality-assurance-analyst)
@@ -297,9 +309,6 @@ Jobs
 
 
 - **Test Automation Engineer** @_Dellent Consulting_ [here](https://www.itjobs.pt/oferta/382366/test-automation-engineer)
-
-
-- **Manual/Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/381267/manual-automation-tester)
 
 
 - **Automation Test Lead** @_Noesis Portugal - Consultadoria em Sistemas de Informação, SA_ [here](https://www.itjobs.pt/oferta/382330/automation-test-lead)
