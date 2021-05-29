@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Fri, 28 May 2021 01:52_
+> _Last updated: Sat, 29 May 2021 02:07_
 
 ### ItJobs
 
@@ -272,6 +272,9 @@ Jobs
 - **Quality Tester** @_Dellent Consulting_ [here](https://www.itjobs.pt/oferta/382367/quality-tester)
 
 
+- **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/387459/test-automation-engineer)
+
+
 - **QA Engineer** @_Contentserv Technologies_ [here](https://www.itjobs.pt/oferta/385648/qa-engineer)
 
 
@@ -279,9 +282,6 @@ Jobs
 
 
 - **Automation Test Engineer** @_Findmore_ [here](https://www.itjobs.pt/oferta/383269/automation-test-engineer)
-
-
-- **QA Engineer** @_Michael Page Portugal_ [here](https://www.itjobs.pt/oferta/385091/qa-engineer-m-f-full-remote)
 
 
 - **QA Automation Tester – Estágio IEFP** @_Papersoft_ [here](https://www.itjobs.pt/oferta/386797/qa-automation-tester-estagio-iefp)
