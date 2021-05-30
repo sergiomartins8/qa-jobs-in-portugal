@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sat, 29 May 2021 02:07_
+> _Last updated: Sun, 30 May 2021 02:22_
 
 ### ItJobs
 
@@ -227,9 +227,6 @@ Jobs
 
 
 - **Test Automation Engineer** @_Dellent Consulting_ [here](https://www.itjobs.pt/oferta/387400/test-automation-engineer)
-
-
-- **Quality Assurance Analyst** @_akapeople_ [here](https://www.itjobs.pt/oferta/381706/quality-assurance-analyst)
 
 
 - **Quality Assurance Engineer - CRM** @_Farfetch_ [here](https://www.itjobs.pt/oferta/383681/quality-assurance-engineer-crm)
