@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sun, 30 May 2021 02:22_
+> _Last updated: Mon, 31 May 2021 02:34_
 
 ### ItJobs
 
@@ -156,9 +156,6 @@ Jobs
 - **Quality Assurance Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/382510/quality-assurance-engineer)
 
 
-- **Quality Assurance Engineer** @_Banco Atlântico - Europa_ [here](https://www.itjobs.pt/oferta/384493/quality-assurance-engineer)
-
-
 - **Quality Assurance Tester** @_Axians_ [here](https://www.itjobs.pt/oferta/384242/quality-assurance-tester)
 
 
@@ -169,6 +166,9 @@ Jobs
 
 
 - **Quality Assurance Test Engineer** @_BOLD International_ [here](https://www.itjobs.pt/oferta/384319/quality-assurance-test-engineer)
+
+
+- **Software Quality Assurance Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/388332/software-quality-assurance-tester)
 
 
 - **DevOps - Software Quality Assurance** @_SYSMATCH - Consultores de Sistemas de Informação_ [here](https://www.itjobs.pt/oferta/380682/devops-software-quality-assurance)
@@ -253,9 +253,6 @@ Jobs
 - **Test Engineer - Architecture Group** @_Farfetch_ [here](https://www.itjobs.pt/oferta/386009/test-engineer-architecture-group)
 
 
-- **Senior Test Engineer** @_Farfetch_ [here](https://www.itjobs.pt/oferta/382119/senior-test-engineer)
-
-
 - **Test Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/386605/test-engineer)
 
 
@@ -269,13 +266,13 @@ Jobs
 - **Quality Tester** @_Dellent Consulting_ [here](https://www.itjobs.pt/oferta/382367/quality-tester)
 
 
+- **Software Tester (Team Lead)** @_Dellent Consulting_ [here](https://www.itjobs.pt/oferta/388099/software-tester-team-lead)
+
+
 - **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/387459/test-automation-engineer)
 
 
 - **QA Engineer** @_Contentserv Technologies_ [here](https://www.itjobs.pt/oferta/385648/qa-engineer)
-
-
-- **QA Automation Engineer** @_Link Consulting_ [here](https://www.itjobs.pt/oferta/385331/qa-automation-engineer)
 
 
 - **Automation Test Engineer** @_Findmore_ [here](https://www.itjobs.pt/oferta/383269/automation-test-engineer)
