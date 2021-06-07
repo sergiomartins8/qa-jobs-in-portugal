@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sun, 06 Jun 2021 01:33_
+> _Last updated: Mon, 07 Jun 2021 01:37_
 
 ### ItJobs
 
@@ -105,6 +105,9 @@ Jobs
 - **Quality Assurance** @_KWAN_ [here](https://www.itjobs.pt/oferta/382798/quality-assurance)
 
 
+- **PMO - Quality and Process Officer** @_Experis_ [here](https://www.itjobs.pt/oferta/384713/pmo-quality-and-process-officer)
+
+
 - **Automation Tester** @_DECSKILL_ [here](https://www.itjobs.pt/oferta/386342/automation-tester)
 
 
@@ -126,9 +129,6 @@ Jobs
 - **Automation Tester** @_Inoweiser_ [here](https://www.itjobs.pt/oferta/386831/automation-tester)
 
 
-- **Test Automation Expert** @_Match Profiler_ [here](https://www.itjobs.pt/oferta/376759/test-automation-expert)
-
-
 - **Quality Assurance Engineer** @_Dixtior Consulting_ [here](https://www.itjobs.pt/oferta/388800/quality-assurance-engineer)
 
 
@@ -139,9 +139,6 @@ Jobs
 
 
 - **Quality Assurance Engineer (fibra ótica/telecom)** @_Dellent Consulting_ [here](https://www.itjobs.pt/oferta/385360/quality-assurance-engineer-fibra-otica-telecom)
-
-
-- **Quality Assurance Automation Engineer** @_Grupo Your_ [here](https://www.itjobs.pt/oferta/383093/quality-assurance-automation-engineer-mf-referencia-yp-dw-qe)
 
 
 - **Test Automation** @_SYSMATCH - Consultores de Sistemas de Informação_ [here](https://www.itjobs.pt/oferta/382478/test-automation)
@@ -263,13 +260,7 @@ Jobs
 - **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/387459/test-automation-engineer)
 
 
-- **Automation Test Engineer** @_Findmore_ [here](https://www.itjobs.pt/oferta/383269/automation-test-engineer)
-
-
 - **QA Automation Tester – Estágio IEFP** @_Papersoft_ [here](https://www.itjobs.pt/oferta/386797/qa-automation-tester-estagio-iefp)
-
-
-- **QA Automation Tester** @_Findmore_ [here](https://www.itjobs.pt/oferta/382283/qa-automation-tester)
 
 
 - **Automation Test Lead** @_Noesis Portugal - Consultadoria em Sistemas de Informação, SA_ [here](https://www.itjobs.pt/oferta/382330/automation-test-lead)
@@ -288,6 +279,9 @@ Jobs
 
 
 - **Junior Automation Test Engineer** @_Findmore_ [here](https://www.itjobs.pt/oferta/383250/junior-automation-test-engineer)
+
+
+- **Automation Test Engineer** @_Findmore_ [here](https://www.itjobs.pt/oferta/383269/automation-test-engineer)
 
 
 - **Automation Tester** @_Findhu_ [here](https://www.itjobs.pt/oferta/388069/automation-tester)
