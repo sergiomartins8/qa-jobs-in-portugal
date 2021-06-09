@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Tue, 08 Jun 2021 01:32_
+> _Last updated: Wed, 09 Jun 2021 01:10_
 
 ### ItJobs
 
@@ -147,13 +147,13 @@ Jobs
 - **Test Automation Engineer** @_Imaginary Cloud_ [here](https://www.itjobs.pt/oferta/388519/test-automation-engineer)
 
 
-- **Quality Assurance Engineer** @_Banco Atlântico - Europa_ [here](https://www.itjobs.pt/oferta/384493/quality-assurance-engineer)
-
-
 - **Quality Assurance Tester** @_Axians_ [here](https://www.itjobs.pt/oferta/384242/quality-assurance-tester)
 
 
 - **Test Automation Expertise** @_Match Profiler_ [here](https://www.itjobs.pt/oferta/383151/test-automation-expertise)
+
+
+- **Software Quality Assurance Tester** @_Vortal_ [here](https://www.itjobs.pt/oferta/389249/software-quality-assurance-tester)
 
 
 - **Software Developer – Test Automation** @_agap2IT_ [here](https://www.itjobs.pt/oferta/388690/software-developer-test-automation-portugal)
@@ -191,6 +191,9 @@ Jobs
 #### Porto
 
 - **Quality Assurance Engineer** @_Losch Services - Portugal_ [here](https://www.itjobs.pt/oferta/385230/quality-assurance-engineer)
+
+
+- **Quality Assurance Engineer** @_Cocus_ [here](https://www.itjobs.pt/oferta/389255/quality-assurance-engineer)
 
 
 - **Automation Tester** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/388774/automation-tester)
@@ -232,9 +235,6 @@ Jobs
 - **Test Automation Engineer** @_Euronext_ [here](https://www.itjobs.pt/oferta/386321/test-automation-engineer)
 
 
-- **QA Tester** @_Red IT_ [here](https://www.itjobs.pt/oferta/387771/qa-tester)
-
-
 - **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/387459/test-automation-engineer)
 
 
@@ -269,10 +269,19 @@ Jobs
 - **Software Tester (Team Lead)** @_Dellent Consulting_ [here](https://www.itjobs.pt/oferta/388099/software-tester-team-lead)
 
 
+- **Software Quality Assurance Tester** @_Vortal_ [here](https://www.itjobs.pt/oferta/389249/software-quality-assurance-tester)
+
+
 - **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/387459/test-automation-engineer)
 
 
+- **Automation Test Engineer** @_Findmore_ [here](https://www.itjobs.pt/oferta/383269/automation-test-engineer)
+
+
 - **QA Automation Tester – Estágio IEFP** @_Papersoft_ [here](https://www.itjobs.pt/oferta/386797/qa-automation-tester-estagio-iefp)
+
+
+- **QA Manager** @_Contentserv Technologies_ [here](https://www.itjobs.pt/oferta/385670/qa-manager)
 
 
 - **Software Quality Assurance Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/388456/software-quality-assurance-tester)
@@ -288,9 +297,6 @@ Jobs
 
 
 - **Junior Automation Test Engineer** @_Findmore_ [here](https://www.itjobs.pt/oferta/383250/junior-automation-test-engineer)
-
-
-- **Automation Test Engineer** @_Findmore_ [here](https://www.itjobs.pt/oferta/383269/automation-test-engineer)
 
 
 - **Automation Tester** @_Findhu_ [here](https://www.itjobs.pt/oferta/388069/automation-tester)
