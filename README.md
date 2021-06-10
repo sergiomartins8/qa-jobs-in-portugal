@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Wed, 09 Jun 2021 01:10_
+> _Last updated: Thu, 10 Jun 2021 01:07_
 
 ### ItJobs
 
@@ -293,13 +293,13 @@ Jobs
 - **Quality Assurance Analyst** @_Infraspeak_ [here](https://www.itjobs.pt/oferta/383664/quality-assurance-analyst)
 
 
-- **QA Analyst** @_Dashlane_ [here](https://www.itjobs.pt/oferta/387500/qa-analyst)
-
-
 - **Junior Automation Test Engineer** @_Findmore_ [here](https://www.itjobs.pt/oferta/383250/junior-automation-test-engineer)
 
 
 - **Automation Tester** @_Findhu_ [here](https://www.itjobs.pt/oferta/388069/automation-tester)
+
+
+- **Quality Assurance Engineer** @_New Work SE_ [here](https://www.itjobs.pt/oferta/389119/senior-quality-assurance-engineer)
 
 
 - **Quality Assurance Engineer** @_Banco Atlântico - Europa_ [here](https://www.itjobs.pt/oferta/384493/quality-assurance-engineer)
