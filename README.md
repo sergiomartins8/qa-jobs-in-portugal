@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Fri, 25 Jun 2021 01:07_
+> _Last updated: Sat, 26 Jun 2021 00:59_
 
 ### ItJobs
 
@@ -120,9 +120,6 @@ Jobs
 - **Lead of Quality Assurance Practice** @_PwC Portugal_ [here](https://www.itjobs.pt/oferta/390943/lead-of-quality-assurance-practice)
 
 
-- **QA Engineer** @_NEX T Engineering_ [here](https://www.itjobs.pt/oferta/391774/qa-engineer)
-
-
 - **Test Automation Engineer** @_Smart Consulting_ [here](https://www.itjobs.pt/oferta/391446/test-automation-engineer)
 
 
@@ -168,10 +165,10 @@ Jobs
 - **Test Automation Engineer** @_Imaginary Cloud_ [here](https://www.itjobs.pt/oferta/390201/test-automation-engineer)
 
 
+- **Quality Assurance Test Engineer** @_BOLD International_ [here](https://www.itjobs.pt/oferta/391100/quality-assurance-test-engineer)
+
+
 - **Quality Assurance - Software Tester** @_Banco Atlântico - Europa_ [here](https://www.itjobs.pt/oferta/391657/quality-assurance-software-tester)
-
-
-- **Quality Assurance Consultant** @_Adentis_ [here](https://www.itjobs.pt/oferta/388324/quality-assurance-consultant)
 
 #### Porto
 
@@ -200,6 +197,9 @@ Jobs
 
 
 - **Test Engineer** @_Farfetch_ [here](https://www.itjobs.pt/oferta/390530/test-engineer)
+
+
+- **QA – Júnior** @_Adentis_ [here](https://www.itjobs.pt/oferta/391807/qa-junior)
 
 
 - **Automation Tester** @_Findhu_ [here](https://www.itjobs.pt/oferta/388069/automation-tester)
