@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sat, 26 Jun 2021 00:59_
+> _Last updated: Sun, 27 Jun 2021 01:08_
 
 ### ItJobs
 
@@ -150,9 +150,6 @@ Jobs
 - **DevOps - Software Quality Assurance** @_SYSMATCH - Consultores de Sistemas de Informação_ [here](https://www.itjobs.pt/oferta/380682/devops-software-quality-assurance)
 
 
-- **Technical Engineer – Test automation / RPA** @_agap2IT_ [here](https://www.itjobs.pt/oferta/385411/technical-engineer-test-automation-rpa)
-
-
 - **Test Automation Expert** @_Ankix_ [here](https://www.itjobs.pt/oferta/383194/test-automation-expert)
 
 
@@ -215,9 +212,6 @@ Jobs
 
 
 - **Test Automation Engineer** @_SYSMATCH - Consultores de Sistemas de Informação_ [here](https://www.itjobs.pt/oferta/379895/test-automation-engineer)
-
-
-- **Test Engineer - Architecture Group** @_Farfetch_ [here](https://www.itjobs.pt/oferta/386009/test-engineer-architecture-group)
 
 
 - **Test Automation Engineer** @_BOLD International_ [here](https://www.itjobs.pt/oferta/387450/test-automation-engineer)
