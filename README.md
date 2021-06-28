@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sun, 27 Jun 2021 01:08_
+> _Last updated: Mon, 28 Jun 2021 01:02_
 
 ### ItJobs
 
@@ -49,6 +49,9 @@ Jobs
 
 
 - **Quality Assurance Engineer** @_Winprovit - Soluções Inteligentes_ [here](https://www.itjobs.pt/oferta/390372/quality-assurance-engineer)
+
+
+- **Software Test Engineer** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/391378/software-test-engineer)
 
 
 - **Quality Assurance Engineer** @_Withus_ [here](https://www.itjobs.pt/oferta/391754/quality-assurance-engineer)
@@ -106,6 +109,9 @@ Jobs
 
 
 - **Quality Assurance Engineer** @_Noesis Portugal - Consultadoria em Sistemas de Informação, SA_ [here](https://www.itjobs.pt/oferta/387625/quality-assurance-engineer)
+
+
+- **QA Automation Tester** @_Neotalent_ [here](https://www.itjobs.pt/oferta/390947/qa-automation-tester)
 
 
 - **Quality Assurance / Automation Tester** @_Axians_ [here](https://www.itjobs.pt/oferta/386785/quality-assurance-automation-tester)
@@ -182,6 +188,9 @@ Jobs
 
 
 - **Software Developer – Test Automation** @_agap2IT_ [here](https://www.itjobs.pt/oferta/390537/software-developer-test-automation)
+
+
+- **QA Automation Tester** @_Neotalent_ [here](https://www.itjobs.pt/oferta/390947/qa-automation-tester)
 
 
 - **Test Automation** @_Ankix_ [here](https://www.itjobs.pt/oferta/386039/test-automation)
