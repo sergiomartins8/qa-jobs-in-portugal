@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Thu, 01 Jul 2021 01:05_
+> _Last updated: Fri, 02 Jul 2021 01:01_
 
 ### ItJobs
 
@@ -84,6 +84,9 @@ Jobs
 
 
 - **Test Automation Engineer** @_Dellent Consulting_ [here](https://www.itjobs.pt/oferta/387400/test-automation-engineer)
+
+
+- **Automation Test Lead** @_Noesis Portugal - Consultadoria em Sistemas de Informação, SA_ [here](https://www.itjobs.pt/oferta/392620/automation-test-lead)
 
 
 - **QA Analyst** @_Noesis Portugal - Consultadoria em Sistemas de Informação, SA_ [here](https://www.itjobs.pt/oferta/391013/qa-analyst-remote-lisboa-coimbra-ou-porto)
@@ -272,7 +275,13 @@ Jobs
 - **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/387459/test-automation-engineer)
 
 
+- **QA Engineer** @_GuestCentric Systems_ [here](https://www.itjobs.pt/oferta/393124/qa-engineer)
+
+
 - **Senior Quality Assurance Engineer** @_NBCC Consulting_ [here](https://www.itjobs.pt/oferta/390272/senior-quality-assurance-engineer)
+
+
+- **Senior QA Automation Engineer** @_Boost IT_ [here](https://www.itjobs.pt/oferta/393157/senior-qa-automation-engineer)
 
 
 - **QA Automation Tester – Estágio IEFP** @_Papersoft_ [here](https://www.itjobs.pt/oferta/386797/qa-automation-tester-estagio-iefp)
