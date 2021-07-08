@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Wed, 07 Jul 2021 01:04_
+> _Last updated: Thu, 08 Jul 2021 01:01_
 
 ### ItJobs
 
@@ -62,6 +62,9 @@ Jobs
 
 - **Software Tester** @_The Virtual Forge_ [here](https://www.itjobs.pt/oferta/390721/software-tester)
 
+
+- **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/394141/test-automation-engineer)
+
 #### Braga
 
 - **Automation Tester** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/393453/automation-tester)
@@ -80,6 +83,15 @@ Jobs
 - **Automation Test Lead** @_Noesis Portugal - Consultadoria em Sistemas de Informação, SA_ [here](https://www.itjobs.pt/oferta/392620/automation-test-lead)
 
 
+- **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/394141/test-automation-engineer)
+
+
+- **Senior QA Engineer** @_Noesis Portugal - Consultadoria em Sistemas de Informação, SA_ [here](https://www.itjobs.pt/oferta/387682/senior-qa-engineer)
+
+
+- **QA Analyst** @_Noesis Portugal - Consultadoria em Sistemas de Informação, SA_ [here](https://www.itjobs.pt/oferta/391013/qa-analyst-remote-lisboa-coimbra-ou-porto)
+
+
 - **Test Automation Engineer** @_Imaginary Cloud_ [here](https://www.itjobs.pt/oferta/392530/test-automation-engineer)
 
 
@@ -93,10 +105,16 @@ Jobs
 - **Test Manager** @_Olisipo_ [here](https://www.itjobs.pt/oferta/393725/test-manager)
 
 
+- **Software Tester** @_The Virtual Forge_ [here](https://www.itjobs.pt/oferta/390721/software-tester)
+
+
 - **Quality Assurance Engineer** @_Noesis Portugal - Consultadoria em Sistemas de Informação, SA_ [here](https://www.itjobs.pt/oferta/387625/quality-assurance-engineer)
 
 
 - **Test Automation Engineer** @_Imaginary Cloud_ [here](https://www.itjobs.pt/oferta/392530/test-automation-engineer)
+
+
+- **QA Automation Tester** @_Neotalent_ [here](https://www.itjobs.pt/oferta/390947/qa-automation-tester)
 
 
 - **Quality Assurance/ Business Analytics** @_Ankix_ [here](https://www.itjobs.pt/oferta/390367/quality-assurance-business-analytics)
@@ -187,10 +205,13 @@ Jobs
 - **Test Automation Engineer** @_BOLD International_ [here](https://www.itjobs.pt/oferta/387450/test-automation-engineer)
 
 
+- **Software Tester** @_The Virtual Forge_ [here](https://www.itjobs.pt/oferta/390721/software-tester)
+
+
 - **Test Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/393628/test-engineer)
 
 
-- **Software Tester** @_The Virtual Forge_ [here](https://www.itjobs.pt/oferta/390721/software-tester)
+- **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/394141/test-automation-engineer)
 
 
 - **Quality Assurance Tester** @_Winprovit - Soluções Inteligentes_ [here](https://www.itjobs.pt/oferta/389928/quality-assurance-tester)
@@ -232,9 +253,6 @@ Jobs
 - **Quality Assurance Engineer** @_Winprovit - Soluções Inteligentes_ [here](https://www.itjobs.pt/oferta/391144/quality-assurance-engineer)
 
 
-- **Quality Assurance Engineer** @_New Work SE_ [here](https://www.itjobs.pt/oferta/389119/senior-quality-assurance-engineer)
-
-
 - **Quality Assurance Tester Analyst** @_NEX T Engineering_ [here](https://www.itjobs.pt/oferta/393759/quality-assurance-tester-analyst)
 
 #### Remote
@@ -260,13 +278,16 @@ Jobs
 - **Software Quality Assurance Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/388456/software-quality-assurance-tester)
 
 
+- **Software Tester** @_The Virtual Forge_ [here](https://www.itjobs.pt/oferta/390721/software-tester)
+
+
 - **Senior QA Automated Engineer** @_Digital Works_ [here](https://www.itjobs.pt/oferta/393857/senior-qa-automated-engineer)
 
 
+- **Quality Assurance Engineer Expert** @_KCS IT_ [here](https://www.itjobs.pt/oferta/393862/quality-assurance-engineer-expert)
+
+
 - **Senior QA Automation Engineer** @_Boost IT_ [here](https://www.itjobs.pt/oferta/393157/senior-qa-automation-engineer)
-
-
-- **Quality Assurance Engineer** @_New Work SE_ [here](https://www.itjobs.pt/oferta/389119/senior-quality-assurance-engineer)
 
 
 - **Quality Assurance - Software Tester** @_Banco Atlântico - Europa_ [here](https://www.itjobs.pt/oferta/391657/quality-assurance-software-tester)
