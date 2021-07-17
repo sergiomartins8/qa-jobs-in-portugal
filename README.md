@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Fri, 16 Jul 2021 01:03_
+> _Last updated: Sat, 17 Jul 2021 01:01_
 
 ### ItJobs
 
@@ -60,9 +60,6 @@ Jobs
 - **Automation Tester** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/393453/automation-tester)
 
 
-- **Software Tester** @_The Virtual Forge_ [here](https://www.itjobs.pt/oferta/390721/software-tester)
-
-
 - **Test Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/393628/test-engineer)
 
 
@@ -73,17 +70,11 @@ Jobs
 - **Automation Tester** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/393453/automation-tester)
 
 
-- **Software Tester** @_The Virtual Forge_ [here](https://www.itjobs.pt/oferta/390721/software-tester)
-
-
 - **Test Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/393628/test-engineer)
 
 #### Coimbra
 
 - **Test Automation Engineer** @_Imaginary Cloud_ [here](https://www.itjobs.pt/oferta/395862/test-automation-engineer)
-
-
-- **Software Tester** @_The Virtual Forge_ [here](https://www.itjobs.pt/oferta/390721/software-tester)
 
 
 - **Test Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/393628/test-engineer)
@@ -112,9 +103,6 @@ Jobs
 
 
 - **Test Manager** @_Olisipo_ [here](https://www.itjobs.pt/oferta/393725/test-manager)
-
-
-- **Software Tester** @_The Virtual Forge_ [here](https://www.itjobs.pt/oferta/390721/software-tester)
 
 
 - **Automation Test Engineer** @_Hitachi Vantara_ [here](https://www.itjobs.pt/oferta/396087/automation-test-engineer)
@@ -180,6 +168,9 @@ Jobs
 - **Technical Engineer – Test automation / RPA** @_agap2IT_ [here](https://www.itjobs.pt/oferta/392483/technical-engineer-test-automation-rpa-portugal)
 
 
+- **Functional Test Engineer** @_Hitachi Vantara_ [here](https://www.itjobs.pt/oferta/396279/functional-test-engineer)
+
+
 - **Quality Assurance Engineer** @_Winprovit - Soluções Inteligentes_ [here](https://www.itjobs.pt/oferta/391144/quality-assurance-engineer)
 
 
@@ -200,9 +191,6 @@ Jobs
 
 
 - **Quality Assurance Analyst – Frontend** @_Aubay_ [here](https://www.itjobs.pt/oferta/393142/quality-assurance-analyst-frontend)
-
-
-- **Software Tester** @_The Virtual Forge_ [here](https://www.itjobs.pt/oferta/390721/software-tester)
 
 
 - **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/394141/test-automation-engineer)
@@ -232,9 +220,6 @@ Jobs
 - **Quality Assurance Tester Analyst** @_NEX T Engineering_ [here](https://www.itjobs.pt/oferta/393759/quality-assurance-tester-analyst)
 
 
-- **QA Automation Engineer** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/395922/qa-automation-engineer)
-
-
 - **Quality Assurance Analyst** @_akapeople_ [here](https://www.itjobs.pt/oferta/394424/quality-assurance-analyst)
 
 
@@ -253,9 +238,6 @@ Jobs
 - **Quality Assurance Engineer** @_Smart Consulting_ [here](https://www.itjobs.pt/oferta/390999/quality-assurance-automation-engineer)
 
 
-- **Senior Test Engineer** @_Farfetch_ [here](https://www.itjobs.pt/oferta/395164/senior-test-engineer)
-
-
 - **Quality Assurance Engineer** @_Winprovit - Soluções Inteligentes_ [here](https://www.itjobs.pt/oferta/390372/quality-assurance-engineer)
 
 
@@ -271,9 +253,15 @@ Jobs
 - **QA Automation** @_Dellent Consulting_ [here](https://www.itjobs.pt/oferta/394525/qa-automation)
 
 
+- **QA Engineer** @_Hitachi Vantara_ [here](https://www.itjobs.pt/oferta/395613/qa-engineer)
+
+
 - **Quality Assurance Engineer** @_Winprovit - Soluções Inteligentes_ [here](https://www.itjobs.pt/oferta/391144/quality-assurance-engineer)
 
 #### Remote
+
+- **Senior Test Engineer** @_Farfetch_ [here](https://www.itjobs.pt/oferta/395164/senior-test-engineer)
+
 
 - **QA Automation** @_KWAN_ [here](https://www.itjobs.pt/oferta/391649/qa-automation)
 
@@ -288,9 +276,6 @@ Jobs
 
 
 - **QA Engineer** @_Hitachi Vantara_ [here](https://www.itjobs.pt/oferta/395613/qa-engineer)
-
-
-- **Software Tester** @_The Virtual Forge_ [here](https://www.itjobs.pt/oferta/390721/software-tester)
 
 
 - **Cypress Test Engineer** @_Hitachi Vantara_ [here](https://www.itjobs.pt/oferta/395394/cypress-test-engineer)
