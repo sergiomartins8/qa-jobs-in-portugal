@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sat, 17 Jul 2021 01:01_
+> _Last updated: Sun, 18 Jul 2021 01:04_
 
 ### ItJobs
 
@@ -97,9 +97,6 @@ Jobs
 #### Lisboa
 
 - **Functional QA** @_KWAN_ [here](https://www.itjobs.pt/oferta/394655/functional-qa)
-
-
-- **Test Automation Engineer** @_Ankix_ [here](https://www.itjobs.pt/oferta/384864/test-automation-engineer)
 
 
 - **Test Manager** @_Olisipo_ [here](https://www.itjobs.pt/oferta/393725/test-manager)
@@ -187,9 +184,6 @@ Jobs
 - **Quality Assurance Engineer** @_Dellent Consulting_ [here](https://www.itjobs.pt/oferta/391056/quality-assurance-engineer)
 
 
-- **Software Quality Assurance** @_Ocean Infinity_ [here](https://www.itjobs.pt/oferta/393742/software-quality-assurance)
-
-
 - **Quality Assurance Analyst – Frontend** @_Aubay_ [here](https://www.itjobs.pt/oferta/393142/quality-assurance-analyst-frontend)
 
 
@@ -224,6 +218,9 @@ Jobs
 
 
 - **Quality Assurance Engineer** @_KCS IT_ [here](https://www.itjobs.pt/oferta/393097/quality-assurance-engineer)
+
+
+- **Quality Assurance Analyst** @_Olisipo_ [here](https://www.itjobs.pt/oferta/396180/quality-assurance-analyst)
 
 
 - **Test Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/393628/test-engineer)
