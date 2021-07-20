@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Mon, 19 Jul 2021 01:03_
+> _Last updated: Tue, 20 Jul 2021 01:07_
 
 ### ItJobs
 
@@ -112,6 +112,9 @@ Jobs
 
 
 - **Quality Assurance/ Business Analytics** @_Ankix_ [here](https://www.itjobs.pt/oferta/390367/quality-assurance-business-analytics)
+
+
+- **Test Automation Engineer** @_BOLD International_ [here](https://www.itjobs.pt/oferta/394564/test-automation-engineer)
 
 
 - **Automation Tester** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/393453/automation-tester)
@@ -190,6 +193,9 @@ Jobs
 - **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/394141/test-automation-engineer)
 
 
+- **Mobile Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/393897/mobile-test-automation-engineer)
+
+
 - **Software Developer – Test Automation** @_agap2IT_ [here](https://www.itjobs.pt/oferta/390537/software-developer-test-automation)
 
 
@@ -200,6 +206,9 @@ Jobs
 
 
 - **Quality Assurance Engineer** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/393903/senior-test-automation)
+
+
+- **Test Automation Engineer** @_BOLD International_ [here](https://www.itjobs.pt/oferta/394564/test-automation-engineer)
 
 
 - **Automation Tester** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/393453/automation-tester)
@@ -226,9 +235,6 @@ Jobs
 - **Test Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/393628/test-engineer)
 
 
-- **Quality Assurance Tester** @_Winprovit - Soluções Inteligentes_ [here](https://www.itjobs.pt/oferta/389928/quality-assurance-tester)
-
-
 - **Quality Assurance Analyst** @_Axians_ [here](https://www.itjobs.pt/oferta/394679/quality-assurance-analyst)
 
 
@@ -248,9 +254,6 @@ Jobs
 
 
 - **QA Automation** @_Dellent Consulting_ [here](https://www.itjobs.pt/oferta/394525/qa-automation)
-
-
-- **QA Engineer** @_Hitachi Vantara_ [here](https://www.itjobs.pt/oferta/395613/qa-engineer)
 
 
 - **Quality Assurance Engineer** @_Winprovit - Soluções Inteligentes_ [here](https://www.itjobs.pt/oferta/391144/quality-assurance-engineer)
