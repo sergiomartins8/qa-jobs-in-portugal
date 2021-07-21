@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Tue, 20 Jul 2021 01:07_
+> _Last updated: Wed, 21 Jul 2021 01:04_
 
 ### ItJobs
 
@@ -46,9 +46,6 @@ Jobs
 
 
 - **Test Automation** @_Ankix_ [here](https://www.itjobs.pt/oferta/386039/test-automation)
-
-
-- **Quality Assurance Engineer** @_Winprovit - Soluções Inteligentes_ [here](https://www.itjobs.pt/oferta/390372/quality-assurance-engineer)
 
 
 - **QA Automation Engineer** @_craftable software_ [here](https://www.itjobs.pt/oferta/394399/qa-automation-engineer)
@@ -96,7 +93,7 @@ Jobs
 
 #### Lisboa
 
-- **Functional QA** @_KWAN_ [here](https://www.itjobs.pt/oferta/394655/functional-qa)
+- **Test Automation** @_Adentis_ [here](https://www.itjobs.pt/oferta/396656/test-automation)
 
 
 - **Test Manager** @_Olisipo_ [here](https://www.itjobs.pt/oferta/393725/test-manager)
@@ -106,9 +103,6 @@ Jobs
 
 
 - **Cypress Test Engineer** @_Hitachi Vantara_ [here](https://www.itjobs.pt/oferta/395394/cypress-test-engineer)
-
-
-- **QA Automation Tester** @_Neotalent_ [here](https://www.itjobs.pt/oferta/390947/qa-automation-tester)
 
 
 - **Quality Assurance/ Business Analytics** @_Ankix_ [here](https://www.itjobs.pt/oferta/390367/quality-assurance-business-analytics)
@@ -135,9 +129,6 @@ Jobs
 - **Quality Assurance Tester Analyst** @_NEX T Engineering_ [here](https://www.itjobs.pt/oferta/393759/quality-assurance-tester-analyst)
 
 
-- **Automation Tester** @_DECSKILL_ [here](https://www.itjobs.pt/oferta/393289/automation-tester)
-
-
 - **Quality Assurance** @_Winprovit - Soluções Inteligentes_ [here](https://www.itjobs.pt/oferta/391193/quality-assurance)
 
 
@@ -156,16 +147,13 @@ Jobs
 - **Test Automation** @_Dellent Consulting_ [here](https://www.itjobs.pt/oferta/392120/test-automation)
 
 
-- **Quality Assurance Engineer** @_Winprovit - Soluções Inteligentes_ [here](https://www.itjobs.pt/oferta/390372/quality-assurance-engineer)
-
-
-- **Test Automation Consultant** @_everis_ [here](https://www.itjobs.pt/oferta/390022/test-automation-consultant)
-
-
 - **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/394282/quality-assurance-developer)
 
 
 - **Technical Engineer – Test automation / RPA** @_agap2IT_ [here](https://www.itjobs.pt/oferta/392483/technical-engineer-test-automation-rpa-portugal)
+
+
+- **Test Automation Specialist** @_Stefanini Portugal_ [here](https://www.itjobs.pt/oferta/396666/test-automation-specialist)
 
 
 - **Functional Test Engineer** @_Hitachi Vantara_ [here](https://www.itjobs.pt/oferta/396279/functional-test-engineer)
@@ -185,6 +173,9 @@ Jobs
 #### Porto
 
 - **Quality Assurance Engineer** @_Dellent Consulting_ [here](https://www.itjobs.pt/oferta/391056/quality-assurance-engineer)
+
+
+- **Technical Engineer – Test automation / RPA** @_agap2IT_ [here](https://www.itjobs.pt/oferta/396591/technical-engineer-test-automation-rpa)
 
 
 - **Quality Assurance Analyst – Frontend** @_Aubay_ [here](https://www.itjobs.pt/oferta/393142/quality-assurance-analyst-frontend)
@@ -223,6 +214,9 @@ Jobs
 - **Quality Assurance Tester Analyst** @_NEX T Engineering_ [here](https://www.itjobs.pt/oferta/393759/quality-assurance-tester-analyst)
 
 
+- **Quality Assurance Engineer** @_Cocus_ [here](https://www.itjobs.pt/oferta/396075/quality-assurance-engineer)
+
+
 - **Quality Assurance Analyst** @_akapeople_ [here](https://www.itjobs.pt/oferta/394424/quality-assurance-analyst)
 
 
@@ -239,9 +233,6 @@ Jobs
 
 
 - **Quality Assurance Engineer** @_Smart Consulting_ [here](https://www.itjobs.pt/oferta/390999/quality-assurance-automation-engineer)
-
-
-- **Quality Assurance Engineer** @_Winprovit - Soluções Inteligentes_ [here](https://www.itjobs.pt/oferta/390372/quality-assurance-engineer)
 
 
 - **Quality Assurance Analyst** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/394520/quality-assurance-analyst)
@@ -276,6 +267,9 @@ Jobs
 
 
 - **QA Engineer** @_Hitachi Vantara_ [here](https://www.itjobs.pt/oferta/395613/qa-engineer)
+
+
+- **Automation QA Engineer** @_Scopic Software_ [here](https://www.itjobs.pt/oferta/396633/automation-qa-engineer)
 
 
 - **Cypress Test Engineer** @_Hitachi Vantara_ [here](https://www.itjobs.pt/oferta/395394/cypress-test-engineer)
