@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Thu, 22 Jul 2021 01:04_
+> _Last updated: Fri, 23 Jul 2021 01:03_
 
 ### ItJobs
 
@@ -215,6 +215,9 @@ Jobs
 
 
 - **Software Development Engineer in Test** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/396339/software-development-engineer-in-test)
+
+
+- **Lead QA Engineer** @_Michael Page Portugal_ [here](https://www.itjobs.pt/oferta/396760/lead-qa-engineer-m-f)
 
 
 - **Quality Assurance Engineer** @_Cocus_ [here](https://www.itjobs.pt/oferta/396075/quality-assurance-engineer)
