@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Wed, 28 Jul 2021 01:06_
+> _Last updated: Thu, 29 Jul 2021 01:01_
 
 ### ItJobs
 
@@ -61,6 +61,9 @@ Jobs
 
 
 - **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/394141/test-automation-engineer)
+
+
+- **Software Test Engineer** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/398283/software-test-engineer)
 
 #### Braga
 
