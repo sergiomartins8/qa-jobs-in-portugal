@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Tue, 03 Aug 2021 01:07_
+> _Last updated: Wed, 04 Aug 2021 01:02_
 
 ### ItJobs
 
@@ -120,6 +120,9 @@ Jobs
 - **Test Manager** @_Olisipo_ [here](https://www.itjobs.pt/oferta/393725/test-manager)
 
 
+- **Automation Test Engineer** @_Hitachi Vantara_ [here](https://www.itjobs.pt/oferta/396087/automation-test-engineer)
+
+
 - **Quality Tester** @_Dellent Consulting_ [here](https://www.itjobs.pt/oferta/398494/quality-tester)
 
 
@@ -177,6 +180,9 @@ Jobs
 - **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/394282/quality-assurance-developer)
 
 
+- **Functional Test Engineer** @_Hitachi Vantara_ [here](https://www.itjobs.pt/oferta/396279/functional-test-engineer)
+
+
 - **Quality Assurance Engineer** @_Dixtior Consulting_ [here](https://www.itjobs.pt/oferta/394992/quality-assurance-engineer)
 
 #### Porto
@@ -214,9 +220,6 @@ Jobs
 - **Software Development Engineer in Test** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/396339/software-development-engineer-in-test)
 
 
-- **Quality Assurance Engineer** @_Cocus_ [here](https://www.itjobs.pt/oferta/396075/quality-assurance-engineer)
-
-
 - **Quality Assurance Analyst** @_akapeople_ [here](https://www.itjobs.pt/oferta/394424/quality-assurance-analyst)
 
 
@@ -242,6 +245,9 @@ Jobs
 
 
 - **Quality Assurance Analyst** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/394520/quality-assurance-analyst)
+
+
+- **Software Quality Assurance Engineer** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/398839/software-quality-assurance-engineer)
 
 
 - **Quality Assurance Engineer** @_Olisipo_ [here](https://www.itjobs.pt/oferta/392566/quality-assurance-engineer)
@@ -273,6 +279,9 @@ Jobs
 
 
 - **QA Engineer** @_GuestCentric Systems_ [here](https://www.itjobs.pt/oferta/393124/qa-engineer)
+
+
+- **QA Engineer** @_BOLD International_ [here](https://www.itjobs.pt/oferta/396689/qa-engineer)
 
 
 - **Automation QA Engineer** @_Scopic Software_ [here](https://www.itjobs.pt/oferta/396633/automation-qa-engineer)
