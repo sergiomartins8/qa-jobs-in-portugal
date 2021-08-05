@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Wed, 04 Aug 2021 01:02_
+> _Last updated: Thu, 05 Aug 2021 01:03_
 
 ### ItJobs
 
@@ -129,9 +129,6 @@ Jobs
 - **Test Automation Engineer** @_BOLD International_ [here](https://www.itjobs.pt/oferta/394564/test-automation-engineer)
 
 
-- **QA Tester** @_Findmore_ [here](https://www.itjobs.pt/oferta/396285/qa-tester)
-
-
 - **Software Tester** @_Findmore_ [here](https://www.itjobs.pt/oferta/396765/software-tester)
 
 
@@ -148,6 +145,9 @@ Jobs
 
 
 - **Test Automation Engineer** @_NEX T Engineering_ [here](https://www.itjobs.pt/oferta/397486/test-automation-engineer)
+
+
+- **Automation Tester** @_Winprovit - Soluções Inteligentes_ [here](https://www.itjobs.pt/oferta/398884/automation-tester)
 
 
 - **Tester Automação - Quality Assurance Consultant** @_Adentis_ [here](https://www.itjobs.pt/oferta/398750/tester-automacao-quality-assurance-consultant)
