@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Thu, 05 Aug 2021 01:03_
+> _Last updated: Fri, 06 Aug 2021 01:06_
 
 ### ItJobs
 
@@ -46,9 +46,6 @@ Jobs
 
 
 - **Software Tester - Product Development** @_PRIMAVERA - Business Software Solutions_ [here](https://www.itjobs.pt/oferta/397748/software-tester-product-development)
-
-
-- **Automation Tester** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/393453/automation-tester)
 
 
 - **QA Engineer** @_BOLD International_ [here](https://www.itjobs.pt/oferta/396689/qa-engineer)
@@ -67,18 +64,15 @@ Jobs
 
 #### Braga
 
-- **Junior Test / QA Engineer** @_Capitalise.com Platform Ltd_ [here](https://www.itjobs.pt/oferta/398510/junior-test-qa-engineer)
-
-
 - **Software Tester - Product Development** @_PRIMAVERA - Business Software Solutions_ [here](https://www.itjobs.pt/oferta/397748/software-tester-product-development)
-
-
-- **Automation Tester** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/393453/automation-tester)
 
 
 - **Test Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/393628/test-engineer)
 
 #### Coimbra
+
+- **Front-End Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/393896/front-end-test-automation-engineer)
+
 
 - **Quality Assurance Engineer** @_Smart Consulting_ [here](https://www.itjobs.pt/oferta/397903/quality-assurance-engineer)
 
@@ -89,10 +83,10 @@ Jobs
 - **Test Automation Engineer** @_Imaginary Cloud_ [here](https://www.itjobs.pt/oferta/398123/test-automation-engineer)
 
 
+- **QAE** @_Aubay_ [here](https://www.itjobs.pt/oferta/399439/qae)
+
+
 - **Test Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/393628/test-engineer)
-
-
-- **Automation Test Lead** @_Noesis Portugal - Consultadoria em Sistemas de Informação, SA_ [here](https://www.itjobs.pt/oferta/392620/automation-test-lead)
 
 
 - **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/394141/test-automation-engineer)
@@ -129,7 +123,7 @@ Jobs
 - **Test Automation Engineer** @_BOLD International_ [here](https://www.itjobs.pt/oferta/394564/test-automation-engineer)
 
 
-- **Software Tester** @_Findmore_ [here](https://www.itjobs.pt/oferta/396765/software-tester)
+- **QA - Functional Tests** @_KWAN_ [here](https://www.itjobs.pt/oferta/399400/qa-functional-tests)
 
 
 - **Automation Tester** @_Findmore_ [here](https://www.itjobs.pt/oferta/396894/automation-tester)
@@ -208,7 +202,7 @@ Jobs
 - **Test Automation Engineer** @_BOLD International_ [here](https://www.itjobs.pt/oferta/394564/test-automation-engineer)
 
 
-- **Automation Tester** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/393453/automation-tester)
+- **QA Automation** @_Adentis_ [here](https://www.itjobs.pt/oferta/393677/qa-automation)
 
 
 - **Quality Assurance Tester Analyst** @_NEX T Engineering_ [here](https://www.itjobs.pt/oferta/393759/quality-assurance-tester-analyst)
@@ -244,13 +238,13 @@ Jobs
 - **Quality Assurance Engineer** @_Smart Consulting_ [here](https://www.itjobs.pt/oferta/397903/quality-assurance-engineer)
 
 
+- **Quality Assurance Engineer** @_Aubay_ [here](https://www.itjobs.pt/oferta/398581/quality-assurance-engineer)
+
+
 - **Quality Assurance Analyst** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/394520/quality-assurance-analyst)
 
 
 - **Software Quality Assurance Engineer** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/398839/software-quality-assurance-engineer)
-
-
-- **Quality Assurance Engineer** @_Olisipo_ [here](https://www.itjobs.pt/oferta/392566/quality-assurance-engineer)
 
 
 - **Front-End Test Automation Engineer** @_Reloading_ [here](https://www.itjobs.pt/oferta/398690/front-end-test-automation-engineer)
@@ -272,40 +266,34 @@ Jobs
 
 #### Remote
 
-- **Software Tester - Product Development** @_PRIMAVERA - Business Software Solutions_ [here](https://www.itjobs.pt/oferta/397748/software-tester-product-development)
-
-
-- **Automation Tester (QA & Performance)** @_Crossjoin Solutions_ [here](https://www.itjobs.pt/oferta/397024/automation-tester-qa-performance)
-
-
-- **QA Engineer** @_GuestCentric Systems_ [here](https://www.itjobs.pt/oferta/393124/qa-engineer)
-
-
-- **QA Engineer** @_BOLD International_ [here](https://www.itjobs.pt/oferta/396689/qa-engineer)
-
-
-- **Automation QA Engineer** @_Scopic Software_ [here](https://www.itjobs.pt/oferta/396633/automation-qa-engineer)
-
-
-- **Cypress Test Engineer** @_Hitachi Vantara_ [here](https://www.itjobs.pt/oferta/395394/cypress-test-engineer)
-
-
-- **Senior QA Automation Engineer** @_Boost IT_ [here](https://www.itjobs.pt/oferta/393157/senior-qa-automation-engineer)
-
-
 - **Senior Test Engineer** @_Farfetch_ [here](https://www.itjobs.pt/oferta/395164/senior-test-engineer)
 
 
 - **Junior Test / QA Engineer** @_Capitalise.com Platform Ltd_ [here](https://www.itjobs.pt/oferta/398510/junior-test-qa-engineer)
 
 
+- **Software Tester - Product Development** @_PRIMAVERA - Business Software Solutions_ [here](https://www.itjobs.pt/oferta/397748/software-tester-product-development)
+
+
 - **Front-End Test Automation Engineer** @_Reloading_ [here](https://www.itjobs.pt/oferta/398690/front-end-test-automation-engineer)
+
+
+- **Automation Tester (QA & Performance)** @_Crossjoin Solutions_ [here](https://www.itjobs.pt/oferta/397024/automation-tester-qa-performance)
+
+
+- **QA Engineer** @_BOLD International_ [here](https://www.itjobs.pt/oferta/396689/qa-engineer)
 
 
 - **QA Engineer** @_Hitachi Vantara_ [here](https://www.itjobs.pt/oferta/395613/qa-engineer)
 
 
 - **Automation tester** @_BOLD International_ [here](https://www.itjobs.pt/oferta/396688/automation-tester)
+
+
+- **Automation QA Engineer** @_Scopic Software_ [here](https://www.itjobs.pt/oferta/396633/automation-qa-engineer)
+
+
+- **Cypress Test Engineer** @_Hitachi Vantara_ [here](https://www.itjobs.pt/oferta/395394/cypress-test-engineer)
 
 
 - **Senior QA Automated Engineer** @_Digital Works_ [here](https://www.itjobs.pt/oferta/393857/senior-qa-automated-engineer)
