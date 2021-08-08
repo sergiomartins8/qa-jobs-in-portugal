@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sat, 07 Aug 2021 00:57_
+> _Last updated: Sun, 08 Aug 2021 01:03_
 
 ### ItJobs
 
@@ -129,9 +129,6 @@ Jobs
 - **Test Automation Engineer** @_BOLD International_ [here](https://www.itjobs.pt/oferta/394564/test-automation-engineer)
 
 
-- **Software Tester** @_Findmore_ [here](https://www.itjobs.pt/oferta/396765/software-tester)
-
-
 - **QA - Functional Tests** @_KWAN_ [here](https://www.itjobs.pt/oferta/399400/qa-functional-tests)
 
 
@@ -157,6 +154,9 @@ Jobs
 
 
 - **Tester Automação - Quality Assurance Consultant** @_Adentis_ [here](https://www.itjobs.pt/oferta/398750/tester-automacao-quality-assurance-consultant)
+
+
+- **Digital Workforce Quality Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/398502/digital-workforce-quality-tester)
 
 
 - **Quality Tester** @_Axians_ [here](https://www.itjobs.pt/oferta/396658/quality-tester)
@@ -208,9 +208,6 @@ Jobs
 - **Test Automation Engineer** @_BOLD International_ [here](https://www.itjobs.pt/oferta/394564/test-automation-engineer)
 
 
-- **QA Automation** @_Adentis_ [here](https://www.itjobs.pt/oferta/393677/qa-automation)
-
-
 - **Quality Assurance Tester Analyst** @_NEX T Engineering_ [here](https://www.itjobs.pt/oferta/393759/quality-assurance-tester-analyst)
 
 
@@ -220,10 +217,13 @@ Jobs
 - **Automation Tester** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/399402/automation-tester)
 
 
+- **Software Development Engineer in Test** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/396339/software-development-engineer-in-test)
+
+
+- **Quality Assurance Engineer** @_Cocus_ [here](https://www.itjobs.pt/oferta/396075/quality-assurance-engineer)
+
+
 - **Quality Assurance Analyst** @_akapeople_ [here](https://www.itjobs.pt/oferta/394424/quality-assurance-analyst)
-
-
-- **Quality Assurance Engineer** @_KCS IT_ [here](https://www.itjobs.pt/oferta/393097/quality-assurance-engineer)
 
 
 - **Automation Tester (QA & Performance)** @_Crossjoin Solutions_ [here](https://www.itjobs.pt/oferta/397024/automation-tester-qa-performance)
@@ -266,6 +266,9 @@ Jobs
 
 
 - **Automation tester** @_BOLD International_ [here](https://www.itjobs.pt/oferta/396688/automation-tester)
+
+
+- **QA Automation Engineer** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/396337/qa-automation-engineer)
 
 #### Remote
 
