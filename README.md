@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Tue, 10 Aug 2021 01:05_
+> _Last updated: Wed, 11 Aug 2021 01:03_
 
 ### ItJobs
 
@@ -86,13 +86,13 @@ Jobs
 - **Front-End Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/393896/front-end-test-automation-engineer)
 
 
+- **Quality Assurance Engineer** @_Smart Consulting_ [here](https://www.itjobs.pt/oferta/397903/quality-assurance-engineer)
+
+
 - **Manual QA** @_Irium_ [here](https://www.itjobs.pt/oferta/399528/manual-qa)
 
 
 - **QA Analyst** @_Noesis Portugal - Consultadoria em Sistemas de Informação, SA_ [here](https://www.itjobs.pt/oferta/398185/qa-analyst)
-
-
-- **Test Automation Engineer** @_Imaginary Cloud_ [here](https://www.itjobs.pt/oferta/398123/test-automation-engineer)
 
 
 - **QAE** @_Aubay_ [here](https://www.itjobs.pt/oferta/399439/qae)
@@ -109,15 +109,9 @@ Jobs
 
 - **QA Analyst** @_Noesis Portugal - Consultadoria em Sistemas de Informação, SA_ [here](https://www.itjobs.pt/oferta/396483/qa-analyst-lisboa-porto-coimbra-m-f)
 
-
-- **Mobile Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/393897/mobile-test-automation-engineer)
-
 #### Lisboa
 
 - **Test Automation** @_Adentis_ [here](https://www.itjobs.pt/oferta/396656/test-automation)
-
-
-- **Test Automation Engineer** @_Imaginary Cloud_ [here](https://www.itjobs.pt/oferta/398123/test-automation-engineer)
 
 
 - **Quality Assurance** @_Winprovit - Soluções Inteligentes_ [here](https://www.itjobs.pt/oferta/399616/quality-assurance)
@@ -162,6 +156,9 @@ Jobs
 - **Digital Workforce Quality Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/398502/digital-workforce-quality-tester)
 
 
+- **Test Automation CI/CD Specialist** @_Human Profiler_ [here](https://www.itjobs.pt/oferta/397765/test-automation-ci-cd-specialist)
+
+
 - **Quality Tester** @_Axians_ [here](https://www.itjobs.pt/oferta/396658/quality-tester)
 
 
@@ -184,6 +181,9 @@ Jobs
 
 
 - **Automation tester** @_BOLD International_ [here](https://www.itjobs.pt/oferta/396688/automation-tester)
+
+
+- **Technical Engineer – Test automation / RPA** @_agap2IT_ [here](https://www.itjobs.pt/oferta/400022/technical-engineer-test-automation-rpa-portugal)
 
 
 - **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/394282/quality-assurance-developer)
@@ -253,6 +253,9 @@ Jobs
 - **Quality Assurance Analyst** @_Axians_ [here](https://www.itjobs.pt/oferta/394679/quality-assurance-analyst)
 
 
+- **Quality Assurance Engineer** @_Smart Consulting_ [here](https://www.itjobs.pt/oferta/397903/quality-assurance-engineer)
+
+
 - **Quality Assurance Engineer** @_Aubay_ [here](https://www.itjobs.pt/oferta/398581/quality-assurance-engineer)
 
 
@@ -271,10 +274,10 @@ Jobs
 - **Software Developer – Test Automation** @_agap2IT_ [here](https://www.itjobs.pt/oferta/397036/software-developer-test-automation)
 
 
+- **Senior Test Engineer** @_akapeople_ [here](https://www.itjobs.pt/oferta/399793/senior-test-engineer)
+
+
 - **Automation tester** @_BOLD International_ [here](https://www.itjobs.pt/oferta/396688/automation-tester)
-
-
-- **QA Automation Engineer** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/396337/qa-automation-engineer)
 
 #### Remote
 
@@ -288,9 +291,6 @@ Jobs
 
 
 - **Automation Tester (QA & Performance)** @_Crossjoin Solutions_ [here](https://www.itjobs.pt/oferta/397024/automation-tester-qa-performance)
-
-
-- **QA Engineer** @_BOLD International_ [here](https://www.itjobs.pt/oferta/396689/qa-engineer)
 
 
 - **Automation QA Engineer** @_Scopic Software_ [here](https://www.itjobs.pt/oferta/396633/automation-qa-engineer)
@@ -312,6 +312,9 @@ Jobs
 
 
 - **Front-End Test Automation Engineer** @_Reloading_ [here](https://www.itjobs.pt/oferta/398690/front-end-test-automation-engineer)
+
+
+- **Test Automation Engineer** @_Imaginary Cloud_ [here](https://www.itjobs.pt/oferta/400074/test-automation-engineer)
 
 
 - **QA Engineer** @_Hitachi Vantara_ [here](https://www.itjobs.pt/oferta/395613/qa-engineer)
