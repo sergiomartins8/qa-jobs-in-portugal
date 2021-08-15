@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sat, 14 Aug 2021 00:57_
+> _Last updated: Sun, 15 Aug 2021 01:02_
 
 ### ItJobs
 
@@ -123,6 +123,9 @@ Jobs
 - **Test Automation Specialist** @_agap2IT_ [here](https://www.itjobs.pt/oferta/399445/test-automation-specialist-portugal)
 
 
+- **Automation Test Engineer** @_Hitachi Vantara_ [here](https://www.itjobs.pt/oferta/396087/automation-test-engineer)
+
+
 - **Functional Tester** @_Closer_ [here](https://www.itjobs.pt/oferta/401094/functional-tester)
 
 
@@ -168,9 +171,6 @@ Jobs
 - **Test Automation Engineer** @_SYSMATCH - Consultores de Sistemas de Informação_ [here](https://www.itjobs.pt/oferta/388942/test-automation-engineer)
 
 
-- **Technical Engineer – Junior Test Automation** @_agap2IT_ [here](https://www.itjobs.pt/oferta/394359/technical-engineer-junior-test-automation)
-
-
 - **Test Automation Engineer** @_Smart Consulting_ [here](https://www.itjobs.pt/oferta/398660/test-automation-engineer)
 
 
@@ -184,6 +184,9 @@ Jobs
 
 
 - **Technical Engineer – Test automation / RPA** @_agap2IT_ [here](https://www.itjobs.pt/oferta/400022/technical-engineer-test-automation-rpa-portugal)
+
+
+- **Test Automation Specialist** @_Stefanini Portugal_ [here](https://www.itjobs.pt/oferta/396666/test-automation-specialist)
 
 
 - **Functional Test Engineer** @_Hitachi Vantara_ [here](https://www.itjobs.pt/oferta/396279/functional-test-engineer)
@@ -280,6 +283,9 @@ Jobs
 - **QA Automation Engineer** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/396337/qa-automation-engineer)
 
 #### Remote
+
+- **Test Lead (SIT/UAT)** @_Rumos Serviços_ [here](https://www.itjobs.pt/oferta/401091/test-lead-sit-uat)
+
 
 - **Software Tester (UAT)** @_BOLD International_ [here](https://www.itjobs.pt/oferta/396819/software-tester-uat)
 
