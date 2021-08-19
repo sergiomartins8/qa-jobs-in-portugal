@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Wed, 18 Aug 2021 01:02_
+> _Last updated: Thu, 19 Aug 2021 00:55_
 
 ### ItJobs
 
@@ -159,9 +159,6 @@ Jobs
 - **Software Developer – Test Automation** @_agap2IT_ [here](https://www.itjobs.pt/oferta/401203/software-developer-test-automation-portuga)
 
 
-- **Automation Tester** @_Findmore_ [here](https://www.itjobs.pt/oferta/396894/automation-tester)
-
-
 - **Consultor QA** @_Adentis_ [here](https://www.itjobs.pt/oferta/401367/consultor-qa)
 
 
@@ -192,7 +189,16 @@ Jobs
 - **Quality Tester** @_Axians_ [here](https://www.itjobs.pt/oferta/396658/quality-tester)
 
 
+- **Quality Assurance Engineer** @_Dixtior Consulting_ [here](https://www.itjobs.pt/oferta/401522/quality-assurance-engineer)
+
+
 - **Quality Assurance Expert** @_Human Profiler_ [here](https://www.itjobs.pt/oferta/394016/quality-assurance-expert-brussels)
+
+
+- **QA Automation Tester** @_Neotalent_ [here](https://www.itjobs.pt/oferta/401546/qa-automation-tester)
+
+
+- **QA Tester** @_Claranet Talent_ [here](https://www.itjobs.pt/oferta/401278/qa-tester)
 
 
 - **Test Automation Engineer** @_Smart Consulting_ [here](https://www.itjobs.pt/oferta/398660/test-automation-engineer)
@@ -201,23 +207,17 @@ Jobs
 - **Test Automation Engineer** @_Imaginary Cloud_ [here](https://www.itjobs.pt/oferta/400074/test-automation-engineer)
 
 
-- **QA Tester Developer** @_Red IT_ [here](https://www.itjobs.pt/oferta/396515/qa-tester-developer)
-
-
-- **Automation tester** @_BOLD International_ [here](https://www.itjobs.pt/oferta/396688/automation-tester)
+- **Technical Engineer – Junior Test Automation** @_agap2IT_ [here](https://www.itjobs.pt/oferta/401358/technical-engineer-junior-test-automation-portugal)
 
 
 - **Technical Engineer – Test automation / RPA** @_agap2IT_ [here](https://www.itjobs.pt/oferta/400022/technical-engineer-test-automation-rpa-portugal)
 
 
-- **Quality Assurance Engineer** @_Dixtior Consulting_ [here](https://www.itjobs.pt/oferta/394992/quality-assurance-engineer)
+- **Test Automation Specialist** @_Stefanini Portugal_ [here](https://www.itjobs.pt/oferta/396666/test-automation-specialist)
 
 #### Porto
 
 - **Technical Engineer – Test automation / RPA** @_agap2IT_ [here](https://www.itjobs.pt/oferta/396591/technical-engineer-test-automation-rpa)
-
-
-- **Quality Assurance Analyst – Frontend** @_Aubay_ [here](https://www.itjobs.pt/oferta/393142/quality-assurance-analyst-frontend)
 
 
 - **Quality Assurance** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/401177/quality-assurance)
@@ -253,9 +253,6 @@ Jobs
 - **Software Development Engineer in Test** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/396339/software-development-engineer-in-test)
 
 
-- **Automation Tester (QA & Performance)** @_Crossjoin Solutions_ [here](https://www.itjobs.pt/oferta/397024/automation-tester-qa-performance)
-
-
 - **Quality Assurance Analyst** @_Olisipo_ [here](https://www.itjobs.pt/oferta/396180/quality-assurance-analyst)
 
 
@@ -269,6 +266,9 @@ Jobs
 
 
 - **Quality Assurance Engineer** @_KCS IT_ [here](https://www.itjobs.pt/oferta/400761/quality-assurance-engineer)
+
+
+- **QA Automation Tester** @_Neotalent_ [here](https://www.itjobs.pt/oferta/401546/qa-automation-tester)
 
 
 - **Quality Assurance Engineer** @_Smart Consulting_ [here](https://www.itjobs.pt/oferta/397903/quality-assurance-engineer)
@@ -317,6 +317,9 @@ Jobs
 - **Automation Tester (QA & Performance)** @_Crossjoin Solutions_ [here](https://www.itjobs.pt/oferta/397024/automation-tester-qa-performance)
 
 
+- **QA Engineer** @_BOLD International_ [here](https://www.itjobs.pt/oferta/396689/qa-engineer)
+
+
 - **Quality Assurance** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/401177/quality-assurance)
 
 
@@ -324,9 +327,6 @@ Jobs
 
 
 - **Cypress Test Engineer** @_Hitachi Vantara_ [here](https://www.itjobs.pt/oferta/395394/cypress-test-engineer)
-
-
-- **Senior Test Engineer** @_Farfetch_ [here](https://www.itjobs.pt/oferta/395164/senior-test-engineer)
 
 
 - **Junior Test / QA Engineer** @_Capitalise.com Platform Ltd_ [here](https://www.itjobs.pt/oferta/398510/junior-test-qa-engineer)
