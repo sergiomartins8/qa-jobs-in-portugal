@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sun, 22 Aug 2021 01:00_
+> _Last updated: Mon, 23 Aug 2021 00:57_
 
 ### ItJobs
 
@@ -174,9 +174,6 @@ Jobs
 - **Quality Assurance Engineer** @_Premium Minds_ [here](https://www.itjobs.pt/oferta/401915/quality-assurance-engineer)
 
 
-- **Automation Tester** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/399402/automation-tester)
-
-
 - **Quality Assurance** @_Ankix_ [here](https://www.itjobs.pt/oferta/395255/quality-assurance)
 
 
@@ -220,6 +217,9 @@ Jobs
 
 
 - **Test Automation Specialist** @_Stefanini Portugal_ [here](https://www.itjobs.pt/oferta/396666/test-automation-specialist)
+
+
+- **Senior Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/401666/senior-automation-tester)
 
 #### Porto
 
@@ -300,6 +300,9 @@ Jobs
 
 - **Automation tester** @_BOLD International_ [here](https://www.itjobs.pt/oferta/396688/automation-tester)
 
+
+- **Senior Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/401666/senior-automation-tester)
+
 #### Remote
 
 - **Test Lead (SIT/UAT)** @_Rumos Serviços_ [here](https://www.itjobs.pt/oferta/401091/test-lead-sit-uat)
@@ -348,4 +351,7 @@ Jobs
 
 
 - **Test Manager** @_Rumos Serviços_ [here](https://www.itjobs.pt/oferta/401088/test-manager)
+
+
+- **Senior Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/401666/senior-automation-tester)
 
