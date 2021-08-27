@@ -36,13 +36,19 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Thu, 26 Aug 2021 00:59_
+> _Last updated: Fri, 27 Aug 2021 01:05_
 
 ### ItJobs
 
 #### Aveiro
 
 - **Software Tester** @_The Virtual Forge_ [here](https://www.itjobs.pt/oferta/401640/software-tester)
+
+
+- **Test Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/401180/test-engineer)
+
+
+- **Front-End Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/400766/front-end-test-automation-engineer)
 
 
 - **Quality Automation Engineer** @_Red IT_ [here](https://www.itjobs.pt/oferta/401882/quality-automation-engineer)
@@ -52,15 +58,6 @@ Jobs
 
 
 - **Software Tester - Product Development** @_PRIMAVERA - Business Software Solutions_ [here](https://www.itjobs.pt/oferta/397748/software-tester-product-development)
-
-
-- **QA Engineer** @_BOLD International_ [here](https://www.itjobs.pt/oferta/396689/qa-engineer)
-
-
-- **Test Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/401180/test-engineer)
-
-
-- **Front-End Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/400766/front-end-test-automation-engineer)
 
 
 - **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/400764/test-automation-engineer)
@@ -134,9 +131,6 @@ Jobs
 - **QA Automation Engineer** @_Irium_ [here](https://www.itjobs.pt/oferta/399527/qa-automation-engineer)
 
 
-- **QA Analyst** @_Noesis Portugal - Consultadoria em Sistemas de Informação, SA_ [here](https://www.itjobs.pt/oferta/396483/qa-analyst-lisboa-porto-coimbra-m-f)
-
-
 - **Mobile Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/400767/mobile-test-automation-engineer)
 
 #### Lisboa
@@ -160,9 +154,6 @@ Jobs
 
 
 - **Software Developer – Test Automation** @_agap2IT_ [here](https://www.itjobs.pt/oferta/401203/software-developer-test-automation-portuga)
-
-
-- **QA Engineer** @_Twistag_ [here](https://www.itjobs.pt/oferta/402089/qa-engineer)
 
 
 - **Test Manager** @_Olisipo_ [here](https://www.itjobs.pt/oferta/400362/test-manager)
@@ -193,9 +184,6 @@ Jobs
 
 
 - **Test Automation CI/CD Specialist** @_Human Profiler_ [here](https://www.itjobs.pt/oferta/397765/test-automation-ci-cd-specialist)
-
-
-- **Quality Tester** @_Axians_ [here](https://www.itjobs.pt/oferta/396658/quality-tester)
 
 
 - **Senior Quality Assurance Engineer IT** @_NBCC Consulting_ [here](https://www.itjobs.pt/oferta/399880/senior-quality-assurance-engineer-it)
@@ -274,9 +262,6 @@ Jobs
 - **Automation Tester** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/399402/automation-tester)
 
 
-- **Software Development Engineer in Test** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/396339/software-development-engineer-in-test)
-
-
 - **Tester Automação - Quality Assurance Consultant** @_Adentis_ [here](https://www.itjobs.pt/oferta/398750/tester-automacao-quality-assurance-consultant)
 
 
@@ -316,6 +301,9 @@ Jobs
 - **Automation tester** @_BOLD International_ [here](https://www.itjobs.pt/oferta/396688/automation-tester)
 
 
+- **Test Automation Engineer** @_Jscrambler_ [here](https://www.itjobs.pt/oferta/402975/test-automation-engineer)
+
+
 - **Senior Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/401666/senior-automation-tester)
 
 #### Remote
@@ -327,9 +315,6 @@ Jobs
 
 
 - **Quality Automation Engineer** @_Red IT_ [here](https://www.itjobs.pt/oferta/401882/quality-automation-engineer)
-
-
-- **Software Tester (UAT)** @_BOLD International_ [here](https://www.itjobs.pt/oferta/396819/software-tester-uat)
 
 
 - **Software Tester - Product Development** @_PRIMAVERA - Business Software Solutions_ [here](https://www.itjobs.pt/oferta/397748/software-tester-product-development)
@@ -369,6 +354,9 @@ Jobs
 
 
 - **Test Manager** @_Rumos Serviços_ [here](https://www.itjobs.pt/oferta/401088/test-manager)
+
+
+- **Test Automation Engineer** @_Jscrambler_ [here](https://www.itjobs.pt/oferta/402975/test-automation-engineer)
 
 
 - **Senior Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/401666/senior-automation-tester)
