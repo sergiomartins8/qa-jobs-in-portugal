@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Fri, 03 Sep 2021 01:02_
+> _Last updated: Sat, 04 Sep 2021 01:03_
 
 ### ItJobs
 
@@ -159,9 +159,6 @@ Jobs
 - **Software Tester** @_The Virtual Forge_ [here](https://www.itjobs.pt/oferta/401640/software-tester)
 
 
-- **Quality Assurance Engineer** @_Winprovit - Soluções Inteligentes_ [here](https://www.itjobs.pt/oferta/398318/quality-assurance-engineer)
-
-
 - **Quality Assurance Engineer** @_Premium Minds_ [here](https://www.itjobs.pt/oferta/401915/quality-assurance-engineer)
 
 
@@ -196,6 +193,9 @@ Jobs
 
 
 - **Quality Assurance** @_Adentis_ [here](https://www.itjobs.pt/oferta/403544/quality-assurance)
+
+
+- **Software QA Engineer** @_WIT - Software_ [here](https://www.itjobs.pt/oferta/403512/software-qa-engineer)
 
 
 - **Test automation engineer** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/402792/test-automation-engineer)
@@ -241,6 +241,9 @@ Jobs
 - **Front-End Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/400766/front-end-test-automation-engineer)
 
 
+- **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/400764/test-automation-engineer)
+
+
 - **QA Automation Engineer** @_KCS IT_ [here](https://www.itjobs.pt/oferta/401478/qa-automation-engineer)
 
 
@@ -251,9 +254,6 @@ Jobs
 
 
 - **Software Tester** @_The Virtual Forge_ [here](https://www.itjobs.pt/oferta/401640/software-tester)
-
-
-- **Quality Assurance Engineer** @_Winprovit - Soluções Inteligentes_ [here](https://www.itjobs.pt/oferta/398318/quality-assurance-engineer)
 
 
 - **Tester Funcional - Quality Assurance Consultant** @_Adentis_ [here](https://www.itjobs.pt/oferta/403221/tester-funcional-quality-assurance-consultant)
