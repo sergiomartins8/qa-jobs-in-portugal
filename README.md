@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sun, 05 Sep 2021 01:05_
+> _Last updated: Mon, 06 Sep 2021 01:09_
 
 ### ItJobs
 
@@ -64,6 +64,9 @@ Jobs
 
 
 - **Quality Assurance Engineer** @_RIS 2048_ [here](https://www.itjobs.pt/oferta/401695/quality-assurance-engineer)
+
+
+- **QA Analyst** @_BOLD International_ [here](https://www.itjobs.pt/oferta/399468/qa-analyst)
 
 
 - **Quality Assurance Tester Analyst** @_BOLD International_ [here](https://www.itjobs.pt/oferta/401153/quality-assurance-tester-analyzer)
@@ -180,6 +183,9 @@ Jobs
 - **Cypress Test Engineer** @_Hitachi Vantara_ [here](https://www.itjobs.pt/oferta/401795/cypress-test-engineer)
 
 
+- **Jr QA Manual Tester** @_Qualitest_ [here](https://www.itjobs.pt/oferta/403315/9991-jr-qa-manual-tester)
+
+
 - **QA Automation Tester** @_Neotalent_ [here](https://www.itjobs.pt/oferta/401546/qa-automation-tester)
 
 
@@ -202,6 +208,9 @@ Jobs
 
 
 - **Senior Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/401666/senior-automation-tester)
+
+
+- **Software Development Engineer in Test** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/403312/software-development-engineer-in-test)
 
 #### Porto
 
@@ -232,6 +241,9 @@ Jobs
 - **Front-End Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/400766/front-end-test-automation-engineer)
 
 
+- **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/400764/test-automation-engineer)
+
+
 - **QA Automation Engineer** @_KCS IT_ [here](https://www.itjobs.pt/oferta/401478/qa-automation-engineer)
 
 
@@ -245,6 +257,9 @@ Jobs
 
 
 - **Software Tester** @_The Virtual Forge_ [here](https://www.itjobs.pt/oferta/401640/software-tester)
+
+
+- **Quality Automation Engineer** @_Red IT_ [here](https://www.itjobs.pt/oferta/401882/quality-automation-engineer)
 
 
 - **Tester Funcional - Quality Assurance Consultant** @_Adentis_ [here](https://www.itjobs.pt/oferta/403221/tester-funcional-quality-assurance-consultant)
@@ -336,6 +351,9 @@ Jobs
 
 
 - **QA Engineer** @_Twistag_ [here](https://www.itjobs.pt/oferta/402089/qa-engineer)
+
+
+- **QA Analyst** @_BOLD International_ [here](https://www.itjobs.pt/oferta/399468/qa-analyst)
 
 
 - **Test Manager** @_Rumos Serviços_ [here](https://www.itjobs.pt/oferta/401088/test-manager)
