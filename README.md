@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Thu, 09 Sep 2021 01:06_
+> _Last updated: Fri, 10 Sep 2021 01:07_
 
 ### ItJobs
 
@@ -113,9 +113,6 @@ Jobs
 - **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/400764/test-automation-engineer)
 
 
-- **QAE** @_Aubay_ [here](https://www.itjobs.pt/oferta/399439/qae)
-
-
 - **QA Automation Engineer** @_Irium_ [here](https://www.itjobs.pt/oferta/399527/qa-automation-engineer)
 
 
@@ -139,9 +136,6 @@ Jobs
 
 
 - **Software Quality Assurance** @_Ankix_ [here](https://www.itjobs.pt/oferta/398824/software-quality-assurance)
-
-
-- **Quality Assurance** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/401177/quality-assurance)
 
 
 - **Quality Assurance Test Engineer** @_BOLD International_ [here](https://www.itjobs.pt/oferta/399678/quality-assurance-test-engineer)
@@ -192,6 +186,9 @@ Jobs
 - **Test automation engineer** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/402792/test-automation-engineer)
 
 
+- **Quality Assurance Lead** @_Experis_ [here](https://www.itjobs.pt/oferta/404612/quality-assurance-lead)
+
+
 - **Technical Engineer – Junior Test Automation** @_agap2IT_ [here](https://www.itjobs.pt/oferta/401358/technical-engineer-junior-test-automation-portugal)
 
 
@@ -230,9 +227,6 @@ Jobs
 
 
 - **Test Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/401180/test-engineer)
-
-
-- **QA – Júnior** @_Adentis_ [here](https://www.itjobs.pt/oferta/404524/qa-junior)
 
 
 - **Front-End Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/400766/front-end-test-automation-engineer)
@@ -345,6 +339,9 @@ Jobs
 
 
 - **QA Engineer** @_Twistag_ [here](https://www.itjobs.pt/oferta/402089/qa-engineer)
+
+
+- **Quality Assurance Lead** @_Experis_ [here](https://www.itjobs.pt/oferta/404612/quality-assurance-lead)
 
 
 - **Test Manager** @_Rumos Serviços_ [here](https://www.itjobs.pt/oferta/401088/test-manager)
