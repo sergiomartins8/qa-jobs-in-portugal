@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sat, 11 Sep 2021 01:02_
+> _Last updated: Sun, 12 Sep 2021 01:06_
 
 ### ItJobs
 
@@ -132,9 +132,6 @@ Jobs
 - **Quality Assurance Tester** @_Red IT_ [here](https://www.itjobs.pt/oferta/404012/quality-assurance-tester)
 
 
-- **Test Automation Specialist** @_agap2IT_ [here](https://www.itjobs.pt/oferta/399445/test-automation-specialist-portugal)
-
-
 - **Software Quality Assurance** @_Ankix_ [here](https://www.itjobs.pt/oferta/398824/software-quality-assurance)
 
 
@@ -154,6 +151,9 @@ Jobs
 
 
 - **Quality Assurance** @_Ankix_ [here](https://www.itjobs.pt/oferta/395255/quality-assurance)
+
+
+- **Automation Tester** @_Closer_ [here](https://www.itjobs.pt/oferta/401463/automation-tester)
 
 
 - **Senior Quality Assurance Engineer IT** @_NBCC Consulting_ [here](https://www.itjobs.pt/oferta/399880/senior-quality-assurance-engineer-it)
