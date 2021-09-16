@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Wed, 15 Sep 2021 01:03_
+> _Last updated: Thu, 16 Sep 2021 01:08_
 
 ### ItJobs
 
@@ -135,6 +135,12 @@ Jobs
 - **Lead Automation Test Engineer** @_Human Profiler_ [here](https://www.itjobs.pt/oferta/402439/lead-automation-test-engineer)
 
 
+- **Test Automation Engineer** @_BOLD International_ [here](https://www.itjobs.pt/oferta/402133/test-automation-engineer)
+
+
+- **Codeless Automation Tester** @_Findmore_ [here](https://www.itjobs.pt/oferta/404762/codeless-automation-tester)
+
+
 - **Test Manager** @_Olisipo_ [here](https://www.itjobs.pt/oferta/400362/test-manager)
 
 
@@ -150,7 +156,7 @@ Jobs
 - **Senior Quality Assurance Engineer IT** @_NBCC Consulting_ [here](https://www.itjobs.pt/oferta/399880/senior-quality-assurance-engineer-it)
 
 
-- **Automation Tester (QA & Performance)** @_Crossjoin Solutions_ [here](https://www.itjobs.pt/oferta/403816/automation-tester-qa-performance)
+- **Test Automation Engineer** @_Smart Consulting_ [here](https://www.itjobs.pt/oferta/404540/test-automation-engineer)
 
 
 - **Quality Assurance Tester Analyst** @_BOLD International_ [here](https://www.itjobs.pt/oferta/401153/quality-assurance-tester-analyzer)
@@ -165,9 +171,6 @@ Jobs
 - **QA Automation Tester** @_Neotalent_ [here](https://www.itjobs.pt/oferta/401546/qa-automation-tester)
 
 
-- **Quality Assurance** @_Adentis_ [here](https://www.itjobs.pt/oferta/403544/quality-assurance)
-
-
 - **Quality Assurance Engineer** @_Noesis Portugal - Consultadoria em Sistemas de Informação, SA_ [here](https://www.itjobs.pt/oferta/403533/quality-assurance-engineer)
 
 
@@ -180,7 +183,7 @@ Jobs
 - **Technical Engineer – Junior Test Automation** @_agap2IT_ [here](https://www.itjobs.pt/oferta/401358/technical-engineer-junior-test-automation-portugal)
 
 
-- **Technical Engineer – Test automation / RPA** @_agap2IT_ [here](https://www.itjobs.pt/oferta/400022/technical-engineer-test-automation-rpa-portugal)
+- **Tester Automação - Quality Assurance Consultant** @_Adentis_ [here](https://www.itjobs.pt/oferta/405415/tester-automacao-quality-assurance-consultant)
 
 
 - **Tester Automação - Quality Assurance Consultant** @_Adentis_ [here](https://www.itjobs.pt/oferta/405032/tester-automacao-quality-assurance-consultant)
@@ -196,13 +199,10 @@ Jobs
 - **Automation Tester** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/404211/automation-tester)
 
 
-- **Quality Assurance Engineer** @_Aubay_ [here](https://www.itjobs.pt/oferta/402045/quality-assurance-engineer)
-
-
 - **Quality Assurance / Tester** @_KCS IT_ [here](https://www.itjobs.pt/oferta/401477/quality-assurance-tester)
 
 
-- **Quality Assurance Engineer** @_Olisipo_ [here](https://www.itjobs.pt/oferta/400008/quality-assurance-engineer)
+- **Quality Assurance Engineer** @_Aubay_ [here](https://www.itjobs.pt/oferta/402045/quality-assurance-engineer)
 
 
 - **Quality Assurance Tester** @_Winprovit - Soluções Inteligentes_ [here](https://www.itjobs.pt/oferta/404020/quality-assurance-tester)
@@ -223,7 +223,13 @@ Jobs
 - **Software Tester** @_akapeople_ [here](https://www.itjobs.pt/oferta/405203/software-tester)
 
 
+- **Software Developer – Test Automation** @_agap2IT_ [here](https://www.itjobs.pt/oferta/404367/software-developer-test-automation)
+
+
 - **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/400764/test-automation-engineer)
+
+
+- **Test Automation Engineer** @_BOLD International_ [here](https://www.itjobs.pt/oferta/402133/test-automation-engineer)
 
 
 - **QA Automation Engineer** @_KCS IT_ [here](https://www.itjobs.pt/oferta/401478/qa-automation-engineer)
@@ -276,9 +282,6 @@ Jobs
 
 
 - **Quality Automation Engineer** @_Red IT_ [here](https://www.itjobs.pt/oferta/401882/quality-automation-engineer)
-
-
-- **Quality Assurance Automation** @_Cocus_ [here](https://www.itjobs.pt/oferta/403308/quality-assurance-automation)
 
 
 - **Quality Assurance Engineer** @_Cocus_ [here](https://www.itjobs.pt/oferta/403672/quality-assurance-engineer)
