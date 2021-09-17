@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Thu, 16 Sep 2021 01:08_
+> _Last updated: Fri, 17 Sep 2021 01:11_
 
 ### ItJobs
 
@@ -64,9 +64,6 @@ Jobs
 
 
 - **Quality Assurance Tester Analyst** @_BOLD International_ [here](https://www.itjobs.pt/oferta/401153/quality-assurance-tester-analyzer)
-
-
-- **Mobile Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/400767/mobile-test-automation-engineer)
 
 #### Braga
 
@@ -105,9 +102,6 @@ Jobs
 
 
 - **QA Analyst** @_Noesis Portugal - Consultadoria em Sistemas de Informação, SA_ [here](https://www.itjobs.pt/oferta/403539/qa-analyst)
-
-
-- **Mobile Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/400767/mobile-test-automation-engineer)
 
 #### Lisboa
 
@@ -211,6 +205,9 @@ Jobs
 - **Quality Assurance Analyst – iOS** @_Aubay_ [here](https://www.itjobs.pt/oferta/402034/quality-assurance-analyst-ios)
 
 
+- **Software Developer/QA Engineer - Trainee** @_Euronext_ [here](https://www.itjobs.pt/oferta/404759/software-developer-qa-engineer-trainee)
+
+
 - **Quality Assurance Analyst** @_akapeople_ [here](https://www.itjobs.pt/oferta/403369/quality-assurance-analyst)
 
 
@@ -236,9 +233,6 @@ Jobs
 
 
 - **Quality Assurance Engineer** @_akapeople_ [here](https://www.itjobs.pt/oferta/403793/quality-assurance-engineer)
-
-
-- **Mobile Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/400767/mobile-test-automation-engineer)
 
 
 - **Quality Automation Engineer** @_Red IT_ [here](https://www.itjobs.pt/oferta/401882/quality-automation-engineer)
