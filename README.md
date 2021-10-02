@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Fri, 01 Oct 2021 01:09_
+> _Last updated: Sat, 02 Oct 2021 01:04_
 
 ### ItJobs
 
@@ -69,6 +69,9 @@ Jobs
 
 - **Automation Tester** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/404211/automation-tester)
 
+
+- **Quality Assurance Engineer** @_KCS IT_ [here](https://www.itjobs.pt/oferta/407618/quality-assurance-engineer)
+
 #### Coimbra
 
 - **Automation Test Lead** @_Noesis Portugal - Consultadoria em Sistemas de Informação, SA_ [here](https://www.itjobs.pt/oferta/403521/automation-test-lead)
@@ -86,6 +89,9 @@ Jobs
 - **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/406033/test-automation-engineer)
 
 
+- **Test Automation Engineer** @_Ankix_ [here](https://www.itjobs.pt/oferta/406850/test-automation-engineer)
+
+
 - **Mobile Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/405873/mobile-test-automation-engineer)
 
 
@@ -94,9 +100,6 @@ Jobs
 #### Lisboa
 
 - **Technical Engineer – Test automation / RPA** @_agap2IT_ [here](https://www.itjobs.pt/oferta/406082/technical-engineer-test-automation-rpa-portugal)
-
-
-- **QA Automation Engineer** @_Aubay_ [here](https://www.itjobs.pt/oferta/406151/qa-automation-engineer)
 
 
 - **BI & Quality Assurance** @_Human Profiler_ [here](https://www.itjobs.pt/oferta/402548/bi-quality-assurance)
@@ -124,6 +127,9 @@ Jobs
 
 
 - **Test Automation CI/CD Specialist** @_Human Profiler_ [here](https://www.itjobs.pt/oferta/404094/test-automation-ci-cd-specialist)
+
+
+- **QA Test Automation** @_SYSMATCH - Consultores de Sistemas de Informação_ [here](https://www.itjobs.pt/oferta/403089/qa-test-automation)
 
 
 - **Test Automation Engineer** @_BOLD International_ [here](https://www.itjobs.pt/oferta/402133/test-automation-engineer)
@@ -199,9 +205,6 @@ Jobs
 - **Mobile Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/405873/mobile-test-automation-engineer)
 
 
-- **Quality Assurance Analyst – iOS** @_Aubay_ [here](https://www.itjobs.pt/oferta/402034/quality-assurance-analyst-ios)
-
-
 - **Front-End Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/406032/front-end-test-automation-engineer)
 
 
@@ -217,10 +220,10 @@ Jobs
 - **Quality Assurance Engineer** @_akapeople_ [here](https://www.itjobs.pt/oferta/403793/quality-assurance-engineer)
 
 
+- **Mobile Test Automation Engineer** @_Ankix_ [here](https://www.itjobs.pt/oferta/406852/mobile-test-automation-engineer)
+
+
 - **QA Automation Engineer** @_Boost IT_ [here](https://www.itjobs.pt/oferta/407246/qa-automation-engineer)
-
-
-- **Tester Funcional - Quality Assurance Consultant** @_Adentis_ [here](https://www.itjobs.pt/oferta/403221/tester-funcional-quality-assurance-consultant)
 
 
 - **Automation QA** @_Wunderman Thompson_ [here](https://www.itjobs.pt/oferta/405743/automation-qa)
@@ -248,9 +251,6 @@ Jobs
 
 
 - **Quality Assurance Engineer** @_Dellent Consulting_ [here](https://www.itjobs.pt/oferta/405864/quality-assurance-engineer)
-
-
-- **Software Development Engineer in Test** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/403312/software-development-engineer-in-test)
 
 #### Remote
 
@@ -282,9 +282,6 @@ Jobs
 
 
 - **Jr QA Manual Tester** @_Qualitest_ [here](https://www.itjobs.pt/oferta/403315/9991-jr-qa-manual-tester)
-
-
-- **Test Automation Engineer** @_Dellent Consulting_ [here](https://www.itjobs.pt/oferta/403048/test-automation-engineer)
 
 
 - **Test Analyst** @_Closer_ [here](https://www.itjobs.pt/oferta/404305/test-analyst)
