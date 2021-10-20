@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Tue, 19 Oct 2021 01:10_
+> _Last updated: Wed, 20 Oct 2021 01:10_
 
 ### ItJobs
 
@@ -123,6 +123,9 @@ Jobs
 - **Quality Assurance Automation** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/406885/quality-assurance-automation)
 
 
+- **Test Automation Engineer** @_Allaxa Smart_ [here](https://www.itjobs.pt/oferta/409710/test-automation-engineer)
+
+
 - **Test Automation Specialist** @_agap2IT_ [here](https://www.itjobs.pt/oferta/405273/test-automation-specialist-portugal)
 
 
@@ -136,6 +139,9 @@ Jobs
 
 
 - **Test Automation Engineer** @_BOLD International_ [here](https://www.itjobs.pt/oferta/402133/test-automation-engineer)
+
+
+- **Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/409691/automation-tester)
 
 
 - **Quality Assurance & Engineering Manager** @_Neotalent_ [here](https://www.itjobs.pt/oferta/406226/quality-assurance-engineering-manager)
@@ -177,9 +183,6 @@ Jobs
 - **Test Automation Manager** @_Allaxa Smart_ [here](https://www.itjobs.pt/oferta/406292/test-automation-manager)
 
 
-- **Test Coordinator** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/407739/test-coordinator)
-
-
 - **Automation Tester** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/408097/automation-tester)
 
 
@@ -202,6 +205,9 @@ Jobs
 - **Software QA Engineer** @_WIT - Software_ [here](https://www.itjobs.pt/oferta/409151/software-qa-engineer)
 
 
+- **Quality Assurance Engineer** @_Aubay_ [here](https://www.itjobs.pt/oferta/409723/quality-assurance-engineer)
+
+
 - **Quality Assurance Engineer** @_Banco Atlântico - Europa_ [here](https://www.itjobs.pt/oferta/408783/quality-assurance-engineer)
 
 
@@ -221,6 +227,9 @@ Jobs
 
 
 - **Test Automation Engineer** @_BOLD International_ [here](https://www.itjobs.pt/oferta/402133/test-automation-engineer)
+
+
+- **Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/409691/automation-tester)
 
 
 - **Quality Assurance Engineer** @_akapeople_ [here](https://www.itjobs.pt/oferta/409403/quality-assurance-engineer)
@@ -260,9 +269,6 @@ Jobs
 
 
 - **Test automation engineer** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/407837/test-automation-engineer)
-
-
-- **QA Automation Engineer** @_KCS IT_ [here](https://www.itjobs.pt/oferta/408446/qa-automation-engineer)
 
 
 - **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/406033/test-automation-engineer)
