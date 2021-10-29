@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Thu, 28 Oct 2021 01:04_
+> _Last updated: Fri, 29 Oct 2021 01:02_
 
 ### ItJobs
 
@@ -57,13 +57,13 @@ Jobs
 - **Software QA Engineer** @_WIT - Software_ [here](https://www.itjobs.pt/oferta/409151/software-qa-engineer)
 
 
-- **QA Analyst** @_BOLD International_ [here](https://www.itjobs.pt/oferta/406383/qa-analyst)
-
-
 - **Quality Assurance Engineer** @_Banco Atlântico - Europa_ [here](https://www.itjobs.pt/oferta/408783/quality-assurance-engineer)
 
 
 - **Mobile Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/410312/mobile-test-automation-engineer)
+
+
+- **QA Automation Engineer** @_BOLD International_ [here](https://www.itjobs.pt/oferta/410290/qa-automation-engineer)
 
 
 - **Front-End Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/410512/front-end-test-automation-engineer)
@@ -74,6 +74,9 @@ Jobs
 #### Braga
 
 - **Quality Assurance Engineer** @_Banco Atlântico - Europa_ [here](https://www.itjobs.pt/oferta/408783/quality-assurance-engineer)
+
+
+- **QA Automation Engineer** @_BOLD International_ [here](https://www.itjobs.pt/oferta/410290/qa-automation-engineer)
 
 
 - **Quality Assurance Engineer** @_KCS IT_ [here](https://www.itjobs.pt/oferta/407618/quality-assurance-engineer)
@@ -101,6 +104,9 @@ Jobs
 - **QA Tester** @_Noesis Portugal - Consultadoria em Sistemas de Informação, SA_ [here](https://www.itjobs.pt/oferta/409161/qa-analyst)
 
 
+- **QA Automation Engineer** @_BOLD International_ [here](https://www.itjobs.pt/oferta/410290/qa-automation-engineer)
+
+
 - **Test Automation Engineer** @_Ankix_ [here](https://www.itjobs.pt/oferta/406850/test-automation-engineer)
 
 
@@ -115,6 +121,9 @@ Jobs
 
 
 - **Senior Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/410258/senior-automation-tester)
+
+
+- **Quality Assurance Enthusiast** @_Adentis_ [here](https://www.itjobs.pt/oferta/406332/quality-assurance-enthusiast)
 
 
 - **Quality Assurance Engineer** @_Banco Atlântico - Europa_ [here](https://www.itjobs.pt/oferta/408783/quality-assurance-engineer)
@@ -139,6 +148,9 @@ Jobs
 
 
 - **Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/409691/automation-tester)
+
+
+- **QA Automation Engineer** @_BOLD International_ [here](https://www.itjobs.pt/oferta/410290/qa-automation-engineer)
 
 
 - **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/407347/quality-assurance-developer)
@@ -296,10 +308,16 @@ Jobs
 - **Quality Assurance Engineer** @_Banco Atlântico - Europa_ [here](https://www.itjobs.pt/oferta/408783/quality-assurance-engineer)
 
 
+- **Quality Assurance Engineer** @_Cocus_ [here](https://www.itjobs.pt/oferta/408831/quality-assurance-engineer)
+
+
 - **Software Test Engineer** @_November First_ [here](https://www.itjobs.pt/oferta/409105/test-engineer)
 
 
 - **Test Automation Engineer** @_Dellent Consulting_ [here](https://www.itjobs.pt/oferta/408591/test-automation-engineer)
+
+
+- **Quality Assurance Engineer** @_Cocus_ [here](https://www.itjobs.pt/oferta/407577/quality-assurance-engineer)
 
 
 - **Functional Tester** @_Aubay_ [here](https://www.itjobs.pt/oferta/408602/functional-tester)
