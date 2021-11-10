@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Tue, 09 Nov 2021 01:05_
+> _Last updated: Wed, 10 Nov 2021 01:05_
 
 ### ItJobs
 
@@ -150,7 +150,7 @@ Jobs
 - **Software Developer – Test Automation** @_agap2IT_ [here](https://www.itjobs.pt/oferta/411457/software-developer-test-automation-portugal)
 
 
-- **Quality Assurance Consultant** @_Adentis_ [here](https://www.itjobs.pt/oferta/410490/quality-assurance-consultant)
+- **Quality Assurance Automation** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/411575/quality-assurance-automation)
 
 
 - **Quality Assurance - Tester** @_Winprovit - Soluções Inteligentes_ [here](https://www.itjobs.pt/oferta/409493/quality-assurance-tester)
@@ -189,9 +189,6 @@ Jobs
 - **Quality Assurance Engineer** @_KCS IT_ [here](https://www.itjobs.pt/oferta/411639/quality-assurance-engineer)
 
 
-- **Lead Automation Test Engineer** @_Human Profiler_ [here](https://www.itjobs.pt/oferta/408471/lead-automation-test-engineer)
-
-
 - **Quality Assurance Analyst** @_Aubay_ [here](https://www.itjobs.pt/oferta/410828/quality-assurance-analyst)
 
 
@@ -199,13 +196,19 @@ Jobs
 
 #### Porto
 
+- **Test Automation Engineer** @_BOLD International_ [here](https://www.itjobs.pt/oferta/409968/test-automation-engineer)
+
+
+- **Quality Assurance Analyst – iOS** @_Aubay_ [here](https://www.itjobs.pt/oferta/407864/quality-assurance-analyst-ios)
+
+
 - **Senior Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/410258/senior-automation-tester)
 
 
+- **Front-End Test Automation Engineer** @_Reloading_ [here](https://www.itjobs.pt/oferta/409659/front-end-test-automation-engineer)
+
+
 - **Quality Assurance / Tester** @_KCS IT_ [here](https://www.itjobs.pt/oferta/408541/quality-assurance-tester)
-
-
-- **Software QA Engineer** @_WIT - Software_ [here](https://www.itjobs.pt/oferta/409151/software-qa-engineer)
 
 
 - **Quality Assurance Engineer** @_Aubay_ [here](https://www.itjobs.pt/oferta/409723/quality-assurance-engineer)
@@ -220,28 +223,10 @@ Jobs
 - **Quality Assurance Engineer** @_New Work SE_ [here](https://www.itjobs.pt/oferta/411950/quality-assurance-engineer)
 
 
-- **Software Developer – Test Automation** @_agap2IT_ [here](https://www.itjobs.pt/oferta/409839/software-developer-test-automation)
-
-
-- **Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/409691/automation-tester)
-
-
-- **Consultor QA** @_Adentis_ [here](https://www.itjobs.pt/oferta/411023/consultor-qa)
-
-
-- **Quality Assurance Consultant** @_Adentis_ [here](https://www.itjobs.pt/oferta/410490/quality-assurance-consultant)
-
-
-- **Test Automation Engineer** @_BOLD International_ [here](https://www.itjobs.pt/oferta/409968/test-automation-engineer)
-
-
-- **Quality Assurance Analyst – iOS** @_Aubay_ [here](https://www.itjobs.pt/oferta/407864/quality-assurance-analyst-ios)
-
-
-- **Front-End Test Automation Engineer** @_Reloading_ [here](https://www.itjobs.pt/oferta/409659/front-end-test-automation-engineer)
-
-
 - **Mobile Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/410312/mobile-test-automation-engineer)
+
+
+- **Software Developer – Test Automation** @_agap2IT_ [here](https://www.itjobs.pt/oferta/409839/software-developer-test-automation)
 
 
 - **Front-End Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/410512/front-end-test-automation-engineer)
@@ -271,7 +256,16 @@ Jobs
 - **Test Engineer - Farfetch Platform Solutions** @_Farfetch_ [here](https://www.itjobs.pt/oferta/410547/test-engineer-farfetch-platform-solutions)
 
 
-- **QA Automation Engineer** @_KCS IT_ [here](https://www.itjobs.pt/oferta/408446/qa-automation-engineer)
+- **Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/409691/automation-tester)
+
+
+- **Consultor QA** @_Adentis_ [here](https://www.itjobs.pt/oferta/411023/consultor-qa)
+
+
+- **Quality Assurance Automation** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/411575/quality-assurance-automation)
+
+
+- **Quality Assurance Consultant** @_Adentis_ [here](https://www.itjobs.pt/oferta/410490/quality-assurance-consultant)
 
 #### Remote
 
