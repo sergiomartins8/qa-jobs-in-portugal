@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Mon, 15 Nov 2021 01:05_
+> _Last updated: Tue, 16 Nov 2021 01:06_
 
 ### ItJobs
 
@@ -259,9 +259,6 @@ Jobs
 - **QA Automation Tester** @_Neotalent_ [here](https://www.itjobs.pt/oferta/411232/qa-automation-tester)
 
 
-- **Consultor QA** @_Adentis_ [here](https://www.itjobs.pt/oferta/411023/consultor-qa)
-
-
 - **Quality Assurance Automation** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/411575/quality-assurance-automation)
 
 
@@ -279,9 +276,6 @@ Jobs
 
 
 - **Senior Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/410258/senior-automation-tester)
-
-
-- **Software Test Engineer** @_Grit Solutions_ [here](https://www.itjobs.pt/oferta/407972/software-test-engineer)
 
 
 - **QA Tester** @_Red IT_ [here](https://www.itjobs.pt/oferta/409902/qa-tester)
