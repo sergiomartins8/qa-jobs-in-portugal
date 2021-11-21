@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sat, 20 Nov 2021 01:04_
+> _Last updated: Sun, 21 Nov 2021 01:08_
 
 ### ItJobs
 
@@ -148,6 +148,9 @@ Jobs
 
 
 - **Quality Assurance Automation** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/411575/quality-assurance-automation)
+
+
+- **Quality Assurance Consultant** @_Adentis_ [here](https://www.itjobs.pt/oferta/410490/quality-assurance-consultant)
 
 
 - **Quality Assurance Analyst** @_HCCM Consulting_ [here](https://www.itjobs.pt/oferta/412850/quality-assurance-analyst)
