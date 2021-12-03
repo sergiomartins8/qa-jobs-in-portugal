@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Thu, 02 Dec 2021 01:07_
+> _Last updated: Fri, 03 Dec 2021 01:06_
 
 ### ItJobs
 
@@ -100,6 +100,9 @@ Jobs
 
 
 - **Automation Tester** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/411804/automation-tester)
+
+
+- **Lead Automation Test Engineer** @_Human Profiler_ [here](https://www.itjobs.pt/oferta/414194/lead-automation-test-engineer)
 
 
 - **Software Test Engineer** @_retarus_ [here](https://www.itjobs.pt/oferta/413534/software-test-engineer)
@@ -220,6 +223,9 @@ Jobs
 - **Senior Test Engineer** @_Farfetch_ [here](https://www.itjobs.pt/oferta/414239/senior-test-engineer)
 
 
+- **QA Automation Engineer** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/413230/qa-automation-engineer)
+
+
 - **Quality Assurance** @_Jumia Porto Tech Center_ [here](https://www.itjobs.pt/oferta/413774/quality-assurance-jumia-full-time)
 
 
@@ -239,6 +245,9 @@ Jobs
 
 
 - **Software QA Engineer** @_WIT - Software_ [here](https://www.itjobs.pt/oferta/413156/software-qa-engineer)
+
+
+- **Test manager** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/413264/test-manager)
 
 #### Remote
 
@@ -276,6 +285,9 @@ Jobs
 
 
 - **QA Consultant** @_team.it_ [here](https://www.itjobs.pt/oferta/412902/team-qa-consultant)
+
+
+- **QA Engineer** @_Auto1 Group_ [here](https://www.itjobs.pt/oferta/412434/qa-engineer-f-m-x)
 
 
 - **Quality Assurance Engineer** @_KCS IT_ [here](https://www.itjobs.pt/oferta/411639/quality-assurance-engineer)
