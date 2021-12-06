@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sun, 05 Dec 2021 01:12_
+> _Last updated: Mon, 06 Dec 2021 01:09_
 
 ### ItJobs
 
@@ -177,6 +177,9 @@ Jobs
 - **QA Automation Tester** @_Neotalent_ [here](https://www.itjobs.pt/oferta/411232/qa-automation-tester)
 
 
+- **Software Developer – Test Automation** @_agap2IT_ [here](https://www.itjobs.pt/oferta/414571/software-developer-test-automation-portugal)
+
+
 - **Quality Assurance Analyst** @_BOLD International_ [here](https://www.itjobs.pt/oferta/411522/quality-assurance-analyst)
 
 #### Porto
@@ -264,6 +267,9 @@ Jobs
 
 
 - **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/412834/quality-assurance-tester)
+
+
+- **Software Test Engineer** @_Grit Solutions_ [here](https://www.itjobs.pt/oferta/414333/software-test-engineer)
 
 
 - **Automation tester** @_BOLD International_ [here](https://www.itjobs.pt/oferta/411515/automation-tester)
