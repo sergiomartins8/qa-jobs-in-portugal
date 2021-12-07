@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Mon, 06 Dec 2021 01:09_
+> _Last updated: Tue, 07 Dec 2021 01:10_
 
 ### ItJobs
 
@@ -66,6 +66,9 @@ Jobs
 - **Automation Tester** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/411804/automation-tester)
 
 
+- **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/414758/test-automation-engineer)
+
+
 - **Quality Assurance Tester Analyst** @_BOLD International_ [here](https://www.itjobs.pt/oferta/413206/quality-assurance-tester-analyst)
 
 
@@ -92,9 +95,15 @@ Jobs
 - **Node.js Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/411475/node-js-test-automation-engineer)
 
 
+- **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/414758/test-automation-engineer)
+
+
 - **Software QA Engineer** @_WIT - Software_ [here](https://www.itjobs.pt/oferta/413156/software-qa-engineer)
 
 #### Lisboa
+
+- **Senior Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/414728/senior-automation-tester)
+
 
 - **Quality Assurance Analyst** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/413588/quality-assurance-analyst)
 
@@ -141,12 +150,6 @@ Jobs
 - **Quality Assurance Analyst** @_HCCM Consulting_ [here](https://www.itjobs.pt/oferta/412850/quality-assurance-analyst)
 
 
-- **Test Automation Engineer** @_Smart Consulting_ [here](https://www.itjobs.pt/oferta/413528/test-automation-engineer)
-
-
-- **Quality Assurance Expert** @_Human Profiler_ [here](https://www.itjobs.pt/oferta/410007/quality-assurance-expert)
-
-
 - **Test Automation Engineer** @_Reloading_ [here](https://www.itjobs.pt/oferta/412999/test-automation-engineer)
 
 
@@ -187,6 +190,9 @@ Jobs
 - **Test automation engineer** @_GOTT - Soluções Tecnológicas_ [here](https://www.itjobs.pt/oferta/413646/test-automation-engineer)
 
 
+- **Senior Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/414728/senior-automation-tester)
+
+
 - **Quality Assurance Analyst** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/413588/quality-assurance-analyst)
 
 
@@ -205,7 +211,7 @@ Jobs
 - **Software Developer – Test Automation** @_agap2IT_ [here](https://www.itjobs.pt/oferta/413689/software-developer-test-automation)
 
 
-- **QA Automation Engineer** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/413903/qa-automation-engineer)
+- **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/414758/test-automation-engineer)
 
 
 - **Quality Assurance Tester Analyst** @_BOLD International_ [here](https://www.itjobs.pt/oferta/413206/quality-assurance-tester-analyst)
@@ -214,19 +220,16 @@ Jobs
 - **Test Automation Engineer** @_Jscrambler_ [here](https://www.itjobs.pt/oferta/412517/test-automation-engineer)
 
 
+- **Senior Quality Tester** @_Dellent Consulting_ [here](https://www.itjobs.pt/oferta/414643/senior-quality-tester)
+
+
 - **Automation tester** @_BOLD International_ [here](https://www.itjobs.pt/oferta/411515/automation-tester)
 
 
 - **Test automation engineer** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/412113/test-automation-engineer)
 
 
-- **QA Functional Tester** @_Red IT_ [here](https://www.itjobs.pt/oferta/413445/qa-funcional-tester)
-
-
 - **Senior Test Engineer** @_Farfetch_ [here](https://www.itjobs.pt/oferta/414239/senior-test-engineer)
-
-
-- **QA Automation Engineer** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/413230/qa-automation-engineer)
 
 
 - **Quality Assurance** @_Jumia Porto Tech Center_ [here](https://www.itjobs.pt/oferta/413774/quality-assurance-jumia-full-time)
@@ -245,12 +248,6 @@ Jobs
 
 
 - **Quality Assurance Automation** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/411575/quality-assurance-automation)
-
-
-- **Software QA Engineer** @_WIT - Software_ [here](https://www.itjobs.pt/oferta/413156/software-qa-engineer)
-
-
-- **Test manager** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/413264/test-manager)
 
 #### Remote
 
