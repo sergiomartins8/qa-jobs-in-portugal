@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sat, 11 Dec 2021 01:07_
+> _Last updated: Sun, 12 Dec 2021 01:11_
 
 ### ItJobs
 
@@ -251,6 +251,9 @@ Jobs
 
 
 - **Test automation engineer** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/412113/test-automation-engineer)
+
+
+- **Senior Test Engineer** @_Farfetch_ [here](https://www.itjobs.pt/oferta/414239/senior-test-engineer)
 
 
 - **Quality Assurance** @_Jumia Porto Tech Center_ [here](https://www.itjobs.pt/oferta/413774/quality-assurance-jumia-full-time)
