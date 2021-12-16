@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Wed, 15 Dec 2021 01:07_
+> _Last updated: Thu, 16 Dec 2021 01:08_
 
 ### ItJobs
 
@@ -183,9 +183,6 @@ Jobs
 - **Quality Assurance Tester Analyst** @_BOLD International_ [here](https://www.itjobs.pt/oferta/413206/quality-assurance-tester-analyst)
 
 
-- **Mobile Developer – Quality Assurance Android + iOS** @_agap2IT_ [here](https://www.itjobs.pt/oferta/412148/mobile-developer-quality-assurance-android-ios-portugal)
-
-
 - **Automation Test Engineer** @_Human Profiler_ [here](https://www.itjobs.pt/oferta/414902/automation-test-engineer)
 
 
@@ -196,9 +193,6 @@ Jobs
 
 
 - **Technical Engineer – Junior Test Automation** @_agap2IT_ [here](https://www.itjobs.pt/oferta/412228/technical-engineer-junior-test-automation-portugal)
-
-
-- **QA Automation Tester** @_Neotalent_ [here](https://www.itjobs.pt/oferta/411232/qa-automation-tester)
 
 
 - **Software Developer – Test Automation** @_agap2IT_ [here](https://www.itjobs.pt/oferta/414571/software-developer-test-automation-portugal)
@@ -221,9 +215,6 @@ Jobs
 
 
 - **Quality Assurance Analyst** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/413588/quality-assurance-analyst)
-
-
-- **Quality Assurance Analyst** @_Foursource_ [here](https://www.itjobs.pt/oferta/412149/product-analyst)
 
 
 - **Test Automation Engineer** @_BOLD International_ [here](https://www.itjobs.pt/oferta/413884/test-automation-engineer)
@@ -253,9 +244,6 @@ Jobs
 - **Test automation engineer** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/412113/test-automation-engineer)
 
 
-- **Senior Test Engineer** @_Farfetch_ [here](https://www.itjobs.pt/oferta/414239/senior-test-engineer)
-
-
 - **Quality Assurance** @_Jumia Porto Tech Center_ [here](https://www.itjobs.pt/oferta/413774/quality-assurance-jumia-full-time)
 
 
@@ -271,6 +259,9 @@ Jobs
 - **Quality Assurance Analyst** @_Mindera_ [here](https://www.itjobs.pt/oferta/415130/quality-assurance-analyst)
 
 
+- **QA Automation** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/415633/qa-automation)
+
+
 - **Quality Assurance Engineer** @_New Work SE_ [here](https://www.itjobs.pt/oferta/415560/quality-assurance-engineer)
 
 
@@ -280,9 +271,6 @@ Jobs
 - **Mobile Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/414757/mobile-test-automation-engineer)
 
 #### Remote
-
-- **QA Engineer** @_BOLD International_ [here](https://www.itjobs.pt/oferta/411518/qa-engineer)
-
 
 - **Test Automation Engineer** @_Imaginary Cloud_ [here](https://www.itjobs.pt/oferta/415359/test-automation-engineer)
 
@@ -296,7 +284,7 @@ Jobs
 - **QA Automation Engineers** @_CleverTi – Tecnologias e Inovação_ [here](https://www.itjobs.pt/oferta/414911/qa-automation-engineers)
 
 
-- **QA Engineer** @_Improove_ [here](https://www.itjobs.pt/oferta/413024/qa-engineer)
+- **Software QA** @_GuestCentric Systems_ [here](https://www.itjobs.pt/oferta/415613/software-qa)
 
 
 - **Software Test Engineer** @_retarus_ [here](https://www.itjobs.pt/oferta/413534/software-test-engineer)
