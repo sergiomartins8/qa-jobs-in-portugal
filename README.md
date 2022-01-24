@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sun, 23 Jan 2022 01:08_
+> _Last updated: Mon, 24 Jan 2022 01:08_
 
 ### ItJobs
 
@@ -359,6 +359,9 @@ Jobs
 - **QA Engineer** @_DogChef_ [here](https://www.itjobs.pt/oferta/419557/qa-engineer)
 
 
+- **Assistant Test Engineer** @_Personas Recruiting_ [here](https://www.itjobs.pt/oferta/419708/assistant-test-engineer)
+
+
 - **QA Consultant** @_team.it_ [here](https://www.itjobs.pt/oferta/418703/qa-consultant)
 
 
@@ -366,9 +369,6 @@ Jobs
 
 
 - **Mobile Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/418289/mobile-test-automation-engineer)
-
-
-- **QA Tester** @_BOLD International_ [here](https://www.itjobs.pt/oferta/415753/qa-tester)
 
 
 - **Quality Assurance Analyst Mobile** @_Mindera_ [here](https://www.itjobs.pt/oferta/419256/quality-assurance-analyst-mobile)
