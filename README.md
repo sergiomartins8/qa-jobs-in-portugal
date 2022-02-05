@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Fri, 04 Feb 2022 01:07_
+> _Last updated: Sat, 05 Feb 2022 00:59_
 
 ### ItJobs
 
@@ -234,6 +234,9 @@ Jobs
 - **Automation Tester** @_Neotalent_ [here](https://www.itjobs.pt/oferta/418323/automation-tester)
 
 
+- **Mobile Developer – Quality Assurance Android + iOS** @_agap2IT_ [here](https://www.itjobs.pt/oferta/420837/mobile-developer-quality-assurance-android-ios-portugal)
+
+
 - **Test automation engineer** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/416036/test-automation-engineer)
 
 
@@ -241,9 +244,6 @@ Jobs
 
 
 - **Technical Engineer – Junior Test Automation** @_agap2IT_ [here](https://www.itjobs.pt/oferta/417216/technical-engineer-junior-test-automation-portugal)
-
-
-- **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/416792/quality-assurance-tester)
 
 #### Porto
 
@@ -341,9 +341,6 @@ Jobs
 - **Senior Test Engineer** @_Farfetch_ [here](https://www.itjobs.pt/oferta/418602/senior-test-engineer)
 
 
-- **Test Automation Engineer** @_Imaginary Cloud_ [here](https://www.itjobs.pt/oferta/418810/test-automation-engineer)
-
-
 - **QA Automation Engineer** @_Indie Campers_ [here](https://www.itjobs.pt/oferta/420457/qa-automation-engineer)
 
 
@@ -375,6 +372,9 @@ Jobs
 
 
 - **Mobile Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/418289/mobile-test-automation-engineer)
+
+
+- **Test Automation Engineer** @_Imaginary Cloud_ [here](https://www.itjobs.pt/oferta/421132/test-automation-engineer)
 
 
 - **Quality Assurance Analyst Mobile** @_Mindera_ [here](https://www.itjobs.pt/oferta/419256/quality-assurance-analyst-mobile)
