@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sun, 06 Feb 2022 01:17_
+> _Last updated: Mon, 07 Feb 2022 01:08_
 
 ### ItJobs
 
@@ -219,6 +219,9 @@ Jobs
 - **Quality Assurance Engineer** @_Withus_ [here](https://www.itjobs.pt/oferta/417898/quality-assurance-engineer)
 
 
+- **Technical Engineer – Junior Test Automation** @_agap2IT_ [here](https://www.itjobs.pt/oferta/420980/technical-engineer-junior-test-automation)
+
+
 - **Quality Assurance Consultant** @_Adentis_ [here](https://www.itjobs.pt/oferta/419188/quality-assurance-consultant)
 
 
@@ -242,15 +245,15 @@ Jobs
 
 - **Quality Assurance Engineer** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/418910/quality-assurance-engineer)
 
-
-- **Technical Engineer – Junior Test Automation** @_agap2IT_ [here](https://www.itjobs.pt/oferta/417216/technical-engineer-junior-test-automation-portugal)
-
 #### Porto
 
 - **Engineering Lead - Test Automation - Farfetch Platform Solutions** @_Farfetch_ [here](https://www.itjobs.pt/oferta/419802/engineering-lead-test-automation-farfetch-platform-solutions)
 
 
 - **Test Manager** @_BOLD International_ [here](https://www.itjobs.pt/oferta/420654/test-manager)
+
+
+- **Junior QA Automation Engineer** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/421184/junior-qa-automation-engineer)
 
 
 - **Quality Assurance Analyst** @_BOLD International_ [here](https://www.itjobs.pt/oferta/417107/quality-assurance-analyst)
@@ -290,9 +293,6 @@ Jobs
 
 
 - **Quality Assurance Automation** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/416042/quality-assurance-automation)
-
-
-- **Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/417246/automation-tester)
 
 
 - **Quality Assurance Tester Analyst** @_BOLD International_ [here](https://www.itjobs.pt/oferta/417706/quality-assurance-tester-analyst)
