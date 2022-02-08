@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Mon, 07 Feb 2022 01:08_
+> _Last updated: Tue, 08 Feb 2022 01:11_
 
 ### ItJobs
 
@@ -189,9 +189,6 @@ Jobs
 - **Quality Assurance Engineer** @_Aptoide_ [here](https://www.itjobs.pt/oferta/417550/quality-assurance-engineer)
 
 
-- **Test Automation** @_Axians_ [here](https://www.itjobs.pt/oferta/417370/test-automation)
-
-
 - **Test Automation Specialist** @_agap2IT_ [here](https://www.itjobs.pt/oferta/418348/test-automation-specialist-portugal)
 
 
@@ -201,10 +198,19 @@ Jobs
 - **Quality Assurance Engineer** @_Optiply_ [here](https://www.itjobs.pt/oferta/418620/qulaity-assurance-engineer)
 
 
+- **Quality Assurance Consultant** @_Stefanini Portugal_ [here](https://www.itjobs.pt/oferta/421307/quality-assurance-consultant)
+
+
+- **Mobile Developer – Quality Assurance Android + iOS** @_agap2IT_ [here](https://www.itjobs.pt/oferta/420954/mobile-developer-quality-assurance-android-ios)
+
+
 - **Test Engineer - Farfetch Platform Solutions** @_Farfetch_ [here](https://www.itjobs.pt/oferta/419823/test-engineer-farfetch-platform-solutions)
 
 
 - **Quality Assurance Automation** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/416042/quality-assurance-automation)
+
+
+- **QA Automation** @_Symetria_ [here](https://www.itjobs.pt/oferta/421205/qa-automation)
 
 
 - **Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/417246/automation-tester)
@@ -220,9 +226,6 @@ Jobs
 
 
 - **Technical Engineer – Junior Test Automation** @_agap2IT_ [here](https://www.itjobs.pt/oferta/420980/technical-engineer-junior-test-automation)
-
-
-- **Quality Assurance Consultant** @_Adentis_ [here](https://www.itjobs.pt/oferta/419188/quality-assurance-consultant)
 
 
 - **Test Automation Engineer** @_Diconium Digital Solutions_ [here](https://www.itjobs.pt/oferta/420480/test-automation-engineer-f-m-x)
@@ -241,9 +244,6 @@ Jobs
 
 
 - **Test automation engineer** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/416036/test-automation-engineer)
-
-
-- **Quality Assurance Engineer** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/418910/quality-assurance-engineer)
 
 #### Porto
 
