@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sun, 20 Feb 2022 01:18_
+> _Last updated: Mon, 21 Feb 2022 01:09_
 
 ### ItJobs
 
@@ -195,6 +195,9 @@ Jobs
 - **Quality Assurance Consultant** @_Stefanini Portugal_ [here](https://www.itjobs.pt/oferta/421307/quality-assurance-consultant)
 
 
+- **Software Test Automation Engineer** @_KCS IT_ [here](https://www.itjobs.pt/oferta/421913/software-test-automation-engineer-full-remote)
+
+
 - **Test Automation Engineer** @_KCS IT_ [here](https://www.itjobs.pt/oferta/422794/test-automation-engineer)
 
 
@@ -207,7 +210,7 @@ Jobs
 - **Test Engineer - Farfetch Platform Solutions** @_Farfetch_ [here](https://www.itjobs.pt/oferta/419823/test-engineer-farfetch-platform-solutions)
 
 
-- **QA Automation** @_Symetria_ [here](https://www.itjobs.pt/oferta/421205/qa-automation)
+- **Quality Assurance - Tester** @_Winprovit - Soluções Inteligentes_ [here](https://www.itjobs.pt/oferta/422932/quality-assurance-tester)
 
 
 - **Test Automation Engineer** @_Adentis_ [here](https://www.itjobs.pt/oferta/421424/test-automation-engineer)
@@ -325,6 +328,9 @@ Jobs
 - **Quality Assurance Engineer** @_BOLD International_ [here](https://www.itjobs.pt/oferta/421634/qa-engineer)
 
 #### Remote
+
+- **Software Test Automation Engineer** @_KCS IT_ [here](https://www.itjobs.pt/oferta/421913/software-test-automation-engineer-full-remote)
+
 
 - **Test Automation Engineer** @_KCS IT_ [here](https://www.itjobs.pt/oferta/422794/test-automation-engineer)
 
