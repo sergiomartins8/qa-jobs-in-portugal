@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sat, 26 Feb 2022 01:10_
+> _Last updated: Sun, 27 Feb 2022 01:17_
 
 ### ItJobs
 
@@ -141,9 +141,6 @@ Jobs
 
 
 - **Mobile Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/422767/mobile-test-automation-engineer)
-
-
-- **Quality Assurance (QA) Engineer** @_Present Technologies_ [here](https://www.itjobs.pt/oferta/420114/quality-assurance-qa-engineer)
 
 #### Lisboa
 
