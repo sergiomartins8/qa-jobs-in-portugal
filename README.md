@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Wed, 02 Mar 2022 01:42_
+> _Last updated: Thu, 03 Mar 2022 01:27_
 
 ### ItJobs
 
@@ -144,9 +144,6 @@ Jobs
 
 #### Lisboa
 
-- **Senior Quality Assurance Engineer** @_Banco Atlântico - Europa_ [here](https://www.itjobs.pt/oferta/422754/senior-quality-assurance-engineer)
-
-
 - **Software Quality Assurance Tester** @_Adentis_ [here](https://www.itjobs.pt/oferta/423083/software-quality-assurance-tester)
 
 
@@ -160,6 +157,9 @@ Jobs
 
 
 - **Test Automation Engineer** @_Smart Consulting_ [here](https://www.itjobs.pt/oferta/422086/test-automation-engineer)
+
+
+- **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/424191/quality-assurance-developer)
 
 
 - **Quality Assurance Engineer** @_Withus_ [here](https://www.itjobs.pt/oferta/423023/quality-assurance-engineer)
