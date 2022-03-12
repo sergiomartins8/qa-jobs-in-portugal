@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Fri, 11 Mar 2022 01:25_
+> _Last updated: Sat, 12 Mar 2022 01:14_
 
 ### ItJobs
 
@@ -238,6 +238,9 @@ Jobs
 - **Test Automation Engineer** @_Jscrambler_ [here](https://www.itjobs.pt/oferta/424205/test-automation-engineer)
 
 
+- **Senior Quality Tester** @_Dellent Consulting_ [here](https://www.itjobs.pt/oferta/423799/senior-quality-tester)
+
+
 - **Test Automation Engineer** @_Smart Consulting_ [here](https://www.itjobs.pt/oferta/422086/test-automation-engineer)
 
 
@@ -251,9 +254,6 @@ Jobs
 
 
 - **Senior Test Engineer** @_Farfetch_ [here](https://www.itjobs.pt/oferta/422139/senior-test-engineer)
-
-
-- **Software Tester** @_Grit Solutions_ [here](https://www.itjobs.pt/oferta/424568/software-tester)
 
 
 - **Node.js Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/421697/node-js-test-automation-engineer)
