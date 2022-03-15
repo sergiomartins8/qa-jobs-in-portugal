@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Mon, 14 Mar 2022 01:22_
+> _Last updated: Tue, 15 Mar 2022 01:24_
 
 ### ItJobs
 
@@ -217,6 +217,9 @@ Jobs
 
 #### Porto
 
+- **Quality Assurance** @_Winphar_ [here](https://www.itjobs.pt/oferta/425879/quality-assurance)
+
+
 - **Software Test Engineer** @_Grit Solutions_ [here](https://www.itjobs.pt/oferta/423075/software-test-engineer)
 
 
@@ -239,9 +242,6 @@ Jobs
 
 
 - **Senior Test Engineer** @_Farfetch_ [here](https://www.itjobs.pt/oferta/422139/senior-test-engineer)
-
-
-- **Software Tester** @_Grit Solutions_ [here](https://www.itjobs.pt/oferta/424568/software-tester)
 
 
 - **Quality Assurance Analyst** @_Grit Solutions_ [here](https://www.itjobs.pt/oferta/423391/quality-assurance-analyst)
