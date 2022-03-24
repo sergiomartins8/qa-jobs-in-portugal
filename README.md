@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Wed, 23 Mar 2022 01:41_
+> _Last updated: Thu, 24 Mar 2022 01:37_
 
 ### ItJobs
 
@@ -126,9 +126,6 @@ Jobs
 - **Senior Automation Test Engineer** @_BOLD International_ [here](https://www.itjobs.pt/oferta/424898/senior-automation-test-engineer)
 
 
-- **Quality Assurance Engineer** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/424550/quality-assurance-engineer)
-
-
 - **Data Software Development Engineer in Test** @_Experis_ [here](https://www.itjobs.pt/oferta/425410/data-software-development-engineer-in-test)
 
 
@@ -142,6 +139,9 @@ Jobs
 
 
 - **Quality Assurance Pleno** @_Winprovit - Soluções Inteligentes_ [here](https://www.itjobs.pt/oferta/426080/quality-assurance-pleno)
+
+
+- **Quality Assurance c/ Francês** @_Reloading_ [here](https://www.itjobs.pt/oferta/424252/quality-assurance-c-frances)
 
 
 - **Software Development Engineer in Test** @_Mindera_ [here](https://www.itjobs.pt/oferta/426673/software-development-engineer-in-test)
@@ -193,6 +193,9 @@ Jobs
 
 
 - **Test Engineer** @_Farfetch_ [here](https://www.itjobs.pt/oferta/423923/test-engineer-farfetch-platform-solutions)
+
+
+- **Quality Assurance Analyst** @_BOLD International_ [here](https://www.itjobs.pt/oferta/422893/quality-assurance-analyst)
 
 
 - **Automation Tester - Robot Framework** @_Decskill_ [here](https://www.itjobs.pt/oferta/423004/automation-tester-robot-framework)
@@ -281,9 +284,6 @@ Jobs
 - **Software Test Automation Engineer** @_KCS IT_ [here](https://www.itjobs.pt/oferta/421913/software-test-automation-engineer-full-remote)
 
 
-- **QA Consultant** @_team.it_ [here](https://www.itjobs.pt/oferta/425453/qa-consultant)
-
-
 - **Software Quality Assurance Tester** @_Adentis_ [here](https://www.itjobs.pt/oferta/423083/software-quality-assurance-tester)
 
 
@@ -318,6 +318,9 @@ Jobs
 
 
 - **QA Automation Engineer (Selenium)** @_Neotalent_ [here](https://www.itjobs.pt/oferta/424275/qa-automation-engineer-selenium)
+
+
+- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/426795/quality-assurance-engineer)
 
 
 - **Test Automation Engineer** @_Jscrambler_ [here](https://www.itjobs.pt/oferta/424205/test-automation-engineer)
