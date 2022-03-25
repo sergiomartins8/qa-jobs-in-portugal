@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Thu, 24 Mar 2022 01:37_
+> _Last updated: Fri, 25 Mar 2022 01:35_
 
 ### ItJobs
 
@@ -123,7 +123,7 @@ Jobs
 
 #### Lisboa
 
-- **Senior Automation Test Engineer** @_BOLD International_ [here](https://www.itjobs.pt/oferta/424898/senior-automation-test-engineer)
+- **Software Developer – Test Automation** @_agap2IT_ [here](https://www.itjobs.pt/oferta/426429/software-developer-test-automation)
 
 
 - **Data Software Development Engineer in Test** @_Experis_ [here](https://www.itjobs.pt/oferta/425410/data-software-development-engineer-in-test)
@@ -259,13 +259,13 @@ Jobs
 - **Software Developer – Test Automation** @_agap2IT_ [here](https://www.itjobs.pt/oferta/426109/software-developer-test-automation)
 
 
-- **QA Automation Engineer (Selenium)** @_Neotalent_ [here](https://www.itjobs.pt/oferta/424275/qa-automation-engineer-selenium)
-
-
 - **Quality Assurance Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/425399/quality-assurance-engineer)
 
 
 - **Technical Engineer – Test automation / RPA** @_agap2IT_ [here](https://www.itjobs.pt/oferta/423275/technical-engineer-test-automation-rpa)
+
+
+- **Technical Engineer – Test automation / RPA** @_agap2IT_ [here](https://www.itjobs.pt/oferta/426707/technical-engineer-test-automation-rpa)
 
 
 - **Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/423618/automation-tester)
