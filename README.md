@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Fri, 25 Mar 2022 01:35_
+> _Last updated: Sat, 26 Mar 2022 01:27_
 
 ### ItJobs
 
@@ -123,6 +123,12 @@ Jobs
 
 #### Lisboa
 
+- **Software Quality Assurance Tester** @_Adentis_ [here](https://www.itjobs.pt/oferta/423083/software-quality-assurance-tester)
+
+
+- **Senior Automation Test Engineer** @_BOLD International_ [here](https://www.itjobs.pt/oferta/424898/senior-automation-test-engineer)
+
+
 - **Software Developer – Test Automation** @_agap2IT_ [here](https://www.itjobs.pt/oferta/426429/software-developer-test-automation)
 
 
@@ -153,9 +159,6 @@ Jobs
 - **Quality Assurance Júnior - Tester** @_Experis_ [here](https://www.itjobs.pt/oferta/426535/quality-assurance-junior-tester)
 
 
-- **Software Test Automation Engineer** @_KCS IT_ [here](https://www.itjobs.pt/oferta/421913/software-test-automation-engineer-full-remote)
-
-
 - **Quality Assurance Test Engineer** @_BOLD International_ [here](https://www.itjobs.pt/oferta/423305/quality-assurance-test-engineer)
 
 
@@ -172,9 +175,6 @@ Jobs
 
 
 - **Quality Assurance - Automation Tester** @_Winprovit - Soluções Inteligentes_ [here](https://www.itjobs.pt/oferta/426527/quality-assurance-automation-tester)
-
-
-- **Quality Assurance - Tester** @_Winprovit - Soluções Inteligentes_ [here](https://www.itjobs.pt/oferta/422932/quality-assurance-tester)
 
 
 - **QA Automation Engineer (Selenium)** @_Neotalent_ [here](https://www.itjobs.pt/oferta/424275/qa-automation-engineer-selenium)
@@ -209,6 +209,9 @@ Jobs
 
 
 - **Software Test Coordinator** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/426055/software-test-manager)
+
+
+- **Software Tester** @_Inetum_ [here](https://www.itjobs.pt/oferta/426920/software-tester)
 
 
 - **Test Automation Engineer** @_Jscrambler_ [here](https://www.itjobs.pt/oferta/424205/test-automation-engineer)
@@ -280,9 +283,6 @@ Jobs
 - **Engineering Lead - Test Automation** @_Farfetch_ [here](https://www.itjobs.pt/oferta/423922/engineering-lead-test-automation-farfetch-platform-solutions)
 
 #### Remote
-
-- **Software Test Automation Engineer** @_KCS IT_ [here](https://www.itjobs.pt/oferta/421913/software-test-automation-engineer-full-remote)
-
 
 - **Software Quality Assurance Tester** @_Adentis_ [here](https://www.itjobs.pt/oferta/423083/software-quality-assurance-tester)
 
