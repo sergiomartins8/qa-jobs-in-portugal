@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Thu, 14 Apr 2022 01:54_
+> _Last updated: Fri, 15 Apr 2022 01:47_
 
 ### ItJobs
 
@@ -46,18 +46,6 @@ Jobs
 
 
 - **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/426577/qa-engineer)
-
-
-- **Front-End Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/426666/front-end-test-automation-engineer)
-
-
-- **Quality Assurance Engineer** @_BOLD International_ [here](https://www.itjobs.pt/oferta/427852/quality-assurance-engineer)
-
-
-- **QA Engineer** @_Optiply_ [here](https://www.itjobs.pt/oferta/426360/qa-engineer)
-
-
-- **Test Automation Engineer** @_Dellent Consulting_ [here](https://www.itjobs.pt/oferta/428540/test-automation-engineer)
 
 
 - **QA Automation Engineer (Selenium)** @_Neotalent_ [here](https://www.itjobs.pt/oferta/428481/qa-automation-engineer-selenium)
@@ -72,13 +60,22 @@ Jobs
 - **QA Engineer** @_YellowIpe_ [here](https://www.itjobs.pt/oferta/428711/qa-engineer)
 
 
+- **Front-End Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/426666/front-end-test-automation-engineer)
+
+
 - **Senior Quality Assurance** @_BOLD International_ [here](https://www.itjobs.pt/oferta/427851/senior-quality-assurance)
+
+
+- **Quality Assurance Engineer** @_BOLD International_ [here](https://www.itjobs.pt/oferta/427852/quality-assurance-engineer)
 
 
 - **Quality Assurance Analyst Mobile** @_Mindera_ [here](https://www.itjobs.pt/oferta/427558/quality-assurance-analyst-mobile)
 
 
 - **Quality Assurance Engineer** @_Withus_ [here](https://www.itjobs.pt/oferta/427347/quality-assurance-engineer)
+
+
+- **Test Automation Engineer** @_Dellent Consulting_ [here](https://www.itjobs.pt/oferta/428540/test-automation-engineer)
 
 #### Braga
 
@@ -101,9 +98,6 @@ Jobs
 
 
 - **Engineering Lead - Test Automation** @_Farfetch_ [here](https://www.itjobs.pt/oferta/428208/engineering-lead-test-automation)
-
-
-- **QA Engineer** @_Optiply_ [here](https://www.itjobs.pt/oferta/426360/qa-engineer)
 
 #### Coimbra
 
@@ -129,9 +123,6 @@ Jobs
 
 
 - **Quality Assurance Analyst Mobile** @_Mindera_ [here](https://www.itjobs.pt/oferta/427558/quality-assurance-analyst-mobile)
-
-
-- **QA Engineer** @_Optiply_ [here](https://www.itjobs.pt/oferta/426360/qa-engineer)
 
 
 - **Test Automation Engineer** @_Dellent Consulting_ [here](https://www.itjobs.pt/oferta/428540/test-automation-engineer)
@@ -330,6 +321,9 @@ Jobs
 
 
 - **Test Automation Engineer** @_Dellent Consulting_ [here](https://www.itjobs.pt/oferta/428540/test-automation-engineer)
+
+
+- **QA - Academia** @_Adentis_ [here](https://www.itjobs.pt/oferta/429297/academia-qa)
 
 
 - **Quality Assurance Engineer** @_AET Portugal_ [here](https://www.itjobs.pt/oferta/428366/quality-assurance-engineer)
