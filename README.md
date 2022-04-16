@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Fri, 15 Apr 2022 01:47_
+> _Last updated: Sat, 16 Apr 2022 01:40_
 
 ### ItJobs
 
@@ -168,9 +168,6 @@ Jobs
 - **Quality Assurance Tester Trainee** @_Vortal_ [here](https://www.itjobs.pt/oferta/429285/quality-assurance-tester-trainee)
 
 
-- **QA Automation** @_Symetria_ [here](https://www.itjobs.pt/oferta/425762/qa-automation)
-
-
 - **Test Automation Developer** @_Experis_ [here](https://www.itjobs.pt/oferta/428083/test-automation-developer)
 
 
@@ -300,9 +297,6 @@ Jobs
 
 
 - **Mobile Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/426665/mobile-test-automation-engineer)
-
-
-- **Quality Assurance** @_KWAN_ [here](https://www.itjobs.pt/oferta/425416/quality-assurance)
 
 
 - **Test Engineer** @_The Virtual Forge_ [here](https://www.itjobs.pt/oferta/428049/test-engineer)
