@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sun, 17 Apr 2022 01:47_
+> _Last updated: Mon, 18 Apr 2022 01:59_
 
 ### ItJobs
 
@@ -113,6 +113,9 @@ Jobs
 - **Node.js Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/425922/node-js-test-automation-engineer)
 
 
+- **Senior QA Engineer** @_Noesis Portugal - Consultadoria em Sistemas de Informação, SA_ [here](https://www.itjobs.pt/oferta/428820/senior-qa-engineer)
+
+
 - **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/427406/test-automation-engineer)
 
 
@@ -133,6 +136,9 @@ Jobs
 
 
 - **Quality Assurance** @_Winprovit - Soluções Inteligentes_ [here](https://www.itjobs.pt/oferta/428733/quality-assurance)
+
+
+- **QA Automation** @_Symetria_ [here](https://www.itjobs.pt/oferta/429587/qa-automation)
 
 
 - **Software Developer – Test Automation** @_agap2IT_ [here](https://www.itjobs.pt/oferta/426429/software-developer-test-automation)
@@ -166,6 +172,9 @@ Jobs
 
 
 - **Quality Assurance Tester Trainee** @_Vortal_ [here](https://www.itjobs.pt/oferta/429285/quality-assurance-tester-trainee)
+
+
+- **Test Automation Engineer (+)** @_Dixtior Consulting_ [here](https://www.itjobs.pt/oferta/429545/test-automation-engineer)
 
 
 - **Test Automation Developer** @_Experis_ [here](https://www.itjobs.pt/oferta/428083/test-automation-developer)
