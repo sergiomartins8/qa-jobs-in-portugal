@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Tue, 26 Apr 2022 02:00_
+> _Last updated: Wed, 27 Apr 2022 02:04_
 
 ### ItJobs
 
@@ -129,9 +129,6 @@ Jobs
 - **Quality Assurance Engineer** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/429685/quality-assurance-engineer)
 
 
-- **Software Developer – Test Automation** @_agap2IT_ [here](https://www.itjobs.pt/oferta/426429/software-developer-test-automation)
-
-
 - **Engineering Lead - Test Automation** @_Farfetch_ [here](https://www.itjobs.pt/oferta/428208/engineering-lead-test-automation)
 
 
@@ -192,7 +189,13 @@ Jobs
 - **Technical Engineer – Test automation / RPA** @_agap2IT_ [here](https://www.itjobs.pt/oferta/426764/technical-engineer-test-automation-rpa)
 
 
+- **Test Automation Manager** @_Allaxa Smart_ [here](https://www.itjobs.pt/oferta/430535/test-automation-manager)
+
+
 - **Automation Tester** @_Neotalent_ [here](https://www.itjobs.pt/oferta/428201/automation-tester)
+
+
+- **Lead Quality Assurance Engineer** @_moey!_ [here](https://www.itjobs.pt/oferta/430450/lead-quality-assurance-engineer)
 
 
 - **Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/428223/automation-tester)
@@ -238,9 +241,6 @@ Jobs
 - **Node.js Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/429856/node-js-test-automation-engineer)
 
 
-- **Technical Engineer – Test automation / RPA** @_agap2IT_ [here](https://www.itjobs.pt/oferta/426707/technical-engineer-test-automation-rpa)
-
-
 - **QA Automation Engineer (Selenium)** @_Neotalent_ [here](https://www.itjobs.pt/oferta/428481/qa-automation-engineer-selenium)
 
 
@@ -254,6 +254,9 @@ Jobs
 
 
 - **Automation Software Tester (Junior)** @_Olisipo_ [here](https://www.itjobs.pt/oferta/428376/automation-software-tester-junior)
+
+
+- **Web Automation Test Engineer** @_Aubay_ [here](https://www.itjobs.pt/oferta/427124/web-automation-test-engineer)
 
 
 - **Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/428223/automation-tester)
@@ -303,6 +306,9 @@ Jobs
 
 
 - **QA - Academia** @_Adentis_ [here](https://www.itjobs.pt/oferta/429297/academia-qa)
+
+
+- **Automation Tester** @_Adentis_ [here](https://www.itjobs.pt/oferta/430258/automation-tester)
 
 
 - **Quality Assurance Engineer** @_AET Portugal_ [here](https://www.itjobs.pt/oferta/428366/quality-assurance-engineer)
