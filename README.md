@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Wed, 27 Apr 2022 02:04_
+> _Last updated: Thu, 28 Apr 2022 02:36_
 
 ### ItJobs
 
@@ -275,10 +275,10 @@ Jobs
 
 #### Remote
 
-- **Quality Assurance Analyst** @_esolidar_ [here](https://www.itjobs.pt/oferta/428562/quality-assurance-analyst)
-
-
 - **Quality Assurance Tester Trainee** @_Vortal_ [here](https://www.itjobs.pt/oferta/429285/quality-assurance-tester-trainee)
+
+
+- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/430620/quality-assurance-engineer)
 
 
 - **Head of Quality Assurance** @_siosLIFE_ [here](https://www.itjobs.pt/oferta/429155/head-of-quality-assurance)
