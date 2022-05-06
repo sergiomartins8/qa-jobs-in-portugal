@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Thu, 05 May 2022 01:53_
+> _Last updated: Fri, 06 May 2022 01:47_
 
 ### ItJobs
 
@@ -66,9 +66,6 @@ Jobs
 - **Senior QA Engineer Augmented Reality** @_TeamViewer Portugal_ [here](https://www.itjobs.pt/oferta/429777/senior-qa-engineer-augmented-reality)
 
 
-- **QA Engineer** @_YellowIpe_ [here](https://www.itjobs.pt/oferta/428711/qa-engineer)
-
-
 - **Senior Quality Assurance** @_BOLD International_ [here](https://www.itjobs.pt/oferta/427851/senior-quality-assurance)
 
 
@@ -86,6 +83,9 @@ Jobs
 
 
 - **Junior Test Engineer** @_Farfetch_ [here](https://www.itjobs.pt/oferta/430931/junior-test-engineer)
+
+
+- **Senior QA Engineer Augmented Reality** @_TeamViewer Portugal_ [here](https://www.itjobs.pt/oferta/429777/senior-qa-engineer-augmented-reality)
 
 
 - **QA Engineer** @_YellowIpe_ [here](https://www.itjobs.pt/oferta/428711/qa-engineer)
@@ -111,9 +111,6 @@ Jobs
 
 
 - **QA Automation Engineer (Selenium)** @_Neotalent_ [here](https://www.itjobs.pt/oferta/428481/qa-automation-engineer-selenium)
-
-
-- **Senior QA Engineer** @_Noesis Portugal - Consultadoria em Sistemas de Informação, SA_ [here](https://www.itjobs.pt/oferta/428820/senior-qa-engineer)
 
 
 - **Senior QA Engineer Augmented Reality** @_TeamViewer Portugal_ [here](https://www.itjobs.pt/oferta/429777/senior-qa-engineer-augmented-reality)
