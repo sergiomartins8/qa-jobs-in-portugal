@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Thu, 12 May 2022 02:00_
+> _Last updated: Fri, 13 May 2022 02:04_
 
 ### ItJobs
 
@@ -132,9 +132,6 @@ Jobs
 - **Automation Test Engineer** @_BOLD International_ [here](https://www.itjobs.pt/oferta/430893/automation-test-engineer)
 
 
-- **QA Automation Tester** @_BOLD International_ [here](https://www.itjobs.pt/oferta/431507/qa-automation-tester)
-
-
 - **Automation Tester - Robot Framework** @_Decskill_ [here](https://www.itjobs.pt/oferta/430911/automation-tester-robot-framework)
 
 
@@ -151,6 +148,9 @@ Jobs
 
 
 - **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/431122/quality-assurance-tester)
+
+
+- **Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/432093/automation-tester)
 
 
 - **Engineering Lead - Test Automation** @_Farfetch_ [here](https://www.itjobs.pt/oferta/431669/engineering-lead-test-automation)
@@ -230,6 +230,9 @@ Jobs
 
 
 - **Web Automation Test Engineer** @_Aubay_ [here](https://www.itjobs.pt/oferta/430947/web-automation-test-engineer)
+
+
+- **Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/432093/automation-tester)
 
 
 - **Engineering Lead - Test Automation** @_Farfetch_ [here](https://www.itjobs.pt/oferta/431669/engineering-lead-test-automation)
