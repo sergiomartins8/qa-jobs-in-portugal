@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Tue, 17 May 2022 01:54_
+> _Last updated: Wed, 18 May 2022 01:47_
 
 ### ItJobs
 
@@ -108,6 +108,9 @@ Jobs
 - **Quality Assurance - Automation Tester** @_Winprovit - Soluções Inteligentes_ [here](https://www.itjobs.pt/oferta/430459/quality-assurance-automation-tester)
 
 
+- **Quality Assurance** @_Winprovit - Soluções Inteligentes_ [here](https://www.itjobs.pt/oferta/432254/quality-assurance)
+
+
 - **Quality Assurance Pleno** @_Winprovit - Soluções Inteligentes_ [here](https://www.itjobs.pt/oferta/430464/quality-assurance-pleno)
 
 
@@ -121,6 +124,9 @@ Jobs
 
 
 - **Tester** @_KCS IT_ [here](https://www.itjobs.pt/oferta/431712/tester)
+
+
+- **QA Automation (Java)** @_Altimetrik_ [here](https://www.itjobs.pt/oferta/432617/qa-automation-java-in-lisbon)
 
 
 - **QA Automation** @_Symetria_ [here](https://www.itjobs.pt/oferta/429587/qa-automation)
@@ -176,6 +182,9 @@ Jobs
 
 
 - **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/430977/test-automation-engineer)
+
+
+- **Quality Assurance Engineer** @_AET Portugal_ [here](https://www.itjobs.pt/oferta/432745/quality-assurance-engineer)
 
 
 - **Quality Assurance Manager** @_Winprovit - Soluções Inteligentes_ [here](https://www.itjobs.pt/oferta/429706/quality-assurance-manager)
@@ -258,9 +267,6 @@ Jobs
 
 
 - **Quality Assurance Analyst Mobile** @_Mindera_ [here](https://www.itjobs.pt/oferta/431149/quality-assurance-analyst-mobile)
-
-
-- **QA - Academia** @_Adentis_ [here](https://www.itjobs.pt/oferta/429297/academia-qa)
 
 
 - **Automation Tester** @_Adentis_ [here](https://www.itjobs.pt/oferta/430258/automation-tester)
