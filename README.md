@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Wed, 25 May 2022 01:58_
+> _Last updated: Thu, 26 May 2022 02:02_
 
 ### ItJobs
 
@@ -76,10 +76,10 @@ Jobs
 - **Engineering Lead - Test Automation** @_Farfetch_ [here](https://www.itjobs.pt/oferta/431669/engineering-lead-test-automation)
 
 
+- **Test Engineer** @_Farfetch_ [here](https://www.itjobs.pt/oferta/431327/test-engineer)
+
+
 - **Junior Test Engineer** @_Farfetch_ [here](https://www.itjobs.pt/oferta/430931/junior-test-engineer)
-
-
-- **Test Automation Engineer** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/431360/test-automation-engineer)
 
 #### Coimbra
 
@@ -220,9 +220,6 @@ Jobs
 - **QA Automation Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/432361/qa-automation-engineer)
 
 
-- **QA Engineer** @_BOLD International_ [here](https://www.itjobs.pt/oferta/431508/qa-engineer)
-
-
 - **Front-End Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/430525/front-end-test-automation-engineer)
 
 
@@ -239,6 +236,9 @@ Jobs
 
 
 - **Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/432093/automation-tester)
+
+
+- **QAA** @_Ebankit - Omnichannel Innovation_ [here](https://www.itjobs.pt/oferta/433347/qaa)
 
 
 - **Engineering Lead - Test Automation** @_Farfetch_ [here](https://www.itjobs.pt/oferta/431669/engineering-lead-test-automation)
@@ -261,6 +261,9 @@ Jobs
 
 
 - **QA Automation Engineer** @_Take the Wind_ [here](https://www.itjobs.pt/oferta/431419/qa-automation-engineer)
+
+
+- **QA Engineer** @_Recharge.com_ [here](https://www.itjobs.pt/oferta/433510/qa-engineer)
 
 
 - **Quality Assurance Engineer** @_Ubiwhere_ [here](https://www.itjobs.pt/oferta/432836/quality-assurance-engineer)
