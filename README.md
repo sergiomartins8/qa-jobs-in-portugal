@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Thu, 26 May 2022 02:02_
+> _Last updated: Fri, 27 May 2022 01:57_
 
 ### ItJobs
 
@@ -126,6 +126,9 @@ Jobs
 - **Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/432093/automation-tester)
 
 
+- **QA Automation Engineer** @_Indie Campers_ [here](https://www.itjobs.pt/oferta/433496/qa-automation-engineer)
+
+
 - **Test Automation Developer** @_Experis_ [here](https://www.itjobs.pt/oferta/431389/test-automation-developer)
 
 
@@ -180,9 +183,6 @@ Jobs
 - **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/432728/quality-assurance-developer)
 
 #### Porto
-
-- **Functional and Automation Testers** @_KCS IT_ [here](https://www.itjobs.pt/oferta/431052/functional-and-automation-testers)
-
 
 - **Data Quality Analyst** @_Aubay_ [here](https://www.itjobs.pt/oferta/432449/data-quality-analyst)
 
@@ -244,6 +244,9 @@ Jobs
 - **Engineering Lead - Test Automation** @_Farfetch_ [here](https://www.itjobs.pt/oferta/431669/engineering-lead-test-automation)
 
 
+- **Senior Test Engineer** @_Farfetch_ [here](https://www.itjobs.pt/oferta/433461/senior-test-engineer)
+
+
 - **Test Automation Developer** @_Experis_ [here](https://www.itjobs.pt/oferta/431389/test-automation-developer)
 
 
@@ -273,9 +276,6 @@ Jobs
 
 
 - **QA Automation Tester** @_BOLD International_ [here](https://www.itjobs.pt/oferta/431507/qa-automation-tester)
-
-
-- **QA** @_KCS IT_ [here](https://www.itjobs.pt/oferta/433304/qa)
 
 
 - **Front-End Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/430525/front-end-test-automation-engineer)
