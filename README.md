@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sun, 29 May 2022 02:10_
+> _Last updated: Mon, 30 May 2022 02:02_
 
 ### ItJobs
 
@@ -126,6 +126,9 @@ Jobs
 - **Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/432093/automation-tester)
 
 
+- **Software Tester (Team Lead)** @_Dellent Consulting_ [here](https://www.itjobs.pt/oferta/432024/software-tester-team-lead)
+
+
 - **QA Automation Engineer** @_Indie Campers_ [here](https://www.itjobs.pt/oferta/433496/qa-automation-engineer)
 
 
@@ -166,12 +169,6 @@ Jobs
 
 
 - **Engineering Lead - Test Automation** @_Farfetch_ [here](https://www.itjobs.pt/oferta/431669/engineering-lead-test-automation)
-
-
-- **Test Automation Manager** @_Allaxa Smart_ [here](https://www.itjobs.pt/oferta/430535/test-automation-manager)
-
-
-- **Lead Quality Assurance Engineer** @_moey!_ [here](https://www.itjobs.pt/oferta/430450/lead-quality-assurance-engineer)
 
 
 - **Quality Assurance Automation** @_KCS IT_ [here](https://www.itjobs.pt/oferta/431722/quality-assurance-automation)
@@ -294,9 +291,6 @@ Jobs
 
 
 - **Quality Assurance Analyst Mobile** @_Mindera_ [here](https://www.itjobs.pt/oferta/431149/quality-assurance-analyst-mobile)
-
-
-- **Automation Tester** @_Adentis_ [here](https://www.itjobs.pt/oferta/430258/automation-tester)
 
 
 - **Software Tester (Team Lead)** @_Dellent Consulting_ [here](https://www.itjobs.pt/oferta/432024/software-tester-team-lead)
