@@ -36,16 +36,13 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Tue, 31 May 2022 02:01_
+> _Last updated: Wed, 01 Jun 2022 02:19_
 
 ### ItJobs
 
 #### Aveiro
 
 - **Node.js Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/433220/node-js-test-automation-engineer)
-
-
-- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/430607/qa-engineer)
 
 
 - **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/430977/test-automation-engineer)
@@ -65,13 +62,7 @@ Jobs
 
 - **QA Engineer** @_BOLD International_ [here](https://www.itjobs.pt/oferta/431508/qa-engineer)
 
-
-- **Front-End Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/430525/front-end-test-automation-engineer)
-
 #### Braga
-
-- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/430607/qa-engineer)
-
 
 - **Engineering Lead - Test Automation** @_Farfetch_ [here](https://www.itjobs.pt/oferta/431669/engineering-lead-test-automation)
 
@@ -100,9 +91,6 @@ Jobs
 
 - **Reconversão de Carreira (IT - QA/Testes)** @_Noesis Portugal - Consultadoria em Sistemas de Informação, SA_ [here](https://www.itjobs.pt/oferta/432634/reconversao-de-carreira-it-qa-testes)
 
-
-- **Front-End Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/430525/front-end-test-automation-engineer)
-
 #### Lisboa
 
 - **Quality Assurance - Tester** @_Winprovit - Soluções Inteligentes_ [here](https://www.itjobs.pt/oferta/432263/quality-assurance-tester)
@@ -117,13 +105,13 @@ Jobs
 - **Quality Assurance** @_Winprovit - Soluções Inteligentes_ [here](https://www.itjobs.pt/oferta/432254/quality-assurance)
 
 
-- **DevOps QA** @_Experis_ [here](https://www.itjobs.pt/oferta/433101/devops-qa)
-
-
 - **QA Automation Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/432361/qa-automation-engineer)
 
 
 - **Automation Test Engineer** @_Sowin_ [here](https://www.itjobs.pt/oferta/433800/automation-test-engineer)
+
+
+- **Quality Assurance Analyst** @_HCCM Consulting_ [here](https://www.itjobs.pt/oferta/433903/quality-assurance-analyst)
 
 
 - **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/431122/quality-assurance-tester)
@@ -187,43 +175,22 @@ Jobs
 
 #### Porto
 
+- **Functional and Automation Testers** @_KCS IT_ [here](https://www.itjobs.pt/oferta/431052/functional-and-automation-testers)
+
+
+- **Data Quality Analyst** @_Aubay_ [here](https://www.itjobs.pt/oferta/432449/data-quality-analyst)
+
+
 - **Automation Tester** @_Neotalent_ [here](https://www.itjobs.pt/oferta/431650/automation-tester)
 
 
 - **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/430977/test-automation-engineer)
 
 
-- **QA Tester DevOps** @_Armis - Sistemas de Informação_ [here](https://www.itjobs.pt/oferta/433379/qa-tester-devops)
-
-
-- **DevOps QA** @_Experis_ [here](https://www.itjobs.pt/oferta/433101/devops-qa)
-
-
-- **Software Test Engineer** @_FABAMAQ - Sistemas Informáticos_ [here](https://www.itjobs.pt/oferta/432547/software-test-engineer)
-
-
-- **Automation Test Engineer** @_Sowin_ [here](https://www.itjobs.pt/oferta/433800/automation-test-engineer)
-
-
-- **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/431122/quality-assurance-tester)
-
-
-- **Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/432093/automation-tester)
-
-
-- **Senior Test Engineer** @_Farfetch_ [here](https://www.itjobs.pt/oferta/433461/senior-test-engineer)
-
-
-- **Test Automation Developer** @_Experis_ [here](https://www.itjobs.pt/oferta/431389/test-automation-developer)
-
-
-- **Software Quality Assurance Lead** @_Information Factory_ [here](https://www.itjobs.pt/oferta/431532/software-quality-assurance-lead)
-
-
-- **Data Quality Analyst** @_Aubay_ [here](https://www.itjobs.pt/oferta/432449/data-quality-analyst)
-
-
 - **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/432724/quality-assurance-developer)
+
+
+- **QA Tester DevOps** @_Armis - Sistemas de Informação_ [here](https://www.itjobs.pt/oferta/433379/qa-tester-devops)
 
 
 - **Quality Assurance Engineer** @_AET Portugal_ [here](https://www.itjobs.pt/oferta/432745/quality-assurance-engineer)
@@ -238,7 +205,10 @@ Jobs
 - **QA Automation Tester** @_BOLD International_ [here](https://www.itjobs.pt/oferta/431507/qa-automation-tester)
 
 
-- **Front-End Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/430525/front-end-test-automation-engineer)
+- **Software Test Engineer** @_FABAMAQ - Sistemas Informáticos_ [here](https://www.itjobs.pt/oferta/432547/software-test-engineer)
+
+
+- **Automation Test Engineer** @_Sowin_ [here](https://www.itjobs.pt/oferta/433800/automation-test-engineer)
 
 
 - **Automation QA Engineer** @_Jscrambler_ [here](https://www.itjobs.pt/oferta/432059/automation-qa-engineer)
@@ -247,10 +217,13 @@ Jobs
 - **Node.js Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/433220/node-js-test-automation-engineer)
 
 
-- **Mobile Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/430528/mobile-test-automation-engineer)
+- **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/431122/quality-assurance-tester)
 
 
 - **Quality Assurance Analyst Mobile** @_Mindera_ [here](https://www.itjobs.pt/oferta/431149/quality-assurance-analyst-mobile)
+
+
+- **Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/432093/automation-tester)
 
 
 - **QAA** @_Ebankit - Omnichannel Innovation_ [here](https://www.itjobs.pt/oferta/433347/qaa)
@@ -259,7 +232,16 @@ Jobs
 - **Engineering Lead - Test Automation** @_Farfetch_ [here](https://www.itjobs.pt/oferta/431669/engineering-lead-test-automation)
 
 
+- **Senior Test Engineer** @_Farfetch_ [here](https://www.itjobs.pt/oferta/433461/senior-test-engineer)
+
+
 - **PGR - Quality Assurance Engineer** @_Adentis_ [here](https://www.itjobs.pt/oferta/433736/pgr-quality-assurance-engineer)
+
+
+- **Test Automation Developer** @_Experis_ [here](https://www.itjobs.pt/oferta/431389/test-automation-developer)
+
+
+- **Software Quality Assurance Lead** @_Information Factory_ [here](https://www.itjobs.pt/oferta/431532/software-quality-assurance-lead)
 
 
 - **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/432728/quality-assurance-developer)
@@ -287,7 +269,7 @@ Jobs
 - **QA Automation Tester** @_BOLD International_ [here](https://www.itjobs.pt/oferta/431507/qa-automation-tester)
 
 
-- **Front-End Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/430525/front-end-test-automation-engineer)
+- **QA** @_KCS IT_ [here](https://www.itjobs.pt/oferta/433304/qa)
 
 
 - **Automation Test Engineer** @_Sowin_ [here](https://www.itjobs.pt/oferta/433800/automation-test-engineer)
@@ -302,9 +284,6 @@ Jobs
 - **Software Test Engineers (STE)** @_Geomotiv_ [here](https://www.itjobs.pt/oferta/432234/software-test-engineers-ste)
 
 
-- **Mobile Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/430528/mobile-test-automation-engineer)
-
-
 - **Quality Assurance Analyst Mobile** @_Mindera_ [here](https://www.itjobs.pt/oferta/431149/quality-assurance-analyst-mobile)
 
 
@@ -312,9 +291,6 @@ Jobs
 
 
 - **PGR - Quality Assurance Engineer** @_Adentis_ [here](https://www.itjobs.pt/oferta/433736/pgr-quality-assurance-engineer)
-
-
-- **Software Development Engineer in Test** @_Mindera_ [here](https://www.itjobs.pt/oferta/430524/software-development-engineer-in-test)
 
 
 - **Reconversão de Carreira (IT - QA/Testes)** @_Noesis Portugal - Consultadoria em Sistemas de Informação, SA_ [here](https://www.itjobs.pt/oferta/432634/reconversao-de-carreira-it-qa-testes)
