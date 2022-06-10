@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Thu, 09 Jun 2022 01:55_
+> _Last updated: Fri, 10 Jun 2022 02:01_
 
 ### ItJobs
 
@@ -114,10 +114,10 @@ Jobs
 - **Quality Assurance - Tester** @_Winprovit - Soluções Inteligentes_ [here](https://www.itjobs.pt/oferta/432263/quality-assurance-tester)
 
 
-- **Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/433946/automation-tester)
-
-
 - **Automation Tester** @_Neotalent_ [here](https://www.itjobs.pt/oferta/431650/automation-tester)
+
+
+- **Quality Assurance Automation** @_KCS IT_ [here](https://www.itjobs.pt/oferta/434721/quality-assurance-automation)
 
 
 - **Quality Assurance Tester** @_Winprovit - Soluções Inteligentes_ [here](https://www.itjobs.pt/oferta/433798/quality-assurance-tester)
@@ -177,7 +177,10 @@ Jobs
 - **QA Automation (Java)** @_Altimetrik_ [here](https://www.itjobs.pt/oferta/432617/qa-automation-java-in-lisbon)
 
 
-- **Quality Assurance c/ Francês** @_Reloading_ [here](https://www.itjobs.pt/oferta/431858/quality-assurance-c-frances)
+- **QA Automation Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/432360/qa-automation-engineer)
+
+
+- **DevOps QA** @_Experis_ [here](https://www.itjobs.pt/oferta/434624/devops-qa)
 
 
 - **Engineering Lead - Test Automation** @_Farfetch_ [here](https://www.itjobs.pt/oferta/431669/engineering-lead-test-automation)
@@ -221,6 +224,9 @@ Jobs
 
 
 - **Software Test Engineer** @_FABAMAQ - Sistemas Informáticos_ [here](https://www.itjobs.pt/oferta/432547/software-test-engineer)
+
+
+- **Quality Assurance Analyst (French speaker)** @_Dellent Consulting_ [here](https://www.itjobs.pt/oferta/434380/quality-assurance-analyst-french-speaker)
 
 
 - **Automation Test Engineer** @_Sowin_ [here](https://www.itjobs.pt/oferta/433800/automation-test-engineer)
@@ -312,4 +318,7 @@ Jobs
 
 
 - **Reconversão de Carreira (IT - QA/Testes)** @_Noesis Portugal - Consultadoria em Sistemas de Informação, SA_ [here](https://www.itjobs.pt/oferta/432634/reconversao-de-carreira-it-qa-testes)
+
+
+- **Quality Assurance Engineer** @_MedicineOne_ [here](https://www.itjobs.pt/oferta/434772/quality-assurance-engineer)
 
