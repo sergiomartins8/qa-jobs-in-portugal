@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sun, 12 Jun 2022 02:08_
+> _Last updated: Mon, 13 Jun 2022 02:07_
 
 ### ItJobs
 
@@ -65,13 +65,7 @@ Jobs
 
 - **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/434107/qa-engineer)
 
-
-- **QA Engineer** @_BOLD International_ [here](https://www.itjobs.pt/oferta/431508/qa-engineer)
-
 #### Braga
-
-- **Engineering Lead - Test Automation** @_Farfetch_ [here](https://www.itjobs.pt/oferta/431669/engineering-lead-test-automation)
-
 
 - **Junior Test Engineer** @_Farfetch_ [here](https://www.itjobs.pt/oferta/434299/junior-test-engineer)
 
@@ -174,9 +168,6 @@ Jobs
 - **DevOps QA** @_Experis_ [here](https://www.itjobs.pt/oferta/434624/devops-qa)
 
 
-- **Engineering Lead - Test Automation** @_Farfetch_ [here](https://www.itjobs.pt/oferta/431669/engineering-lead-test-automation)
-
-
 - **QA Automation Specialist** @_BOLD International_ [here](https://www.itjobs.pt/oferta/434214/qa-automation-specialist)
 
 
@@ -226,6 +217,9 @@ Jobs
 - **Automation Test Engineer** @_Sowin_ [here](https://www.itjobs.pt/oferta/433800/automation-test-engineer)
 
 
+- **Automation QA Engineer** @_Jscrambler_ [here](https://www.itjobs.pt/oferta/432059/automation-qa-engineer)
+
+
 - **Node.js Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/433220/node-js-test-automation-engineer)
 
 
@@ -233,9 +227,6 @@ Jobs
 
 
 - **Front-End Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/434042/front-end-test-automation-engineer)
-
-
-- **Engineering Lead - Test Automation** @_Farfetch_ [here](https://www.itjobs.pt/oferta/431669/engineering-lead-test-automation)
 
 
 - **QAE Automation Mobile – Android** @_Aubay_ [here](https://www.itjobs.pt/oferta/432613/qae-automation-mobile-android)
