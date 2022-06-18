@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Fri, 17 Jun 2022 01:58_
+> _Last updated: Sat, 18 Jun 2022 02:00_
 
 ### ItJobs
 
@@ -117,9 +117,6 @@ Jobs
 - **Test Automation Engineer** @_Diconium Digital Solutions_ [here](https://www.itjobs.pt/oferta/434445/test-automation-engineer)
 
 
-- **QA Junior Engineer** @_Sowin_ [here](https://www.itjobs.pt/oferta/434848/qa-junior-engineer)
-
-
 - **Automation Tester** @_BOLD International_ [here](https://www.itjobs.pt/oferta/434172/automation-tester)
 
 
@@ -127,6 +124,9 @@ Jobs
 
 
 - **QA Engineer** @_Turbine Kreuzberg_ [here](https://www.itjobs.pt/oferta/434435/qa-engineer)
+
+
+- **Senior QA Automation Engineer** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/435307/senior-qa-automation-engineer)
 
 
 - **Test Engineer** @_Farfetch_ [here](https://www.itjobs.pt/oferta/434836/test-engineer)
@@ -247,6 +247,9 @@ Jobs
 - **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/432728/quality-assurance-developer)
 
 #### Remote
+
+- **Software Engineer in Test** @_FRG Technology Consulting_ [here](https://www.itjobs.pt/oferta/435244/software-engineer-in-test)
+
 
 - **Quality Assurance Analyst Mobile** @_Mindera_ [here](https://www.itjobs.pt/oferta/434485/quality-assurance-analyst-mobile)
 
