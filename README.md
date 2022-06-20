@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sun, 19 Jun 2022 02:09_
+> _Last updated: Mon, 20 Jun 2022 02:00_
 
 ### ItJobs
 
@@ -108,9 +108,6 @@ Jobs
 - **Quality Assurance Tester** @_Winprovit - Soluções Inteligentes_ [here](https://www.itjobs.pt/oferta/433798/quality-assurance-tester)
 
 
-- **Quality Assurance** @_Winprovit - Soluções Inteligentes_ [here](https://www.itjobs.pt/oferta/432254/quality-assurance)
-
-
 - **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/434596/quality-assurance-tester)
 
 
@@ -162,9 +159,6 @@ Jobs
 - **Senior QA Engineer** @_Winprovit - Soluções Inteligentes_ [here](https://www.itjobs.pt/oferta/434218/senior-qa-engineer)
 
 
-- **QA Automation (Java)** @_Altimetrik_ [here](https://www.itjobs.pt/oferta/432617/qa-automation-java-in-lisbon)
-
-
 - **DevOps QA** @_Experis_ [here](https://www.itjobs.pt/oferta/434624/devops-qa)
 
 
@@ -182,9 +176,6 @@ Jobs
 #### Porto
 
 - **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/432724/quality-assurance-developer)
-
-
-- **Quality Assurance Engineer** @_AET Portugal_ [here](https://www.itjobs.pt/oferta/432745/quality-assurance-engineer)
 
 
 - **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/434596/quality-assurance-tester)
@@ -278,6 +269,9 @@ Jobs
 - **Quality Assurance Tester** @_VideoSmart Ltd_ [here](https://www.itjobs.pt/oferta/435176/quality-assurance)
 
 
+- **QA Consultant** @_team.it_ [here](https://www.itjobs.pt/oferta/435322/qa-consultant)
+
+
 - **Front-End Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/434042/front-end-test-automation-engineer)
 
 
@@ -294,9 +288,6 @@ Jobs
 
 
 - **QA Automation** @_Dellent Consulting_ [here](https://www.itjobs.pt/oferta/434164/qa-automation)
-
-
-- **Reconversão de Carreira (IT - QA/Testes)** @_Noesis Portugal - Consultadoria em Sistemas de Informação, SA_ [here](https://www.itjobs.pt/oferta/432634/reconversao-de-carreira-it-qa-testes)
 
 
 - **Quality Assurance Engineer** @_MedicineOne_ [here](https://www.itjobs.pt/oferta/434772/quality-assurance-engineer)
