@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sun, 26 Jun 2022 02:13_
+> _Last updated: Mon, 27 Jun 2022 02:06_
 
 ### ItJobs
 
@@ -55,9 +55,6 @@ Jobs
 
 
 - **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/434329/test-automation-engineer)
-
-
-- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/434107/qa-engineer)
 
 
 - **QA Engineer** @_YellowIpe_ [here](https://www.itjobs.pt/oferta/434990/qa-engineer)
@@ -88,9 +85,6 @@ Jobs
 #### Lisboa
 
 - **Quality Assurance & Engineering Manager** @_Neotalent_ [here](https://www.itjobs.pt/oferta/435450/quality-assurance-engineering-manager)
-
-
-- **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/432724/quality-assurance-developer)
 
 
 - **Quality Assurance Automation** @_KCS IT_ [here](https://www.itjobs.pt/oferta/434721/quality-assurance-automation)
@@ -163,9 +157,6 @@ Jobs
 - **Quality Assurance Engineer** @_KCS IT_ [here](https://www.itjobs.pt/oferta/435151/quality-assurance-engineer)
 
 
-- **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/432724/quality-assurance-developer)
-
-
 - **QA Automation Engineer (Selenium)** @_Neotalent_ [here](https://www.itjobs.pt/oferta/435806/qa-automation-engineer-selenium)
 
 
@@ -179,6 +170,9 @@ Jobs
 
 
 - **Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/436092/automation-tester)
+
+
+- **Senior QA Engineer** @_Winprovit - Soluções Inteligentes_ [here](https://www.itjobs.pt/oferta/434218/senior-qa-engineer)
 
 
 - **Automation Tester (QA)** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/435356/automation-tester-qa)
