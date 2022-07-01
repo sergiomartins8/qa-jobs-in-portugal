@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Thu, 30 Jun 2022 02:09_
+> _Last updated: Fri, 01 Jul 2022 02:23_
 
 ### ItJobs
 
@@ -166,6 +166,9 @@ Jobs
 
 #### Porto
 
+- **Senior Test Engineer** @_Farfetch_ [here](https://www.itjobs.pt/oferta/436632/senior-test-engineer)
+
+
 - **Quality Assurance Engineer** @_KCS IT_ [here](https://www.itjobs.pt/oferta/435151/quality-assurance-engineer)
 
 
@@ -196,7 +199,7 @@ Jobs
 - **Quality Assurance Analyst (French speaker)** @_Dellent Consulting_ [here](https://www.itjobs.pt/oferta/434380/quality-assurance-analyst-french-speaker)
 
 
-- **QA Automation Specialist** @_Devoteam_ [here](https://www.itjobs.pt/oferta/434214/qa-automation-specialist)
+- **Quality Assurance Manager** @_Winprovit - Soluções Inteligentes_ [here](https://www.itjobs.pt/oferta/436353/quality-assurance-manager)
 
 
 - **Quality Assurance Tester** @_VideoSmart Ltd_ [here](https://www.itjobs.pt/oferta/435176/quality-assurance)
