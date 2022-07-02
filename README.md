@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Fri, 01 Jul 2022 02:23_
+> _Last updated: Sat, 02 Jul 2022 02:04_
 
 ### ItJobs
 
@@ -164,6 +164,9 @@ Jobs
 
 - **QA Automation Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/435346/qa-automation-engineer)
 
+
+- **Test Automation Engineer** @_Adentis_ [here](https://www.itjobs.pt/oferta/436818/test-automation-engineer)
+
 #### Porto
 
 - **Senior Test Engineer** @_Farfetch_ [here](https://www.itjobs.pt/oferta/436632/senior-test-engineer)
@@ -233,6 +236,9 @@ Jobs
 - **Software Engineer in Test** @_FRG Technology Consulting_ [here](https://www.itjobs.pt/oferta/435244/software-engineer-in-test)
 
 
+- **QA (Quality Assurance) Funcional / Tester** @_Toogas_ [here](https://www.itjobs.pt/oferta/436935/qa-quality-assurance-funcional-tester)
+
+
 - **Quality Assurance Engineer** @_KCS IT_ [here](https://www.itjobs.pt/oferta/435151/quality-assurance-engineer)
 
 
@@ -257,9 +263,6 @@ Jobs
 - **Automation Test Engineer** @_Sowin_ [here](https://www.itjobs.pt/oferta/433800/automation-test-engineer)
 
 
-- **Automation Test Developer** @_it-objects_ [here](https://www.itjobs.pt/oferta/435505/automation-test-developer)
-
-
 - **Quality Assurance Tester** @_VideoSmart Ltd_ [here](https://www.itjobs.pt/oferta/435176/quality-assurance)
 
 
@@ -278,10 +281,13 @@ Jobs
 - **PGR - Quality Assurance Engineer** @_Adentis_ [here](https://www.itjobs.pt/oferta/433736/pgr-quality-assurance-engineer)
 
 
-- **Software Development Engineer in Test** @_Mindera_ [here](https://www.itjobs.pt/oferta/434041/software-development-engineer-in-test)
+- **Test Automation Engineer** @_Adentis_ [here](https://www.itjobs.pt/oferta/436818/test-automation-engineer)
 
 
 - **Node.js Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/436294/node-js-test-automation-engineer)
+
+
+- **QA Automation** @_Neotalent_ [here](https://www.itjobs.pt/oferta/435956/qa-automation)
 
 
 - **Quality Assurance Engineer** @_MedicineOne_ [here](https://www.itjobs.pt/oferta/434772/quality-assurance-engineer)
