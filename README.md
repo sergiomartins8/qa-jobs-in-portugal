@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sat, 02 Jul 2022 02:04_
+> _Last updated: Sun, 03 Jul 2022 02:11_
 
 ### ItJobs
 
@@ -108,9 +108,6 @@ Jobs
 - **Quality Assurance Automation** @_KCS IT_ [here](https://www.itjobs.pt/oferta/434721/quality-assurance-automation)
 
 
-- **Quality Assurance Tester** @_Winprovit - Soluções Inteligentes_ [here](https://www.itjobs.pt/oferta/433798/quality-assurance-tester)
-
-
 - **QA e Test Automation** @_Dixtior Consulting_ [here](https://www.itjobs.pt/oferta/436168/qa-e-test-automation)
 
 
@@ -124,6 +121,9 @@ Jobs
 
 
 - **Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/436092/automation-tester)
+
+
+- **Senior QA Engineer** @_Winprovit - Soluções Inteligentes_ [here](https://www.itjobs.pt/oferta/434218/senior-qa-engineer)
 
 
 - **Automation Tester (QA)** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/435356/automation-tester-qa)
@@ -144,9 +144,6 @@ Jobs
 - **QA Automation Specialist** @_Devoteam_ [here](https://www.itjobs.pt/oferta/434214/qa-automation-specialist)
 
 
-- **Automation Test Engineer** @_Sowin_ [here](https://www.itjobs.pt/oferta/433800/automation-test-engineer)
-
-
 - **Quality Assurance Analyst** @_HCCM Consulting_ [here](https://www.itjobs.pt/oferta/433903/quality-assurance-analyst)
 
 
@@ -157,9 +154,6 @@ Jobs
 
 
 - **Automation Test Engineer** @_KCS IT_ [here](https://www.itjobs.pt/oferta/436272/automation-test-engineer)
-
-
-- **PGR - Quality Assurance Engineer** @_Adentis_ [here](https://www.itjobs.pt/oferta/433736/pgr-quality-assurance-engineer)
 
 
 - **QA Automation Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/435346/qa-automation-engineer)
@@ -217,9 +211,6 @@ Jobs
 - **Mobile Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/434043/mobile-test-automation-engineer)
 
 
-- **PGR - Quality Assurance Engineer** @_Adentis_ [here](https://www.itjobs.pt/oferta/433736/pgr-quality-assurance-engineer)
-
-
 - **QA Automation Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/435346/qa-automation-engineer)
 
 
@@ -260,9 +251,6 @@ Jobs
 - **QA Automation Specialist** @_Devoteam_ [here](https://www.itjobs.pt/oferta/434214/qa-automation-specialist)
 
 
-- **Automation Test Engineer** @_Sowin_ [here](https://www.itjobs.pt/oferta/433800/automation-test-engineer)
-
-
 - **Quality Assurance Tester** @_VideoSmart Ltd_ [here](https://www.itjobs.pt/oferta/435176/quality-assurance)
 
 
@@ -278,7 +266,7 @@ Jobs
 - **Automation Test Engineer** @_KCS IT_ [here](https://www.itjobs.pt/oferta/436272/automation-test-engineer)
 
 
-- **PGR - Quality Assurance Engineer** @_Adentis_ [here](https://www.itjobs.pt/oferta/433736/pgr-quality-assurance-engineer)
+- **Software Development Engineer in Test** @_Mindera_ [here](https://www.itjobs.pt/oferta/434041/software-development-engineer-in-test)
 
 
 - **Test Automation Engineer** @_Adentis_ [here](https://www.itjobs.pt/oferta/436818/test-automation-engineer)
