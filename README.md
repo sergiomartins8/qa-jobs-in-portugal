@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sun, 03 Jul 2022 02:11_
+> _Last updated: Mon, 04 Jul 2022 02:19_
 
 ### ItJobs
 
@@ -102,6 +102,9 @@ Jobs
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/434172/automation-tester)
 
 
+- **Quality Assurance** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/436752/quality-assurance)
+
+
 - **Quality Assurance Analyst** @_Mind Source_ [here](https://www.itjobs.pt/oferta/436028/quality-assurance-analyst)
 
 
@@ -142,9 +145,6 @@ Jobs
 
 
 - **QA Automation Specialist** @_Devoteam_ [here](https://www.itjobs.pt/oferta/434214/qa-automation-specialist)
-
-
-- **Quality Assurance Analyst** @_HCCM Consulting_ [here](https://www.itjobs.pt/oferta/433903/quality-assurance-analyst)
 
 
 - **Quality Assurance Engineer** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/436593/quality-assurance-engineer)
@@ -205,6 +205,9 @@ Jobs
 - **Automation Tester** @_Neotalent_ [here](https://www.itjobs.pt/oferta/435458/automation-tester)
 
 
+- **QA Engineer** @_Adentis_ [here](https://www.itjobs.pt/oferta/436949/qa-engineer)
+
+
 - **Front-End Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/434042/front-end-test-automation-engineer)
 
 
@@ -255,6 +258,9 @@ Jobs
 
 
 - **QA Consultant** @_team.it_ [here](https://www.itjobs.pt/oferta/435322/qa-consultant)
+
+
+- **QA Engineer** @_Adentis_ [here](https://www.itjobs.pt/oferta/436949/qa-engineer)
 
 
 - **Front-End Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/434042/front-end-test-automation-engineer)
