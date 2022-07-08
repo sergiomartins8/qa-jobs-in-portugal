@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Thu, 07 Jul 2022 02:19_
+> _Last updated: Fri, 08 Jul 2022 02:11_
 
 ### ItJobs
 
@@ -135,6 +135,9 @@ Jobs
 - **Quality Assurance Engineer** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/436593/quality-assurance-engineer)
 
 
+- **Software Tester (Team Lead)** @_Dellent Consulting_ [here](https://www.itjobs.pt/oferta/437358/software-tester-team-lead)
+
+
 - **Automation Tester** @_Neotalent_ [here](https://www.itjobs.pt/oferta/435458/automation-tester)
 
 
@@ -163,9 +166,6 @@ Jobs
 
 
 - **Automation Tester (QA)** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/435356/automation-tester-qa)
-
-
-- **DevOps QA** @_Experis_ [here](https://www.itjobs.pt/oferta/434624/devops-qa)
 
 
 - **Software Development Engineer in Test** @_Mindera_ [here](https://www.itjobs.pt/oferta/437145/software-development-engineer-in-test)
@@ -285,6 +285,9 @@ Jobs
 
 
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/437130/quality-assurance-engineer)
+
+
+- **Software Tester (Team Lead)** @_Dellent Consulting_ [here](https://www.itjobs.pt/oferta/437358/software-tester-team-lead)
 
 
 - **Quality Assurance Tester** @_VideoSmart Ltd_ [here](https://www.itjobs.pt/oferta/435176/quality-assurance)
