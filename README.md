@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sat, 09 Jul 2022 01:59_
+> _Last updated: Sun, 10 Jul 2022 02:21_
 
 ### ItJobs
 
@@ -62,9 +62,6 @@ Jobs
 
 - **Node.js Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/436294/node-js-test-automation-engineer)
 
-
-- **QA Automation Specialist** @_Devoteam_ [here](https://www.itjobs.pt/oferta/434214/qa-automation-specialist)
-
 #### Braga
 
 - **QA (Quality Assurance) Funcional / Tester** @_Toogas_ [here](https://www.itjobs.pt/oferta/436935/qa-quality-assurance-funcional-tester)
@@ -74,9 +71,6 @@ Jobs
 
 
 - **Engineering Lead - Test Automation** @_Farfetch_ [here](https://www.itjobs.pt/oferta/434833/engineering-lead-test-automation)
-
-
-- **Junior Test Engineer** @_Farfetch_ [here](https://www.itjobs.pt/oferta/434299/junior-test-engineer)
 
 #### Coimbra
 
@@ -127,9 +121,6 @@ Jobs
 
 
 - **Test Engineer** @_Farfetch_ [here](https://www.itjobs.pt/oferta/434836/test-engineer)
-
-
-- **QA Automation Specialist** @_Devoteam_ [here](https://www.itjobs.pt/oferta/434214/qa-automation-specialist)
 
 
 - **Quality Assurance Engineer** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/436593/quality-assurance-engineer)
@@ -278,9 +269,6 @@ Jobs
 - **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/434329/test-automation-engineer)
 
 
-- **QA Automation Specialist** @_Devoteam_ [here](https://www.itjobs.pt/oferta/434214/qa-automation-specialist)
-
-
 - **Software Development Engineer in Test** @_Mindera_ [here](https://www.itjobs.pt/oferta/437145/software-development-engineer-in-test)
 
 
@@ -300,6 +288,9 @@ Jobs
 
 
 - **Front-End Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/437146/front-end-test-automation-engineer)
+
+
+- **Automation Test Engineer** @_KCS IT_ [here](https://www.itjobs.pt/oferta/436272/automation-test-engineer)
 
 
 - **Test Automation Engineer** @_Adentis_ [here](https://www.itjobs.pt/oferta/436818/test-automation-engineer)
