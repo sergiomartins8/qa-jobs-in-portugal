@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Wed, 20 Jul 2022 02:08_
+> _Last updated: Thu, 21 Jul 2022 02:11_
 
 ### ItJobs
 
@@ -123,9 +123,6 @@ Jobs
 - **Automation Tester** @_Stefanini Portugal_ [here](https://www.itjobs.pt/oferta/436930/automation-tester)
 
 
-- **Automation Test Engineer** @_KCS IT_ [here](https://www.itjobs.pt/oferta/436272/automation-test-engineer)
-
-
 - **Test Engineer** @_Farfetch_ [here](https://www.itjobs.pt/oferta/438171/test-engineer)
 
 
@@ -157,6 +154,9 @@ Jobs
 
 
 - **Automation Tester - Robot Framework** @_Decskill_ [here](https://www.itjobs.pt/oferta/437627/automation-tester-robot-framework)
+
+
+- **Test Automation Manager** @_Allaxa Smart_ [here](https://www.itjobs.pt/oferta/438406/test-automation-manager)
 
 
 - **Test Automation Engineer** @_Diconium Digital Solutions_ [here](https://www.itjobs.pt/oferta/438355/test-automation-engineer)
@@ -245,13 +245,13 @@ Jobs
 - **Automation Tester - Hybrid** @_Devoteam_ [here](https://www.itjobs.pt/oferta/435296/automation-tester-hybrid)
 
 
-- **Software Engineer in Test** @_FRG Technology Consulting_ [here](https://www.itjobs.pt/oferta/435244/software-engineer-in-test)
-
-
 - **QA (Quality Assurance) Funcional / Tester** @_Toogas_ [here](https://www.itjobs.pt/oferta/436935/qa-quality-assurance-funcional-tester)
 
 
 - **Quality Assurance Engineer** @_New Work SE_ [here](https://www.itjobs.pt/oferta/437078/quality-assurance-engineer)
+
+
+- **Software Quality Engineer** @_WIT - Software_ [here](https://www.itjobs.pt/oferta/437168/software-quality-engineer)
 
 
 - **Automation Tester (QA)** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/435356/automation-tester-qa)
@@ -282,6 +282,9 @@ Jobs
 
 
 - **Front-End Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/437146/front-end-test-automation-engineer)
+
+
+- **Automation Test Engineer** @_KCS IT_ [here](https://www.itjobs.pt/oferta/436272/automation-test-engineer)
 
 
 - **Manual Quality Assurance Specialist** @_Scopic Software_ [here](https://www.itjobs.pt/oferta/438057/manual-quality-assurance-specialist)
