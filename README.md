@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sun, 24 Jul 2022 02:19_
+> _Last updated: Mon, 25 Jul 2022 02:09_
 
 ### ItJobs
 
@@ -71,6 +71,9 @@ Jobs
 
 
 - **Junior Test Engineer** @_Farfetch_ [here](https://www.itjobs.pt/oferta/437766/junior-test-engineer)
+
+
+- **QA Engineer** @_YellowIpe_ [here](https://www.itjobs.pt/oferta/434990/qa-engineer)
 
 #### Coimbra
 
