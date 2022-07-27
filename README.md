@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Tue, 26 Jul 2022 02:26_
+> _Last updated: Wed, 27 Jul 2022 02:17_
 
 ### ItJobs
 
@@ -114,9 +114,6 @@ Jobs
 - **Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/436092/automation-tester)
 
 
-- **Automation Tester (QA)** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/435356/automation-tester-qa)
-
-
 - **Tester** @_Red IT_ [here](https://www.itjobs.pt/oferta/436802/tester)
 
 
@@ -184,9 +181,6 @@ Jobs
 - **Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/436092/automation-tester)
 
 
-- **Automation Tester (QA)** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/435356/automation-tester-qa)
-
-
 - **Mobile Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/437272/mobile-test-automation-engineer)
 
 
@@ -248,9 +242,6 @@ Jobs
 - **Software Quality Engineer** @_WIT - Software_ [here](https://www.itjobs.pt/oferta/437168/software-quality-engineer)
 
 
-- **Automation Tester (QA)** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/435356/automation-tester-qa)
-
-
 - **QA Funcional (Quality Assurance)** @_KWAN_ [here](https://www.itjobs.pt/oferta/436391/qa-funcional-quality-assurance)
 
 
@@ -285,6 +276,9 @@ Jobs
 
 
 - **Senior Software Test Engineer** @_Geomotiv_ [here](https://www.itjobs.pt/oferta/437821/senior-software-test-engineer)
+
+
+- **Automation Test Developer** @_it-objects_ [here](https://www.itjobs.pt/oferta/438685/automation-test-developer)
 
 
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/438284/quality-assurance-engineer)
