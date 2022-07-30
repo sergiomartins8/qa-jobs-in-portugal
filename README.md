@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Fri, 29 Jul 2022 02:22_
+> _Last updated: Sat, 30 Jul 2022 02:09_
 
 ### ItJobs
 
@@ -103,6 +103,9 @@ Jobs
 
 
 - **Quality Assurance Analyst** @_HCCM Consulting_ [here](https://www.itjobs.pt/oferta/436993/quality-assurance-analyst)
+
+
+- **Quality Assurance & Engineering Manager** @_Neotalent_ [here](https://www.itjobs.pt/oferta/439143/quality-assurance-engineering-manager)
 
 
 - **Tester** @_Red IT_ [here](https://www.itjobs.pt/oferta/436802/tester)
