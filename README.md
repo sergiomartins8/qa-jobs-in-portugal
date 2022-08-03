@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Tue, 02 Aug 2022 02:28_
+> _Last updated: Wed, 03 Aug 2022 02:10_
 
 ### ItJobs
 
@@ -103,6 +103,9 @@ Jobs
 
 
 - **Quality Assurance & Engineering Manager** @_Neotalent_ [here](https://www.itjobs.pt/oferta/439143/quality-assurance-engineering-manager)
+
+
+- **Tester** @_Red IT_ [here](https://www.itjobs.pt/oferta/436802/tester)
 
 
 - **Quality Assurance** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/438609/quality-assurance)
@@ -173,9 +176,6 @@ Jobs
 
 
 - **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/436745/quality-assurance-developer)
-
-
-- **Quality Assurance Manager** @_Winprovit - Soluções Inteligentes_ [here](https://www.itjobs.pt/oferta/436353/quality-assurance-manager)
 
 
 - **Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/439134/automation-tester)
