@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Fri, 05 Aug 2022 02:05_
+> _Last updated: Sat, 06 Aug 2022 02:05_
 
 ### ItJobs
 
@@ -89,9 +89,6 @@ Jobs
 - **Front-End Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/437146/front-end-test-automation-engineer)
 
 
-- **QA Analyst** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/436899/qa-analyst)
-
-
 - **Mobile Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/437272/mobile-test-automation-engineer)
 
 
@@ -121,6 +118,9 @@ Jobs
 
 
 - **Quality Assurance & Engineering Manager** @_Neotalent_ [here](https://www.itjobs.pt/oferta/439143/quality-assurance-engineering-manager)
+
+
+- **Quality Assurance Analyst** @_Mind Source_ [here](https://www.itjobs.pt/oferta/439100/quality-assurance-analyst)
 
 
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/439754/quality-assurance-engineer)
@@ -223,9 +223,6 @@ Jobs
 - **QAE Automation Mobile** @_Aubay_ [here](https://www.itjobs.pt/oferta/438628/qae-automation-mobile)
 
 
-- **QA Automation Engineer** @_Adentis_ [here](https://www.itjobs.pt/oferta/438493/qa-automation-engineer)
-
-
 - **Test Automation Engineer** @_Diconium Digital Solutions_ [here](https://www.itjobs.pt/oferta/438355/test-automation-engineer)
 
 
@@ -261,9 +258,6 @@ Jobs
 
 
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/439754/quality-assurance-engineer)
-
-
-- **Reconversão de Carreira (IT - QA/Testes)** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/436894/reconversao-de-carreira-it-qa-testes)
 
 
 - **Mobile Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/437272/mobile-test-automation-engineer)
