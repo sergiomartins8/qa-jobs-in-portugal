@@ -36,13 +36,16 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Tue, 09 Aug 2022 02:15_
+> _Last updated: Wed, 10 Aug 2022 01:54_
 
 ### ItJobs
 
 #### Aveiro
 
 - **Front-End Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/440051/front-end-test-automation-engineer)
+
+
+- **Quality Assurance Engineer** @_Olisipo_ [here](https://www.itjobs.pt/oferta/440163/quality-assurance-engineer)
 
 
 - **Tester** @_Withus_ [here](https://www.itjobs.pt/oferta/439165/tester)
@@ -68,6 +71,9 @@ Jobs
 #### Braga
 
 - **Engineering Lead - Test Automation** @_Farfetch_ [here](https://www.itjobs.pt/oferta/438177/engineering-lead-test-automation)
+
+
+- **Test Automation Engineer** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/440154/test-automation-engineer)
 
 
 - **Test Engineer** @_Farfetch_ [here](https://www.itjobs.pt/oferta/438171/test-engineer)
@@ -112,6 +118,9 @@ Jobs
 
 
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/439754/quality-assurance-engineer)
+
+
+- **Automation Tester - Hybrid** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/439776/automation-tester-hybrid)
 
 
 - **Quality Assurance** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/438609/quality-assurance)
@@ -243,6 +252,9 @@ Jobs
 
 
 - **Quality Assurance Analyst (French speaker)** @_Dellent Consulting_ [here](https://www.itjobs.pt/oferta/439829/quality-assurance-analyst-french-speaker)
+
+
+- **Software Quality Engineer** @_WIT - Software_ [here](https://www.itjobs.pt/oferta/440263/software-quality-engineer)
 
 
 - **QA Engineer** @_Thryve_ [here](https://www.itjobs.pt/oferta/439735/qa-engineer)
