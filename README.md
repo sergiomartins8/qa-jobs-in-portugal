@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Fri, 12 Aug 2022 02:03_
+> _Last updated: Sat, 13 Aug 2022 01:57_
 
 ### ItJobs
 
@@ -132,6 +132,9 @@ Jobs
 - **Quality Assurance Analyst** @_Mind Source_ [here](https://www.itjobs.pt/oferta/439100/quality-assurance-analyst)
 
 
+- **Test Automation Engineer** @_Allaxa Smart_ [here](https://www.itjobs.pt/oferta/440505/test-automation-engineer)
+
+
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/439754/quality-assurance-engineer)
 
 
@@ -163,9 +166,6 @@ Jobs
 
 
 - **Test Engineer** @_Farfetch_ [here](https://www.itjobs.pt/oferta/438171/test-engineer)
-
-
-- **Automation Tester** @_Decskill_ [here](https://www.itjobs.pt/oferta/438979/automation-tester)
 
 
 - **Test Automation Manager** @_Allaxa Smart_ [here](https://www.itjobs.pt/oferta/438406/test-automation-manager)
