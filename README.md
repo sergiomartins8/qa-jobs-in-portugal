@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sat, 13 Aug 2022 01:57_
+> _Last updated: Sun, 14 Aug 2022 02:17_
 
 ### ItJobs
 
@@ -147,9 +147,6 @@ Jobs
 - **Automation Tester** @_Neotalent_ [here](https://www.itjobs.pt/oferta/438673/automation-tester)
 
 
-- **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/436745/quality-assurance-developer)
-
-
 - **Quality Assurance Engineer** @_Sapiens_ [here](https://www.itjobs.pt/oferta/439679/quality-assurance-engineer-hybrid)
 
 
@@ -159,13 +156,13 @@ Jobs
 - **Automation software tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/439394/automation-software-tester)
 
 
-- **Automation Tester - Robot Framework** @_Decskill_ [here](https://www.itjobs.pt/oferta/437627/automation-tester-robot-framework)
-
-
 - **Quality Assurance Analyst** @_HCCM Consulting_ [here](https://www.itjobs.pt/oferta/440083/quality-assurance-analyst)
 
 
 - **Test Engineer** @_Farfetch_ [here](https://www.itjobs.pt/oferta/438171/test-engineer)
+
+
+- **Automation Tester** @_Decskill_ [here](https://www.itjobs.pt/oferta/438979/automation-tester)
 
 
 - **Test Automation Manager** @_Allaxa Smart_ [here](https://www.itjobs.pt/oferta/438406/test-automation-manager)
@@ -218,9 +215,6 @@ Jobs
 
 
 - **Automation Tester** @_Neotalent_ [here](https://www.itjobs.pt/oferta/438673/automation-tester)
-
-
-- **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/436745/quality-assurance-developer)
 
 
 - **Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/439134/automation-tester)
