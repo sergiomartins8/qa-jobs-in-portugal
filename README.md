@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Thu, 18 Aug 2022 02:27_
+> _Last updated: Fri, 19 Aug 2022 02:20_
 
 ### ItJobs
 
@@ -150,6 +150,12 @@ Jobs
 - **Automation software tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/439394/automation-software-tester)
 
 
+- **Automation Test Engineer** @_KCS IT_ [here](https://www.itjobs.pt/oferta/440830/automation-test-engineer)
+
+
+- **Quality Assurance** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/440688/quality-assurance)
+
+
 - **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/440392/quality-assurance-developer)
 
 
@@ -160,9 +166,6 @@ Jobs
 
 
 - **Test Automation Manager** @_Allaxa Smart_ [here](https://www.itjobs.pt/oferta/438406/test-automation-manager)
-
-
-- **QA Automation Engineer** @_Adentis_ [here](https://www.itjobs.pt/oferta/438493/qa-automation-engineer)
 
 
 - **Test Automation Engineer** @_Diconium Digital Solutions_ [here](https://www.itjobs.pt/oferta/438355/test-automation-engineer)
@@ -251,6 +254,9 @@ Jobs
 - **Front-End Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/440051/front-end-test-automation-engineer)
 
 
+- **Software Test Engineer (Mobile)** @_Geomotiv_ [here](https://www.itjobs.pt/oferta/440872/software-test-engineer-mobile)
+
+
 - **QA Automation Specialist** @_Devoteam_ [here](https://www.itjobs.pt/oferta/440639/qa-automation-specialist)
 
 
@@ -285,6 +291,9 @@ Jobs
 
 
 - **Automation software tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/439394/automation-software-tester)
+
+
+- **Automation Test Engineer** @_KCS IT_ [here](https://www.itjobs.pt/oferta/440830/automation-test-engineer)
 
 
 - **Automation Test Developer** @_it-objects_ [here](https://www.itjobs.pt/oferta/438685/automation-test-developer)
