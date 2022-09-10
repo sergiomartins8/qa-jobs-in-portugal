@@ -36,16 +36,13 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Fri, 09 Sep 2022 02:34_
+> _Last updated: Sat, 10 Sep 2022 02:34_
 
 ### ItJobs
 
 #### Aveiro
 
 - **Tester** @_Withus_ [here](https://www.itjobs.pt/oferta/441750/tester)
-
-
-- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/440265/qa-engineer)
 
 
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/441740/quality-assurance-engineer)
@@ -226,12 +223,6 @@ Jobs
 - **Quality and Process Consultant** @_Dellent Consulting_ [here](https://www.itjobs.pt/oferta/441684/quality-and-process-consultant)
 
 
-- **Test Automation Engineer** @_Aubay_ [here](https://www.itjobs.pt/oferta/438636/test-automation-engineer)
-
-
-- **Quality Assurance** @_akapeople_ [here](https://www.itjobs.pt/oferta/439966/quality-assurance)
-
-
 - **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/440392/quality-assurance-developer)
 
 
@@ -258,9 +249,6 @@ Jobs
 
 
 - **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/441120/test-automation-engineer)
-
-
-- **QA Engineer** @_Devoteam_ [here](https://www.itjobs.pt/oferta/441735/qa-engineer)
 
 
 - **Front-End Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/440051/front-end-test-automation-engineer)
