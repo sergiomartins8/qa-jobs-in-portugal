@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sat, 17 Sep 2022 02:27_
+> _Last updated: Sun, 18 Sep 2022 02:47_
 
 ### ItJobs
 
@@ -114,6 +114,9 @@ Jobs
 - **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/440741/quality-assurance-developer)
 
 
+- **Automation Test Developer** @_it-objects_ [here](https://www.itjobs.pt/oferta/441568/automation-test-developer)
+
+
 - **Engineering Lead - Test Automation** @_Farfetch_ [here](https://www.itjobs.pt/oferta/441074/engineering-lead-test-automation)
 
 
@@ -172,9 +175,6 @@ Jobs
 
 
 - **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/441808/quality-assurance-tester)
-
-
-- **Microsoft Lab / Test Engineer** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/439746/microsoft-lab-test-engineer)
 
 
 - **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/440392/quality-assurance-developer)
@@ -281,6 +281,9 @@ Jobs
 - **Front-End Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/442785/front-end-test-automation-engineer)
 
 
+- **Automation Test Developer** @_it-objects_ [here](https://www.itjobs.pt/oferta/441568/automation-test-developer)
+
+
 - **Quality Assurance** @_KCS IT_ [here](https://www.itjobs.pt/oferta/441411/quality-assurance)
 
 
@@ -312,9 +315,6 @@ Jobs
 
 
 - **QA Engineer** @_Pixelmatters_ [here](https://www.itjobs.pt/oferta/443081/qa-engineer)
-
-
-- **Microsoft Lab / Test Engineer** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/439746/microsoft-lab-test-engineer)
 
 
 - **Quality Assurance Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/443121/quality-assurance-engineer)
