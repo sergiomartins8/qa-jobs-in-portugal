@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Thu, 22 Sep 2022 02:29_
+> _Last updated: Fri, 23 Sep 2022 02:36_
 
 ### ItJobs
 
@@ -124,9 +124,6 @@ Jobs
 
 
 - **Quality Assurance** @_KCS IT_ [here](https://www.itjobs.pt/oferta/441411/quality-assurance)
-
-
-- **QA Engineer** @_Adentis_ [here](https://www.itjobs.pt/oferta/443100/qa-engineer)
 
 
 - **QA Automation** @_Michael Page Portugal_ [here](https://www.itjobs.pt/oferta/443045/qa-automation-m-f)
@@ -273,9 +270,6 @@ Jobs
 
 
 - **Test Engineer** @_Rumos Consulting_ [here](https://www.itjobs.pt/oferta/442118/test-engineer)
-
-
-- **Tester** @_Withus_ [here](https://www.itjobs.pt/oferta/443013/tester)
 
 
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/442929/quality-assurance-engineer)
