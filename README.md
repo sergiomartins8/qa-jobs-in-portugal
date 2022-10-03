@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sun, 02 Oct 2022 02:41_
+> _Last updated: Mon, 03 Oct 2022 02:07_
 
 ### ItJobs
 
@@ -183,7 +183,7 @@ Jobs
 - **Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/442144/automation-tester)
 
 
-- **Quality Assurance** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/442886/quality-assurance)
+- **Quality Assurance Analyst** @_HCCM Consulting_ [here](https://www.itjobs.pt/oferta/442870/quality-assurance-analyst)
 
 #### Porto
 
