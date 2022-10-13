@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Wed, 12 Oct 2022 02:39_
+> _Last updated: Thu, 13 Oct 2022 02:31_
 
 ### ItJobs
 
@@ -132,6 +132,9 @@ Jobs
 - **Quality Assurance** @_FCT – Fundação para Ciência e Tecnologia - FCCN_ [here](https://www.itjobs.pt/oferta/444410/quality-assurance)
 
 
+- **Automation Tester** @_Adentis_ [here](https://www.itjobs.pt/oferta/445341/automation-tester)
+
+
 - **QA Automation Engineer** @_Indie Campers_ [here](https://www.itjobs.pt/oferta/443741/qa-automation-engineer)
 
 
@@ -154,9 +157,6 @@ Jobs
 
 
 - **QA Automation** @_Michael Page Portugal_ [here](https://www.itjobs.pt/oferta/443045/qa-automation-m-f)
-
-
-- **Senior Test Engineer** @_The Virtual Forge_ [here](https://www.itjobs.pt/oferta/443143/senior-test-engineer)
 
 
 - **Automation Tester** @_Neotalent_ [here](https://www.itjobs.pt/oferta/444807/automation-tester)
@@ -296,9 +296,6 @@ Jobs
 - **Quality Assurance Analyst (French speaker)** @_Dellent Consulting_ [here](https://www.itjobs.pt/oferta/444212/quality-assurance-analyst-french-speaker)
 
 
-- **Quality Assurance** @_FCT – Fundação para Ciência e Tecnologia - FCCN_ [here](https://www.itjobs.pt/oferta/444410/quality-assurance)
-
-
 - **Quality Assurance Tester - Team Leader** @_Red IT_ [here](https://www.itjobs.pt/oferta/443921/quality-assurance-tester-team-leader)
 
 
@@ -315,6 +312,9 @@ Jobs
 
 
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/445219/database-developer)
+
+
+- **Software Quality Assurance Lead** @_Information Factory_ [here](https://www.itjobs.pt/oferta/444425/software-quality-assurance-lead)
 
 
 - **Quality Assurance Automation Engineer** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/443982/quality-assurance-automation-engineer)
