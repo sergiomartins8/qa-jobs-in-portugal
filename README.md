@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sun, 16 Oct 2022 02:44_
+> _Last updated: Mon, 17 Oct 2022 02:45_
 
 ### ItJobs
 
@@ -175,9 +175,6 @@ Jobs
 
 
 - **Test Automation Manager** @_Allaxa Smart_ [here](https://www.itjobs.pt/oferta/444779/test-automation-manager)
-
-
-- **Quality Assurance Analyst** @_HCCM Consulting_ [here](https://www.itjobs.pt/oferta/442870/quality-assurance-analyst)
 
 #### Porto
 
