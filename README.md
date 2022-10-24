@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sun, 23 Oct 2022 02:33_
+> _Last updated: Mon, 24 Oct 2022 02:46_
 
 ### ItJobs
 
@@ -262,6 +262,9 @@ Jobs
 - **Test Automation Engineer** @_Diconium Digital Solutions_ [here](https://www.itjobs.pt/oferta/444114/test-automation-engineer)
 
 
+- **Quality Assurance Engineer - Lead** @_KCS IT_ [here](https://www.itjobs.pt/oferta/445923/quality-assurance-engineer-lead)
+
+
 - **Front-End Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/445762/front-end-test-automation-engineer)
 
 
@@ -269,6 +272,9 @@ Jobs
 
 
 - **Quality Assurance Analyst** @_Aubay_ [here](https://www.itjobs.pt/oferta/443778/quality-assurance-analyst)
+
+
+- **Quality and Process Consultant** @_Dellent Consulting_ [here](https://www.itjobs.pt/oferta/445922/quality-and-process-consultant)
 
 #### Remote
 
@@ -311,9 +317,6 @@ Jobs
 - **Automation QA Engineer** @_Scopic Software_ [here](https://www.itjobs.pt/oferta/444025/automation-qa-engineer)
 
 
-- **Software QA Engineer** @_Xpand IT_ [here](https://www.itjobs.pt/oferta/445270/software-qa-engineer)
-
-
 - **QA Automation** @_Neotalent_ [here](https://www.itjobs.pt/oferta/443516/qa-automation)
 
 
@@ -330,6 +333,9 @@ Jobs
 
 
 - **Quality Assurance Automation Engineer** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/443982/quality-assurance-automation-engineer)
+
+
+- **Quality Assurance Engineer - Lead** @_KCS IT_ [here](https://www.itjobs.pt/oferta/445923/quality-assurance-engineer-lead)
 
 
 - **Front-End Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/445762/front-end-test-automation-engineer)
