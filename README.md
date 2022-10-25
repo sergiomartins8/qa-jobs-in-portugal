@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Mon, 24 Oct 2022 02:46_
+> _Last updated: Tue, 25 Oct 2022 02:40_
 
 ### ItJobs
 
@@ -303,6 +303,9 @@ Jobs
 
 
 - **Node.js Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/445763/node-js-test-automation-engineer)
+
+
+- **QA Engineer** @_Devoteam_ [here](https://www.itjobs.pt/oferta/446019/qa-engineer)
 
 
 - **Quality Assurance Analyst (French speaker)** @_Dellent Consulting_ [here](https://www.itjobs.pt/oferta/444212/quality-assurance-analyst-french-speaker)
