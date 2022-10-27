@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Wed, 26 Oct 2022 02:14_
+> _Last updated: Thu, 27 Oct 2022 02:10_
 
 ### ItJobs
 
@@ -85,6 +85,9 @@ Jobs
 - **QA Engineer** @_8x8_ [here](https://www.itjobs.pt/oferta/444533/qa-engineer)
 
 
+- **Software Developement Engineer in Test (SDET)** @_Intermedia_ [here](https://www.itjobs.pt/oferta/444921/software-development-engineer-in-test-sdet)
+
+
 - **QA Engineer - Frontend** @_YellowIpe_ [here](https://www.itjobs.pt/oferta/443599/qa-engineer-frontend)
 
 
@@ -126,46 +129,13 @@ Jobs
 
 #### Lisboa
 
+- **Software Developement Engineer in Test (SDET)** @_Intermedia_ [here](https://www.itjobs.pt/oferta/444921/software-development-engineer-in-test-sdet)
+
+
 - **Test Automation** @_KCS IT_ [here](https://www.itjobs.pt/oferta/445596/test-automation)
 
 
 - **Automation Tester** @_Adentis_ [here](https://www.itjobs.pt/oferta/445529/automation-tester)
-
-
-- **Quality Assurance Analyst** @_HCCM Consulting_ [here](https://www.itjobs.pt/oferta/445811/quality-assurance-analyst)
-
-
-- **Automation Tester** @_Adentis_ [here](https://www.itjobs.pt/oferta/444312/automation-tester)
-
-
-- **Quality Assurance Engineer** @_Olisipo_ [here](https://www.itjobs.pt/oferta/444070/quality-assurance-engineer)
-
-
-- **Quality Assurance** @_FCT – Fundação para Ciência e Tecnologia - FCCN_ [here](https://www.itjobs.pt/oferta/444410/quality-assurance)
-
-
-- **Automation Tester** @_Adentis_ [here](https://www.itjobs.pt/oferta/445341/automation-tester)
-
-
-- **QA Automation Engineer** @_Indie Campers_ [here](https://www.itjobs.pt/oferta/443741/qa-automation-engineer)
-
-
-- **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/444034/quality-assurance-developer)
-
-
-- **Test Automation Engineer** @_Diconium Digital Solutions_ [here](https://www.itjobs.pt/oferta/444114/test-automation-engineer)
-
-
-- **QA Engineer (Automation)** @_KWAN_ [here](https://www.itjobs.pt/oferta/444230/qa-engineer-automation)
-
-
-- **Automation Tester (C++)** @_KWAN_ [here](https://www.itjobs.pt/oferta/445889/automation-tester-c)
-
-
-- **Test Automation Manager** @_Allaxa Smart_ [here](https://www.itjobs.pt/oferta/444779/test-automation-manager)
-
-
-- **Software Developement Engineer in Test (SDET)** @_Intermedia_ [here](https://www.itjobs.pt/oferta/444921/software-development-engineer-in-test-sdet)
 
 
 - **Quality Assurance Engineer** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/445349/quality-assurance-engineer)
@@ -177,6 +147,9 @@ Jobs
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/443532/automation-tester)
 
 
+- **Quality Assurance Analyst** @_HCCM Consulting_ [here](https://www.itjobs.pt/oferta/445811/quality-assurance-analyst)
+
+
 - **QA Automation Specialist** @_Devoteam_ [here](https://www.itjobs.pt/oferta/443360/qa-automation-specialist)
 
 
@@ -186,10 +159,25 @@ Jobs
 - **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/443484/quality-assurance-developer)
 
 
+- **Automation Tester** @_Adentis_ [here](https://www.itjobs.pt/oferta/444312/automation-tester)
+
+
 - **Quality Assurance & Engineering Manager** @_Neotalent_ [here](https://www.itjobs.pt/oferta/445471/quality-assurance-engineering-manager)
 
 
+- **Quality Assurance Engineer** @_Olisipo_ [here](https://www.itjobs.pt/oferta/444070/quality-assurance-engineer)
+
+
 - **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/444749/quality-assurance-tester)
+
+
+- **Quality Assurance** @_FCT – Fundação para Ciência e Tecnologia - FCCN_ [here](https://www.itjobs.pt/oferta/444410/quality-assurance)
+
+
+- **Automation Tester** @_Adentis_ [here](https://www.itjobs.pt/oferta/445341/automation-tester)
+
+
+- **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/444034/quality-assurance-developer)
 
 
 - **Mid Test Engineer** @_Devoteam_ [here](https://www.itjobs.pt/oferta/445783/mid-test-engineer)
@@ -199,6 +187,18 @@ Jobs
 
 
 - **Test Automation Engineer** @_Devoteam_ [here](https://www.itjobs.pt/oferta/443746/test-automation-engineer)
+
+
+- **Test Automation Engineer** @_Diconium Digital Solutions_ [here](https://www.itjobs.pt/oferta/444114/test-automation-engineer)
+
+
+- **Software Test Engineer** @_Allaxa Smart_ [here](https://www.itjobs.pt/oferta/446580/software-test-engineer)
+
+
+- **QA Engineer (Automation)** @_KWAN_ [here](https://www.itjobs.pt/oferta/444230/qa-engineer-automation)
+
+
+- **Automation Tester (C++)** @_KWAN_ [here](https://www.itjobs.pt/oferta/445889/automation-tester-c)
 
 #### Porto
 
@@ -215,6 +215,9 @@ Jobs
 
 
 - **Automation Tester** @_Neotalent_ [here](https://www.itjobs.pt/oferta/444807/automation-tester)
+
+
+- **Automation software tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/446040/automation-software-tester)
 
 
 - **Node.js Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/445763/node-js-test-automation-engineer)
@@ -268,9 +271,6 @@ Jobs
 - **QA Automation Engineer** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/445333/qa-automation-engineer)
 
 
-- **Quality Assurance Analyst** @_Aubay_ [here](https://www.itjobs.pt/oferta/443778/quality-assurance-analyst)
-
-
 - **Quality and Process Consultant** @_Dellent Consulting_ [here](https://www.itjobs.pt/oferta/445922/quality-and-process-consultant)
 
 #### Remote
@@ -294,6 +294,9 @@ Jobs
 
 
 - **Automation Tester** @_KCS IT_ [here](https://www.itjobs.pt/oferta/445136/automation-tester)
+
+
+- **Automation software tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/446040/automation-software-tester)
 
 
 - **Node.js Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/445763/node-js-test-automation-engineer)
