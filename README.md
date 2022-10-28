@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Thu, 27 Oct 2022 02:10_
+> _Last updated: Fri, 28 Oct 2022 02:24_
 
 ### ItJobs
 
@@ -141,9 +141,6 @@ Jobs
 - **Quality Assurance Engineer** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/445349/quality-assurance-engineer)
 
 
-- **Automation Tester** @_Neotalent_ [here](https://www.itjobs.pt/oferta/444807/automation-tester)
-
-
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/443532/automation-tester)
 
 
@@ -175,6 +172,9 @@ Jobs
 
 
 - **Automation Tester** @_Adentis_ [here](https://www.itjobs.pt/oferta/445341/automation-tester)
+
+
+- **QA Automation Engineer** @_Indie Campers_ [here](https://www.itjobs.pt/oferta/443741/qa-automation-engineer)
 
 
 - **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/444034/quality-assurance-developer)
@@ -212,9 +212,6 @@ Jobs
 
 
 - **Automation Tester** @_KCS IT_ [here](https://www.itjobs.pt/oferta/445136/automation-tester)
-
-
-- **Automation Tester** @_Neotalent_ [here](https://www.itjobs.pt/oferta/444807/automation-tester)
 
 
 - **Automation software tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/446040/automation-software-tester)
@@ -314,9 +311,6 @@ Jobs
 - **Mobile Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/445856/mobile-test-automation-engineer)
 
 
-- **Automation QA Engineer** @_Scopic Software_ [here](https://www.itjobs.pt/oferta/444025/automation-qa-engineer)
-
-
 - **QA Automation** @_Neotalent_ [here](https://www.itjobs.pt/oferta/443516/qa-automation)
 
 
@@ -342,4 +336,7 @@ Jobs
 
 
 - **Front-End Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/445762/front-end-test-automation-engineer)
+
+
+- **Test Automation Engineer** @_team.it_ [here](https://www.itjobs.pt/oferta/446645/test-automation-engineer)
 
