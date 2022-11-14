@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sun, 13 Nov 2022 01:59_
+> _Last updated: Mon, 14 Nov 2022 01:58_
 
 ### ItJobs
 
@@ -111,9 +111,6 @@ Jobs
 
 
 - **Test Manager** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/447337/test-manager)
-
-
-- **QA Team/Tech Lead** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/444884/qa-team-tech-lead)
 
 
 - **QA Engineer** @_8x8_ [here](https://www.itjobs.pt/oferta/447351/qa-engineer-8x8)
@@ -198,6 +195,9 @@ Jobs
 - **Engineering Lead - Test Automation** @_Farfetch_ [here](https://www.itjobs.pt/oferta/446997/engineering-lead-test-automation)
 
 
+- **Automation Tester** @_Adentis_ [here](https://www.itjobs.pt/oferta/447968/automation-tester)
+
+
 - **QA Engineer – IoT Tester** @_Grit Solutions_ [here](https://www.itjobs.pt/oferta/447075/qa-engineer-iot-tester)
 
 #### Porto
@@ -259,9 +259,6 @@ Jobs
 - **Quality Assurance Analyst** @_Devoteam_ [here](https://www.itjobs.pt/oferta/446851/quality-assurance-analyst)
 
 
-- **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/447079/automation-tester)
-
-
 - **Quality Assurance Engineer** @_Aubay_ [here](https://www.itjobs.pt/oferta/447015/quality-assurance-engineer)
 
 
@@ -275,6 +272,9 @@ Jobs
 
 
 - **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/447139/test-automation-engineer)
+
+
+- **Automation Tester** @_Adentis_ [here](https://www.itjobs.pt/oferta/447968/automation-tester)
 
 
 - **QA Engineer** @_akapeople_ [here](https://www.itjobs.pt/oferta/447823/qa-engineer)
@@ -303,9 +303,6 @@ Jobs
 
 
 - **Quality Assurance Automation Engineer** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/447298/quality-assurance-automation-engineer)
-
-
-- **QA Engineer** @_Global Blue_ [here](https://www.itjobs.pt/oferta/447521/qa-engineer)
 
 
 - **Mobile Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/445856/mobile-test-automation-engineer)
@@ -357,4 +354,7 @@ Jobs
 
 
 - **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/447139/test-automation-engineer)
+
+
+- **Automation Tester** @_Adentis_ [here](https://www.itjobs.pt/oferta/447968/automation-tester)
 
