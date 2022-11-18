@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Thu, 17 Nov 2022 01:56_
+> _Last updated: Fri, 18 Nov 2022 02:00_
 
 ### ItJobs
 
@@ -147,6 +147,9 @@ Jobs
 - **Quality Assurance Engineer** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/447815/quality-assurance-engineer)
 
 
+- **Test Engineer** @_The Virtual Forge_ [here](https://www.itjobs.pt/oferta/448528/test-engineer)
+
+
 - **QA Automation Specialist** @_Devoteam_ [here](https://www.itjobs.pt/oferta/447097/qa-automation-specialist)
 
 
@@ -163,9 +166,6 @@ Jobs
 
 
 - **Quality Assurance Analyst** @_Devoteam_ [here](https://www.itjobs.pt/oferta/446851/quality-assurance-analyst)
-
-
-- **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/447079/automation-tester)
 
 
 - **Quality Assurance Engineer** @_Devoteam_ [here](https://www.itjobs.pt/oferta/446807/quality-assurance-engineer)
@@ -192,19 +192,16 @@ Jobs
 - **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/446929/quality-assurance-developer)
 
 
-- **QA Automation Engineer** @_Indie Campers_ [here](https://www.itjobs.pt/oferta/447133/qa-automation-engineer)
-
-
 - **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/447708/quality-assurance-tester)
 
 
 - **Engineering Lead - Test Automation** @_Farfetch_ [here](https://www.itjobs.pt/oferta/446997/engineering-lead-test-automation)
 
 
+- **Test Manager** @_Aubay_ [here](https://www.itjobs.pt/oferta/448272/test-manager)
+
+
 - **Test Automation Engineer** @_Red IT_ [here](https://www.itjobs.pt/oferta/448071/test-automation-engineer)
-
-
-- **Automation Tester** @_Adentis_ [here](https://www.itjobs.pt/oferta/447968/automation-tester)
 
 #### Porto
 
@@ -284,9 +281,6 @@ Jobs
 
 
 - **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/447139/test-automation-engineer)
-
-
-- **QA Engineer** @_akapeople_ [here](https://www.itjobs.pt/oferta/447823/qa-engineer)
 
 #### Remote
 
