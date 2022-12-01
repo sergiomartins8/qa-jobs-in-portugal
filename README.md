@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Wed, 30 Nov 2022 01:45_
+> _Last updated: Thu, 01 Dec 2022 01:57_
 
 ### ItJobs
 
@@ -153,10 +153,10 @@ Jobs
 
 #### Lisboa
 
-- **Quality Assurance Engineer** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/447815/quality-assurance-engineer)
-
-
 - **Test Engineer** @_The Virtual Forge_ [here](https://www.itjobs.pt/oferta/448528/test-engineer)
+
+
+- **Automation Tester** @_Aubay_ [here](https://www.itjobs.pt/oferta/449383/automation-tester)
 
 
 - **Quality Assurance Júnior** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/448389/quality-assurance-junior)
@@ -213,6 +213,9 @@ Jobs
 - **Test Manager** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/447337/test-manager)
 
 
+- **Automation Tester (C++)** @_KWAN_ [here](https://www.itjobs.pt/oferta/449238/automation-tester-c)
+
+
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/449033/quality-assurance-engineer)
 
 
@@ -232,13 +235,13 @@ Jobs
 
 #### Porto
 
+- **Quality Assurance Engineer** @_SmartMed BV_ [here](https://www.itjobs.pt/oferta/449343/quality-assurance-engineer)
+
+
 - **Mobile Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/448851/mobile-test-automation-engineer)
 
 
 - **Test Engineer** @_The Virtual Forge_ [here](https://www.itjobs.pt/oferta/448528/test-engineer)
-
-
-- **Software Quality Assurance Tester** @_Darwin Interactive_ [here](https://www.itjobs.pt/oferta/446734/software-quality-assurance-tester)
 
 
 - **QA Automation Specialist** @_Devoteam_ [here](https://www.itjobs.pt/oferta/447097/qa-automation-specialist)
@@ -311,13 +314,13 @@ Jobs
 
 #### Remote
 
+- **Quality Assurance Engineer** @_SmartMed BV_ [here](https://www.itjobs.pt/oferta/449343/quality-assurance-engineer)
+
+
 - **Mobile Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/448851/mobile-test-automation-engineer)
 
 
 - **Test Engineer** @_The Virtual Forge_ [here](https://www.itjobs.pt/oferta/448528/test-engineer)
-
-
-- **Software Quality Assurance Tester** @_Darwin Interactive_ [here](https://www.itjobs.pt/oferta/446734/software-quality-assurance-tester)
 
 
 - **QA Automation Specialist** @_Devoteam_ [here](https://www.itjobs.pt/oferta/447097/qa-automation-specialist)
