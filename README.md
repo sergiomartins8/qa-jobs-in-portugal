@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sun, 18 Dec 2022 01:27_
+> _Last updated: Mon, 19 Dec 2022 01:25_
 
 ### ItJobs
 
@@ -102,9 +102,6 @@ Jobs
 - **QA Automation Engineer** @_Adentis_ [here](https://www.itjobs.pt/oferta/449610/qa-automation-engineer)
 
 
-- **Automation Tester - Robot Framework** @_Decskill_ [here](https://www.itjobs.pt/oferta/448042/automation-tester-robot-framework)
-
-
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/449857/automation-tester)
 
 
@@ -162,13 +159,13 @@ Jobs
 - **Quality Assurance Engineer** @_Devoteam_ [here](https://www.itjobs.pt/oferta/448218/quality-assurance-engineer)
 
 
+- **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/449479/qae)
+
+
 - **Test Manager** @_Aubay_ [here](https://www.itjobs.pt/oferta/448272/test-manager)
 
 
 - **QA Engineer** @_Adentis_ [here](https://www.itjobs.pt/oferta/450323/qa-engineer)
-
-
-- **Test Automation Engineer** @_Red IT_ [here](https://www.itjobs.pt/oferta/448071/test-automation-engineer)
 
 #### Porto
 
@@ -299,8 +296,8 @@ Jobs
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/449774/quality-assurance-engineer)
 
 
+- **Tester** @_Withus_ [here](https://www.itjobs.pt/oferta/450369/tester)
+
+
 - **QA Engineer** @_Adentis_ [here](https://www.itjobs.pt/oferta/450323/qa-engineer)
-
-
-- **Test Automation Engineer** @_Red IT_ [here](https://www.itjobs.pt/oferta/448071/test-automation-engineer)
 
