@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Mon, 26 Dec 2022 01:28_
+> _Last updated: Tue, 27 Dec 2022 01:26_
 
 ### ItJobs
 
@@ -89,6 +89,9 @@ Jobs
 - **QA Analyst** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/450398/qa-analyst)
 
 
+- **Test Manager** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/450397/test-manager)
+
+
 - **Reconversão de Carreira (IT - QA/Testes)** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/449888/reconversao-de-carreira-it-qa-testes)
 
 #### Lisboa
@@ -117,10 +120,10 @@ Jobs
 - **Automation software tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/449637/automation-software-tester)
 
 
-- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/449140/qa-engineer)
-
-
 - **Application (Developer) Tester for eCommerce** @_Hays Information Technology_ [here](https://www.itjobs.pt/oferta/450289/application-developer-tester-for-ecommerce)
+
+
+- **Automation Tester** @_Olisipo_ [here](https://www.itjobs.pt/oferta/450631/automation-tester)
 
 
 - **Test Automation Engineer** @_Diconium Digital Solutions_ [here](https://www.itjobs.pt/oferta/450151/test-automation-engineer)
@@ -145,6 +148,9 @@ Jobs
 
 
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/450852/quality-assurance-engineer)
+
+
+- **Test Manager** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/450397/test-manager)
 
 
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/449479/qae)
@@ -200,6 +206,9 @@ Jobs
 
 
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/450852/quality-assurance-engineer)
+
+
+- **Test Manager** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/450397/test-manager)
 
 
 - **QA Engineer** @_Adentis_ [here](https://www.itjobs.pt/oferta/450323/qa-engineer)
