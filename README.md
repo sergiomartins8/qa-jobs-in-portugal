@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Fri, 30 Dec 2022 01:35_
+> _Last updated: Sat, 31 Dec 2022 01:26_
 
 ### ItJobs
 
@@ -46,6 +46,9 @@ Jobs
 
 
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/449857/automation-tester)
+
+
+- **QA Engineer - Frontend** @_YellowIpe_ [here](https://www.itjobs.pt/oferta/449994/qa-engineer-frontend)
 
 
 - **Quality Assurance Specialist** @_Dellent Consulting_ [here](https://www.itjobs.pt/oferta/450657/quality-assurance-specialist)
@@ -64,9 +67,6 @@ Jobs
 
 
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/449479/qae)
-
-
-- **Mid Test Engineer** @_Devoteam_ [here](https://www.itjobs.pt/oferta/448635/mid-test-engineer)
 
 #### Braga
 
@@ -97,6 +97,9 @@ Jobs
 #### Lisboa
 
 - **QA Automation Specialist** @_Devoteam_ [here](https://www.itjobs.pt/oferta/450351/qa-automation-specialist)
+
+
+- **Test Automation** @_Michael Page Portugal_ [here](https://www.itjobs.pt/oferta/451340/test-automation-m-f)
 
 
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/449857/automation-tester)
@@ -132,9 +135,6 @@ Jobs
 - **Automation/Manual Tester** @_Olisipo_ [here](https://www.itjobs.pt/oferta/450630/automation-manual-tester)
 
 
-- **Mid Test Engineer** @_Devoteam_ [here](https://www.itjobs.pt/oferta/448635/mid-test-engineer)
-
-
 - **Mid Test Engineer** @_Devoteam_ [here](https://www.itjobs.pt/oferta/448956/mid-test-engineer)
 
 
@@ -154,9 +154,6 @@ Jobs
 
 
 - **Test Manager** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/450397/test-manager)
-
-
-- **QA Engineer** @_Adentis_ [here](https://www.itjobs.pt/oferta/450323/qa-engineer)
 
 #### Porto
 
@@ -187,10 +184,10 @@ Jobs
 - **Senior QA Engineer** @_Global Blue_ [here](https://www.itjobs.pt/oferta/451203/senior-qa-engineer)
 
 
-- **Mid Test Engineer** @_Devoteam_ [here](https://www.itjobs.pt/oferta/448635/mid-test-engineer)
-
-
 - **Quality Assurance Engineer** @_Aubay_ [here](https://www.itjobs.pt/oferta/449696/quality-assurance-engineer)
+
+
+- **Functional Analyst – Tester Engineer** @_Grit Solutions_ [here](https://www.itjobs.pt/oferta/449955/functional-analyst-tester-engineer)
 
 
 - **QA Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/450539/qa-engineer)
@@ -209,6 +206,9 @@ Jobs
 
 
 - **Test Manager** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/450397/test-manager)
+
+
+- **QA Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/451155/qa-engineer)
 
 
 - **QA Engineer** @_Adentis_ [here](https://www.itjobs.pt/oferta/450323/qa-engineer)
@@ -233,6 +233,9 @@ Jobs
 - **Automation software tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/449637/automation-software-tester)
 
 
+- **Application (Developer) Tester for eCommerce** @_Hays Information Technology_ [here](https://www.itjobs.pt/oferta/450289/application-developer-tester-for-ecommerce)
+
+
 - **Software QA Engineer** @_Xpand IT_ [here](https://www.itjobs.pt/oferta/450518/software-qa-engineer)
 
 
@@ -240,9 +243,6 @@ Jobs
 
 
 - **Senior QA Engineer** @_Global Blue_ [here](https://www.itjobs.pt/oferta/451203/senior-qa-engineer)
-
-
-- **Mid Test Engineer** @_Devoteam_ [here](https://www.itjobs.pt/oferta/448635/mid-test-engineer)
 
 
 - **Quality Assurance Engineer** @_Aubay_ [here](https://www.itjobs.pt/oferta/449696/quality-assurance-engineer)
