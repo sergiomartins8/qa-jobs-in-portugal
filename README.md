@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Tue, 03 Jan 2023 01:27_
+> _Last updated: Wed, 04 Jan 2023 01:35_
 
 ### ItJobs
 
@@ -111,7 +111,13 @@ Jobs
 - **Quality Assurance Project Manager** @_Beats Medical_ [here](https://www.itjobs.pt/oferta/449736/quality-assurance-project-manager)
 
 
+- **Test Engineer** @_The Virtual Forge_ [here](https://www.itjobs.pt/oferta/451552/test-engineer)
+
+
 - **Automation software tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/449637/automation-software-tester)
+
+
+- **QA Automation Engineer** @_Adentis_ [here](https://www.itjobs.pt/oferta/451571/qa-automation-engineer)
 
 
 - **Automation Tester** @_Olisipo_ [here](https://www.itjobs.pt/oferta/450631/automation-tester)
@@ -133,9 +139,6 @@ Jobs
 
 
 - **QA Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/451263/qa-automation-tester)
-
-
-- **QA Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/450539/qa-engineer)
 
 
 - **Quality Assurance Engineer** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/451209/quality-assurance-engineer)
@@ -184,9 +187,6 @@ Jobs
 - **Quality Assurance Engineer** @_Aubay_ [here](https://www.itjobs.pt/oferta/449696/quality-assurance-engineer)
 
 
-- **Functional Analyst – Tester Engineer** @_Grit Solutions_ [here](https://www.itjobs.pt/oferta/449955/functional-analyst-tester-engineer)
-
-
 - **QA Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/450539/qa-engineer)
 
 
@@ -218,10 +218,13 @@ Jobs
 - **Quality Assurance Project Manager** @_Beats Medical_ [here](https://www.itjobs.pt/oferta/449736/quality-assurance-project-manager)
 
 
+- **Test Engineer** @_The Virtual Forge_ [here](https://www.itjobs.pt/oferta/451552/test-engineer)
+
+
 - **Automation software tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/449637/automation-software-tester)
 
 
-- **Application (Developer) Tester for eCommerce** @_Hays Information Technology_ [here](https://www.itjobs.pt/oferta/450289/application-developer-tester-for-ecommerce)
+- **QA Automation Engineer** @_Adentis_ [here](https://www.itjobs.pt/oferta/451571/qa-automation-engineer)
 
 
 - **Software QA Engineer** @_Xpand IT_ [here](https://www.itjobs.pt/oferta/450518/software-qa-engineer)
@@ -245,6 +248,9 @@ Jobs
 - **QA Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/450027/qa-automation-tester)
 
 
+- **Test Automation Engineer** @_Dellent Consulting_ [here](https://www.itjobs.pt/oferta/451087/test-automation-engineer)
+
+
 - **Automation Tester** @_Dellent Consulting_ [here](https://www.itjobs.pt/oferta/450660/automation-tester)
 
 
@@ -252,10 +258,4 @@ Jobs
 
 
 - **QA Engineer (Backend)** @_Blip_ [here](https://www.itjobs.pt/oferta/450849/qa-engineer-backend)
-
-
-- **Tester** @_Withus_ [here](https://www.itjobs.pt/oferta/450369/tester)
-
-
-- **QA Engineer** @_Adentis_ [here](https://www.itjobs.pt/oferta/450323/qa-engineer)
 
