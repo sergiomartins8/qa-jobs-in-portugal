@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Thu, 05 Jan 2023 01:39_
+> _Last updated: Fri, 06 Jan 2023 01:39_
 
 ### ItJobs
 
@@ -267,6 +267,9 @@ Jobs
 
 
 - **Test Engineer** @_Rumos Consulting_ [here](https://www.itjobs.pt/oferta/450106/test-engineer)
+
+
+- **QA Automation** @_Applied Blockchain_ [here](https://www.itjobs.pt/oferta/451738/qa-automation)
 
 
 - **QA Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/450027/qa-automation-tester)
