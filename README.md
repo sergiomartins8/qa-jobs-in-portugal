@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Fri, 06 Jan 2023 01:39_
+> _Last updated: Sat, 07 Jan 2023 01:35_
 
 ### ItJobs
 
@@ -196,9 +196,6 @@ Jobs
 - **Mobile Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/451564/mobile-test-automation-engineer)
 
 
-- **Senior QA Engineer** @_Global Blue_ [here](https://www.itjobs.pt/oferta/451203/senior-qa-engineer)
-
-
 - **QA Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/451263/qa-automation-tester)
 
 
@@ -206,6 +203,9 @@ Jobs
 
 
 - **Node.js Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/451566/node-js-test-automation-engineer)
+
+
+- **QA/QAE** @_KCS IT_ [here](https://www.itjobs.pt/oferta/451747/qa-qae)
 
 
 - **QA Automation Tester** @_Neotalent_ [here](https://www.itjobs.pt/oferta/450385/qa-automation-tester)
@@ -266,6 +266,9 @@ Jobs
 - **Node.js Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/451566/node-js-test-automation-engineer)
 
 
+- **QA/QAE** @_KCS IT_ [here](https://www.itjobs.pt/oferta/451747/qa-qae)
+
+
 - **Test Engineer** @_Rumos Consulting_ [here](https://www.itjobs.pt/oferta/450106/test-engineer)
 
 
@@ -282,7 +285,4 @@ Jobs
 
 
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/450852/quality-assurance-engineer)
-
-
-- **QA Engineer (Backend)** @_Blip_ [here](https://www.itjobs.pt/oferta/450849/qa-engineer-backend)
 
