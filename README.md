@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sun, 08 Jan 2023 01:41_
+> _Last updated: Mon, 09 Jan 2023 01:35_
 
 ### ItJobs
 
@@ -77,6 +77,9 @@ Jobs
 
 
 - **Engineering Lead - Test Automation** @_Farfetch_ [here](https://www.itjobs.pt/oferta/449954/engineering-lead-test-automation)
+
+
+- **Quality Assurance Engineer (Information Technologies)** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/451626/quality-assurance-engineer-information-technologies)
 
 
 - **Test Automation Engineer** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/451279/test-automation-engineer)
