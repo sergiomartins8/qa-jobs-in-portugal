@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Wed, 18 Jan 2023 01:39_
+> _Last updated: Thu, 19 Jan 2023 01:42_
 
 ### ItJobs
 
@@ -49,9 +49,6 @@ Jobs
 
 
 - **Quality Assurance Specialist** @_Dellent Consulting_ [here](https://www.itjobs.pt/oferta/450657/quality-assurance-specialist)
-
-
-- **Test Engineer** @_The Virtual Forge_ [here](https://www.itjobs.pt/oferta/451552/test-engineer)
 
 
 - **Mid Test Engineer** @_Devoteam_ [here](https://www.itjobs.pt/oferta/451881/mid-test-engineer)
@@ -73,20 +70,11 @@ Jobs
 
 #### Braga
 
-- **Test Engineer** @_The Virtual Forge_ [here](https://www.itjobs.pt/oferta/451552/test-engineer)
-
-
 - **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/451768/qa-engineer)
 
 #### Coimbra
 
 - **Node.js Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/451566/node-js-test-automation-engineer)
-
-
-- **Test Engineer** @_The Virtual Forge_ [here](https://www.itjobs.pt/oferta/451552/test-engineer)
-
-
-- **QA Analyst** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/450398/qa-analyst)
 
 
 - **Test Manager** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/450397/test-manager)
@@ -163,7 +151,7 @@ Jobs
 - **QA Automation Specialist** @_Devoteam_ [here](https://www.itjobs.pt/oferta/450351/qa-automation-specialist)
 
 
-- **Test Engineer** @_The Virtual Forge_ [here](https://www.itjobs.pt/oferta/451552/test-engineer)
+- **Test Engineer (Backend) - Farfetch Platform Solutions** @_Farfetch_ [here](https://www.itjobs.pt/oferta/452693/test-engineer-backend-farfetch-platform-solutions)
 
 
 - **Senior QA Automation Consultant** @_Dellent Consulting_ [here](https://www.itjobs.pt/oferta/451128/senior-qa-automation-consultant)
@@ -254,6 +242,9 @@ Jobs
 - **QA Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/451263/qa-automation-tester)
 
 
+- **Junior QA Engineer** @_Thryve_ [here](https://www.itjobs.pt/oferta/452745/junior-qa-engineer)
+
+
 - **Test Automation Engineer** @_team.it_ [here](https://www.itjobs.pt/oferta/452226/team-test-automation-engineer)
 
 
@@ -272,7 +263,7 @@ Jobs
 - **QA Automation** @_Applied Blockchain_ [here](https://www.itjobs.pt/oferta/451738/qa-automation)
 
 
-- **QA Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/450027/qa-automation-tester)
+- **Senior QA Automation Engineer** @_Cocus_ [here](https://www.itjobs.pt/oferta/452734/senior-qa-automation-engineer)
 
 
 - **Test Automation Engineer** @_Dellent Consulting_ [here](https://www.itjobs.pt/oferta/451087/test-automation-engineer)
