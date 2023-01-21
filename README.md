@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Fri, 20 Jan 2023 01:39_
+> _Last updated: Sat, 21 Jan 2023 01:36_
 
 ### ItJobs
 
@@ -61,9 +61,6 @@ Jobs
 
 
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/451865/qae)
-
-
-- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/452280/quality-assurance-engineer)
 
 
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/452715/automation-tester)
@@ -94,9 +91,6 @@ Jobs
 
 
 - **Test Engineer** @_The Virtual Forge_ [here](https://www.itjobs.pt/oferta/451552/test-engineer)
-
-
-- **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/451865/qae)
 
 
 - **QA Automation Engineer** @_Adentis_ [here](https://www.itjobs.pt/oferta/451571/qa-automation-engineer)
@@ -138,6 +132,9 @@ Jobs
 - **Fullstack Tester** @_Stefanini Portugal_ [here](https://www.itjobs.pt/oferta/452766/fullstack-tester)
 
 
+- **Test Engineer** @_Experis_ [here](https://www.itjobs.pt/oferta/452830/test-engineer)
+
+
 - **QA Automation Tester** @_Neotalent_ [here](https://www.itjobs.pt/oferta/450385/qa-automation-tester)
 
 
@@ -145,9 +142,6 @@ Jobs
 
 
 - **Test Manager** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/450397/test-manager)
-
-
-- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/452280/quality-assurance-engineer)
 
 
 - **Junior QA Engineer (Automation)** @_KWAN_ [here](https://www.itjobs.pt/oferta/451257/junior-qa-engineer-automation)
@@ -203,9 +197,6 @@ Jobs
 
 
 - **Test Manager** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/450397/test-manager)
-
-
-- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/452280/quality-assurance-engineer)
 
 
 - **Junior QA Engineer (Automation)** @_KWAN_ [here](https://www.itjobs.pt/oferta/451257/junior-qa-engineer-automation)
@@ -282,9 +273,6 @@ Jobs
 
 
 - **Automation Tester** @_Dellent Consulting_ [here](https://www.itjobs.pt/oferta/450660/automation-tester)
-
-
-- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/452280/quality-assurance-engineer)
 
 
 - **QA Engineer (Backend)** @_Blip_ [here](https://www.itjobs.pt/oferta/450849/qa-engineer-backend)
