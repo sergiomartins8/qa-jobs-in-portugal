@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sat, 21 Jan 2023 01:36_
+> _Last updated: Sun, 22 Jan 2023 01:41_
 
 ### ItJobs
 
@@ -93,6 +93,9 @@ Jobs
 - **Test Engineer** @_The Virtual Forge_ [here](https://www.itjobs.pt/oferta/451552/test-engineer)
 
 
+- **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/451865/qae)
+
+
 - **QA Automation Engineer** @_Adentis_ [here](https://www.itjobs.pt/oferta/451571/qa-automation-engineer)
 
 
@@ -133,9 +136,6 @@ Jobs
 
 
 - **Test Engineer** @_Experis_ [here](https://www.itjobs.pt/oferta/452830/test-engineer)
-
-
-- **QA Automation Tester** @_Neotalent_ [here](https://www.itjobs.pt/oferta/450385/qa-automation-tester)
 
 
 - **Automation Tester** @_Dellent Consulting_ [here](https://www.itjobs.pt/oferta/450660/automation-tester)
@@ -191,9 +191,6 @@ Jobs
 
 
 - **Mid Test Engineer** @_Devoteam_ [here](https://www.itjobs.pt/oferta/451881/mid-test-engineer)
-
-
-- **QA Automation Tester** @_Neotalent_ [here](https://www.itjobs.pt/oferta/450385/qa-automation-tester)
 
 
 - **Test Manager** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/450397/test-manager)
