@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Fri, 27 Jan 2023 01:40_
+> _Last updated: Sat, 28 Jan 2023 01:39_
 
 ### ItJobs
 
@@ -219,9 +219,6 @@ Jobs
 
 
 - **Mobile Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/451564/mobile-test-automation-engineer)
-
-
-- **QA Automation Engineer** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/453016/qa-automation-engineer)
 
 
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/452715/automation-tester)
