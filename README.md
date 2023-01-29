@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sat, 28 Jan 2023 01:39_
+> _Last updated: Sun, 29 Jan 2023 01:43_
 
 ### ItJobs
 
@@ -73,9 +73,6 @@ Jobs
 
 - **Node.js Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/451566/node-js-test-automation-engineer)
 
-
-- **Test Manager** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/450397/test-manager)
-
 #### Lisboa
 
 - **Test Automation** @_Michael Page Portugal_ [here](https://www.itjobs.pt/oferta/451340/test-automation-m-f)
@@ -90,10 +87,10 @@ Jobs
 - **Automation Tester** @_Axians_ [here](https://www.itjobs.pt/oferta/453020/automation-tester)
 
 
+- **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/451865/qae)
+
+
 - **QA Automation Engineer** @_Adentis_ [here](https://www.itjobs.pt/oferta/451571/qa-automation-engineer)
-
-
-- **Automation Tester** @_Olisipo_ [here](https://www.itjobs.pt/oferta/450631/automation-tester)
 
 
 - **Senior QA Engineer (Automation)** @_KWAN_ [here](https://www.itjobs.pt/oferta/451253/senior-qa-engineer-automation)
@@ -133,12 +130,6 @@ Jobs
 
 
 - **Test Engineer** @_Experis_ [here](https://www.itjobs.pt/oferta/452830/test-engineer)
-
-
-- **Test Manager** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/450397/test-manager)
-
-
-- **Junior QA Engineer (Automation)** @_KWAN_ [here](https://www.itjobs.pt/oferta/451257/junior-qa-engineer-automation)
 
 
 - **QA Automation Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/451592/qa-automation-engineer)
@@ -182,9 +173,6 @@ Jobs
 
 
 - **Mid Test Engineer** @_Devoteam_ [here](https://www.itjobs.pt/oferta/451881/mid-test-engineer)
-
-
-- **Test Manager** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/450397/test-manager)
 
 
 - **Junior QA Engineer (Automation)** @_KWAN_ [here](https://www.itjobs.pt/oferta/451257/junior-qa-engineer-automation)
