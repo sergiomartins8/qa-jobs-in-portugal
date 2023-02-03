@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Thu, 02 Feb 2023 01:40_
+> _Last updated: Fri, 03 Feb 2023 01:42_
 
 ### ItJobs
 
@@ -69,6 +69,9 @@ Jobs
 #### Coimbra
 
 - **Node.js Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/451566/node-js-test-automation-engineer)
+
+
+- **QA Analyst** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/453411/qa-analyst)
 
 #### Lisboa
 
@@ -167,6 +170,9 @@ Jobs
 
 
 - **QA/QAE** @_KCS IT_ [here](https://www.itjobs.pt/oferta/451747/qa-qae)
+
+
+- **QAA** @_Ebankit - Omnichannel Innovation_ [here](https://www.itjobs.pt/oferta/453791/qaa)
 
 
 - **QA Automation Tester** @_Neotalent_ [here](https://www.itjobs.pt/oferta/453286/qa-automation-tester)
