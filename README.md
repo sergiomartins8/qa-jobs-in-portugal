@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sun, 12 Feb 2023 01:43_
+> _Last updated: Mon, 13 Feb 2023 01:43_
 
 ### ItJobs
 
@@ -49,9 +49,6 @@ Jobs
 
 
 - **QA Automation Specialist** @_Devoteam_ [here](https://www.itjobs.pt/oferta/453165/qa-automation-specialist)
-
-
-- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/451768/qa-engineer)
 
 
 - **Mobile Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/454216/mobile-test-automation-engineer)
@@ -78,9 +75,6 @@ Jobs
 
 - **QA Engineer** @_Adentis_ [here](https://www.itjobs.pt/oferta/454241/qa-engineer)
 
-
-- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/451768/qa-engineer)
-
 #### Coimbra
 
 - **QA Engineer** @_Adentis_ [here](https://www.itjobs.pt/oferta/454241/qa-engineer)
@@ -100,9 +94,6 @@ Jobs
 #### Lisboa
 
 - **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/454011/quality-assurance-developer)
-
-
-- **Quality Assurance Project Manager** @_Beats Medical_ [here](https://www.itjobs.pt/oferta/452063/quality-assurance-project-manager)
 
 
 - **Automation Tester** @_Adentis_ [here](https://www.itjobs.pt/oferta/453375/automation-tester)
@@ -205,9 +196,6 @@ Jobs
 - **Software Engineer in Test** @_Devoteam_ [here](https://www.itjobs.pt/oferta/454010/software-engineer-in-test)
 
 #### Remote
-
-- **Quality Assurance Project Manager** @_Beats Medical_ [here](https://www.itjobs.pt/oferta/452063/quality-assurance-project-manager)
-
 
 - **QA Software Tester - Functional** @_Runtime Revolution_ [here](https://www.itjobs.pt/oferta/454150/qa-software-tester-functional)
 
