@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Mon, 13 Feb 2023 01:43_
+> _Last updated: Tue, 14 Feb 2023 01:43_
 
 ### ItJobs
 
@@ -55,9 +55,6 @@ Jobs
 
 
 - **Tester** @_Withus_ [here](https://www.itjobs.pt/oferta/452373/tester)
-
-
-- **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/451865/qae)
 
 
 - **Front-End Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/454215/front-end-test-automation-engineer)
@@ -111,9 +108,6 @@ Jobs
 - **Automation Tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/453999/automation-tester)
 
 
-- **Quality Assurance Engineer** @_Aubay_ [here](https://www.itjobs.pt/oferta/452020/quality-assurance-engineer)
-
-
 - **Test Automation Engineer** @_Diconium Digital Solutions_ [here](https://www.itjobs.pt/oferta/452518/test-automation-engineer)
 
 
@@ -130,6 +124,9 @@ Jobs
 
 
 - **Mid Test Engineer** @_Devoteam_ [here](https://www.itjobs.pt/oferta/451881/mid-test-engineer)
+
+
+- **Quality Assurance & Clinical Manager** @_Beats Medical_ [here](https://www.itjobs.pt/oferta/454488/quality-assurance-clinical-manager)
 
 
 - **Senior QA Engineer (Automation)** @_KWAN_ [here](https://www.itjobs.pt/oferta/453951/senior-qa-engineer-automation)
@@ -176,6 +173,9 @@ Jobs
 
 
 - **QA Automation Tester** @_Neotalent_ [here](https://www.itjobs.pt/oferta/453286/qa-automation-tester)
+
+
+- **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/454021/quality-assurance-developer)
 
 
 - **Mid Test Engineer** @_Devoteam_ [here](https://www.itjobs.pt/oferta/451881/mid-test-engineer)
@@ -237,6 +237,9 @@ Jobs
 
 
 - **Big Data QA Automation Engineer** @_Cocus_ [here](https://www.itjobs.pt/oferta/453667/big-data-qa-automation-engineer)
+
+
+- **Quality Assurance & Clinical Manager** @_Beats Medical_ [here](https://www.itjobs.pt/oferta/454488/quality-assurance-clinical-manager)
 
 
 - **Software Test Engineer** @_Contentserv Technologies_ [here](https://www.itjobs.pt/oferta/453645/software-test-engineer)
