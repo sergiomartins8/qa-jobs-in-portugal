@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Tue, 14 Feb 2023 01:43_
+> _Last updated: Wed, 15 Feb 2023 01:43_
 
 ### ItJobs
 
@@ -49,6 +49,9 @@ Jobs
 
 
 - **QA Automation Specialist** @_Devoteam_ [here](https://www.itjobs.pt/oferta/453165/qa-automation-specialist)
+
+
+- **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/454621/qae)
 
 
 - **Mobile Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/454216/mobile-test-automation-engineer)
@@ -151,6 +154,9 @@ Jobs
 - **QA Automation Specialist** @_Devoteam_ [here](https://www.itjobs.pt/oferta/453165/qa-automation-specialist)
 
 
+- **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/454621/qae)
+
+
 - **Mobile Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/454216/mobile-test-automation-engineer)
 
 
@@ -161,6 +167,9 @@ Jobs
 
 
 - **Test Automation Engineer** @_Diconium Digital Solutions_ [here](https://www.itjobs.pt/oferta/452518/test-automation-engineer)
+
+
+- **Senior Test Engineer** @_Axians_ [here](https://www.itjobs.pt/oferta/454644/senior-test-engineer)
 
 
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/452715/automation-tester)
@@ -187,6 +196,9 @@ Jobs
 - **Quality Assurance Engineer** @_SmartMed BV_ [here](https://www.itjobs.pt/oferta/454253/quality-assurance-engineer)
 
 
+- **Mid Quality Assurance** @_Axians_ [here](https://www.itjobs.pt/oferta/454651/mid-quality-assurance)
+
+
 - **Senior QA Engineer (Automation)** @_KWAN_ [here](https://www.itjobs.pt/oferta/453951/senior-qa-engineer-automation)
 
 
@@ -203,7 +215,7 @@ Jobs
 - **QA Automation Specialist** @_Devoteam_ [here](https://www.itjobs.pt/oferta/453165/qa-automation-specialist)
 
 
-- **Test Automation Consultant** @_Dixtior Consulting_ [here](https://www.itjobs.pt/oferta/452302/test-automation-consultant)
+- **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/454621/qae)
 
 
 - **Mobile Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/454216/mobile-test-automation-engineer)
