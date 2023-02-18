@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Fri, 17 Feb 2023 01:45_
+> _Last updated: Sat, 18 Feb 2023 01:40_
 
 ### ItJobs
 
@@ -99,6 +99,9 @@ Jobs
 - **QA Automation Specialist** @_Devoteam_ [here](https://www.itjobs.pt/oferta/453165/qa-automation-specialist)
 
 
+- **Senior QA Engineer** @_Turbine Kreuzberg_ [here](https://www.itjobs.pt/oferta/454948/senior-qa-engineer)
+
+
 - **QA Automation Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/454064/qa-automation-engineer)
 
 
@@ -146,6 +149,9 @@ Jobs
 
 
 - **QA Automation Specialist** @_Devoteam_ [here](https://www.itjobs.pt/oferta/453165/qa-automation-specialist)
+
+
+- **Senior QA Engineer** @_Turbine Kreuzberg_ [here](https://www.itjobs.pt/oferta/454948/senior-qa-engineer)
 
 
 - **Mobile Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/454216/mobile-test-automation-engineer)
@@ -203,6 +209,12 @@ Jobs
 - **QA Automation Specialist** @_Devoteam_ [here](https://www.itjobs.pt/oferta/453165/qa-automation-specialist)
 
 
+- **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/454621/qae)
+
+
+- **Senior QA Engineer** @_Turbine Kreuzberg_ [here](https://www.itjobs.pt/oferta/454948/senior-qa-engineer)
+
+
 - **Mobile Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/454216/mobile-test-automation-engineer)
 
 
@@ -228,9 +240,6 @@ Jobs
 
 
 - **Automation Tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/454394/automation-tester)
-
-
-- **Big Data QA Automation Engineer** @_Cocus_ [here](https://www.itjobs.pt/oferta/453667/big-data-qa-automation-engineer)
 
 
 - **Quality Assurance & Clinical Manager** @_Beats Medical_ [here](https://www.itjobs.pt/oferta/454488/quality-assurance-clinical-manager)
