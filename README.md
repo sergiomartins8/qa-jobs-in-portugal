@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sat, 18 Feb 2023 01:40_
+> _Last updated: Sun, 19 Feb 2023 01:43_
 
 ### ItJobs
 
@@ -108,9 +108,6 @@ Jobs
 - **Automation Tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/453999/automation-tester)
 
 
-- **Test Automation Engineer** @_Diconium Digital Solutions_ [here](https://www.itjobs.pt/oferta/452518/test-automation-engineer)
-
-
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/452715/automation-tester)
 
 
@@ -151,6 +148,9 @@ Jobs
 - **QA Automation Specialist** @_Devoteam_ [here](https://www.itjobs.pt/oferta/453165/qa-automation-specialist)
 
 
+- **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/454621/qae)
+
+
 - **Senior QA Engineer** @_Turbine Kreuzberg_ [here](https://www.itjobs.pt/oferta/454948/senior-qa-engineer)
 
 
@@ -164,9 +164,6 @@ Jobs
 
 
 - **Mid/Senior QAE Automation – JavaScript** @_Aubay_ [here](https://www.itjobs.pt/oferta/454800/mid-senior-qae-automation-javascript)
-
-
-- **Test Automation Engineer** @_Diconium Digital Solutions_ [here](https://www.itjobs.pt/oferta/452518/test-automation-engineer)
 
 
 - **Senior Test Engineer** @_Axians_ [here](https://www.itjobs.pt/oferta/454644/senior-test-engineer)
@@ -203,6 +200,9 @@ Jobs
 
 #### Remote
 
+- **Data Testing Engineer** @_Cocus_ [here](https://www.itjobs.pt/oferta/453667/big-data-qa-automation-engineer)
+
+
 - **QA Software Tester - Functional** @_Runtime Revolution_ [here](https://www.itjobs.pt/oferta/454150/qa-software-tester-functional)
 
 
@@ -234,9 +234,6 @@ Jobs
 
 
 - **QA Engineer** @_Adentis_ [here](https://www.itjobs.pt/oferta/454241/qa-engineer)
-
-
-- **Test Engineer** @_Rumos Consulting_ [here](https://www.itjobs.pt/oferta/452560/test-engineer)
 
 
 - **Automation Tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/454394/automation-tester)
