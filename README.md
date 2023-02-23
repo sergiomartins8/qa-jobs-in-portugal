@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Wed, 22 Feb 2023 01:40_
+> _Last updated: Thu, 23 Feb 2023 01:38_
 
 ### ItJobs
 
@@ -120,10 +120,10 @@ Jobs
 - **Senior QA Engineer (Automation)** @_KWAN_ [here](https://www.itjobs.pt/oferta/453951/senior-qa-engineer-automation)
 
 
-- **Test Engineer** @_Experis_ [here](https://www.itjobs.pt/oferta/452830/test-engineer)
-
-
 - **Automation Tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/453147/automation-tester)
+
+
+- **Test Automation Engineer** @_Diconium Digital Solutions_ [here](https://www.itjobs.pt/oferta/455200/test-automation-engineer)
 
 
 - **Software Engineer in Test** @_Devoteam_ [here](https://www.itjobs.pt/oferta/454010/software-engineer-in-test)
@@ -154,9 +154,6 @@ Jobs
 - **Senior Test Engineer** @_Axians_ [here](https://www.itjobs.pt/oferta/454644/senior-test-engineer)
 
 
-- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/454735/qa-engineer)
-
-
 - **QA Engineer** @_Adentis_ [here](https://www.itjobs.pt/oferta/454241/qa-engineer)
 
 
@@ -169,6 +166,9 @@ Jobs
 - **Automation Tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/454394/automation-tester)
 
 
+- **Test Engineer (Backend) - Farfetch Platform Solutions** @_Farfetch_ [here](https://www.itjobs.pt/oferta/455168/test-engineer-backend-farfetch-platform-solutions)
+
+
 - **Quality Assurance Engineer** @_SmartMed BV_ [here](https://www.itjobs.pt/oferta/454253/quality-assurance-engineer)
 
 
@@ -178,9 +178,15 @@ Jobs
 - **Senior QA Engineer (Automation)** @_KWAN_ [here](https://www.itjobs.pt/oferta/453951/senior-qa-engineer-automation)
 
 
+- **Test Automation Engineer** @_Diconium Digital Solutions_ [here](https://www.itjobs.pt/oferta/455200/test-automation-engineer)
+
+
 - **Software Engineer in Test** @_Devoteam_ [here](https://www.itjobs.pt/oferta/454010/software-engineer-in-test)
 
 #### Remote
+
+- **Test Engineer** @_Rumos Consulting_ [here](https://www.itjobs.pt/oferta/455030/test-engineer)
+
 
 - **Data Testing Engineer** @_Cocus_ [here](https://www.itjobs.pt/oferta/453667/big-data-qa-automation-engineer)
 
