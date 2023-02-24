@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Thu, 23 Feb 2023 01:38_
+> _Last updated: Fri, 24 Feb 2023 01:40_
 
 ### ItJobs
 
@@ -87,9 +87,6 @@ Jobs
 - **QA Automation Specialist** @_Devoteam_ [here](https://www.itjobs.pt/oferta/453165/qa-automation-specialist)
 
 
-- **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/454621/qae)
-
-
 - **Senior QA Engineer** @_Turbine Kreuzberg_ [here](https://www.itjobs.pt/oferta/454948/senior-qa-engineer)
 
 
@@ -115,6 +112,9 @@ Jobs
 
 
 - **Quality Assurance & Clinical Manager** @_Beats Medical_ [here](https://www.itjobs.pt/oferta/454488/quality-assurance-clinical-manager)
+
+
+- **QA Automation Engineer** @_Neotalent_ [here](https://www.itjobs.pt/oferta/454854/qa-automation-engineer)
 
 
 - **Senior QA Engineer (Automation)** @_KWAN_ [here](https://www.itjobs.pt/oferta/453951/senior-qa-engineer-automation)
@@ -188,9 +188,6 @@ Jobs
 - **Test Engineer** @_Rumos Consulting_ [here](https://www.itjobs.pt/oferta/455030/test-engineer)
 
 
-- **Data Testing Engineer** @_Cocus_ [here](https://www.itjobs.pt/oferta/453667/big-data-qa-automation-engineer)
-
-
 - **QA Software Tester - Functional** @_Runtime Revolution_ [here](https://www.itjobs.pt/oferta/454150/qa-software-tester-functional)
 
 
@@ -204,6 +201,9 @@ Jobs
 
 
 - **Mid Test Engineer** @_Devoteam_ [here](https://www.itjobs.pt/oferta/454833/mid-test-engineer)
+
+
+- **Test Automation Engineer** @_team.it_ [here](https://www.itjobs.pt/oferta/455262/test-automation-engineer)
 
 
 - **QA Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/453100/qa-automation-tester)
@@ -231,9 +231,6 @@ Jobs
 
 
 - **Quality Assurance Engineer** @_SmartMed BV_ [here](https://www.itjobs.pt/oferta/454253/quality-assurance-engineer)
-
-
-- **Senior Tester** @_KCS IT_ [here](https://www.itjobs.pt/oferta/453337/senior-tester)
 
 
 - **Test Automation Consultant** @_Dixtior Consulting_ [here](https://www.itjobs.pt/oferta/454744/test-automation-consultant)
