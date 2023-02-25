@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Fri, 24 Feb 2023 01:40_
+> _Last updated: Sat, 25 Feb 2023 01:42_
 
 ### ItJobs
 
@@ -55,6 +55,9 @@ Jobs
 
 
 - **Software Engineer in Test** @_Devoteam_ [here](https://www.itjobs.pt/oferta/454010/software-engineer-in-test)
+
+
+- **Hardware Tester** @_Withus_ [here](https://www.itjobs.pt/oferta/455370/hardware-tester)
 
 
 - **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/454735/qa-engineer)
@@ -145,6 +148,9 @@ Jobs
 - **Mid Test Engineer** @_Devoteam_ [here](https://www.itjobs.pt/oferta/454833/mid-test-engineer)
 
 
+- **Quality Assurance Engineer** @_Aubay_ [here](https://www.itjobs.pt/oferta/455308/quality-assurance-engineer)
+
+
 - **QA Automation Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/454064/qa-automation-engineer)
 
 
@@ -213,6 +219,9 @@ Jobs
 
 
 - **Quality Assurance Engineer** @_Cocus_ [here](https://www.itjobs.pt/oferta/454696/quality-assurance-engineer)
+
+
+- **Hardware Tester** @_Withus_ [here](https://www.itjobs.pt/oferta/455370/hardware-tester)
 
 
 - **QA Engineer** @_Adentis_ [here](https://www.itjobs.pt/oferta/454241/qa-engineer)
