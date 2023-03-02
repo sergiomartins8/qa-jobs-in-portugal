@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Wed, 01 Mar 2023 01:51_
+> _Last updated: Thu, 02 Mar 2023 01:48_
 
 ### ItJobs
 
@@ -176,6 +176,9 @@ Jobs
 
 
 - **Automation Tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/454394/automation-tester)
+
+
+- **DevOps Quality Assurance Engineer** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/455615/devops-quality-assurance-engineer)
 
 
 - **Test Engineer (Backend) - Farfetch Platform Solutions** @_Farfetch_ [here](https://www.itjobs.pt/oferta/455168/test-engineer-backend-farfetch-platform-solutions)
