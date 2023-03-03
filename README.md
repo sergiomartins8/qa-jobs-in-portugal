@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Thu, 02 Mar 2023 01:48_
+> _Last updated: Fri, 03 Mar 2023 03:29_
 
 ### ItJobs
 
@@ -52,6 +52,9 @@ Jobs
 
 
 - **Mid Test Engineer** @_Devoteam_ [here](https://www.itjobs.pt/oferta/454833/mid-test-engineer)
+
+
+- **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/455184/automation-tester)
 
 
 - **Software Engineer in Test** @_Devoteam_ [here](https://www.itjobs.pt/oferta/454010/software-engineer-in-test)
@@ -99,7 +102,16 @@ Jobs
 - **Mid Test Engineer** @_Devoteam_ [here](https://www.itjobs.pt/oferta/454833/mid-test-engineer)
 
 
+- **QA Tester** @_Red IT_ [here](https://www.itjobs.pt/oferta/455799/qa-tester)
+
+
 - **QA Automation Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/454064/qa-automation-engineer)
+
+
+- **Automation Tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/453999/automation-tester)
+
+
+- **QA Automation Engineer** @_Adentis_ [here](https://www.itjobs.pt/oferta/455843/qa-automation-engineer)
 
 
 - **Senior QA Consultant** @_Dellent_ [here](https://www.itjobs.pt/oferta/454423/senior-qa-consultant)
@@ -123,6 +135,9 @@ Jobs
 - **Senior QA Engineer (Automation)** @_KWAN_ [here](https://www.itjobs.pt/oferta/453951/senior-qa-engineer-automation)
 
 
+- **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/455184/automation-tester)
+
+
 - **Automation Tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/453147/automation-tester)
 
 
@@ -142,10 +157,10 @@ Jobs
 - **QA Automation Specialist** @_Devoteam_ [here](https://www.itjobs.pt/oferta/453165/qa-automation-specialist)
 
 
-- **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/454621/qae)
-
-
 - **Senior QA Engineer** @_Turbine Kreuzberg_ [here](https://www.itjobs.pt/oferta/454948/senior-qa-engineer)
+
+
+- **QAE Automation Mobile - Android** @_Aubay_ [here](https://www.itjobs.pt/oferta/454719/qae-automation-mobile-android)
 
 
 - **Mid Test Engineer** @_Devoteam_ [here](https://www.itjobs.pt/oferta/454833/mid-test-engineer)
@@ -193,6 +208,9 @@ Jobs
 - **Senior QA Engineer (Automation)** @_KWAN_ [here](https://www.itjobs.pt/oferta/453951/senior-qa-engineer-automation)
 
 
+- **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/455184/automation-tester)
+
+
 - **Test Automation Engineer** @_Diconium Digital Solutions_ [here](https://www.itjobs.pt/oferta/455200/test-automation-engineer)
 
 
@@ -219,6 +237,9 @@ Jobs
 
 
 - **Mid Test Engineer** @_Devoteam_ [here](https://www.itjobs.pt/oferta/454833/mid-test-engineer)
+
+
+- **QA Tester** @_Red IT_ [here](https://www.itjobs.pt/oferta/455799/qa-tester)
 
 
 - **Test Automation Engineer** @_team.it_ [here](https://www.itjobs.pt/oferta/455262/test-automation-engineer)
@@ -258,6 +279,9 @@ Jobs
 
 
 - **Quality Assurance Engineer** @_SmartMed BV_ [here](https://www.itjobs.pt/oferta/454253/quality-assurance-engineer)
+
+
+- **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/455184/automation-tester)
 
 
 - **Test Automation Consultant** @_Dixtior Consulting_ [here](https://www.itjobs.pt/oferta/454744/test-automation-consultant)
