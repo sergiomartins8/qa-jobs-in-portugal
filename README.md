@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Fri, 03 Mar 2023 03:29_
+> _Last updated: Sat, 04 Mar 2023 01:40_
 
 ### ItJobs
 
@@ -82,6 +82,9 @@ Jobs
 
 - **QA Analyst** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/453411/qa-analyst)
 
+
+- **QA Tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/455665/qa-tester)
+
 #### Lisboa
 
 - **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/454011/quality-assurance-developer)
@@ -91,9 +94,6 @@ Jobs
 
 
 - **QA Automation Specialist** @_Devoteam_ [here](https://www.itjobs.pt/oferta/453165/qa-automation-specialist)
-
-
-- **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/454621/qae)
 
 
 - **Senior QA Engineer** @_Turbine Kreuzberg_ [here](https://www.itjobs.pt/oferta/454948/senior-qa-engineer)
@@ -115,6 +115,9 @@ Jobs
 
 
 - **Senior QA Consultant** @_Dellent_ [here](https://www.itjobs.pt/oferta/454423/senior-qa-consultant)
+
+
+- **QA Tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/455665/qa-tester)
 
 
 - **QA Engineer** @_Adentis_ [here](https://www.itjobs.pt/oferta/454241/qa-engineer)
@@ -179,6 +182,9 @@ Jobs
 
 
 - **Senior Test Engineer** @_Axians_ [here](https://www.itjobs.pt/oferta/454644/senior-test-engineer)
+
+
+- **QA Tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/455665/qa-tester)
 
 
 - **QA Engineer** @_Adentis_ [here](https://www.itjobs.pt/oferta/454241/qa-engineer)
@@ -258,6 +264,9 @@ Jobs
 
 
 - **Hardware Tester** @_Withus_ [here](https://www.itjobs.pt/oferta/455370/hardware-tester)
+
+
+- **QA Tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/455665/qa-tester)
 
 
 - **QA Engineer** @_Adentis_ [here](https://www.itjobs.pt/oferta/454241/qa-engineer)
