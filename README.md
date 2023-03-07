@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Mon, 06 Mar 2023 01:44_
+> _Last updated: Tue, 07 Mar 2023 01:49_
 
 ### ItJobs
 
@@ -77,14 +77,14 @@ Jobs
 - **QA Engineer** @_Adentis_ [here](https://www.itjobs.pt/oferta/454241/qa-engineer)
 
 
-- **QA Analyst** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/453411/qa-analyst)
-
-
 - **QA Tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/455665/qa-tester)
 
 #### Lisboa
 
 - **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/454011/quality-assurance-developer)
+
+
+- **Automation Tester** @_Inoweiser_ [here](https://www.itjobs.pt/oferta/455555/automation-tester)
 
 
 - **Senior Quality Assurance Engineer** @_Red IT_ [here](https://www.itjobs.pt/oferta/455416/senior-quality-assurance-engineer)
@@ -118,12 +118,6 @@ Jobs
 
 
 - **QA Engineer** @_Adentis_ [here](https://www.itjobs.pt/oferta/454241/qa-engineer)
-
-
-- **QA Engineer – IoT Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/454753/qa-engineer-iot-tester)
-
-
-- **QA Automation Tester** @_Neotalent_ [here](https://www.itjobs.pt/oferta/453286/qa-automation-tester)
 
 
 - **Quality Assurance & Clinical Manager** @_Beats Medical_ [here](https://www.itjobs.pt/oferta/454488/quality-assurance-clinical-manager)
@@ -179,9 +173,6 @@ Jobs
 
 
 - **QA Engineer** @_Adentis_ [here](https://www.itjobs.pt/oferta/454241/qa-engineer)
-
-
-- **QA Automation Tester** @_Neotalent_ [here](https://www.itjobs.pt/oferta/453286/qa-automation-tester)
 
 
 - **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/454021/quality-assurance-developer)
@@ -264,9 +255,6 @@ Jobs
 
 
 - **Quality Assurance & Clinical Manager** @_Beats Medical_ [here](https://www.itjobs.pt/oferta/454488/quality-assurance-clinical-manager)
-
-
-- **Software Test Engineer** @_Contentserv Technologies_ [here](https://www.itjobs.pt/oferta/453645/software-test-engineer)
 
 
 - **Software Quality Engineer** @_WIT - Software_ [here](https://www.itjobs.pt/oferta/455061/software-quality-engineer)
