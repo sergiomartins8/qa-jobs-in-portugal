@@ -36,14 +36,11 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Thu, 09 Mar 2023 01:47_
+> _Last updated: Fri, 10 Mar 2023 01:47_
 
 ### ItJobs
 
 #### Aveiro
-
-- **QA Engineer** @_Adentis_ [here](https://www.itjobs.pt/oferta/454241/qa-engineer)
-
 
 - **Quality Assurance Specialist** @_Dellent_ [here](https://www.itjobs.pt/oferta/456114/quality-assurance-specialist)
 
@@ -70,15 +67,9 @@ Jobs
 
 #### Braga
 
-- **QA Engineer** @_Adentis_ [here](https://www.itjobs.pt/oferta/454241/qa-engineer)
-
-
 - **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/454735/qa-engineer)
 
 #### Coimbra
-
-- **QA Engineer** @_Adentis_ [here](https://www.itjobs.pt/oferta/454241/qa-engineer)
-
 
 - **QA Tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/455665/qa-tester)
 
@@ -115,9 +106,6 @@ Jobs
 
 
 - **QA Tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/455665/qa-tester)
-
-
-- **QA Engineer** @_Adentis_ [here](https://www.itjobs.pt/oferta/454241/qa-engineer)
 
 
 - **QA Engineer – IoT Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/454753/qa-engineer-iot-tester)
@@ -173,9 +161,6 @@ Jobs
 
 
 - **QA Tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/455665/qa-tester)
-
-
-- **QA Engineer** @_Adentis_ [here](https://www.itjobs.pt/oferta/454241/qa-engineer)
 
 
 - **Automation Tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/454394/automation-tester)
