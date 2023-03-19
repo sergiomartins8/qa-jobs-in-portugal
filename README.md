@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sat, 18 Mar 2023 01:28_
+> _Last updated: Sun, 19 Mar 2023 01:45_
 
 ### ItJobs
 
@@ -114,6 +114,9 @@ Jobs
 - **QA Automation Engineer** @_Adentis_ [here](https://www.itjobs.pt/oferta/455843/qa-automation-engineer)
 
 
+- **Senior QA Consultant** @_Dellent_ [here](https://www.itjobs.pt/oferta/454423/senior-qa-consultant)
+
+
 - **QA Tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/455665/qa-tester)
 
 
@@ -121,9 +124,6 @@ Jobs
 
 
 - **QA Automation Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/456651/qa-automation-engineer)
-
-
-- **Quality Assurance & Clinical Manager** @_Beats Medical_ [here](https://www.itjobs.pt/oferta/454488/quality-assurance-clinical-manager)
 
 
 - **Manual tester** @_KCS IT_ [here](https://www.itjobs.pt/oferta/456201/manual-tester)
@@ -261,9 +261,6 @@ Jobs
 
 
 - **Software Test Engineer** @_Contentserv Technologies_ [here](https://www.itjobs.pt/oferta/456055/software-test-engineer)
-
-
-- **Quality Assurance & Clinical Manager** @_Beats Medical_ [here](https://www.itjobs.pt/oferta/454488/quality-assurance-clinical-manager)
 
 
 - **Manual tester** @_KCS IT_ [here](https://www.itjobs.pt/oferta/456201/manual-tester)
