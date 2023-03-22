@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Tue, 21 Mar 2023 01:24_
+> _Last updated: Wed, 22 Mar 2023 01:25_
 
 ### ItJobs
 
@@ -108,10 +108,13 @@ Jobs
 - **QA Tester** @_Red IT_ [here](https://www.itjobs.pt/oferta/455799/qa-tester)
 
 
+- **QA Engineer – IoT Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/457175/qa-engineer-iot-tester)
+
+
 - **QA Engineer** @_GuestCentric Systems_ [here](https://www.itjobs.pt/oferta/456789/qa-engineer)
 
 
-- **QA Automation Engineer** @_Adentis_ [here](https://www.itjobs.pt/oferta/455843/qa-automation-engineer)
+- **Quality Assurance - Júnior** @_Winprovit - Soluções Inteligentes_ [here](https://www.itjobs.pt/oferta/457083/quality-assurance-junior)
 
 
 - **QA Tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/455665/qa-tester)
@@ -179,6 +182,9 @@ Jobs
 
 
 - **Lead Manual QA** @_Aubay_ [here](https://www.itjobs.pt/oferta/456893/lead-manual-qa)
+
+
+- **QAE** @_KCS IT_ [here](https://www.itjobs.pt/oferta/456865/qae)
 
 
 - **QA Automation Specialist** @_Devoteam_ [here](https://www.itjobs.pt/oferta/455925/qa-automation-specialist)
@@ -254,7 +260,13 @@ Jobs
 - **Senior QA Automation Consultant** @_Dellent_ [here](https://www.itjobs.pt/oferta/454883/senior-qa-automation-consultant)
 
 
+- **Quality Assurance Engineer (SoapUI/Fiddler)** @_Dellent_ [here](https://www.itjobs.pt/oferta/456940/quality-assurance-engineer-soapui-fiddler)
+
+
 - **QA Engineer** @_GuestCentric Systems_ [here](https://www.itjobs.pt/oferta/456789/qa-engineer)
+
+
+- **QAE** @_KCS IT_ [here](https://www.itjobs.pt/oferta/456865/qae)
 
 
 - **QA Automation Specialist** @_Devoteam_ [here](https://www.itjobs.pt/oferta/455925/qa-automation-specialist)
@@ -267,9 +279,6 @@ Jobs
 
 
 - **QA Automation Specialist** @_Devoteam_ [here](https://www.itjobs.pt/oferta/456132/qa-automation-specialist)
-
-
-- **Manual tester** @_KCS IT_ [here](https://www.itjobs.pt/oferta/456201/manual-tester)
 
 
 - **Software Quality Engineer** @_WIT - Software_ [here](https://www.itjobs.pt/oferta/455061/software-quality-engineer)
