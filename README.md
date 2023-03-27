@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sun, 26 Mar 2023 01:37_
+> _Last updated: Mon, 27 Mar 2023 01:24_
 
 ### ItJobs
 
@@ -166,6 +166,9 @@ Jobs
 - **Senior QA Automation Consultant** @_Dellent_ [here](https://www.itjobs.pt/oferta/454883/senior-qa-automation-consultant)
 
 
+- **Automation Tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/457274/automation-tester)
+
+
 - **Lead Manual QA** @_Aubay_ [here](https://www.itjobs.pt/oferta/456893/lead-manual-qa)
 
 
@@ -179,9 +182,6 @@ Jobs
 
 
 - **QA Automation Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/456651/qa-automation-engineer)
-
-
-- **Senior QA Automation** @_Dellent_ [here](https://www.itjobs.pt/oferta/457181/senior-qa-automation)
 
 
 - **QA Automation Specialist** @_Devoteam_ [here](https://www.itjobs.pt/oferta/456132/qa-automation-specialist)
@@ -254,6 +254,9 @@ Jobs
 - **QA Engineer** @_GuestCentric Systems_ [here](https://www.itjobs.pt/oferta/456789/qa-engineer)
 
 
+- **Automation Tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/457274/automation-tester)
+
+
 - **QAE** @_KCS IT_ [here](https://www.itjobs.pt/oferta/456865/qae)
 
 
@@ -272,7 +275,7 @@ Jobs
 - **QA Automation Specialist** @_Devoteam_ [here](https://www.itjobs.pt/oferta/456132/qa-automation-specialist)
 
 
-- **Software Quality Engineer** @_WIT - Software_ [here](https://www.itjobs.pt/oferta/455061/software-quality-engineer)
+- **Software Tester** @_mgm technology partners_ [here](https://www.itjobs.pt/oferta/456545/software-tester)
 
 
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/455729/automation-tester-hybrid)
