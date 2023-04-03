@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sun, 02 Apr 2023 01:27_
+> _Last updated: Mon, 03 Apr 2023 01:21_
 
 ### ItJobs
 
@@ -73,9 +73,6 @@ Jobs
 
 
 - **Mid Test Engineer** @_Devoteam_ [here](https://www.itjobs.pt/oferta/457512/mid-test-engineer)
-
-
-- **Quality Assurance Automation** @_Devoteam_ [here](https://www.itjobs.pt/oferta/455182/quality-assurance-automation)
 
 #### Braga
 
@@ -123,6 +120,9 @@ Jobs
 - **QA Automation Specialist** @_Devoteam_ [here](https://www.itjobs.pt/oferta/456476/qa-automation-specialist)
 
 
+- **QA Automation Engineer** @_Neotalent_ [here](https://www.itjobs.pt/oferta/457841/qa-automation-engineer)
+
+
 - **QA Automation Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/456651/qa-automation-engineer)
 
 
@@ -157,9 +157,6 @@ Jobs
 
 
 - **Mid Test Engineer** @_Devoteam_ [here](https://www.itjobs.pt/oferta/457512/mid-test-engineer)
-
-
-- **Quality Assurance Automation** @_Devoteam_ [here](https://www.itjobs.pt/oferta/455182/quality-assurance-automation)
 
 #### Porto
 
@@ -231,9 +228,6 @@ Jobs
 
 - **Mid Test Engineer** @_Devoteam_ [here](https://www.itjobs.pt/oferta/457512/mid-test-engineer)
 
-
-- **Quality Assurance Automation** @_Devoteam_ [here](https://www.itjobs.pt/oferta/455182/quality-assurance-automation)
-
 #### Remote
 
 - **Test Automation Engineer** @_team.it_ [here](https://www.itjobs.pt/oferta/456890/test-automation-engineer)
@@ -246,9 +240,6 @@ Jobs
 
 
 - **Test Automation Engineer** @_YellowIpe_ [here](https://www.itjobs.pt/oferta/455689/test-automation-engineer)
-
-
-- **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/457026/qae)
 
 
 - **Quality Analyst** @_YellowIpe_ [here](https://www.itjobs.pt/oferta/456713/quality-analyst)
