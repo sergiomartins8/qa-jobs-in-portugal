@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Mon, 03 Apr 2023 01:21_
+> _Last updated: Tue, 04 Apr 2023 01:27_
 
 ### ItJobs
 
@@ -78,6 +78,9 @@ Jobs
 
 - **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/457804/qa-engineer)
 
+
+- **Software QA Engineer** @_Xpand IT_ [here](https://www.itjobs.pt/oferta/458036/software-qa-engineer)
+
 #### Coimbra
 
 - **QA Automation Engineer** @_Present Technologies_ [here](https://www.itjobs.pt/oferta/456733/qa-automation-engineer)
@@ -112,6 +115,9 @@ Jobs
 
 
 - **Quality Assurance - Júnior** @_Winprovit - Soluções Inteligentes_ [here](https://www.itjobs.pt/oferta/457083/quality-assurance-junior)
+
+
+- **Software QA Engineer** @_Xpand IT_ [here](https://www.itjobs.pt/oferta/458036/software-qa-engineer)
 
 
 - **QA Automation Specialist** @_Devoteam_ [here](https://www.itjobs.pt/oferta/455925/qa-automation-specialist)
@@ -199,9 +205,6 @@ Jobs
 - **QA Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/455660/qa-automation-tester)
 
 
-- **DevOps Quality Assurance Engineer** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/455615/devops-quality-assurance-engineer)
-
-
 - **Software Tester** @_mgm technology partners_ [here](https://www.itjobs.pt/oferta/456545/software-tester)
 
 
@@ -245,10 +248,10 @@ Jobs
 - **Quality Analyst** @_YellowIpe_ [here](https://www.itjobs.pt/oferta/456713/quality-analyst)
 
 
+- **Senior QA Automation Engineer** @_Cocus_ [here](https://www.itjobs.pt/oferta/457197/senior-qa-automation-engineer)
+
+
 - **Quality Assurance Engineer (SoapUI/Fiddler)** @_Dellent_ [here](https://www.itjobs.pt/oferta/456940/quality-assurance-engineer-soapui-fiddler)
-
-
-- **QA Engineer** @_GuestCentric Systems_ [here](https://www.itjobs.pt/oferta/456789/qa-engineer)
 
 
 - **Automation Tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/457274/automation-tester)
