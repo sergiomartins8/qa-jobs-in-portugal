@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Wed, 05 Apr 2023 01:11_
+> _Last updated: Thu, 06 Apr 2023 01:21_
 
 ### ItJobs
 
@@ -84,9 +84,6 @@ Jobs
 
 
 - **Front-End Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/456374/front-end-test-automation-engineer)
-
-
-- **QA Tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/455665/qa-tester)
 
 #### Lisboa
 
@@ -188,6 +185,9 @@ Jobs
 
 
 - **QA Automation Specialist** @_Devoteam_ [here](https://www.itjobs.pt/oferta/456132/qa-automation-specialist)
+
+
+- **Mid/Senior QAE Automation – JavaScript** @_Aubay_ [here](https://www.itjobs.pt/oferta/457763/mid-senior-qae-automation-javascript)
 
 
 - **QA Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/455660/qa-automation-tester)
