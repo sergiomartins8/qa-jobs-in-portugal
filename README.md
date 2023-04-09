@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sat, 08 Apr 2023 01:19_
+> _Last updated: Sun, 09 Apr 2023 01:25_
 
 ### ItJobs
 
@@ -87,9 +87,6 @@ Jobs
 
 #### Lisboa
 
-- **Automation Tester** @_Inoweiser_ [here](https://www.itjobs.pt/oferta/455555/automation-tester)
-
-
 - **Quality Assurance (QA) Manager** @_Experis_ [here](https://www.itjobs.pt/oferta/457917/quality-assurance-qa-manager)
 
 
@@ -97,6 +94,9 @@ Jobs
 
 
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/457026/qae)
+
+
+- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/457804/qa-engineer)
 
 
 - **Quality Assurance Engineer (SoapUI/Fiddler)** @_Dellent_ [here](https://www.itjobs.pt/oferta/456940/quality-assurance-engineer-soapui-fiddler)
