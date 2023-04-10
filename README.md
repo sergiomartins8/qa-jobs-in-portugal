@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sun, 09 Apr 2023 01:25_
+> _Last updated: Mon, 10 Apr 2023 01:21_
 
 ### ItJobs
 
@@ -252,9 +252,6 @@ Jobs
 
 
 - **QA Automation Specialist** @_Devoteam_ [here](https://www.itjobs.pt/oferta/456476/qa-automation-specialist)
-
-
-- **Software Test Engineer** @_Contentserv Technologies_ [here](https://www.itjobs.pt/oferta/456055/software-test-engineer)
 
 
 - **Quality Assurance & Clinical Manager** @_Beats Medical_ [here](https://www.itjobs.pt/oferta/456976/quality-assurance-clinical-manager)
