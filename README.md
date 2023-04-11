@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Mon, 10 Apr 2023 01:21_
+> _Last updated: Tue, 11 Apr 2023 01:22_
 
 ### ItJobs
 
@@ -46,9 +46,6 @@ Jobs
 
 
 - **QA Automation Specialist** @_Devoteam_ [here](https://www.itjobs.pt/oferta/456476/qa-automation-specialist)
-
-
-- **Quality Assurance Specialist** @_Dellent_ [here](https://www.itjobs.pt/oferta/456114/quality-assurance-specialist)
 
 
 - **QA Automation Specialist** @_Devoteam_ [here](https://www.itjobs.pt/oferta/456132/qa-automation-specialist)
@@ -96,10 +93,13 @@ Jobs
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/457026/qae)
 
 
-- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/457804/qa-engineer)
+- **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/457645/quality-assurance-developer)
 
 
 - **Quality Assurance Engineer (SoapUI/Fiddler)** @_Dellent_ [here](https://www.itjobs.pt/oferta/456940/quality-assurance-engineer-soapui-fiddler)
+
+
+- **Automation Tester** @_Inoweiser_ [here](https://www.itjobs.pt/oferta/458477/automation-tester)
 
 
 - **QA Engineer** @_GuestCentric Systems_ [here](https://www.itjobs.pt/oferta/456789/qa-engineer)
@@ -144,12 +144,6 @@ Jobs
 - **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/456982/quality-assurance-tester)
 
 
-- **QA Engineer** @_Devoteam_ [here](https://www.itjobs.pt/oferta/455648/qa-engineer)
-
-
-- **QA Automation Tester** @_Neotalent_ [here](https://www.itjobs.pt/oferta/456213/qa-automation-tester)
-
-
 - **Mid Test Engineer** @_Devoteam_ [here](https://www.itjobs.pt/oferta/457512/mid-test-engineer)
 
 #### Porto
@@ -157,10 +151,10 @@ Jobs
 - **Test Automation Engineer** @_Diconium Digital Solutions_ [here](https://www.itjobs.pt/oferta/457620/test-automation-engineer)
 
 
-- **Test Engineer (Backend)** @_Farfetch_ [here](https://www.itjobs.pt/oferta/457256/test-engineer-backend)
-
-
 - **QA Automation Engineer** @_Present Technologies_ [here](https://www.itjobs.pt/oferta/456733/qa-automation-engineer)
+
+
+- **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/457645/quality-assurance-developer)
 
 
 - **Automation Tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/457274/automation-tester)
@@ -202,10 +196,10 @@ Jobs
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/455729/automation-tester-hybrid)
 
 
+- **Junior Test Engineer (Backend)** @_Farfetch_ [here](https://www.itjobs.pt/oferta/458458/junior-test-engineer-backend-ff-com-platform)
+
+
 - **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/456982/quality-assurance-tester)
-
-
-- **QA Automation Tester** @_Neotalent_ [here](https://www.itjobs.pt/oferta/456213/qa-automation-tester)
 
 
 - **Quality Assurance Engineer** @_KCS IT_ [here](https://www.itjobs.pt/oferta/456856/quality-assurance-engineer)
@@ -224,13 +218,7 @@ Jobs
 - **Test Automation Engineer** @_team.it_ [here](https://www.itjobs.pt/oferta/456890/test-automation-engineer)
 
 
-- **Quality Assurance Specialist** @_Dellent_ [here](https://www.itjobs.pt/oferta/456114/quality-assurance-specialist)
-
-
 - **Quality Assurance Engineer** @_Stefanini Portugal_ [here](https://www.itjobs.pt/oferta/456745/quality-assurance-engineer)
-
-
-- **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/457026/qae)
 
 
 - **Quality Analyst** @_YellowIpe_ [here](https://www.itjobs.pt/oferta/456713/quality-analyst)
@@ -243,6 +231,9 @@ Jobs
 
 
 - **Automation Tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/457274/automation-tester)
+
+
+- **Test Automation Engineer** @_YellowIpe_ [here](https://www.itjobs.pt/oferta/458425/test-automation-engineer)
 
 
 - **QA Automation Specialist** @_Devoteam_ [here](https://www.itjobs.pt/oferta/455925/qa-automation-specialist)
