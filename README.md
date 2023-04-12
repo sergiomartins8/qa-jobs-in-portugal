@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Tue, 11 Apr 2023 01:22_
+> _Last updated: Wed, 12 Apr 2023 01:23_
 
 ### ItJobs
 
@@ -49,9 +49,6 @@ Jobs
 
 
 - **QA Automation Specialist** @_Devoteam_ [here](https://www.itjobs.pt/oferta/456132/qa-automation-specialist)
-
-
-- **Hardware Tester** @_Withus_ [here](https://www.itjobs.pt/oferta/456685/hardware-tester)
 
 
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/457026/qae)
@@ -88,9 +85,6 @@ Jobs
 
 
 - **Test Automation Engineer** @_Diconium Digital Solutions_ [here](https://www.itjobs.pt/oferta/457620/test-automation-engineer)
-
-
-- **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/457026/qae)
 
 
 - **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/457645/quality-assurance-developer)
@@ -160,9 +154,6 @@ Jobs
 - **Automation Tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/457274/automation-tester)
 
 
-- **Lead Manual QA** @_Aubay_ [here](https://www.itjobs.pt/oferta/456893/lead-manual-qa)
-
-
 - **QAE** @_KCS IT_ [here](https://www.itjobs.pt/oferta/456865/qae)
 
 
@@ -225,6 +216,9 @@ Jobs
 
 
 - **Senior QA Automation Engineer** @_Cocus_ [here](https://www.itjobs.pt/oferta/457197/senior-qa-automation-engineer)
+
+
+- **Software Test Engineer** @_Contentserv Technologies_ [here](https://www.itjobs.pt/oferta/458591/software-test-engineer)
 
 
 - **Quality Assurance Engineer (SoapUI/Fiddler)** @_Dellent_ [here](https://www.itjobs.pt/oferta/456940/quality-assurance-engineer-soapui-fiddler)
