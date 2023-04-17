@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sun, 16 Apr 2023 01:28_
+> _Last updated: Mon, 17 Apr 2023 01:24_
 
 ### ItJobs
 
@@ -99,6 +99,9 @@ Jobs
 - **QA Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/458624/qa-automation-tester)
 
 
+- **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/457026/qae)
+
+
 - **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/457645/quality-assurance-developer)
 
 
@@ -138,10 +141,10 @@ Jobs
 - **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/457632/quality-assurance-developer)
 
 
+- **QA Funcional** @_team.it_ [here](https://www.itjobs.pt/oferta/458823/team-qa-funcional)
+
+
 - **Java Developer/Test Automation** @_Winprovit - Soluções Inteligentes_ [here](https://www.itjobs.pt/oferta/457080/java-developer-test-automation)
-
-
-- **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/455729/automation-tester-hybrid)
 
 
 - **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/456982/quality-assurance-tester)
@@ -191,9 +194,6 @@ Jobs
 
 
 - **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/457632/quality-assurance-developer)
-
-
-- **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/455729/automation-tester-hybrid)
 
 
 - **Junior Test Engineer (Backend)** @_Farfetch_ [here](https://www.itjobs.pt/oferta/458458/junior-test-engineer-backend-ff-com-platform)
@@ -249,6 +249,9 @@ Jobs
 
 
 - **Automation Backend Testing Engineer (QA)** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/458730/automation-backend-testing-engineer-qa)
+
+
+- **QA Funcional** @_team.it_ [here](https://www.itjobs.pt/oferta/458823/team-qa-funcional)
 
 
 - **Automation Tester** @_KCS IT_ [here](https://www.itjobs.pt/oferta/458805/automation-tester)
