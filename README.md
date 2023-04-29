@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Fri, 28 Apr 2023 01:25_
+> _Last updated: Sat, 29 Apr 2023 01:23_
 
 ### ItJobs
 
@@ -136,10 +136,25 @@ Jobs
 - **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/458754/test-automation-engineer)
 
 
+- **Quality Assurance Engineer** @_SmartMed BV_ [here](https://www.itjobs.pt/oferta/459242/quality-assurance-engineer)
+
+
+- **QA Automation Engineer** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/458649/qa-automation-engineer)
+
+
 - **Test Automation Engineer** @_Diconium Digital Solutions_ [here](https://www.itjobs.pt/oferta/457620/test-automation-engineer)
 
 
+- **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/458382/automation-tester)
+
+
 - **Software Tester** @_mgm technology partners_ [here](https://www.itjobs.pt/oferta/458931/software-tester)
+
+
+- **Junior Test Engineer (Backend)** @_Farfetch_ [here](https://www.itjobs.pt/oferta/458458/junior-test-engineer-backend-ff-com-platform)
+
+
+- **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/456982/quality-assurance-tester)
 
 
 - **QA Automation Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/459051/qa-automation-engineer)
@@ -149,27 +164,6 @@ Jobs
 
 
 - **QA Automation Engineer** @_Dellent_ [here](https://www.itjobs.pt/oferta/459719/qa-automation-engineer)
-
-
-- **Automation Tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/457274/automation-tester)
-
-
-- **Quality Assurance Engineer** @_SmartMed BV_ [here](https://www.itjobs.pt/oferta/459242/quality-assurance-engineer)
-
-
-- **QA Automation Engineer** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/458649/qa-automation-engineer)
-
-
-- **Mid/Senior QAE Automation – JavaScript** @_Aubay_ [here](https://www.itjobs.pt/oferta/457763/mid-senior-qae-automation-javascript)
-
-
-- **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/458382/automation-tester)
-
-
-- **Junior Test Engineer (Backend)** @_Farfetch_ [here](https://www.itjobs.pt/oferta/458458/junior-test-engineer-backend-ff-com-platform)
-
-
-- **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/456982/quality-assurance-tester)
 
 
 - **Mid Test Engineer** @_Devoteam_ [here](https://www.itjobs.pt/oferta/457512/mid-test-engineer)
