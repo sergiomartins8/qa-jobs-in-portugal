@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sun, 30 Apr 2023 01:30_
+> _Last updated: Mon, 01 May 2023 01:27_
 
 ### ItJobs
 
@@ -82,9 +82,6 @@ Jobs
 #### Lisboa
 
 - **Quality Assurance (QA) Manager** @_Experis_ [here](https://www.itjobs.pt/oferta/457917/quality-assurance-qa-manager)
-
-
-- **Test Automation Engineer** @_Diconium Digital Solutions_ [here](https://www.itjobs.pt/oferta/457620/test-automation-engineer)
 
 
 - **QA Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/458624/qa-automation-tester)
@@ -139,9 +136,6 @@ Jobs
 - **QA Automation Engineer** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/458649/qa-automation-engineer)
 
 
-- **Test Automation Engineer** @_Diconium Digital Solutions_ [here](https://www.itjobs.pt/oferta/457620/test-automation-engineer)
-
-
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/458382/automation-tester)
 
 
@@ -155,6 +149,9 @@ Jobs
 
 
 - **QA Automation Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/459051/qa-automation-engineer)
+
+
+- **Lead Manual QA** @_Aubay_ [here](https://www.itjobs.pt/oferta/459763/lead-manual-qa)
 
 
 - **Senior QA Automation Consultant** @_Dellent_ [here](https://www.itjobs.pt/oferta/458011/senior-qa-automation-consultant)
