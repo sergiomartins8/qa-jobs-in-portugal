@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Wed, 03 May 2023 01:25_
+> _Last updated: Thu, 04 May 2023 01:22_
 
 ### ItJobs
 
@@ -61,9 +61,6 @@ Jobs
 
 
 - **Hardware Tester** @_Withus_ [here](https://www.itjobs.pt/oferta/458576/hardware-tester)
-
-
-- **Mid Test Engineer** @_Devoteam_ [here](https://www.itjobs.pt/oferta/457512/mid-test-engineer)
 
 #### Braga
 
@@ -90,6 +87,9 @@ Jobs
 - **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/457645/quality-assurance-developer)
 
 
+- **Test Automation Engineer** @_Diconium Digital Solutions_ [here](https://www.itjobs.pt/oferta/459888/test-automation-engineer)
+
+
 - **Automation Tester** @_Inoweiser_ [here](https://www.itjobs.pt/oferta/458477/automation-tester)
 
 
@@ -97,6 +97,9 @@ Jobs
 
 
 - **Software QA Engineer** @_Xpand IT_ [here](https://www.itjobs.pt/oferta/458036/software-qa-engineer)
+
+
+- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/460023/qa-engineer)
 
 
 - **QA Automation Engineer** @_Neotalent_ [here](https://www.itjobs.pt/oferta/457841/qa-automation-engineer)
@@ -122,9 +125,6 @@ Jobs
 
 - **QA Engineer – IoT Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/459475/qa-engineer-iot-tester)
 
-
-- **Mid Test Engineer** @_Devoteam_ [here](https://www.itjobs.pt/oferta/457512/mid-test-engineer)
-
 #### Porto
 
 - **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/458754/test-automation-engineer)
@@ -134,6 +134,9 @@ Jobs
 
 
 - **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/457645/quality-assurance-developer)
+
+
+- **Test Automation Engineer** @_Diconium Digital Solutions_ [here](https://www.itjobs.pt/oferta/459888/test-automation-engineer)
 
 
 - **Software Tester** @_mgm technology partners_ [here](https://www.itjobs.pt/oferta/458931/software-tester)
@@ -161,9 +164,6 @@ Jobs
 
 
 - **Lead Manual QA** @_Aubay_ [here](https://www.itjobs.pt/oferta/459763/lead-manual-qa)
-
-
-- **Mid Test Engineer** @_Devoteam_ [here](https://www.itjobs.pt/oferta/457512/mid-test-engineer)
 
 #### Remote
 
@@ -197,6 +197,9 @@ Jobs
 - **Quality Assurance Engineer** @_SmartMed BV_ [here](https://www.itjobs.pt/oferta/459242/quality-assurance-engineer)
 
 
+- **QA Engineer** @_Devoteam_ [here](https://www.itjobs.pt/oferta/458523/qa-engineer)
+
+
 - **QA Automation Engineer** @_Cocus_ [here](https://www.itjobs.pt/oferta/459165/qa-automation-engineer)
 
 
@@ -219,9 +222,6 @@ Jobs
 
 
 - **Senior Quality Assurance Engineer** @_Cocus_ [here](https://www.itjobs.pt/oferta/459640/senior-quality-assurance-engineer)
-
-
-- **Mid Test Engineer** @_Devoteam_ [here](https://www.itjobs.pt/oferta/457512/mid-test-engineer)
 
 
 - **Software Quality Engineer** @_WIT - Software_ [here](https://www.itjobs.pt/oferta/458998/software-quality-engineer)
