@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Thu, 04 May 2023 01:22_
+> _Last updated: Fri, 05 May 2023 01:17_
 
 ### ItJobs
 
@@ -90,6 +90,9 @@ Jobs
 - **Test Automation Engineer** @_Diconium Digital Solutions_ [here](https://www.itjobs.pt/oferta/459888/test-automation-engineer)
 
 
+- **Senior Performance Test Analyst** @_INSCALE Portugal_ [here](https://www.itjobs.pt/oferta/460254/senior-performance-test-analyst)
+
+
 - **Automation Tester** @_Inoweiser_ [here](https://www.itjobs.pt/oferta/458477/automation-tester)
 
 
@@ -97,9 +100,6 @@ Jobs
 
 
 - **Software QA Engineer** @_Xpand IT_ [here](https://www.itjobs.pt/oferta/458036/software-qa-engineer)
-
-
-- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/460023/qa-engineer)
 
 
 - **QA Automation Engineer** @_Neotalent_ [here](https://www.itjobs.pt/oferta/457841/qa-automation-engineer)
@@ -139,6 +139,9 @@ Jobs
 - **Test Automation Engineer** @_Diconium Digital Solutions_ [here](https://www.itjobs.pt/oferta/459888/test-automation-engineer)
 
 
+- **QAE Automation Mobile - Android** @_Aubay_ [here](https://www.itjobs.pt/oferta/459772/qae-automation-mobile-android)
+
+
 - **Software Tester** @_mgm technology partners_ [here](https://www.itjobs.pt/oferta/458931/software-tester)
 
 
@@ -170,6 +173,9 @@ Jobs
 - **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/458754/test-automation-engineer)
 
 
+- **Test Engineer** @_Rumos Consulting_ [here](https://www.itjobs.pt/oferta/459978/test-engineer)
+
+
 - **QA Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/458521/qa-automation-tester)
 
 
@@ -195,9 +201,6 @@ Jobs
 
 
 - **Quality Assurance Engineer** @_SmartMed BV_ [here](https://www.itjobs.pt/oferta/459242/quality-assurance-engineer)
-
-
-- **QA Engineer** @_Devoteam_ [here](https://www.itjobs.pt/oferta/458523/qa-engineer)
 
 
 - **QA Automation Engineer** @_Cocus_ [here](https://www.itjobs.pt/oferta/459165/qa-automation-engineer)
