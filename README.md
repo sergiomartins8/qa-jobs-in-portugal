@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Mon, 08 May 2023 01:22_
+> _Last updated: Tue, 09 May 2023 01:25_
 
 ### ItJobs
 
@@ -68,6 +68,9 @@ Jobs
 #### Braga
 
 - **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/460023/qa-engineer)
+
+
+- **Software QA Engineer** @_Xpand IT_ [here](https://www.itjobs.pt/oferta/460404/software-qa-engineer)
 
 #### Coimbra
 
@@ -102,9 +105,6 @@ Jobs
 - **QA Automation Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/459051/qa-automation-engineer)
 
 
-- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/460023/qa-engineer)
-
-
 - **Senior QA** @_KCS IT_ [here](https://www.itjobs.pt/oferta/459135/senior-qa)
 
 
@@ -121,6 +121,9 @@ Jobs
 
 
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/458382/automation-tester)
+
+
+- **Software QA Engineer** @_Xpand IT_ [here](https://www.itjobs.pt/oferta/460404/software-qa-engineer)
 
 
 - **QA Engineer – IoT Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/459475/qa-engineer-iot-tester)
@@ -155,6 +158,9 @@ Jobs
 
 
 - **QA Automation Engineer** @_Dellent_ [here](https://www.itjobs.pt/oferta/459719/qa-automation-engineer)
+
+
+- **QA Automation Engineer** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/460308/qa-automation-engineer)
 
 
 - **Quality Assurance Engineer** @_SmartMed BV_ [here](https://www.itjobs.pt/oferta/459242/quality-assurance-engineer)
@@ -218,9 +224,6 @@ Jobs
 - **Senior QA Automation Engineer** @_Boost IT_ [here](https://www.itjobs.pt/oferta/459435/senior-qa-automation-engineer)
 
 
-- **QA Funcional** @_team.it_ [here](https://www.itjobs.pt/oferta/458823/team-qa-funcional)
-
-
 - **Quality Assurance Specialist** @_Dellent_ [here](https://www.itjobs.pt/oferta/459379/quality-assurance-specialist)
 
 
@@ -228,6 +231,9 @@ Jobs
 
 
 - **Senior Quality Assurance Engineer** @_Cocus_ [here](https://www.itjobs.pt/oferta/459640/senior-quality-assurance-engineer)
+
+
+- **Software QA Engineer** @_Xpand IT_ [here](https://www.itjobs.pt/oferta/460404/software-qa-engineer)
 
 
 - **Software Quality Engineer** @_WIT - Software_ [here](https://www.itjobs.pt/oferta/458998/software-quality-engineer)
