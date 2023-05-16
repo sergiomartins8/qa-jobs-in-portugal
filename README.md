@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Mon, 15 May 2023 01:26_
+> _Last updated: Tue, 16 May 2023 01:25_
 
 ### ItJobs
 
@@ -65,9 +65,6 @@ Jobs
 
 - **Quality Assurance Specialist** @_Dellent_ [here](https://www.itjobs.pt/oferta/459379/quality-assurance-specialist)
 
-
-- **Hardware Tester** @_Withus_ [here](https://www.itjobs.pt/oferta/458576/hardware-tester)
-
 #### Braga
 
 - **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/460023/qa-engineer)
@@ -83,6 +80,9 @@ Jobs
 - **QA Automation Engineer** @_Dellent_ [here](https://www.itjobs.pt/oferta/459719/qa-automation-engineer)
 
 #### Lisboa
+
+- **QA Automation Engineer** @_Neotalent_ [here](https://www.itjobs.pt/oferta/460995/qa-automation-engineer)
+
 
 - **QA Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/458624/qa-automation-tester)
 
@@ -130,9 +130,6 @@ Jobs
 
 
 - **Software QA Engineer** @_Xpand IT_ [here](https://www.itjobs.pt/oferta/460404/software-qa-engineer)
-
-
-- **QA Engineer – IoT Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/459475/qa-engineer-iot-tester)
 
 #### Porto
 
@@ -209,6 +206,9 @@ Jobs
 - **Quality Assurance Engineer** @_SmartMed BV_ [here](https://www.itjobs.pt/oferta/459242/quality-assurance-engineer)
 
 
+- **Software Test Engineer** @_Contentserv Technologies_ [here](https://www.itjobs.pt/oferta/461513/software-test-engineer)
+
+
 - **QA Automation Engineer** @_Cocus_ [here](https://www.itjobs.pt/oferta/459165/qa-automation-engineer)
 
 
@@ -222,9 +222,6 @@ Jobs
 
 
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/458382/automation-tester)
-
-
-- **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/459901/qae)
 
 
 - **Quality Assurance Specialist** @_Dellent_ [here](https://www.itjobs.pt/oferta/459379/quality-assurance-specialist)
