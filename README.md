@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sat, 20 May 2023 01:22_
+> _Last updated: Sun, 21 May 2023 01:37_
 
 ### ItJobs
 
@@ -145,9 +145,6 @@ Jobs
 - **QAE Automation Mobile - Android** @_Aubay_ [here](https://www.itjobs.pt/oferta/459772/qae-automation-mobile-android)
 
 
-- **Software Tester** @_mgm technology partners_ [here](https://www.itjobs.pt/oferta/458931/software-tester)
-
-
 - **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/460099/quality-assurance-tester)
 
 
@@ -231,7 +228,4 @@ Jobs
 
 
 - **Software QA Engineer** @_Xpand IT_ [here](https://www.itjobs.pt/oferta/460404/software-qa-engineer)
-
-
-- **Software Quality Engineer** @_WIT - Software_ [here](https://www.itjobs.pt/oferta/458998/software-quality-engineer)
 
