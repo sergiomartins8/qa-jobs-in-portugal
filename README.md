@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Fri, 26 May 2023 01:25_
+> _Last updated: Sat, 27 May 2023 01:25_
 
 ### ItJobs
 
@@ -198,6 +198,9 @@ Jobs
 
 
 - **Test Engineer** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/460772/test-engineer)
+
+
+- **QA Engineer (Backend)** @_Blip_ [here](https://www.itjobs.pt/oferta/462380/qa-engineer-backend)
 
 
 - **Software QA Engineer** @_Xpand IT_ [here](https://www.itjobs.pt/oferta/460404/software-qa-engineer)
