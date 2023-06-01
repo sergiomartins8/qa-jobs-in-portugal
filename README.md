@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Wed, 31 May 2023 01:47_
+> _Last updated: Thu, 01 Jun 2023 02:05_
 
 ### ItJobs
 
@@ -52,6 +52,9 @@ Jobs
 
 
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/459901/qae)
+
+
+- **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/462001/automation-tester)
 
 #### Braga
 
@@ -90,9 +93,6 @@ Jobs
 - **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/459695/quality-assurance-developer)
 
 
-- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/460023/qa-engineer)
-
-
 - **QA Automation Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/462198/qa-automation-engineer)
 
 
@@ -102,13 +102,13 @@ Jobs
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/459901/qae)
 
 
+- **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/462001/automation-tester)
+
+
 - **Automation QA Engineer** @_ITDS Portugal_ [here](https://www.itjobs.pt/oferta/462052/automation-qa-engineer)
 
 
 - **Software QA Engineer** @_Xpand IT_ [here](https://www.itjobs.pt/oferta/460404/software-qa-engineer)
-
-
-- **Automation Tester Service Request** @_Olisipo_ [here](https://www.itjobs.pt/oferta/461049/automation-tester-service-request)
 
 #### Porto
 
@@ -151,6 +151,9 @@ Jobs
 - **Software Tester** @_mgm technology partners_ [here](https://www.itjobs.pt/oferta/461963/software-tester)
 
 
+- **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/462001/automation-tester)
+
+
 - **Lead Manual QA** @_Aubay_ [here](https://www.itjobs.pt/oferta/459763/lead-manual-qa)
 
 #### Remote
@@ -183,6 +186,9 @@ Jobs
 
 
 - **Test Automation Engineer** @_team.it_ [here](https://www.itjobs.pt/oferta/460211/team-test-automation-engineer)
+
+
+- **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/462001/automation-tester)
 
 
 - **Test Engineer** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/460772/test-engineer)
