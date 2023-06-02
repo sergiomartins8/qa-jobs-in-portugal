@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Thu, 01 Jun 2023 02:05_
+> _Last updated: Fri, 02 Jun 2023 01:48_
 
 ### ItJobs
 
@@ -55,6 +55,9 @@ Jobs
 
 
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/462001/automation-tester)
+
+
+- **Quality Assurance Automation** @_Devoteam_ [here](https://www.itjobs.pt/oferta/462107/quality-assurance-automation)
 
 #### Braga
 
@@ -87,9 +90,6 @@ Jobs
 - **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/460099/quality-assurance-tester)
 
 
-- **QA Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/460849/qa-engineer)
-
-
 - **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/459695/quality-assurance-developer)
 
 
@@ -102,10 +102,16 @@ Jobs
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/459901/qae)
 
 
+- **Quality Assurance Specialist** @_Optiply_ [here](https://www.itjobs.pt/oferta/462947/quality-assurance-specialist)
+
+
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/462001/automation-tester)
 
 
 - **Automation QA Engineer** @_ITDS Portugal_ [here](https://www.itjobs.pt/oferta/462052/automation-qa-engineer)
+
+
+- **Quality Assurance Automation** @_Devoteam_ [here](https://www.itjobs.pt/oferta/462107/quality-assurance-automation)
 
 
 - **Software QA Engineer** @_Xpand IT_ [here](https://www.itjobs.pt/oferta/460404/software-qa-engineer)
@@ -154,7 +160,7 @@ Jobs
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/462001/automation-tester)
 
 
-- **Lead Manual QA** @_Aubay_ [here](https://www.itjobs.pt/oferta/459763/lead-manual-qa)
+- **Quality Assurance Automation** @_Devoteam_ [here](https://www.itjobs.pt/oferta/462107/quality-assurance-automation)
 
 #### Remote
 
@@ -183,6 +189,9 @@ Jobs
 
 
 - **Software Tester** @_mgm technology partners_ [here](https://www.itjobs.pt/oferta/461963/software-tester)
+
+
+- **Quality Assurance Specialist** @_Optiply_ [here](https://www.itjobs.pt/oferta/462947/quality-assurance-specialist)
 
 
 - **Test Automation Engineer** @_team.it_ [here](https://www.itjobs.pt/oferta/460211/team-test-automation-engineer)
