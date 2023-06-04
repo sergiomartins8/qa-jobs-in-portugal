@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sat, 03 Jun 2023 01:45_
+> _Last updated: Sun, 04 Jun 2023 02:03_
 
 ### ItJobs
 
@@ -76,9 +76,6 @@ Jobs
 
 
 - **QA Automation Engineer** @_Neotalent_ [here](https://www.itjobs.pt/oferta/460995/qa-automation-engineer)
-
-
-- **Test Automation Engineer** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/461482/test-automation-engineer)
 
 
 - **QA Automation Specialist** @_Devoteam_ [here](https://www.itjobs.pt/oferta/459533/qa-automation-specialist)
