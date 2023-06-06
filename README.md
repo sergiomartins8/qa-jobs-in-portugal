@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Mon, 05 Jun 2023 01:48_
+> _Last updated: Tue, 06 Jun 2023 01:50_
 
 ### ItJobs
 
@@ -51,12 +51,18 @@ Jobs
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/459901/qae)
 
 
+- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/463126/qa-engineer)
+
+
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/462001/automation-tester)
 
 
 - **Quality Assurance Automation** @_Devoteam_ [here](https://www.itjobs.pt/oferta/462107/quality-assurance-automation)
 
 #### Braga
+
+- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/463126/qa-engineer)
+
 
 - **Software QA Engineer** @_Xpand IT_ [here](https://www.itjobs.pt/oferta/460404/software-qa-engineer)
 
@@ -72,10 +78,10 @@ Jobs
 - **QA Automation Engineer** @_Neotalent_ [here](https://www.itjobs.pt/oferta/460995/qa-automation-engineer)
 
 
+- **QA Automation w/ Python** @_KWAN_ [here](https://www.itjobs.pt/oferta/462715/qa-automation-w-python)
+
+
 - **QA Automation Specialist** @_Devoteam_ [here](https://www.itjobs.pt/oferta/459533/qa-automation-specialist)
-
-
-- **Test Automation Engineer** @_Diconium Digital Solutions_ [here](https://www.itjobs.pt/oferta/459888/test-automation-engineer)
 
 
 - **Senior Performance Test Analyst** @_INSCALE Portugal_ [here](https://www.itjobs.pt/oferta/460254/senior-performance-test-analyst)
@@ -97,6 +103,9 @@ Jobs
 
 
 - **Quality Assurance Specialist** @_Optiply_ [here](https://www.itjobs.pt/oferta/462947/quality-assurance-specialist)
+
+
+- **QA Automation (DataScience Project)** @_KWAN_ [here](https://www.itjobs.pt/oferta/462713/qa-automation-datascience-project)
 
 
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/462001/automation-tester)
@@ -121,13 +130,13 @@ Jobs
 - **Front-End Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/461752/front-end-test-automation-engineer)
 
 
+- **QA Automation w/ Python** @_KWAN_ [here](https://www.itjobs.pt/oferta/462715/qa-automation-w-python)
+
+
 - **Senior QA Automation tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/462084/senior-qa-automation-tester)
 
 
 - **QA Automation Specialist** @_Devoteam_ [here](https://www.itjobs.pt/oferta/459533/qa-automation-specialist)
-
-
-- **Test Automation Engineer** @_Diconium Digital Solutions_ [here](https://www.itjobs.pt/oferta/459888/test-automation-engineer)
 
 
 - **QAE Automation Mobile - Android** @_Aubay_ [here](https://www.itjobs.pt/oferta/459772/qae-automation-mobile-android)
@@ -149,6 +158,9 @@ Jobs
 
 
 - **Software Tester** @_mgm technology partners_ [here](https://www.itjobs.pt/oferta/461963/software-tester)
+
+
+- **QA Tester (SFCC Back-End)** @_Metyis_ [here](https://www.itjobs.pt/oferta/463144/qa-tester-sfcc-back-end)
 
 
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/462001/automation-tester)
@@ -198,4 +210,7 @@ Jobs
 
 
 - **Software QA Engineer** @_Xpand IT_ [here](https://www.itjobs.pt/oferta/460404/software-qa-engineer)
+
+
+- **QA Manager** @_Digt AG_ [here](https://www.itjobs.pt/oferta/463134/qa-manager)
 
