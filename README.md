@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Tue, 06 Jun 2023 01:50_
+> _Last updated: Wed, 07 Jun 2023 01:51_
 
 ### ItJobs
 
@@ -82,9 +82,6 @@ Jobs
 
 
 - **QA Automation Specialist** @_Devoteam_ [here](https://www.itjobs.pt/oferta/459533/qa-automation-specialist)
-
-
-- **Senior Performance Test Analyst** @_INSCALE Portugal_ [here](https://www.itjobs.pt/oferta/460254/senior-performance-test-analyst)
 
 
 - **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/460099/quality-assurance-tester)
@@ -139,9 +136,6 @@ Jobs
 - **QA Automation Specialist** @_Devoteam_ [here](https://www.itjobs.pt/oferta/459533/qa-automation-specialist)
 
 
-- **QAE Automation Mobile - Android** @_Aubay_ [here](https://www.itjobs.pt/oferta/459772/qae-automation-mobile-android)
-
-
 - **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/460099/quality-assurance-tester)
 
 
@@ -149,6 +143,9 @@ Jobs
 
 
 - **QA Engineer** @_KCS IT_ [here](https://www.itjobs.pt/oferta/461369/qa-engineer)
+
+
+- **Quality Assurance Analyst** @_Dellent_ [here](https://www.itjobs.pt/oferta/462735/quality-assurance-analyst)
 
 
 - **QA Automation Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/462198/qa-automation-engineer)
@@ -173,9 +170,6 @@ Jobs
 - **Front-End Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/461752/front-end-test-automation-engineer)
 
 
-- **Test Engineer** @_Rumos Consulting_ [here](https://www.itjobs.pt/oferta/459978/test-engineer)
-
-
 - **Senior QA Automation tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/462084/senior-qa-automation-tester)
 
 
@@ -183,6 +177,9 @@ Jobs
 
 
 - **QA Engineer** @_KCS IT_ [here](https://www.itjobs.pt/oferta/461369/qa-engineer)
+
+
+- **Quality Assurance Analyst** @_Dellent_ [here](https://www.itjobs.pt/oferta/462735/quality-assurance-analyst)
 
 
 - **Software Test Engineer** @_Contentserv Technologies_ [here](https://www.itjobs.pt/oferta/461513/software-test-engineer)
@@ -207,9 +204,6 @@ Jobs
 
 
 - **QA Engineer (Backend)** @_Blip_ [here](https://www.itjobs.pt/oferta/462380/qa-engineer-backend)
-
-
-- **Software QA Engineer** @_Xpand IT_ [here](https://www.itjobs.pt/oferta/460404/software-qa-engineer)
 
 
 - **QA Manager** @_Digt AG_ [here](https://www.itjobs.pt/oferta/463134/qa-manager)
