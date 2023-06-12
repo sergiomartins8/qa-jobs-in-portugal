@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sun, 11 Jun 2023 01:57_
+> _Last updated: Mon, 12 Jun 2023 01:48_
 
 ### ItJobs
 
@@ -85,9 +85,6 @@ Jobs
 
 
 - **QA Automation Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/462198/qa-automation-engineer)
-
-
-- **Senior QA Tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/460589/senior-qa-tester)
 
 
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/459901/qae)
@@ -176,10 +173,10 @@ Jobs
 - **Quality Assurance Analyst** @_Dellent_ [here](https://www.itjobs.pt/oferta/462735/quality-assurance-analyst)
 
 
+- **QA Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/462966/qa-automation-tester)
+
+
 - **Software Test Engineer** @_Contentserv Technologies_ [here](https://www.itjobs.pt/oferta/461513/software-test-engineer)
-
-
-- **Senior QA Tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/460589/senior-qa-tester)
 
 
 - **Business Quality Analyst** @_Mind Source_ [here](https://www.itjobs.pt/oferta/461766/business-quality-analyst)
