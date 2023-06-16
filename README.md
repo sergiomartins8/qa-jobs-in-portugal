@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Thu, 15 Jun 2023 01:39_
+> _Last updated: Fri, 16 Jun 2023 01:41_
 
 ### ItJobs
 
@@ -55,6 +55,9 @@ Jobs
 
 #### Braga
 
+- **Software Tester** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/463546/software-tester)
+
+
 - **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/463126/qa-engineer)
 
 #### Coimbra
@@ -66,16 +69,25 @@ Jobs
 - **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/461329/quality-assurance-developer)
 
 
-- **Test Automation Engineer** @_Diconium Digital Solutions_ [here](https://www.itjobs.pt/oferta/463343/test-automation-engineer)
-
-
-- **QA Automation Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/462198/qa-automation-engineer)
-
-
 - **QA Automation Engineer** @_Neotalent_ [here](https://www.itjobs.pt/oferta/460995/qa-automation-engineer)
 
 
+- **QA Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/463701/qa-engineer)
+
+
 - **QA Automation w/ Python** @_KWAN_ [here](https://www.itjobs.pt/oferta/462715/qa-automation-w-python)
+
+
+- **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/460099/quality-assurance-tester)
+
+
+- **Test Automation Engineer** @_Diconium Digital Solutions_ [here](https://www.itjobs.pt/oferta/463343/test-automation-engineer)
+
+
+- **Performance Test Lead** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/463568/performance-test-lead)
+
+
+- **QA Automation Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/462198/qa-automation-engineer)
 
 
 - **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/463126/qa-engineer)
@@ -85,9 +97,6 @@ Jobs
 
 
 - **QA Automation (DataScience Project)** @_KWAN_ [here](https://www.itjobs.pt/oferta/462713/qa-automation-datascience-project)
-
-
-- **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/460099/quality-assurance-tester)
 
 
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/462001/automation-tester)
@@ -134,6 +143,9 @@ Jobs
 
 
 - **Software Tester** @_mgm technology partners_ [here](https://www.itjobs.pt/oferta/461963/software-tester)
+
+
+- **Quality Tester (AEM)** @_Metyis_ [here](https://www.itjobs.pt/oferta/463636/quality-tester-aem)
 
 
 - **QA Tester (SFCC Back-End)** @_Metyis_ [here](https://www.itjobs.pt/oferta/463144/qa-tester-sfcc-back-end)
