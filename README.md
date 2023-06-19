@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sun, 18 Jun 2023 01:54_
+> _Last updated: Mon, 19 Jun 2023 01:41_
 
 ### ItJobs
 
@@ -107,9 +107,6 @@ Jobs
 #### Porto
 
 - **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/461329/quality-assurance-developer)
-
-
-- **QA Automation Engineer** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/462552/qa-automation-engineer)
 
 
 - **Front-End Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/461752/front-end-test-automation-engineer)
