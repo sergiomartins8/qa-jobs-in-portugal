@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Wed, 28 Jun 2023 01:53_
+> _Last updated: Thu, 29 Jun 2023 01:48_
 
 ### ItJobs
 
@@ -195,9 +195,6 @@ Jobs
 
 
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/462001/automation-tester)
-
-
-- **QA Engineer (Backend)** @_Blip_ [here](https://www.itjobs.pt/oferta/462380/qa-engineer-backend)
 
 
 - **QA Manager** @_Digt AG_ [here](https://www.itjobs.pt/oferta/463134/qa-manager)
