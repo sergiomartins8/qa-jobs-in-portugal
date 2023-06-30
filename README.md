@@ -36,11 +36,14 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Thu, 29 Jun 2023 01:48_
+> _Last updated: Fri, 30 Jun 2023 01:47_
 
 ### ItJobs
 
 #### Aveiro
+
+- **Hardware Tester** @_Withus_ [here](https://www.itjobs.pt/oferta/464748/hardware-tester)
+
 
 - **Test Automation Engineer** @_Olisipo_ [here](https://www.itjobs.pt/oferta/463062/test-automation-engineer)
 
@@ -160,6 +163,9 @@ Jobs
 - **Quality Assurance Automation** @_Devoteam_ [here](https://www.itjobs.pt/oferta/462107/quality-assurance-automation)
 
 #### Remote
+
+- **QA Engineer (Backend)** @_Blip_ [here](https://www.itjobs.pt/oferta/464741/qa-engineer-backend)
+
 
 - **Senior QA Automation tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/462084/senior-qa-automation-tester)
 
