@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Fri, 30 Jun 2023 01:47_
+> _Last updated: Sat, 01 Jul 2023 01:58_
 
 ### ItJobs
 
@@ -99,6 +99,9 @@ Jobs
 - **Performance Test Lead** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/463568/performance-test-lead)
 
 
+- **QA Automation Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/464702/qa-automation-engineer)
+
+
 - **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/463126/qa-engineer)
 
 
@@ -137,6 +140,9 @@ Jobs
 
 
 - **TOSCA Automation tester** @_KCS IT_ [here](https://www.itjobs.pt/oferta/463739/tosca-automation-tester)
+
+
+- **QA Automation Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/464702/qa-automation-engineer)
 
 
 - **Front-End Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/464103/front-end-test-automation-engineer)
