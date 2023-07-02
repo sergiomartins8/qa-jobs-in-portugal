@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sat, 01 Jul 2023 01:58_
+> _Last updated: Sun, 02 Jul 2023 01:58_
 
 ### ItJobs
 
@@ -127,9 +127,6 @@ Jobs
 - **QA Automation w/ Python** @_KWAN_ [here](https://www.itjobs.pt/oferta/462715/qa-automation-w-python)
 
 
-- **Senior QA Automation tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/462084/senior-qa-automation-tester)
-
-
 - **QA Automation Tester** @_Neotalent_ [here](https://www.itjobs.pt/oferta/464281/qa-automation-tester)
 
 
@@ -171,9 +168,6 @@ Jobs
 #### Remote
 
 - **QA Engineer (Backend)** @_Blip_ [here](https://www.itjobs.pt/oferta/464741/qa-engineer-backend)
-
-
-- **Senior QA Automation tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/462084/senior-qa-automation-tester)
 
 
 - **QA Automation Tester** @_Neotalent_ [here](https://www.itjobs.pt/oferta/464281/qa-automation-tester)
