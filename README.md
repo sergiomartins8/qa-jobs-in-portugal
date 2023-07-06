@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Wed, 05 Jul 2023 01:51_
+> _Last updated: Thu, 06 Jul 2023 01:54_
 
 ### ItJobs
 
@@ -46,9 +46,6 @@ Jobs
 
 
 - **Hardware Tester** @_Withus_ [here](https://www.itjobs.pt/oferta/464748/hardware-tester)
-
-
-- **Test Automation Engineer** @_Olisipo_ [here](https://www.itjobs.pt/oferta/463062/test-automation-engineer)
 
 
 - **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/463126/qa-engineer)
