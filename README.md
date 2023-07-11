@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Mon, 10 Jul 2023 01:53_
+> _Last updated: Tue, 11 Jul 2023 01:44_
 
 ### ItJobs
 
@@ -53,7 +53,12 @@ Jobs
 
 - **Mobile Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/465012/mobile-test-automation-engineer)
 
+
+- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/465433/qa-engineer)
+
 #### Braga
+
+- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/465433/qa-engineer)
 
 #### Coimbra
 
@@ -70,16 +75,7 @@ Jobs
 
 #### Lisboa
 
-- **Test Automation Engineer** @_Diconium Digital Solutions_ [here](https://www.itjobs.pt/oferta/463343/test-automation-engineer)
-
-
-- **Performance Test Lead** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/463568/performance-test-lead)
-
-
 - **QA Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/463701/qa-engineer)
-
-
-- **QA Automation Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/464702/qa-automation-engineer)
 
 
 - **QA Automation Engineer** @_Neotalent_ [here](https://www.itjobs.pt/oferta/463898/qa-automation-engineer)
@@ -88,19 +84,34 @@ Jobs
 - **Automation QA Engineer** @_ITDS Portugal_ [here](https://www.itjobs.pt/oferta/464779/automation-qa-engineer)
 
 
-- **Quality Assurance Officer** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/464195/quality-assurance-officer)
-
-
 - **QA Automation Tester** @_Neotalent_ [here](https://www.itjobs.pt/oferta/464281/qa-automation-tester)
-
-
-- **QA Automation Tester** @_Red IT_ [here](https://www.itjobs.pt/oferta/464578/qa-automation-tester-hybrid-lisbon)
 
 
 - **CRM Test Automation Engineer** @_Michael Page Portugal_ [here](https://www.itjobs.pt/oferta/464243/crm-test-automation-engineer)
 
 
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/463923/qae)
+
+
+- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/465433/qa-engineer)
+
+
+- **Test Automation Engineer** @_Diconium Digital Solutions_ [here](https://www.itjobs.pt/oferta/463343/test-automation-engineer)
+
+
+- **Performance Test Lead** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/463568/performance-test-lead)
+
+
+- **QA Automation Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/464702/qa-automation-engineer)
+
+
+- **Senior QA Automation tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/465161/senior-qa-automation-tester)
+
+
+- **Quality Assurance Officer** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/464195/quality-assurance-officer)
+
+
+- **QA Automation Tester** @_Red IT_ [here](https://www.itjobs.pt/oferta/464578/qa-automation-tester-hybrid-lisbon)
 
 #### Porto
 
@@ -111,6 +122,9 @@ Jobs
 
 
 - **QA Automation Tester** @_Neotalent_ [here](https://www.itjobs.pt/oferta/464281/qa-automation-tester)
+
+
+- **QA Tester (SFCC Back-End)** @_Metyis_ [here](https://www.itjobs.pt/oferta/465499/qa-tester-sfcc-back-end)
 
 
 - **Test Automation Engineer** @_Diconium Digital Solutions_ [here](https://www.itjobs.pt/oferta/463343/test-automation-engineer)
@@ -128,6 +142,9 @@ Jobs
 - **QA Automation Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/464702/qa-automation-engineer)
 
 
+- **Senior QA Automation tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/465161/senior-qa-automation-tester)
+
+
 - **QAE or Lead Automation** @_KCS IT_ [here](https://www.itjobs.pt/oferta/463741/qae-or-lead-automation)
 
 
@@ -141,6 +158,9 @@ Jobs
 
 
 - **Mobile Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/465012/mobile-test-automation-engineer)
+
+
+- **QA Automation Engineer** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/465123/qa-automation-engineer)
 
 #### Remote
 
@@ -175,7 +195,4 @@ Jobs
 
 
 - **Mobile Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/465012/mobile-test-automation-engineer)
-
-
-- **Test Engineer** @_Rumos Consulting_ [here](https://www.itjobs.pt/oferta/463248/test-engineer)
 
