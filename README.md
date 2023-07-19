@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Tue, 18 Jul 2023 02:03_
+> _Last updated: Wed, 19 Jul 2023 02:51_
 
 ### ItJobs
 
@@ -99,10 +99,7 @@ Jobs
 - **Senior Quality Assurance Automation (mobility area)** @_Dellent_ [here](https://www.itjobs.pt/oferta/465374/senior-quality-assurance-automation-mobility-area)
 
 
-- **Automation Tester** @_Olisipo_ [here](https://www.itjobs.pt/oferta/465234/automation-tester)
-
-
-- **Performance Test Lead** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/463568/performance-test-lead)
+- **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/463923/qae)
 
 
 - **Test Automation Engineer** @_Diconium Digital Solutions_ [here](https://www.itjobs.pt/oferta/465737/test-automation-engineer)
@@ -161,9 +158,6 @@ Jobs
 
 
 - **Senior Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/465020/senior-test-automation-engineer)
-
-
-- **Quality Tester (AEM)** @_Metyis_ [here](https://www.itjobs.pt/oferta/463636/quality-tester-aem)
 
 
 - **Mobile Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/465012/mobile-test-automation-engineer)
