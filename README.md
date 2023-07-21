@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Thu, 20 Jul 2023 01:28_
+> _Last updated: Fri, 21 Jul 2023 01:35_
 
 ### ItJobs
 
@@ -127,6 +127,9 @@ Jobs
 - **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/464102/test-automation-engineer)
 
 
+- **Senior QAE – Backend/Frontend** @_Aubay_ [here](https://www.itjobs.pt/oferta/465564/senior-qae-backend-frontend)
+
+
 - **Automation QA Engineer** @_ITDS Portugal_ [here](https://www.itjobs.pt/oferta/464779/automation-qa-engineer)
 
 
@@ -140,9 +143,6 @@ Jobs
 
 
 - **Quality Tester (AEM)** @_Metyis_ [here](https://www.itjobs.pt/oferta/466090/quality-tester-aem)
-
-
-- **Senior QA Automation Engineer/Tester - QAE** @_KCS IT_ [here](https://www.itjobs.pt/oferta/464226/senior-qa-automation-engineer-tester-qae)
 
 
 - **Test Automation Engineer** @_Diconium Digital Solutions_ [here](https://www.itjobs.pt/oferta/465737/test-automation-engineer)
@@ -195,9 +195,6 @@ Jobs
 
 
 - **QA Engineer** @_Neotalent_ [here](https://www.itjobs.pt/oferta/465621/qa-engineer)
-
-
-- **Senior QA Automation Engineer/Tester - QAE** @_KCS IT_ [here](https://www.itjobs.pt/oferta/464226/senior-qa-automation-engineer-tester-qae)
 
 
 - **QA Automation Engineer** @_Dellent_ [here](https://www.itjobs.pt/oferta/463606/qa-automation-engineer)
