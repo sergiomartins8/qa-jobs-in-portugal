@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Tue, 25 Jul 2023 01:44_
+> _Last updated: Wed, 26 Jul 2023 01:36_
 
 ### ItJobs
 
@@ -99,9 +99,6 @@ Jobs
 - **QA Automation Tester** @_Neotalent_ [here](https://www.itjobs.pt/oferta/464281/qa-automation-tester)
 
 
-- **CRM Test Automation Engineer** @_Michael Page Portugal_ [here](https://www.itjobs.pt/oferta/464243/crm-test-automation-engineer)
-
-
 - **Senior Quality Assurance Automation (mobility area)** @_Dellent_ [here](https://www.itjobs.pt/oferta/465374/senior-quality-assurance-automation-mobility-area)
 
 
@@ -148,13 +145,7 @@ Jobs
 - **QA Engineer** @_Neotalent_ [here](https://www.itjobs.pt/oferta/465621/qa-engineer)
 
 
-- **Quality Tester (AEM)** @_Metyis_ [here](https://www.itjobs.pt/oferta/466090/quality-tester-aem)
-
-
 - **Test Automation Engineer** @_Diconium Digital Solutions_ [here](https://www.itjobs.pt/oferta/465737/test-automation-engineer)
-
-
-- **TOSCA Automation tester** @_KCS IT_ [here](https://www.itjobs.pt/oferta/463739/tosca-automation-tester)
 
 
 - **Quality Assurance Tester (QAT)** @_Red IT_ [here](https://www.itjobs.pt/oferta/465702/quality-assurance-tester-qat-opo)
@@ -204,9 +195,6 @@ Jobs
 
 
 - **QA Engineer** @_Neotalent_ [here](https://www.itjobs.pt/oferta/465621/qa-engineer)
-
-
-- **TOSCA Automation tester** @_KCS IT_ [here](https://www.itjobs.pt/oferta/463739/tosca-automation-tester)
 
 
 - **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/466275/test-automation-engineer)
