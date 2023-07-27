@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Wed, 26 Jul 2023 01:36_
+> _Last updated: Thu, 27 Jul 2023 01:19_
 
 ### ItJobs
 
@@ -123,6 +123,9 @@ Jobs
 - **QA Automation Tester** @_Red IT_ [here](https://www.itjobs.pt/oferta/464578/qa-automation-tester-hybrid-lisbon)
 
 
+- **Performance Test Lead** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/466424/performance-test-lead)
+
+
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/465085/automation-tester)
 
 
@@ -133,9 +136,6 @@ Jobs
 - **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/465989/quality-assurance-tester)
 
 
-- **Automation QA Engineer** @_ITDS Portugal_ [here](https://www.itjobs.pt/oferta/464779/automation-qa-engineer)
-
-
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/466193/quality-assurance-engineer)
 
 
@@ -143,6 +143,12 @@ Jobs
 
 
 - **QA Engineer** @_Neotalent_ [here](https://www.itjobs.pt/oferta/465621/qa-engineer)
+
+
+- **Senior QA Automation Engineer/Tester - QAE** @_KCS IT_ [here](https://www.itjobs.pt/oferta/464226/senior-qa-automation-engineer-tester-qae)
+
+
+- **Quality Tester (AEM) (Fashion)** @_Metyis_ [here](https://www.itjobs.pt/oferta/466090/quality-tester-aem)
 
 
 - **Test Automation Engineer** @_Diconium Digital Solutions_ [here](https://www.itjobs.pt/oferta/465737/test-automation-engineer)
@@ -195,6 +201,9 @@ Jobs
 
 
 - **QA Engineer** @_Neotalent_ [here](https://www.itjobs.pt/oferta/465621/qa-engineer)
+
+
+- **Senior QA Automation Engineer/Tester - QAE** @_KCS IT_ [here](https://www.itjobs.pt/oferta/464226/senior-qa-automation-engineer-tester-qae)
 
 
 - **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/466275/test-automation-engineer)
