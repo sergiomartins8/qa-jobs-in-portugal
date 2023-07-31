@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sun, 30 Jul 2023 01:24_
+> _Last updated: Mon, 31 Jul 2023 01:24_
 
 ### ItJobs
 
@@ -57,6 +57,9 @@ Jobs
 - **Mobile Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/465012/mobile-test-automation-engineer)
 
 
+- **Test Automation Engineer** @_Olisipo_ [here](https://www.itjobs.pt/oferta/466949/test-automation-engineer)
+
+
 - **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/465433/qa-engineer)
 
 
@@ -64,7 +67,13 @@ Jobs
 
 #### Braga
 
+- **Software Tester** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/465781/software-tester)
+
+
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/466193/quality-assurance-engineer)
+
+
+- **Software Tester** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/466391/software-tester)
 
 
 - **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/465433/qa-engineer)
@@ -102,9 +111,6 @@ Jobs
 - **Senior Quality Assurance Automation (mobility area)** @_Dellent_ [here](https://www.itjobs.pt/oferta/465374/senior-quality-assurance-automation-mobility-area)
 
 
-- **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/463923/qae)
-
-
 - **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/465433/qa-engineer)
 
 
@@ -118,9 +124,6 @@ Jobs
 
 
 - **QA Engineer – IoT Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/465261/qa-engineer-iot-tester)
-
-
-- **QA Automation Tester** @_Red IT_ [here](https://www.itjobs.pt/oferta/464578/qa-automation-tester-hybrid-lisbon)
 
 
 - **Performance Test Lead** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/466424/performance-test-lead)
@@ -213,9 +216,6 @@ Jobs
 
 
 - **Quality Assurance Analyst** @_Itim - Profimetrics_ [here](https://www.itjobs.pt/oferta/466009/quality-assurance-analyst)
-
-
-- **QA Automation Tester** @_Red IT_ [here](https://www.itjobs.pt/oferta/464578/qa-automation-tester-hybrid-lisbon)
 
 
 - **Mobile Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/465012/mobile-test-automation-engineer)
