@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Thu, 03 Aug 2023 01:22_
+> _Last updated: Fri, 04 Aug 2023 01:23_
 
 ### ItJobs
 
@@ -121,9 +121,6 @@ Jobs
 
 
 - **Senior QA Automation tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/465161/senior-qa-automation-tester)
-
-
-- **QA Engineer – IoT Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/465261/qa-engineer-iot-tester)
 
 
 - **Performance Test Lead** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/466424/performance-test-lead)
