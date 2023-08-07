@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sun, 06 Aug 2023 01:16_
+> _Last updated: Mon, 07 Aug 2023 01:23_
 
 ### ItJobs
 
@@ -49,9 +49,6 @@ Jobs
 
 
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/466193/quality-assurance-engineer)
-
-
-- **Senior Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/465020/senior-test-automation-engineer)
 
 
 - **Test Automation Engineer** @_Olisipo_ [here](https://www.itjobs.pt/oferta/466949/test-automation-engineer)
@@ -72,9 +69,6 @@ Jobs
 #### Coimbra
 
 - **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/466275/test-automation-engineer)
-
-
-- **Senior Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/465020/senior-test-automation-engineer)
 
 #### Lisboa
 
@@ -124,6 +118,9 @@ Jobs
 
 #### Porto
 
+- **QAE** @_KCS IT_ [here](https://www.itjobs.pt/oferta/466522/qae)
+
+
 - **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/465989/quality-assurance-tester)
 
 
@@ -160,15 +157,15 @@ Jobs
 - **Quality Assurance** @_akapeople_ [here](https://www.itjobs.pt/oferta/467058/quality-assurance-m-f)
 
 
-- **Senior Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/465020/senior-test-automation-engineer)
-
-
 - **Quality Assurance Analyst** @_Itim - Profimetrics_ [here](https://www.itjobs.pt/oferta/466009/quality-assurance-analyst)
 
 
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/465085/automation-tester)
 
 #### Remote
+
+- **QAE** @_KCS IT_ [here](https://www.itjobs.pt/oferta/466522/qae)
+
 
 - **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/465989/quality-assurance-tester)
 
@@ -192,9 +189,6 @@ Jobs
 
 
 - **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/466275/test-automation-engineer)
-
-
-- **Senior Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/465020/senior-test-automation-engineer)
 
 
 - **Test Engineer** @_Rumos Consulting_ [here](https://www.itjobs.pt/oferta/465585/test-engineer)
