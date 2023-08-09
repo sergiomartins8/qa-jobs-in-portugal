@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Tue, 08 Aug 2023 01:20_
+> _Last updated: Wed, 09 Aug 2023 01:23_
 
 ### ItJobs
 
@@ -55,6 +55,9 @@ Jobs
 
 
 - **Test Automation Engineer** @_Olisipo_ [here](https://www.itjobs.pt/oferta/466949/test-automation-engineer)
+
+
+- **Lead Quality Assurance Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/467419/lead-quality-assurance-engineer)
 
 
 - **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/465433/qa-engineer)
@@ -76,6 +79,9 @@ Jobs
 
 - **Senior Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/467415/senior-test-automation-engineer)
 
+
+- **Lead Quality Assurance Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/467419/lead-quality-assurance-engineer)
+
 #### Lisboa
 
 - **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/465989/quality-assurance-tester)
@@ -88,6 +94,9 @@ Jobs
 
 
 - **Quality Assurance** @_Adentis_ [here](https://www.itjobs.pt/oferta/465791/quality-assurance)
+
+
+- **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/467328/quality-assurance-developer)
 
 
 - **QA Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/466719/qa-automation-tester-lisbon)
@@ -166,6 +175,9 @@ Jobs
 - **QAE or Lead Automation** @_KCS IT_ [here](https://www.itjobs.pt/oferta/466538/qae-or-lead-automation)
 
 
+- **Lead Quality Assurance Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/467419/lead-quality-assurance-engineer)
+
+
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/465085/automation-tester)
 
 #### Remote
@@ -207,6 +219,9 @@ Jobs
 
 
 - **QAE or Lead Automation** @_KCS IT_ [here](https://www.itjobs.pt/oferta/466538/qae-or-lead-automation)
+
+
+- **Lead Quality Assurance Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/467419/lead-quality-assurance-engineer)
 
 
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/465085/automation-tester)
