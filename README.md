@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Thu, 10 Aug 2023 01:23_
+> _Last updated: Fri, 11 Aug 2023 01:08_
 
 ### ItJobs
 
@@ -105,6 +105,9 @@ Jobs
 - **Senior Quality Assurance Automation (mobility area)** @_Dellent_ [here](https://www.itjobs.pt/oferta/465374/senior-quality-assurance-automation-mobility-area)
 
 
+- **QA Automation Tester** @_Neotalent_ [here](https://www.itjobs.pt/oferta/467402/qa-automation-tester)
+
+
 - **QA Engineer** @_Jobbex group_ [here](https://www.itjobs.pt/oferta/467141/qa-engineer)
 
 
@@ -118,6 +121,9 @@ Jobs
 
 
 - **Senior QA Automation tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/465161/senior-qa-automation-tester)
+
+
+- **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/467423/quality-assurance-developer)
 
 
 - **Performance Test Lead** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/466424/performance-test-lead)
@@ -140,6 +146,9 @@ Jobs
 
 
 - **Automation Tester** @_Sowin_ [here](https://www.itjobs.pt/oferta/467564/automation-tester-remote-work-from-eea)
+
+
+- **QA Automation Tester** @_Neotalent_ [here](https://www.itjobs.pt/oferta/467402/qa-automation-tester)
 
 
 - **QA Automation Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/467229/qa-automation-engineer)
@@ -172,6 +181,9 @@ Jobs
 - **Quality Assurance Analyst** @_Itim - Profimetrics_ [here](https://www.itjobs.pt/oferta/466009/quality-assurance-analyst)
 
 
+- **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/467423/quality-assurance-developer)
+
+
 - **QAE or Lead Automation** @_KCS IT_ [here](https://www.itjobs.pt/oferta/466538/qae-or-lead-automation)
 
 
@@ -188,9 +200,6 @@ Jobs
 - **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/465989/quality-assurance-tester)
 
 
-- **QA Engineer** @_Cocus_ [here](https://www.itjobs.pt/oferta/465643/qa-engineer)
-
-
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/466987/qae)
 
 
@@ -204,6 +213,9 @@ Jobs
 
 
 - **Senior Quality Assurance Automation (mobility area)** @_Dellent_ [here](https://www.itjobs.pt/oferta/465374/senior-quality-assurance-automation-mobility-area)
+
+
+- **QA Automation Tester** @_Neotalent_ [here](https://www.itjobs.pt/oferta/467402/qa-automation-tester)
 
 
 - **QA Engineer** @_Neotalent_ [here](https://www.itjobs.pt/oferta/465621/qa-engineer)
