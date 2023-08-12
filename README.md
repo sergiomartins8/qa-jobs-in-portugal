@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Fri, 11 Aug 2023 01:08_
+> _Last updated: Sat, 12 Aug 2023 01:07_
 
 ### ItJobs
 
@@ -90,10 +90,10 @@ Jobs
 - **Quality Assurance** @_Winprovit - Soluções Inteligentes_ [here](https://www.itjobs.pt/oferta/465926/quality-assurance)
 
 
+- **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/466987/qae)
+
+
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/466193/quality-assurance-engineer)
-
-
-- **Quality Assurance** @_Adentis_ [here](https://www.itjobs.pt/oferta/465791/quality-assurance)
 
 
 - **QA Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/466719/qa-automation-tester-lisbon)
@@ -148,6 +148,9 @@ Jobs
 - **Automation Tester** @_Sowin_ [here](https://www.itjobs.pt/oferta/467564/automation-tester-remote-work-from-eea)
 
 
+- **QA Analyst** @_Dellent_ [here](https://www.itjobs.pt/oferta/467330/qa-analyst)
+
+
 - **QA Automation Tester** @_Neotalent_ [here](https://www.itjobs.pt/oferta/467402/qa-automation-tester)
 
 
@@ -155,6 +158,9 @@ Jobs
 
 
 - **QA Engineer** @_Neotalent_ [here](https://www.itjobs.pt/oferta/465621/qa-engineer)
+
+
+- **QA Automation Engineer** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/467404/qa-automation-engineer)
 
 
 - **Quality Tester (AEM) (Fashion)** @_Metyis_ [here](https://www.itjobs.pt/oferta/466090/quality-tester-aem)
@@ -210,6 +216,9 @@ Jobs
 
 
 - **Automation Tester** @_Sowin_ [here](https://www.itjobs.pt/oferta/467564/automation-tester-remote-work-from-eea)
+
+
+- **QA Analyst** @_Dellent_ [here](https://www.itjobs.pt/oferta/467330/qa-analyst)
 
 
 - **Senior Quality Assurance Automation (mobility area)** @_Dellent_ [here](https://www.itjobs.pt/oferta/465374/senior-quality-assurance-automation-mobility-area)
