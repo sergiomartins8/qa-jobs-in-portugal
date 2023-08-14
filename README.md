@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sun, 13 Aug 2023 01:12_
+> _Last updated: Mon, 14 Aug 2023 01:10_
 
 ### ItJobs
 
@@ -219,9 +219,6 @@ Jobs
 
 
 - **Senior Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/467415/senior-test-automation-engineer)
-
-
-- **Test Engineer** @_Rumos Consulting_ [here](https://www.itjobs.pt/oferta/465585/test-engineer)
 
 
 - **Quality Assurance Analyst** @_Itim - Profimetrics_ [here](https://www.itjobs.pt/oferta/466009/quality-assurance-analyst)
