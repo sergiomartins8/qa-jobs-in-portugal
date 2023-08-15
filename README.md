@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Mon, 14 Aug 2023 01:10_
+> _Last updated: Tue, 15 Aug 2023 01:09_
 
 ### ItJobs
 
@@ -58,9 +58,6 @@ Jobs
 
 
 - **Lead Quality Assurance Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/467419/lead-quality-assurance-engineer)
-
-
-- **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/465085/automation-tester)
 
 #### Braga
 
@@ -90,6 +87,9 @@ Jobs
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/466193/quality-assurance-engineer)
 
 
+- **QA Automation Engineer** @_Adentis_ [here](https://www.itjobs.pt/oferta/467851/qa-automation-engineer)
+
+
 - **QA Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/466719/qa-automation-tester-lisbon)
 
 
@@ -115,9 +115,6 @@ Jobs
 
 
 - **Performance Test Lead** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/466424/performance-test-lead)
-
-
-- **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/465085/automation-tester)
 
 #### Porto
 
@@ -157,9 +154,6 @@ Jobs
 - **Test Automation Engineer** @_Diconium Digital Solutions_ [here](https://www.itjobs.pt/oferta/465737/test-automation-engineer)
 
 
-- **Quality Assurance Tester (QAT)** @_Red IT_ [here](https://www.itjobs.pt/oferta/465702/quality-assurance-tester-qat-opo)
-
-
 - **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/466275/test-automation-engineer)
 
 
@@ -179,9 +173,6 @@ Jobs
 
 
 - **Lead Quality Assurance Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/467419/lead-quality-assurance-engineer)
-
-
-- **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/465085/automation-tester)
 
 #### Remote
 
@@ -228,9 +219,6 @@ Jobs
 
 
 - **Lead Quality Assurance Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/467419/lead-quality-assurance-engineer)
-
-
-- **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/465085/automation-tester)
 
 
 - **QA Engineer** @_Cocus_ [here](https://www.itjobs.pt/oferta/466350/qa-engineer)
