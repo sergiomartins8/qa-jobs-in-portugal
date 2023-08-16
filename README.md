@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Tue, 15 Aug 2023 01:09_
+> _Last updated: Wed, 16 Aug 2023 01:09_
 
 ### ItJobs
 
@@ -108,9 +108,6 @@ Jobs
 - **QA Automation Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/467229/qa-automation-engineer)
 
 
-- **Test Automation Engineer** @_Diconium Digital Solutions_ [here](https://www.itjobs.pt/oferta/465737/test-automation-engineer)
-
-
 - **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/467423/quality-assurance-developer)
 
 
@@ -149,9 +146,6 @@ Jobs
 
 
 - **Quality Tester (AEM) (Fashion)** @_Metyis_ [here](https://www.itjobs.pt/oferta/466090/quality-tester-aem)
-
-
-- **Test Automation Engineer** @_Diconium Digital Solutions_ [here](https://www.itjobs.pt/oferta/465737/test-automation-engineer)
 
 
 - **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/466275/test-automation-engineer)
