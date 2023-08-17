@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Wed, 16 Aug 2023 01:09_
+> _Last updated: Thu, 17 Aug 2023 01:08_
 
 ### ItJobs
 
@@ -46,6 +46,9 @@ Jobs
 
 
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/466987/qae)
+
+
+- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/467880/qa-engineer)
 
 
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/466193/quality-assurance-engineer)
@@ -61,6 +64,9 @@ Jobs
 
 #### Braga
 
+- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/467880/qa-engineer)
+
+
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/466193/quality-assurance-engineer)
 
 #### Coimbra
@@ -75,13 +81,13 @@ Jobs
 
 #### Lisboa
 
-- **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/465989/quality-assurance-tester)
-
-
 - **Quality Assurance** @_Winprovit - Soluções Inteligentes_ [here](https://www.itjobs.pt/oferta/465926/quality-assurance)
 
 
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/466987/qae)
+
+
+- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/467880/qa-engineer)
 
 
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/466193/quality-assurance-engineer)
@@ -108,6 +114,9 @@ Jobs
 - **QA Automation Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/467229/qa-automation-engineer)
 
 
+- **QA Engineer – IoT Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/467831/qa-engineer-iot-tester)
+
+
 - **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/467423/quality-assurance-developer)
 
 
@@ -118,10 +127,10 @@ Jobs
 - **QAE** @_KCS IT_ [here](https://www.itjobs.pt/oferta/466522/qae)
 
 
-- **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/465989/quality-assurance-tester)
-
-
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/466987/qae)
+
+
+- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/467880/qa-engineer)
 
 
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/466193/quality-assurance-engineer)
@@ -173,10 +182,10 @@ Jobs
 - **QAE** @_KCS IT_ [here](https://www.itjobs.pt/oferta/466522/qae)
 
 
-- **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/465989/quality-assurance-tester)
-
-
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/466987/qae)
+
+
+- **Test Engineer** @_Rumos Consulting_ [here](https://www.itjobs.pt/oferta/467791/test-engineer)
 
 
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/466193/quality-assurance-engineer)
