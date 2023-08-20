@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sat, 19 Aug 2023 01:07_
+> _Last updated: Sun, 20 Aug 2023 01:12_
 
 ### ItJobs
 
@@ -82,9 +82,6 @@ Jobs
 #### Lisboa
 
 - **Test Automation Engineer** @_Diconium Digital Solutions_ [here](https://www.itjobs.pt/oferta/468017/test-automation-engineer)
-
-
-- **Quality Assurance** @_Winprovit - Soluções Inteligentes_ [here](https://www.itjobs.pt/oferta/465926/quality-assurance)
 
 
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/466987/qae)
