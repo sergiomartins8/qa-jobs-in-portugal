@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Mon, 21 Aug 2023 01:09_
+> _Last updated: Tue, 22 Aug 2023 01:10_
 
 ### ItJobs
 
@@ -151,9 +151,6 @@ Jobs
 - **QA Automation Engineer** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/467404/qa-automation-engineer)
 
 
-- **Quality Tester (AEM) (Fashion)** @_Metyis_ [here](https://www.itjobs.pt/oferta/466090/quality-tester-aem)
-
-
 - **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/466275/test-automation-engineer)
 
 
@@ -161,9 +158,6 @@ Jobs
 
 
 - **Senior Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/467415/senior-test-automation-engineer)
-
-
-- **Quality Assurance Analyst** @_Itim - Profimetrics_ [here](https://www.itjobs.pt/oferta/466009/quality-assurance-analyst)
 
 
 - **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/467423/quality-assurance-developer)
@@ -177,6 +171,9 @@ Jobs
 #### Remote
 
 - **QAE** @_KCS IT_ [here](https://www.itjobs.pt/oferta/466522/qae)
+
+
+- **QA Engineer** @_Cocus_ [here](https://www.itjobs.pt/oferta/468139/qa-engineer)
 
 
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/466987/qae)
@@ -204,9 +201,6 @@ Jobs
 
 
 - **Senior Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/467415/senior-test-automation-engineer)
-
-
-- **Quality Assurance Analyst** @_Itim - Profimetrics_ [here](https://www.itjobs.pt/oferta/466009/quality-assurance-analyst)
 
 
 - **QAE or Lead Automation** @_KCS IT_ [here](https://www.itjobs.pt/oferta/466538/qae-or-lead-automation)
