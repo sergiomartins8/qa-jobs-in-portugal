@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Wed, 23 Aug 2023 01:09_
+> _Last updated: Thu, 24 Aug 2023 01:09_
 
 ### ItJobs
 
@@ -163,9 +163,6 @@ Jobs
 - **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/467423/quality-assurance-developer)
 
 
-- **QAE or Lead Automation** @_KCS IT_ [here](https://www.itjobs.pt/oferta/466538/qae-or-lead-automation)
-
-
 - **Lead Quality Assurance Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/467419/lead-quality-assurance-engineer)
 
 #### Remote
@@ -201,9 +198,6 @@ Jobs
 
 
 - **Senior Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/467415/senior-test-automation-engineer)
-
-
-- **QAE or Lead Automation** @_KCS IT_ [here](https://www.itjobs.pt/oferta/466538/qae-or-lead-automation)
 
 
 - **Lead Quality Assurance Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/467419/lead-quality-assurance-engineer)
