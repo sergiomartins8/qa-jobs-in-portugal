@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Thu, 24 Aug 2023 01:09_
+> _Last updated: Fri, 25 Aug 2023 01:10_
 
 ### ItJobs
 
@@ -68,6 +68,9 @@ Jobs
 
 
 - **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/467880/qa-engineer)
+
+
+- **Software Tester** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/468154/software-tester)
 
 #### Coimbra
 
@@ -121,7 +124,7 @@ Jobs
 
 #### Porto
 
-- **QAE** @_KCS IT_ [here](https://www.itjobs.pt/oferta/466522/qae)
+- **QA Tester (SFCC Back-End) (Fashion)** @_Metyis_ [here](https://www.itjobs.pt/oferta/468126/qa-tester-sfcc-back-end-fashion)
 
 
 - **Test Automation Engineer** @_Diconium Digital Solutions_ [here](https://www.itjobs.pt/oferta/468017/test-automation-engineer)
@@ -167,7 +170,10 @@ Jobs
 
 #### Remote
 
-- **QAE** @_KCS IT_ [here](https://www.itjobs.pt/oferta/466522/qae)
+- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/467938/quality-assurance-engineer)
+
+
+- **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/466275/test-automation-engineer)
 
 
 - **QA Engineer** @_Cocus_ [here](https://www.itjobs.pt/oferta/468139/qa-engineer)
@@ -177,6 +183,9 @@ Jobs
 
 
 - **Test Engineer** @_Rumos Consulting_ [here](https://www.itjobs.pt/oferta/467791/test-engineer)
+
+
+- **Senior Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/467415/senior-test-automation-engineer)
 
 
 - **QA Engineer (Backend)** @_Blip_ [here](https://www.itjobs.pt/oferta/467162/qa-engineer-backend)
@@ -189,15 +198,6 @@ Jobs
 
 
 - **QA Automation Tester** @_Neotalent_ [here](https://www.itjobs.pt/oferta/467402/qa-automation-tester)
-
-
-- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/467938/quality-assurance-engineer)
-
-
-- **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/466275/test-automation-engineer)
-
-
-- **Senior Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/467415/senior-test-automation-engineer)
 
 
 - **Lead Quality Assurance Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/467419/lead-quality-assurance-engineer)
