@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Fri, 25 Aug 2023 01:10_
+> _Last updated: Sat, 26 Aug 2023 01:07_
 
 ### ItJobs
 
@@ -93,6 +93,9 @@ Jobs
 - **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/467880/qa-engineer)
 
 
+- **QA Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/468208/qa-engineer)
+
+
 - **QA Automation Engineer** @_Adentis_ [here](https://www.itjobs.pt/oferta/467851/qa-automation-engineer)
 
 
@@ -102,10 +105,16 @@ Jobs
 - **QA Automation Engineer** @_Neotalent_ [here](https://www.itjobs.pt/oferta/466285/qa-automation-engineer)
 
 
+- **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/467457/quality-assurance-developer)
+
+
 - **QA Automation Tester** @_Neotalent_ [here](https://www.itjobs.pt/oferta/467402/qa-automation-tester)
 
 
 - **QA Engineer** @_Jobbex group_ [here](https://www.itjobs.pt/oferta/467141/qa-engineer)
+
+
+- **Senior Quality Assurance Automation (mobility area)** @_Dellent_ [here](https://www.itjobs.pt/oferta/468175/senior-quality-assurance-automation-mobility-area)
 
 
 - **QA Automation Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/467229/qa-automation-engineer)
@@ -124,9 +133,6 @@ Jobs
 
 #### Porto
 
-- **QA Tester (SFCC Back-End) (Fashion)** @_Metyis_ [here](https://www.itjobs.pt/oferta/468126/qa-tester-sfcc-back-end-fashion)
-
-
 - **Test Automation Engineer** @_Diconium Digital Solutions_ [here](https://www.itjobs.pt/oferta/468017/test-automation-engineer)
 
 
@@ -137,6 +143,9 @@ Jobs
 
 
 - **Automation Tester** @_Sowin_ [here](https://www.itjobs.pt/oferta/467564/automation-tester-remote-work-from-eea)
+
+
+- **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/467457/quality-assurance-developer)
 
 
 - **QA Analyst** @_Dellent_ [here](https://www.itjobs.pt/oferta/467330/qa-analyst)
@@ -170,12 +179,6 @@ Jobs
 
 #### Remote
 
-- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/467938/quality-assurance-engineer)
-
-
-- **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/466275/test-automation-engineer)
-
-
 - **QA Engineer** @_Cocus_ [here](https://www.itjobs.pt/oferta/468139/qa-engineer)
 
 
@@ -185,19 +188,28 @@ Jobs
 - **Test Engineer** @_Rumos Consulting_ [here](https://www.itjobs.pt/oferta/467791/test-engineer)
 
 
-- **Senior Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/467415/senior-test-automation-engineer)
-
-
 - **QA Engineer (Backend)** @_Blip_ [here](https://www.itjobs.pt/oferta/467162/qa-engineer-backend)
 
 
 - **Automation Tester** @_Sowin_ [here](https://www.itjobs.pt/oferta/467564/automation-tester-remote-work-from-eea)
 
 
+- **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/467457/quality-assurance-developer)
+
+
 - **QA Analyst** @_Dellent_ [here](https://www.itjobs.pt/oferta/467330/qa-analyst)
 
 
 - **QA Automation Tester** @_Neotalent_ [here](https://www.itjobs.pt/oferta/467402/qa-automation-tester)
+
+
+- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/467938/quality-assurance-engineer)
+
+
+- **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/466275/test-automation-engineer)
+
+
+- **Senior Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/467415/senior-test-automation-engineer)
 
 
 - **Lead Quality Assurance Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/467419/lead-quality-assurance-engineer)
