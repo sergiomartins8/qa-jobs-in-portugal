@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Mon, 04 Sep 2023 01:11_
+> _Last updated: Tue, 05 Sep 2023 01:10_
 
 ### ItJobs
 
@@ -87,13 +87,16 @@ Jobs
 - **Test Automation Engineer** @_Diconium Digital Solutions_ [here](https://www.itjobs.pt/oferta/468017/test-automation-engineer)
 
 
+- **RFQ for Pentester** @_Aubay_ [here](https://www.itjobs.pt/oferta/468259/rfq-for-pentester)
+
+
+- **Automation Tester** @_Olisipo_ [here](https://www.itjobs.pt/oferta/468644/automation-tester)
+
+
 - **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/467880/qa-engineer)
 
 
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/468791/quality-assurance-engineer)
-
-
-- **QA Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/466719/qa-automation-tester-lisbon)
 
 
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/468484/automation-tester)
@@ -113,9 +116,6 @@ Jobs
 
 
 - **Test Automation Engineer** @_Diconium Digital Solutions_ [here](https://www.itjobs.pt/oferta/468017/test-automation-engineer)
-
-
-- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/467880/qa-engineer)
 
 
 - **Automation Tester** @_Sowin_ [here](https://www.itjobs.pt/oferta/467564/automation-tester-remote-work-from-eea)
@@ -161,13 +161,13 @@ Jobs
 - **QA Engineer** @_Neotalent_ [here](https://www.itjobs.pt/oferta/468193/qa-engineer)
 
 
+- **Automation Tester** @_Olisipo_ [here](https://www.itjobs.pt/oferta/468644/automation-tester)
+
+
 - **Test Engineer** @_Rumos Consulting_ [here](https://www.itjobs.pt/oferta/467791/test-engineer)
 
 
 - **Software Test Engineer** @_Contentserv Technologies_ [here](https://www.itjobs.pt/oferta/468551/software-test-engineer)
-
-
-- **QA Engineer (Backend)** @_Blip_ [here](https://www.itjobs.pt/oferta/467162/qa-engineer-backend)
 
 
 - **Automation Tester** @_Sowin_ [here](https://www.itjobs.pt/oferta/467564/automation-tester-remote-work-from-eea)
