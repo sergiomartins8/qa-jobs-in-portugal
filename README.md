@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Wed, 13 Sep 2023 01:12_
+> _Last updated: Thu, 14 Sep 2023 01:10_
 
 ### ItJobs
 
@@ -72,10 +72,16 @@ Jobs
 - **QA Automation Engineer** @_Olisipo_ [here](https://www.itjobs.pt/oferta/468670/qa-automation-engineer)
 
 
+- **QA Engineer – Automation Tester (Python/Robot)** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/469526/qa-engineer-automation-tester-python-robot)
+
+
 - **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/468712/quality-assurance-tester)
 
 
 - **Test Automation Engineer** @_Diconium Digital Solutions_ [here](https://www.itjobs.pt/oferta/468017/test-automation-engineer)
+
+
+- **QA Automation Enginee** @_Premium Minds_ [here](https://www.itjobs.pt/oferta/469886/qa-automation-enginee)
 
 
 - **Automation Tester** @_Olisipo_ [here](https://www.itjobs.pt/oferta/468644/automation-tester)
@@ -127,9 +133,6 @@ Jobs
 - **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/467457/quality-assurance-developer)
 
 
-- **QA Analyst** @_Dellent_ [here](https://www.itjobs.pt/oferta/467330/qa-analyst)
-
-
 - **Senior QAE – Backend/Frontend** @_Aubay_ [here](https://www.itjobs.pt/oferta/468349/senior-qae-backend-frontend)
 
 
@@ -158,6 +161,9 @@ Jobs
 - **QA Engineer** @_Neotalent_ [here](https://www.itjobs.pt/oferta/468193/qa-engineer)
 
 
+- **QA Automation Enginee** @_Premium Minds_ [here](https://www.itjobs.pt/oferta/469886/qa-automation-enginee)
+
+
 - **Automation Tester** @_Olisipo_ [here](https://www.itjobs.pt/oferta/468644/automation-tester)
 
 
@@ -174,9 +180,6 @@ Jobs
 
 
 - **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/467457/quality-assurance-developer)
-
-
-- **QA Analyst** @_Dellent_ [here](https://www.itjobs.pt/oferta/467330/qa-analyst)
 
 
 - **QA Engineer** @_Neotalent_ [here](https://www.itjobs.pt/oferta/468196/qa-engineer)
