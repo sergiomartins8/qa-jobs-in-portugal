@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sat, 16 Sep 2023 01:09_
+> _Last updated: Sun, 17 Sep 2023 01:15_
 
 ### ItJobs
 
@@ -90,7 +90,7 @@ Jobs
 - **Automation Tester** @_Olisipo_ [here](https://www.itjobs.pt/oferta/468644/automation-tester)
 
 
-- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/467880/qa-engineer)
+- **QA Engineer** @_Infosistema - Sistemas de Informação_ [here](https://www.itjobs.pt/oferta/470027/qa-engineer)
 
 
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/468484/automation-tester)
