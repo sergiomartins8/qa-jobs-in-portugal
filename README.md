@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Thu, 21 Sep 2023 01:11_
+> _Last updated: Fri, 22 Sep 2023 01:11_
 
 ### ItJobs
 
@@ -121,6 +121,9 @@ Jobs
 
 
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/469924/quality-assurance-engineer)
+
+
+- **QA Engineer – IoT Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/470149/qa-engineer-iot-tester)
 
 
 - **Automation Tester** @_Olisipo_ [here](https://www.itjobs.pt/oferta/468975/automation-tester)
