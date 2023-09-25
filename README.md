@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sun, 24 Sep 2023 01:15_
+> _Last updated: Mon, 25 Sep 2023 01:12_
 
 ### ItJobs
 
@@ -123,9 +123,6 @@ Jobs
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/469924/quality-assurance-engineer)
 
 
-- **QA Engineer – IoT Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/470149/qa-engineer-iot-tester)
-
-
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/469093/qae)
 
 
@@ -180,9 +177,6 @@ Jobs
 #### Remote
 
 - **QA Engineer** @_Neotalent_ [here](https://www.itjobs.pt/oferta/468193/qa-engineer)
-
-
-- **Software Test Engineer** @_Contentserv Technologies_ [here](https://www.itjobs.pt/oferta/468551/software-test-engineer)
 
 
 - **Automation Tester** @_team.it_ [here](https://www.itjobs.pt/oferta/469593/automation-tester)
