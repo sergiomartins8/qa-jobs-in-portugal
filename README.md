@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Mon, 25 Sep 2023 01:12_
+> _Last updated: Tue, 26 Sep 2023 01:12_
 
 ### ItJobs
 
@@ -99,9 +99,6 @@ Jobs
 - **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/467457/quality-assurance-developer)
 
 
-- **Test Tech Lead** @_Boost IT_ [here](https://www.itjobs.pt/oferta/470407/test-tech-lead-lisbon-hybrid-model)
-
-
 - **Senior Test Manager** @_Aubay_ [here](https://www.itjobs.pt/oferta/470131/senior-test-manager)
 
 
@@ -148,13 +145,13 @@ Jobs
 - **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/467457/quality-assurance-developer)
 
 
-- **Senior QAE – Backend/Frontend** @_Aubay_ [here](https://www.itjobs.pt/oferta/468349/senior-qae-backend-frontend)
-
-
 - **QA Engineer** @_Neotalent_ [here](https://www.itjobs.pt/oferta/468196/qa-engineer)
 
 
 - **QA Automation Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/469614/qa-automation-engineer)
+
+
+- **QA Tester (SFCC Back-End) (Fashion)** @_Metyis_ [here](https://www.itjobs.pt/oferta/470707/qa-tester-sfcc-back-end-fashion)
 
 
 - **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/469141/test-automation-engineer)
