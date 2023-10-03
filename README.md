@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Mon, 02 Oct 2023 01:12_
+> _Last updated: Tue, 03 Oct 2023 01:12_
 
 ### ItJobs
 
@@ -52,9 +52,6 @@ Jobs
 
 
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/470982/quality-assurance-engineer)
-
-
-- **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/468484/automation-tester)
 
 
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/469093/qae)
@@ -84,10 +81,10 @@ Jobs
 - **QA Engineer – Automation Tester (Python/Robot)** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/469526/qa-engineer-automation-tester-python-robot)
 
 
+- **TOSCA Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/470799/tosca-tester)
+
+
 - **QA Automation Engineer** @_Premium Minds_ [here](https://www.itjobs.pt/oferta/469886/qa-automation-enginee)
-
-
-- **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/468484/automation-tester)
 
 
 - **QA Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/470978/qa-engineer)
@@ -142,9 +139,6 @@ Jobs
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/470982/quality-assurance-engineer)
 
 
-- **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/468484/automation-tester)
-
-
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/469093/qae)
 
 
@@ -168,9 +162,6 @@ Jobs
 
 
 - **Senior Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/470182/senior-test-automation-engineer)
-
-
-- **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/468484/automation-tester)
 
 
 - **QA Analyst** @_Dellent_ [here](https://www.itjobs.pt/oferta/470329/qa-analyst)
