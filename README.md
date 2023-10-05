@@ -36,13 +36,16 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Wed, 04 Oct 2023 01:14_
+> _Last updated: Thu, 05 Oct 2023 01:12_
 
 ### ItJobs
 
 #### Aveiro
 
 - **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/469141/test-automation-engineer)
+
+
+- **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/471325/automation-tester)
 
 
 - **Senior Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/470182/senior-test-automation-engineer)
@@ -82,6 +85,9 @@ Jobs
 
 
 - **QA Automation Engineer** @_Premium Minds_ [here](https://www.itjobs.pt/oferta/469886/qa-automation-enginee)
+
+
+- **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/471325/automation-tester)
 
 
 - **QA Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/470978/qa-engineer)
@@ -130,6 +136,9 @@ Jobs
 - **QA Tester Engineer** @_Dellent_ [here](https://www.itjobs.pt/oferta/468867/qa-tester-engineer)
 
 
+- **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/471325/automation-tester)
+
+
 - **Senior Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/470182/senior-test-automation-engineer)
 
 
@@ -156,6 +165,9 @@ Jobs
 #### Remote
 
 - **QA Engineer – Automation Tester (Python/Robot)** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/469526/qa-engineer-automation-tester-python-robot)
+
+
+- **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/471325/automation-tester)
 
 
 - **Automation Tester** @_team.it_ [here](https://www.itjobs.pt/oferta/469593/automation-tester)
