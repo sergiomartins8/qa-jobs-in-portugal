@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sat, 07 Oct 2023 01:11_
+> _Last updated: Sun, 08 Oct 2023 01:17_
 
 ### ItJobs
 
@@ -111,16 +111,10 @@ Jobs
 - **Test Manager** @_Dellent_ [here](https://www.itjobs.pt/oferta/470396/test-manager)
 
 
-- **Junior Business Tester** @_Olisipo_ [here](https://www.itjobs.pt/oferta/470448/junior-business-tester)
-
-
 - **Senior QA Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/469232/qa-automation-tester)
 
 
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/469093/qae)
-
-
-- **Senior Test Manager** @_Olisipo_ [here](https://www.itjobs.pt/oferta/470433/senior-test-manager)
 
 
 - **QA Automation Engineer** @_Neotalent_ [here](https://www.itjobs.pt/oferta/468797/qa-automation-engineer)
@@ -176,9 +170,6 @@ Jobs
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/471325/automation-tester)
 
 
-- **Automation Tester** @_team.it_ [here](https://www.itjobs.pt/oferta/469593/automation-tester)
-
-
 - **Senior Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/470182/senior-test-automation-engineer)
 
 
@@ -195,6 +186,9 @@ Jobs
 
 
 - **Automation Lead Tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/469718/automation-lead-tester)
+
+
+- **QA Engineer (Backend)** @_Blip_ [here](https://www.itjobs.pt/oferta/469537/qa-engineer-backend)
 
 
 - **QA Engineer** @_Devoteam_ [here](https://www.itjobs.pt/oferta/470885/qa-engineer)
