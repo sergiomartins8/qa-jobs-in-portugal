@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Thu, 12 Oct 2023 01:10_
+> _Last updated: Fri, 13 Oct 2023 01:14_
 
 ### ItJobs
 
@@ -64,6 +64,9 @@ Jobs
 
 #### Braga
 
+- **Software Tester** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/471687/software-tester)
+
+
 - **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/470249/qa-engineer)
 
 
@@ -82,6 +85,9 @@ Jobs
 #### Lisboa
 
 - **QA Engineer – Automation Tester (Python/Robot)** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/469526/qa-engineer-automation-tester-python-robot)
+
+
+- **QA Automation Engineer** @_Neotalent_ [here](https://www.itjobs.pt/oferta/471909/qa-automation-engineer)
 
 
 - **QA Automation Engineer** @_Premium Minds_ [here](https://www.itjobs.pt/oferta/469886/qa-automation-enginee)
