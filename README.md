@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Fri, 13 Oct 2023 01:14_
+> _Last updated: Sat, 14 Oct 2023 01:10_
 
 ### ItJobs
 
@@ -131,9 +131,6 @@ Jobs
 
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/471826/qae)
 
-
-- **Automation Tester - QAE** @_KCS IT_ [here](https://www.itjobs.pt/oferta/469953/automation-tester-qae)
-
 #### Porto
 
 - **QA Engineer** @_Neotalent_ [here](https://www.itjobs.pt/oferta/471319/qa-engineer)
@@ -203,10 +200,10 @@ Jobs
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/471826/qae)
 
 
+- **Quality Assurance Engineer** @_Mozantech_ [here](https://www.itjobs.pt/oferta/471990/quality-assurance-engineer)
+
+
 - **Test Automation Engineer** @_team.it_ [here](https://www.itjobs.pt/oferta/470220/test-automation-engineer)
-
-
-- **Automation Tester - QAE** @_KCS IT_ [here](https://www.itjobs.pt/oferta/469953/automation-tester-qae)
 
 
 - **Lead Quality Assurance Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/470180/lead-quality-assurance-engineer)
