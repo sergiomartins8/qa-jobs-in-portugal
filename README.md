@@ -36,16 +36,13 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Tue, 17 Oct 2023 01:13_
+> _Last updated: Wed, 18 Oct 2023 01:13_
 
 ### ItJobs
 
 #### Aveiro
 
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/471325/automation-tester)
-
-
-- **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/471648/test-automation-engineer)
 
 
 - **Senior Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/470182/senior-test-automation-engineer)
@@ -59,9 +56,6 @@ Jobs
 
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/471826/qae)
 
-
-- **Lead Quality Assurance Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/470180/lead-quality-assurance-engineer)
-
 #### Braga
 
 - **Software Tester** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/471687/software-tester)
@@ -74,13 +68,7 @@ Jobs
 
 #### Coimbra
 
-- **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/471648/test-automation-engineer)
-
-
 - **Senior Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/470182/senior-test-automation-engineer)
-
-
-- **Lead Quality Assurance Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/470180/lead-quality-assurance-engineer)
 
 #### Lisboa
 
@@ -91,6 +79,9 @@ Jobs
 
 
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/471325/automation-tester)
+
+
+- **Software Tester (Mid/Senior)** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/472251/software-tester-mid-senior)
 
 
 - **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/470847/quality-assurance-developer)
@@ -136,9 +127,6 @@ Jobs
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/471325/automation-tester)
 
 
-- **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/471648/test-automation-engineer)
-
-
 - **Senior Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/470182/senior-test-automation-engineer)
 
 
@@ -154,9 +142,6 @@ Jobs
 - **QA Analyst** @_Dellent_ [here](https://www.itjobs.pt/oferta/470329/qa-analyst)
 
 
-- **Lead Quality Assurance Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/470180/lead-quality-assurance-engineer)
-
-
 - **QA Tester (SFCC Back-End) (Fashion)** @_Metyis_ [here](https://www.itjobs.pt/oferta/470707/qa-tester-sfcc-back-end-fashion)
 
 #### Remote
@@ -168,9 +153,6 @@ Jobs
 
 
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/471325/automation-tester)
-
-
-- **Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/471648/test-automation-engineer)
 
 
 - **QA Engineer** @_Devoteam_ [here](https://www.itjobs.pt/oferta/470885/qa-engineer)
@@ -194,5 +176,5 @@ Jobs
 - **Test Automation Engineer** @_team.it_ [here](https://www.itjobs.pt/oferta/470220/test-automation-engineer)
 
 
-- **Lead Quality Assurance Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/470180/lead-quality-assurance-engineer)
+- **QA Consultant** @_team.it_ [here](https://www.itjobs.pt/oferta/470202/qa-consultant)
 
