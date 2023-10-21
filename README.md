@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Fri, 20 Oct 2023 01:12_
+> _Last updated: Sat, 21 Oct 2023 01:10_
 
 ### ItJobs
 
@@ -72,10 +72,10 @@ Jobs
 
 #### Lisboa
 
+- **QA Automation Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/472054/qa-automation-engineer)
+
+
 - **QA Automation Engineer** @_Neotalent_ [here](https://www.itjobs.pt/oferta/471909/qa-automation-engineer)
-
-
-- **Senior Test Manager** @_Olisipo_ [here](https://www.itjobs.pt/oferta/471060/senior-test-manager)
 
 
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/471325/automation-tester)
