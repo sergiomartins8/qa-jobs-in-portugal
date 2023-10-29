@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sat, 28 Oct 2023 01:10_
+> _Last updated: Sun, 29 Oct 2023 01:16_
 
 ### ItJobs
 
@@ -155,9 +155,6 @@ Jobs
 
 
 - **Technical QA Expert (App iOS & Android) (Fashion)** @_Metyis_ [here](https://www.itjobs.pt/oferta/471989/technical-qa-expert-app-ios-android-fashion)
-
-
-- **QA Tester (SFCC Back-End) (Fashion)** @_Metyis_ [here](https://www.itjobs.pt/oferta/470707/qa-tester-sfcc-back-end-fashion)
 
 #### Remote
 
