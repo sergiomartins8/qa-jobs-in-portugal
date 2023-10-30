@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sun, 29 Oct 2023 01:16_
+> _Last updated: Mon, 30 Oct 2023 01:13_
 
 ### ItJobs
 
@@ -103,9 +103,6 @@ Jobs
 
 
 - **Automation Tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/471552/automation-tester)
-
-
-- **Quality Assurance Specialist** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/471618/quality-assurance-specialist)
 
 
 - **Software Quality Assurance Engineer** @_Documática - Documentos & Imagem_ [here](https://www.itjobs.pt/oferta/472477/software-quality-assurance-engineer)
