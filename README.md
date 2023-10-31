@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Mon, 30 Oct 2023 01:13_
+> _Last updated: Tue, 31 Oct 2023 01:13_
 
 ### ItJobs
 
@@ -145,13 +145,13 @@ Jobs
 - **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/472824/qa-engineer)
 
 
-- **QA Analyst** @_Dellent_ [here](https://www.itjobs.pt/oferta/470329/qa-analyst)
+- **Quality Assurance Tester** @_VideoSmart Ltd_ [here](https://www.itjobs.pt/oferta/473036/quality-assurance-tester)
 
 
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/472451/quality-assurance-engineer)
 
 
-- **Technical QA Expert (App iOS & Android) (Fashion)** @_Metyis_ [here](https://www.itjobs.pt/oferta/471989/technical-qa-expert-app-ios-android-fashion)
+- **QA Tester (SFCC Back-End)** @_Metyis_ [here](https://www.itjobs.pt/oferta/473150/qa-tester-sfcc-back-end-fashion)
 
 #### Remote
 
@@ -170,6 +170,9 @@ Jobs
 - **Senior Quality Assurance Automation (mobility area)** @_Dellent_ [here](https://www.itjobs.pt/oferta/472021/senior-quality-assurance-automation-mobility-area)
 
 
+- **Quality Assurance Tester** @_VideoSmart Ltd_ [here](https://www.itjobs.pt/oferta/473036/quality-assurance-tester)
+
+
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/472451/quality-assurance-engineer)
 
 
@@ -180,9 +183,6 @@ Jobs
 
 
 - **Software Quality Assurance Engineer** @_Documática - Documentos & Imagem_ [here](https://www.itjobs.pt/oferta/472477/software-quality-assurance-engineer)
-
-
-- **QA Engineer** @_Devoteam_ [here](https://www.itjobs.pt/oferta/470885/qa-engineer)
 
 
 - **Junior Test Automation Engineer** @_La Redoute Portugal_ [here](https://www.itjobs.pt/oferta/472454/junior-test-automation-engineer)
