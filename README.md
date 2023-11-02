@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Wed, 01 Nov 2023 01:17_
+> _Last updated: Thu, 02 Nov 2023 01:12_
 
 ### ItJobs
 
@@ -111,10 +111,10 @@ Jobs
 - **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/471587/quality-assurance-tester)
 
 
-- **Test Manager** @_Dellent_ [here](https://www.itjobs.pt/oferta/470396/test-manager)
-
-
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/471826/qae)
+
+
+- **QA Engineer – IoT Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/472878/qa-engineer-iot-tester)
 
 
 - **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/472824/qa-engineer)
@@ -128,6 +128,9 @@ Jobs
 
 
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/471325/automation-tester)
+
+
+- **QAE** @_KCS IT_ [here](https://www.itjobs.pt/oferta/473001/qae)
 
 
 - **QA Engineer** @_Neotalent_ [here](https://www.itjobs.pt/oferta/471315/qa-engineer)
@@ -201,6 +204,9 @@ Jobs
 
 
 - **Quality Assurance Engineer** @_Mozantech_ [here](https://www.itjobs.pt/oferta/471990/quality-assurance-engineer)
+
+
+- **QA Engineer – IoT Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/472878/qa-engineer-iot-tester)
 
 
 - **Test Engineer** @_Rumos Consulting_ [here](https://www.itjobs.pt/oferta/472708/test-engineer)
