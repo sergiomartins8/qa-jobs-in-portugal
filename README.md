@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sun, 05 Nov 2023 01:17_
+> _Last updated: Mon, 06 Nov 2023 01:16_
 
 ### ItJobs
 
@@ -51,15 +51,9 @@ Jobs
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/471826/qae)
 
 
-- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/472824/qa-engineer)
-
-
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/472451/quality-assurance-engineer)
 
 #### Braga
-
-- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/472824/qa-engineer)
-
 
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/472451/quality-assurance-engineer)
 
@@ -114,7 +108,7 @@ Jobs
 - **QA Engineer – IoT Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/472878/qa-engineer-iot-tester)
 
 
-- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/472824/qa-engineer)
+- **Automation Lead Tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/472957/automation-lead-tester)
 
 #### Porto
 
@@ -157,7 +151,7 @@ Jobs
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/471826/qae)
 
 
-- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/472824/qa-engineer)
+- **Technical QA Expert (App iOS & Android) (Fashion)** @_Metyis_ [here](https://www.itjobs.pt/oferta/471989/technical-qa-expert-app-ios-android-fashion)
 
 #### Remote
 
@@ -207,6 +201,9 @@ Jobs
 
 
 - **Test Engineer** @_Rumos Consulting_ [here](https://www.itjobs.pt/oferta/472708/test-engineer)
+
+
+- **Automation Lead Tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/472957/automation-lead-tester)
 
 
 - **QA Engineer** @_Devoteam_ [here](https://www.itjobs.pt/oferta/473289/qa-engineer)
