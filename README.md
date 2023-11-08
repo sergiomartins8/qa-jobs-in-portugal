@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Tue, 07 Nov 2023 01:14_
+> _Last updated: Wed, 08 Nov 2023 01:13_
 
 ### ItJobs
 
@@ -73,6 +73,9 @@ Jobs
 
 
 - **QA Automation Engineer** @_Neotalent_ [here](https://www.itjobs.pt/oferta/471909/qa-automation-engineer)
+
+
+- **TOSCA Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/473322/tosca-tester)
 
 
 - **Software Tester (Mid/Senior)** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/472251/software-tester-mid-senior)
@@ -159,6 +162,9 @@ Jobs
 
 
 - **Senior Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/472816/senior-test-automation-engineer)
+
+
+- **TOSCA Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/473322/tosca-tester)
 
 
 - **QA (functional)** @_Devoteam_ [here](https://www.itjobs.pt/oferta/473407/qa-functional)
