@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Wed, 08 Nov 2023 01:13_
+> _Last updated: Thu, 09 Nov 2023 01:14_
 
 ### ItJobs
 
@@ -75,9 +75,6 @@ Jobs
 - **QA Automation Engineer** @_Neotalent_ [here](https://www.itjobs.pt/oferta/471909/qa-automation-engineer)
 
 
-- **TOSCA Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/473322/tosca-tester)
-
-
 - **Software Tester (Mid/Senior)** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/472251/software-tester-mid-senior)
 
 
@@ -85,6 +82,9 @@ Jobs
 
 
 - **Senior Quality Assurance Automation (mobility area)** @_Dellent_ [here](https://www.itjobs.pt/oferta/472021/senior-quality-assurance-automation-mobility-area)
+
+
+- **Selenium Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/473320/selenium-tester)
 
 
 - **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/472851/quality-assurance-tester)
@@ -130,9 +130,6 @@ Jobs
 - **QA Tester Engineer** @_Dellent_ [here](https://www.itjobs.pt/oferta/472370/qa-tester-engineer)
 
 
-- **QA Engineer** @_Neotalent_ [here](https://www.itjobs.pt/oferta/471319/qa-engineer)
-
-
 - **Senior Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/472816/senior-test-automation-engineer)
 
 
@@ -176,6 +173,9 @@ Jobs
 - **Senior Quality Assurance Automation (mobility area)** @_Dellent_ [here](https://www.itjobs.pt/oferta/472021/senior-quality-assurance-automation-mobility-area)
 
 
+- **Selenium Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/473320/selenium-tester)
+
+
 - **Quality Assurance Tester** @_VideoSmart Ltd_ [here](https://www.itjobs.pt/oferta/473036/quality-assurance-tester)
 
 
@@ -183,9 +183,6 @@ Jobs
 
 
 - **QA Tester Engineer** @_Dellent_ [here](https://www.itjobs.pt/oferta/472370/qa-tester-engineer)
-
-
-- **QA Engineer** @_Neotalent_ [here](https://www.itjobs.pt/oferta/471319/qa-engineer)
 
 
 - **Software Quality Assurance Engineer** @_Documática - Documentos & Imagem_ [here](https://www.itjobs.pt/oferta/472477/software-quality-assurance-engineer)
