@@ -36,13 +36,16 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Thu, 09 Nov 2023 01:14_
+> _Last updated: Fri, 10 Nov 2023 01:13_
 
 ### ItJobs
 
 #### Aveiro
 
 - **Senior Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/472816/senior-test-automation-engineer)
+
+
+- **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/473709/automation-tester)
 
 
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/471826/qae)
@@ -84,9 +87,6 @@ Jobs
 - **Senior Quality Assurance Automation (mobility area)** @_Dellent_ [here](https://www.itjobs.pt/oferta/472021/senior-quality-assurance-automation-mobility-area)
 
 
-- **Selenium Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/473320/selenium-tester)
-
-
 - **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/472851/quality-assurance-tester)
 
 
@@ -100,6 +100,9 @@ Jobs
 
 
 - **Automation Tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/471552/automation-tester)
+
+
+- **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/473709/automation-tester)
 
 
 - **Software Quality Assurance Engineer** @_Documática - Documentos & Imagem_ [here](https://www.itjobs.pt/oferta/472477/software-quality-assurance-engineer)
@@ -133,6 +136,9 @@ Jobs
 - **Senior Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/472816/senior-test-automation-engineer)
 
 
+- **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/473709/automation-tester)
+
+
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/471826/qae)
 
 
@@ -148,9 +154,6 @@ Jobs
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/472451/quality-assurance-engineer)
 
 
-- **Technical QA Expert (App iOS & Android) (Fashion)** @_Metyis_ [here](https://www.itjobs.pt/oferta/471989/technical-qa-expert-app-ios-android-fashion)
-
-
 - **QA Tester (SFCC Back-End)** @_Metyis_ [here](https://www.itjobs.pt/oferta/473150/qa-tester-sfcc-back-end-fashion)
 
 #### Remote
@@ -164,13 +167,13 @@ Jobs
 - **TOSCA Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/473322/tosca-tester)
 
 
-- **QA (functional)** @_Devoteam_ [here](https://www.itjobs.pt/oferta/473407/qa-functional)
-
-
 - **Quality Assurance Engineer** @_KCS IT_ [here](https://www.itjobs.pt/oferta/472968/quality-assurance-engineer)
 
 
 - **Senior Quality Assurance Automation (mobility area)** @_Dellent_ [here](https://www.itjobs.pt/oferta/472021/senior-quality-assurance-automation-mobility-area)
+
+
+- **QA Engineer** @_Neotalent_ [here](https://www.itjobs.pt/oferta/473966/qa-engineer)
 
 
 - **Selenium Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/473320/selenium-tester)
@@ -183,6 +186,9 @@ Jobs
 
 
 - **QA Tester Engineer** @_Dellent_ [here](https://www.itjobs.pt/oferta/472370/qa-tester-engineer)
+
+
+- **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/473709/automation-tester)
 
 
 - **Software Quality Assurance Engineer** @_Documática - Documentos & Imagem_ [here](https://www.itjobs.pt/oferta/472477/software-quality-assurance-engineer)
