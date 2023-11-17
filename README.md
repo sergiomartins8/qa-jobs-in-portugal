@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Thu, 16 Nov 2023 01:16_
+> _Last updated: Fri, 17 Nov 2023 01:16_
 
 ### ItJobs
 
@@ -58,6 +58,9 @@ Jobs
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/474178/quality-assurance-engineer)
 
 
+- **Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/474284/automation-tester)
+
+
 - **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/472824/qa-engineer)
 
 
@@ -66,6 +69,9 @@ Jobs
 #### Coimbra
 
 - **Senior Test Automation Engineer** @_Mindera_ [here](https://www.itjobs.pt/oferta/472816/senior-test-automation-engineer)
+
+
+- **Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/474284/automation-tester)
 
 #### Lisboa
 
@@ -100,6 +106,9 @@ Jobs
 
 
 - **Software Quality Assurance Engineer** @_Documática - Documentos & Imagem_ [here](https://www.itjobs.pt/oferta/472477/software-quality-assurance-engineer)
+
+
+- **Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/474284/automation-tester)
 
 
 - **QA Engineer – IoT Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/472878/qa-engineer-iot-tester)
@@ -154,6 +163,9 @@ Jobs
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/473709/automation-tester)
 
 
+- **Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/474284/automation-tester)
+
+
 - **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/472824/qa-engineer)
 
 
@@ -195,6 +207,9 @@ Jobs
 
 
 - **Junior Test Automation Engineer** @_La Redoute Portugal_ [here](https://www.itjobs.pt/oferta/472454/junior-test-automation-engineer)
+
+
+- **Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/474284/automation-tester)
 
 
 - **QA Engineer – IoT Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/472878/qa-engineer-iot-tester)
