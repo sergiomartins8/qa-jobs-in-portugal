@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sun, 19 Nov 2023 01:20_
+> _Last updated: Mon, 20 Nov 2023 01:17_
 
 ### ItJobs
 
@@ -76,9 +76,6 @@ Jobs
 #### Lisboa
 
 - **QA Engineer – Automation Tester (Python/Robot)** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/472355/qa-engineer-automation-tester-python-robot)
-
-
-- **Software Tester (Mid/Senior)** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/472251/software-tester-mid-senior)
 
 
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/474178/quality-assurance-engineer)
