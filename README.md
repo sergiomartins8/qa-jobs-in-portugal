@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Tue, 28 Nov 2023 01:17_
+> _Last updated: Wed, 29 Nov 2023 01:17_
 
 ### ItJobs
 
@@ -69,7 +69,19 @@ Jobs
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/474303/qae)
 
 
+- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/474178/quality-assurance-engineer)
+
+
+- **Senior QA Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/474179/senior-qa-automation-tester)
+
+
+- **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/474333/quality-assurance-developer)
+
+
 - **Software Tester (Mid/Senior)** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/474673/software-tester-mid-senior)
+
+
+- **Automation Tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/474423/automation-tester)
 
 
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/473709/automation-tester)
@@ -81,13 +93,7 @@ Jobs
 - **QA Automation Engineer** @_Neotalent_ [here](https://www.itjobs.pt/oferta/474474/qa-automation-engineer)
 
 
-- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/474178/quality-assurance-engineer)
-
-
 - **Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/474284/automation-tester)
-
-
-- **Senior QA Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/474179/senior-qa-automation-tester)
 
 
 - **QA Engineer – IoT Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/472878/qa-engineer-iot-tester)
@@ -98,18 +104,15 @@ Jobs
 
 - **Test Manager** @_Dellent_ [here](https://www.itjobs.pt/oferta/472864/test-manager)
 
-
-- **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/474333/quality-assurance-developer)
-
 #### Porto
 
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/474303/qae)
 
 
+- **Quality Assurance Engineer** @_Ebankit - Omnichannel Innovation_ [here](https://www.itjobs.pt/oferta/475160/quality-assurance-engineer)
+
+
 - **QA Analyst** @_Dellent_ [here](https://www.itjobs.pt/oferta/473270/qa-analyst)
-
-
-- **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/473709/automation-tester)
 
 
 - **QA Engineer** @_Neotalent_ [here](https://www.itjobs.pt/oferta/473970/qa-engineer)
@@ -121,9 +124,6 @@ Jobs
 - **QA Automático** @_KWAN_ [here](https://www.itjobs.pt/oferta/474642/qa-automatico)
 
 
-- **Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/474284/automation-tester)
-
-
 - **QA Engineer** @_Neotalent_ [here](https://www.itjobs.pt/oferta/473966/qa-engineer)
 
 
@@ -133,10 +133,16 @@ Jobs
 - **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/474333/quality-assurance-developer)
 
 
-- **Quality Assurance Engineer** @_Critical Manufacturing_ [here](https://www.itjobs.pt/oferta/473169/frontend-engineer)
-
-
 - **QA Tester (SFCC Back-End)** @_Metyis_ [here](https://www.itjobs.pt/oferta/473150/qa-tester-sfcc-back-end-fashion)
+
+
+- **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/473709/automation-tester)
+
+
+- **Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/474284/automation-tester)
+
+
+- **Quality Assurance Engineer** @_Critical Manufacturing_ [here](https://www.itjobs.pt/oferta/473169/frontend-engineer)
 
 #### Remote
 
@@ -158,6 +164,12 @@ Jobs
 - **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/474333/quality-assurance-developer)
 
 
+- **Test Engineer** @_Rumos Consulting_ [here](https://www.itjobs.pt/oferta/474999/test-engineer)
+
+
+- **Automation Tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/474423/automation-tester)
+
+
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/473709/automation-tester)
 
 
@@ -165,9 +177,6 @@ Jobs
 
 
 - **Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/474284/automation-tester)
-
-
-- **QA Engineer – IoT Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/472878/qa-engineer-iot-tester)
 
 
 - **Automation Lead Tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/472957/automation-lead-tester)
