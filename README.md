@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Wed, 29 Nov 2023 01:17_
+> _Last updated: Thu, 30 Nov 2023 01:15_
 
 ### ItJobs
 
@@ -102,6 +102,9 @@ Jobs
 - **Automation Lead Tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/472957/automation-lead-tester)
 
 
+- **Automation Tester** @_Olisipo_ [here](https://www.itjobs.pt/oferta/473815/automation-tester)
+
+
 - **Test Manager** @_Dellent_ [here](https://www.itjobs.pt/oferta/472864/test-manager)
 
 #### Porto
@@ -121,9 +124,6 @@ Jobs
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/474178/quality-assurance-engineer)
 
 
-- **QA Automático** @_KWAN_ [here](https://www.itjobs.pt/oferta/474642/qa-automatico)
-
-
 - **QA Engineer** @_Neotalent_ [here](https://www.itjobs.pt/oferta/473966/qa-engineer)
 
 
@@ -134,6 +134,9 @@ Jobs
 
 
 - **QA Tester (SFCC Back-End)** @_Metyis_ [here](https://www.itjobs.pt/oferta/473150/qa-tester-sfcc-back-end-fashion)
+
+
+- **Software Test Developer** @_akapeople_ [here](https://www.itjobs.pt/oferta/475176/software-test-developer)
 
 
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/473709/automation-tester)
