@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sat, 02 Dec 2023 01:13_
+> _Last updated: Sun, 03 Dec 2023 01:20_
 
 ### ItJobs
 
@@ -49,6 +49,9 @@ Jobs
 
 
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/475241/quality-assurance-engineer)
+
+
+- **Test Automation Engineer** @_Olisipo_ [here](https://www.itjobs.pt/oferta/473940/test-automation-engineer)
 
 
 - **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/475240/qa-engineer)
@@ -81,9 +84,6 @@ Jobs
 - **Senior QA Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/474179/senior-qa-automation-tester)
 
 
-- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/475240/qa-engineer)
-
-
 - **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/474333/quality-assurance-developer)
 
 
@@ -100,6 +100,9 @@ Jobs
 
 
 - **QA Automation Engineer** @_Neotalent_ [here](https://www.itjobs.pt/oferta/474474/qa-automation-engineer)
+
+
+- **QA Automation** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/474946/qa-automation)
 
 
 - **Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/474284/automation-tester)
@@ -148,9 +151,6 @@ Jobs
 - **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/474333/quality-assurance-developer)
 
 
-- **QA Tester (SFCC Back-End)** @_Metyis_ [here](https://www.itjobs.pt/oferta/473150/qa-tester-sfcc-back-end-fashion)
-
-
 - **Software Test Developer** @_akapeople_ [here](https://www.itjobs.pt/oferta/475176/software-test-developer)
 
 
@@ -195,6 +195,9 @@ Jobs
 
 
 - **QA Automation** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/474808/qa-automation)
+
+
+- **QA Automation** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/474946/qa-automation)
 
 
 - **Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/474284/automation-tester)
