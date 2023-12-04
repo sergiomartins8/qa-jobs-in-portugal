@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sun, 03 Dec 2023 01:20_
+> _Last updated: Mon, 04 Dec 2023 01:16_
 
 ### ItJobs
 
@@ -204,9 +204,6 @@ Jobs
 
 
 - **Automation Lead Tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/472957/automation-lead-tester)
-
-
-- **QA Engineer** @_Devoteam_ [here](https://www.itjobs.pt/oferta/473289/qa-engineer)
 
 
 - **Quality Assurance (QA) Junior** @_CITEVE - Centro Tecnológico das Indústrias Têxtil e Vestuário de Portugal_ [here](https://www.itjobs.pt/oferta/474083/quality-assurance-qa-junior)
