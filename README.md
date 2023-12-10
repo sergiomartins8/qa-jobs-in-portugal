@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sat, 09 Dec 2023 01:14_
+> _Last updated: Sun, 10 Dec 2023 01:21_
 
 ### ItJobs
 
@@ -102,6 +102,9 @@ Jobs
 - **Automation Tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/474423/automation-tester)
 
 
+- **Test Environment Engineer** @_Dellent_ [here](https://www.itjobs.pt/oferta/475043/test-environment-engineer)
+
+
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/473709/automation-tester)
 
 
@@ -118,9 +121,6 @@ Jobs
 
 
 - **Automation Tester** @_Olisipo_ [here](https://www.itjobs.pt/oferta/473815/automation-tester)
-
-
-- **Test Manager** @_Dellent_ [here](https://www.itjobs.pt/oferta/472864/test-manager)
 
 #### Porto
 
@@ -198,6 +198,9 @@ Jobs
 
 
 - **Automation Tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/474423/automation-tester)
+
+
+- **Test Environment Engineer** @_Dellent_ [here](https://www.itjobs.pt/oferta/475043/test-environment-engineer)
 
 
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/473709/automation-tester)
