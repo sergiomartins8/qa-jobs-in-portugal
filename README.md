@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Thu, 14 Dec 2023 01:15_
+> _Last updated: Fri, 15 Dec 2023 01:18_
 
 ### ItJobs
 
@@ -90,6 +90,9 @@ Jobs
 - **QA Automation Developer** @_Olisipo_ [here](https://www.itjobs.pt/oferta/473948/qa-automation-developer)
 
 
+- **Test Automation / Java Developer** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/475365/test-automation-java-developer)
+
+
 - **QA Engineer – Automation Tester (Python/Robot)** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/475054/qa-engineer-automation-tester-python-robot)
 
 
@@ -130,19 +133,25 @@ Jobs
 - **Quality Assurance Engineer** @_Ebankit - Omnichannel Innovation_ [here](https://www.itjobs.pt/oferta/475160/quality-assurance-engineer)
 
 
-- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/475817/quality-assurance-engineer)
-
-
 - **QA Lead** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/475148/qa-lead)
-
-
-- **Software Test Developer** @_akapeople_ [here](https://www.itjobs.pt/oferta/475433/software-test-developer)
 
 
 - **Senior QA Automation tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/474881/senior-qa-automation-tester)
 
 
 - **QA Engineer** @_Neotalent_ [here](https://www.itjobs.pt/oferta/473970/qa-engineer)
+
+
+- **Functional Quality Assurance** @_akapeople_ [here](https://www.itjobs.pt/oferta/475916/functional-quality-assurance-m-f)
+
+
+- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/475240/qa-engineer)
+
+
+- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/475817/quality-assurance-engineer)
+
+
+- **Software Test Developer** @_akapeople_ [here](https://www.itjobs.pt/oferta/475433/software-test-developer)
 
 
 - **Quality Assurance Engineer** @_akapeople_ [here](https://www.itjobs.pt/oferta/475600/quality-assurance-engineer)
@@ -152,9 +161,6 @@ Jobs
 
 
 - **Banking Sector - QA Automation** @_Devoteam_ [here](https://www.itjobs.pt/oferta/475678/banking-sector-qa-automation)
-
-
-- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/475240/qa-engineer)
 
 #### Remote
 
@@ -171,6 +177,9 @@ Jobs
 
 
 - **QA Engineer – IoT Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/475744/qa-engineer-iot-tester)
+
+
+- **Test Automation / Java Developer** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/475365/test-automation-java-developer)
 
 
 - **Test Automation Engineer** @_team.it_ [here](https://www.itjobs.pt/oferta/475607/test-automation-engineer)
