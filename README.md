@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Fri, 15 Dec 2023 01:18_
+> _Last updated: Sat, 16 Dec 2023 01:16_
 
 ### ItJobs
 
@@ -176,6 +176,9 @@ Jobs
 - **.NET Developer and Automation Tester** @_Olisipo_ [here](https://www.itjobs.pt/oferta/474097/net-developer-and-automation-tester)
 
 
+- **Test Automation Engineer** @_YellowIpe_ [here](https://www.itjobs.pt/oferta/475808/test-automation-engineer-qa-automation104-399)
+
+
 - **QA Engineer – IoT Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/475744/qa-engineer-iot-tester)
 
 
@@ -207,7 +210,4 @@ Jobs
 
 
 - **Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/474284/automation-tester)
-
-
-- **QA Architect (Data)** @_Dellent_ [here](https://www.itjobs.pt/oferta/475101/qa-architect-data)
 
