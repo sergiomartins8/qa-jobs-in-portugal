@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sat, 16 Dec 2023 01:16_
+> _Last updated: Sun, 17 Dec 2023 01:21_
 
 ### ItJobs
 
@@ -133,34 +133,31 @@ Jobs
 - **Quality Assurance Engineer** @_Ebankit - Omnichannel Innovation_ [here](https://www.itjobs.pt/oferta/475160/quality-assurance-engineer)
 
 
-- **QA Lead** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/475148/qa-lead)
-
-
-- **Senior QA Automation tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/474881/senior-qa-automation-tester)
-
-
-- **QA Engineer** @_Neotalent_ [here](https://www.itjobs.pt/oferta/473970/qa-engineer)
-
-
-- **Functional Quality Assurance** @_akapeople_ [here](https://www.itjobs.pt/oferta/475916/functional-quality-assurance-m-f)
-
-
-- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/475240/qa-engineer)
-
-
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/475817/quality-assurance-engineer)
+
+
+- **QA Lead** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/475148/qa-lead)
 
 
 - **Software Test Developer** @_akapeople_ [here](https://www.itjobs.pt/oferta/475433/software-test-developer)
 
 
+- **Senior QA Automation tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/474881/senior-qa-automation-tester)
+
+
 - **Quality Assurance Engineer** @_akapeople_ [here](https://www.itjobs.pt/oferta/475600/quality-assurance-engineer)
+
+
+- **Functional Quality Assurance** @_akapeople_ [here](https://www.itjobs.pt/oferta/475916/functional-quality-assurance-m-f)
 
 
 - **Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/474284/automation-tester)
 
 
 - **Banking Sector - QA Automation** @_Devoteam_ [here](https://www.itjobs.pt/oferta/475678/banking-sector-qa-automation)
+
+
+- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/475240/qa-engineer)
 
 #### Remote
 
@@ -170,7 +167,7 @@ Jobs
 - **Senior QA Automation tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/474881/senior-qa-automation-tester)
 
 
-- **QA Engineer** @_Neotalent_ [here](https://www.itjobs.pt/oferta/473970/qa-engineer)
+- **TOSCA Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/475707/tosca-tester)
 
 
 - **.NET Developer and Automation Tester** @_Olisipo_ [here](https://www.itjobs.pt/oferta/474097/net-developer-and-automation-tester)
