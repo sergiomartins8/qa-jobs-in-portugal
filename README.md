@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sun, 17 Dec 2023 01:21_
+> _Last updated: Mon, 18 Dec 2023 01:17_
 
 ### ItJobs
 
@@ -49,6 +49,9 @@ Jobs
 
 
 - **Test Automation Engineer** @_Olisipo_ [here](https://www.itjobs.pt/oferta/473940/test-automation-engineer)
+
+
+- **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/475825/automation-tester)
 
 
 - **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/475240/qa-engineer)
@@ -68,17 +71,20 @@ Jobs
 - **Quality Assurance Specialist** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/475589/quality-assurance-specialist)
 
 
+- **Senior Test Automation Architect** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/475520/senior-test-automation-architect)
+
+
 - **Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/474284/automation-tester)
 
 #### Lisboa
-
-- **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/474303/qae)
-
 
 - **Quality Assurance Consultant** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/475223/qualtiy-assurance-consultant)
 
 
 - **.NET Developer and Automation Tester** @_Olisipo_ [here](https://www.itjobs.pt/oferta/474097/net-developer-and-automation-tester)
+
+
+- **Senior Test Automation Architect** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/475520/senior-test-automation-architect)
 
 
 - **Senior QA Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/474179/senior-qa-automation-tester)
@@ -120,6 +126,9 @@ Jobs
 - **Banking Sector - QA Automation** @_Devoteam_ [here](https://www.itjobs.pt/oferta/475678/banking-sector-qa-automation)
 
 
+- **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/475825/automation-tester)
+
+
 - **Automation Tester** @_Olisipo_ [here](https://www.itjobs.pt/oferta/473815/automation-tester)
 
 #### Porto
@@ -133,22 +142,28 @@ Jobs
 - **Quality Assurance Engineer** @_Ebankit - Omnichannel Innovation_ [here](https://www.itjobs.pt/oferta/475160/quality-assurance-engineer)
 
 
-- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/475817/quality-assurance-engineer)
-
-
 - **QA Lead** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/475148/qa-lead)
-
-
-- **Software Test Developer** @_akapeople_ [here](https://www.itjobs.pt/oferta/475433/software-test-developer)
 
 
 - **Senior QA Automation tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/474881/senior-qa-automation-tester)
 
 
-- **Quality Assurance Engineer** @_akapeople_ [here](https://www.itjobs.pt/oferta/475600/quality-assurance-engineer)
-
-
 - **Functional Quality Assurance** @_akapeople_ [here](https://www.itjobs.pt/oferta/475916/functional-quality-assurance-m-f)
+
+
+- **Senior Test Automation Architect** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/475520/senior-test-automation-architect)
+
+
+- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/475240/qa-engineer)
+
+
+- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/475817/quality-assurance-engineer)
+
+
+- **Software Test Developer** @_akapeople_ [here](https://www.itjobs.pt/oferta/475433/software-test-developer)
+
+
+- **Quality Assurance Engineer** @_akapeople_ [here](https://www.itjobs.pt/oferta/475600/quality-assurance-engineer)
 
 
 - **Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/474284/automation-tester)
@@ -157,7 +172,7 @@ Jobs
 - **Banking Sector - QA Automation** @_Devoteam_ [here](https://www.itjobs.pt/oferta/475678/banking-sector-qa-automation)
 
 
-- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/475240/qa-engineer)
+- **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/475825/automation-tester)
 
 #### Remote
 
@@ -165,9 +180,6 @@ Jobs
 
 
 - **Senior QA Automation tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/474881/senior-qa-automation-tester)
-
-
-- **TOSCA Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/475707/tosca-tester)
 
 
 - **.NET Developer and Automation Tester** @_Olisipo_ [here](https://www.itjobs.pt/oferta/474097/net-developer-and-automation-tester)
@@ -207,4 +219,7 @@ Jobs
 
 
 - **Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/474284/automation-tester)
+
+
+- **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/475825/automation-tester)
 
