@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Mon, 18 Dec 2023 01:17_
+> _Last updated: Tue, 19 Dec 2023 01:16_
 
 ### ItJobs
 
@@ -85,9 +85,6 @@ Jobs
 
 
 - **Senior Test Automation Architect** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/475520/senior-test-automation-architect)
-
-
-- **Senior QA Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/474179/senior-qa-automation-tester)
 
 
 - **QA Engineer – IoT Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/475744/qa-engineer-iot-tester)
@@ -142,9 +139,6 @@ Jobs
 - **Quality Assurance Engineer** @_Ebankit - Omnichannel Innovation_ [here](https://www.itjobs.pt/oferta/475160/quality-assurance-engineer)
 
 
-- **QA Lead** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/475148/qa-lead)
-
-
 - **Senior QA Automation tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/474881/senior-qa-automation-tester)
 
 
@@ -158,6 +152,9 @@ Jobs
 
 
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/475817/quality-assurance-engineer)
+
+
+- **QA Automation Engineer** @_Neotalent_ [here](https://www.itjobs.pt/oferta/475902/qa-automation-engineer)
 
 
 - **Software Test Developer** @_akapeople_ [here](https://www.itjobs.pt/oferta/475433/software-test-developer)
@@ -175,9 +172,6 @@ Jobs
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/475825/automation-tester)
 
 #### Remote
-
-- **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/474303/qae)
-
 
 - **Senior QA Automation tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/474881/senior-qa-automation-tester)
 
@@ -210,6 +204,9 @@ Jobs
 
 
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/475817/quality-assurance-engineer)
+
+
+- **QA Automation Engineer** @_Neotalent_ [here](https://www.itjobs.pt/oferta/475902/qa-automation-engineer)
 
 
 - **QA Automation** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/474808/qa-automation)
