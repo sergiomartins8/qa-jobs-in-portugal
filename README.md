@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Wed, 20 Dec 2023 01:02_
+> _Last updated: Thu, 21 Dec 2023 01:14_
 
 ### ItJobs
 
@@ -64,9 +64,6 @@ Jobs
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/475817/quality-assurance-engineer)
 
 
-- **Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/474284/automation-tester)
-
-
 - **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/475240/qa-engineer)
 
 #### Coimbra
@@ -77,12 +74,12 @@ Jobs
 - **Senior Test Automation Architect** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/475520/senior-test-automation-architect)
 
 
-- **Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/474284/automation-tester)
-
-
 - **QA Manual** @_Dellent_ [here](https://www.itjobs.pt/oferta/475266/qa-manual)
 
 #### Lisboa
+
+- **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/474303/qae)
+
 
 - **.NET Developer and Automation Tester** @_Olisipo_ [here](https://www.itjobs.pt/oferta/474097/net-developer-and-automation-tester)
 
@@ -121,9 +118,6 @@ Jobs
 
 
 - **QA Automation** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/474946/qa-automation)
-
-
-- **Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/474284/automation-tester)
 
 
 - **Banking Sector - QA Automation** @_Devoteam_ [here](https://www.itjobs.pt/oferta/475678/banking-sector-qa-automation)
@@ -170,9 +164,6 @@ Jobs
 
 
 - **Quality Assurance Engineer** @_akapeople_ [here](https://www.itjobs.pt/oferta/475600/quality-assurance-engineer)
-
-
-- **Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/474284/automation-tester)
 
 
 - **Banking Sector - QA Automation** @_Devoteam_ [here](https://www.itjobs.pt/oferta/475678/banking-sector-qa-automation)
@@ -225,9 +216,6 @@ Jobs
 
 
 - **QA Automation** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/474946/qa-automation)
-
-
-- **Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/474284/automation-tester)
 
 
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/475825/automation-tester)
