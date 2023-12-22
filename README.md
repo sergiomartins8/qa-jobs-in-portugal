@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Thu, 21 Dec 2023 01:14_
+> _Last updated: Fri, 22 Dec 2023 01:14_
 
 ### ItJobs
 
@@ -111,6 +111,9 @@ Jobs
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/475817/quality-assurance-engineer)
 
 
+- **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/476214/quality-assurance-tester)
+
+
 - **QA Automation** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/474808/qa-automation)
 
 
@@ -163,6 +166,9 @@ Jobs
 - **Software Test Developer** @_akapeople_ [here](https://www.itjobs.pt/oferta/475433/software-test-developer)
 
 
+- **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/476214/quality-assurance-tester)
+
+
 - **Quality Assurance Engineer** @_akapeople_ [here](https://www.itjobs.pt/oferta/475600/quality-assurance-engineer)
 
 
@@ -210,6 +216,9 @@ Jobs
 
 
 - **QA Automation Engineer** @_Neotalent_ [here](https://www.itjobs.pt/oferta/475902/qa-automation-engineer)
+
+
+- **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/476214/quality-assurance-tester)
 
 
 - **QA Automation** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/474808/qa-automation)
