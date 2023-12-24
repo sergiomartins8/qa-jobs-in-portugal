@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sat, 23 Dec 2023 01:12_
+> _Last updated: Sun, 24 Dec 2023 01:19_
 
 ### ItJobs
 
@@ -64,6 +64,9 @@ Jobs
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/475817/quality-assurance-engineer)
 
 
+- **QA Automation Engineer** @_Eidosmedia_ [here](https://www.itjobs.pt/oferta/476352/qa-automation-engineer)
+
+
 - **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/475240/qa-engineer)
 
 #### Coimbra
@@ -78,7 +81,7 @@ Jobs
 
 #### Lisboa
 
-- **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/474303/qae)
+- **QA Automation Engineer** @_Eidosmedia_ [here](https://www.itjobs.pt/oferta/476352/qa-automation-engineer)
 
 
 - **.NET Developer and Automation Tester** @_Olisipo_ [here](https://www.itjobs.pt/oferta/474097/net-developer-and-automation-tester)
@@ -145,6 +148,9 @@ Jobs
 - **Quality Assurance Engineer** @_Ebankit - Omnichannel Innovation_ [here](https://www.itjobs.pt/oferta/475160/quality-assurance-engineer)
 
 
+- **QA Automation Engineer** @_Eidosmedia_ [here](https://www.itjobs.pt/oferta/476352/qa-automation-engineer)
+
+
 - **Senior QA Automation tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/474881/senior-qa-automation-tester)
 
 
@@ -181,6 +187,9 @@ Jobs
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/475825/automation-tester)
 
 #### Remote
+
+- **QA Automation Engineer** @_Eidosmedia_ [here](https://www.itjobs.pt/oferta/476352/qa-automation-engineer)
+
 
 - **Senior QA Automation tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/474881/senior-qa-automation-tester)
 
