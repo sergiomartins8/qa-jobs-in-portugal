@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Mon, 25 Dec 2023 01:16_
+> _Last updated: Tue, 26 Dec 2023 01:13_
 
 ### ItJobs
 
@@ -118,9 +118,6 @@ Jobs
 
 
 - **QA Automation** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/474808/qa-automation)
-
-
-- **QA Automation Engineer** @_Neotalent_ [here](https://www.itjobs.pt/oferta/474474/qa-automation-engineer)
 
 
 - **QA Automation** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/474946/qa-automation)
