@@ -36,14 +36,11 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Wed, 27 Dec 2023 01:13_
+> _Last updated: Thu, 28 Dec 2023 01:14_
 
 ### ItJobs
 
 #### Aveiro
-
-- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/475817/quality-assurance-engineer)
-
 
 - **Test Automation Engineer** @_Olisipo_ [here](https://www.itjobs.pt/oferta/473940/test-automation-engineer)
 
@@ -56,9 +53,6 @@ Jobs
 #### Braga
 
 - **Test Automation Engineer** @_Xpand IT_ [here](https://www.itjobs.pt/oferta/476049/test-automation-engineer)
-
-
-- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/475817/quality-assurance-engineer)
 
 
 - **QA Automation Engineer** @_Eidosmedia_ [here](https://www.itjobs.pt/oferta/476352/qa-automation-engineer)
@@ -111,9 +105,6 @@ Jobs
 - **Test Environment Engineer** @_Dellent_ [here](https://www.itjobs.pt/oferta/475043/test-environment-engineer)
 
 
-- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/475817/quality-assurance-engineer)
-
-
 - **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/476214/quality-assurance-tester)
 
 
@@ -123,7 +114,13 @@ Jobs
 - **QA Automation** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/474946/qa-automation)
 
 
+- **Quality Assurance Specialist** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/475589/quality-assurance-specialist)
+
+
 - **Banking Sector - QA Automation** @_Devoteam_ [here](https://www.itjobs.pt/oferta/475678/banking-sector-qa-automation)
+
+
+- **Functional Test Manager** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/476465/functional-test-manager)
 
 
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/475825/automation-tester)
@@ -157,7 +154,7 @@ Jobs
 - **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/475240/qa-engineer)
 
 
-- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/475817/quality-assurance-engineer)
+- **QA Engineer** @_Neotalent_ [here](https://www.itjobs.pt/oferta/476157/qa-engineer)
 
 
 - **QA Automation Engineer** @_Neotalent_ [here](https://www.itjobs.pt/oferta/475902/qa-automation-engineer)
@@ -170,6 +167,9 @@ Jobs
 
 
 - **Quality Assurance Engineer** @_akapeople_ [here](https://www.itjobs.pt/oferta/475600/quality-assurance-engineer)
+
+
+- **Quality Assurance Specialist** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/475589/quality-assurance-specialist)
 
 
 - **Banking Sector - QA Automation** @_Devoteam_ [here](https://www.itjobs.pt/oferta/475678/banking-sector-qa-automation)
@@ -209,13 +209,13 @@ Jobs
 - **Test Engineer** @_Rumos Consulting_ [here](https://www.itjobs.pt/oferta/474999/test-engineer)
 
 
+- **QA Engineer** @_Neotalent_ [here](https://www.itjobs.pt/oferta/476157/qa-engineer)
+
+
 - **Automation Tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/474423/automation-tester)
 
 
 - **Test Environment Engineer** @_Dellent_ [here](https://www.itjobs.pt/oferta/475043/test-environment-engineer)
-
-
-- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/475817/quality-assurance-engineer)
 
 
 - **QA Automation Engineer** @_Neotalent_ [here](https://www.itjobs.pt/oferta/475902/qa-automation-engineer)
@@ -228,6 +228,12 @@ Jobs
 
 
 - **QA Automation** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/474946/qa-automation)
+
+
+- **Quality Assurance Specialist** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/475589/quality-assurance-specialist)
+
+
+- **Functional Test Manager** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/476465/functional-test-manager)
 
 
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/475825/automation-tester)
