@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sun, 31 Dec 2023 01:20_
+> _Last updated: Mon, 01 Jan 2024 01:23_
 
 ### ItJobs
 
@@ -108,9 +108,6 @@ Jobs
 - **Test Automation Engineer** @_Xpand IT_ [here](https://www.itjobs.pt/oferta/476049/test-automation-engineer)
 
 
-- **Automation Tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/474423/automation-tester)
-
-
 - **Test Environment Engineer** @_Dellent_ [here](https://www.itjobs.pt/oferta/475043/test-environment-engineer)
 
 
@@ -135,12 +132,6 @@ Jobs
 - **Automation Tester** @_Olisipo_ [here](https://www.itjobs.pt/oferta/473815/automation-tester)
 
 #### Porto
-
-- **QA - Software Quality Assurance Engineer** @_YellowIpe_ [here](https://www.itjobs.pt/oferta/475124/qa-software-quality-assurance-engineer)
-
-
-- **Quality Assurance Engineer** @_Ebankit - Omnichannel Innovation_ [here](https://www.itjobs.pt/oferta/475160/quality-assurance-engineer)
-
 
 - **QA Automation Engineer** @_Eidosmedia_ [here](https://www.itjobs.pt/oferta/476352/qa-automation-engineer)
 
@@ -218,13 +209,7 @@ Jobs
 - **QA Engineer – Automation Tester (Python/Robot)** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/475054/qa-engineer-automation-tester-python-robot)
 
 
-- **Test Engineer** @_Rumos Consulting_ [here](https://www.itjobs.pt/oferta/474999/test-engineer)
-
-
 - **QA Engineer** @_Neotalent_ [here](https://www.itjobs.pt/oferta/476157/qa-engineer)
-
-
-- **Automation Tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/474423/automation-tester)
 
 
 - **Test Environment Engineer** @_Dellent_ [here](https://www.itjobs.pt/oferta/475043/test-environment-engineer)
