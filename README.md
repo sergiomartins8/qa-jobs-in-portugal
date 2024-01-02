@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Mon, 01 Jan 2024 01:23_
+> _Last updated: Tue, 02 Jan 2024 01:13_
 
 ### ItJobs
 
@@ -93,6 +93,9 @@ Jobs
 - **QA Automation Developer** @_Olisipo_ [here](https://www.itjobs.pt/oferta/473948/qa-automation-developer)
 
 
+- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/475240/qa-engineer)
+
+
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/476510/quality-assurance-engineer)
 
 
@@ -127,9 +130,6 @@ Jobs
 
 
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/475825/automation-tester)
-
-
-- **Automation Tester** @_Olisipo_ [here](https://www.itjobs.pt/oferta/473815/automation-tester)
 
 #### Porto
 
