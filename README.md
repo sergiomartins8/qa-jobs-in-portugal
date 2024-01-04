@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Wed, 03 Jan 2024 01:15_
+> _Last updated: Thu, 04 Jan 2024 01:16_
 
 ### ItJobs
 
@@ -161,6 +161,9 @@ Jobs
 
 
 - **Quality Assurance Engineer** @_akapeople_ [here](https://www.itjobs.pt/oferta/475600/quality-assurance-engineer)
+
+
+- **QA - Software Quality Assurance Engineer** @_YellowIpe_ [here](https://www.itjobs.pt/oferta/476649/qa-software-quality-assurance-engineer)
 
 
 - **Quality Assurance Specialist** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/475589/quality-assurance-specialist)
