@@ -36,13 +36,13 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Thu, 04 Jan 2024 01:16_
+> _Last updated: Fri, 05 Jan 2024 01:17_
 
 ### ItJobs
 
 #### Aveiro
 
-- **Test Automation Engineer** @_Olisipo_ [here](https://www.itjobs.pt/oferta/473940/test-automation-engineer)
+- **Software Quality Assurance Engineer** @_Vitruvian Shield PT_ [here](https://www.itjobs.pt/oferta/476844/software-quality-assurance-engineer)
 
 
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/475825/automation-tester)
@@ -71,6 +71,9 @@ Jobs
 - **QA Manual** @_Dellent_ [here](https://www.itjobs.pt/oferta/475266/qa-manual)
 
 #### Lisboa
+
+- **Software Tester (Mid/Senior)** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/476530/software-tester-mid-senior)
+
 
 - **QA Automation Engineer** @_Eidosmedia_ [here](https://www.itjobs.pt/oferta/476352/qa-automation-engineer)
 
@@ -109,9 +112,6 @@ Jobs
 
 
 - **Senior Automation Tester** @_Aubay_ [here](https://www.itjobs.pt/oferta/476627/senior-automation-tester)
-
-
-- **QA Automation** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/474946/qa-automation)
 
 
 - **Quality Assurance Specialist** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/475589/quality-assurance-specialist)
@@ -209,13 +209,13 @@ Jobs
 - **Test Environment Engineer** @_Dellent_ [here](https://www.itjobs.pt/oferta/475043/test-environment-engineer)
 
 
+- **Software Quality Assurance Engineer** @_Vitruvian Shield PT_ [here](https://www.itjobs.pt/oferta/476844/software-quality-assurance-engineer)
+
+
 - **QA Automation Engineer** @_Neotalent_ [here](https://www.itjobs.pt/oferta/475902/qa-automation-engineer)
 
 
 - **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/476214/quality-assurance-tester)
-
-
-- **QA Automation** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/474946/qa-automation)
 
 
 - **Quality Assurance Specialist** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/475589/quality-assurance-specialist)
