@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Fri, 05 Jan 2024 01:17_
+> _Last updated: Sat, 06 Jan 2024 01:15_
 
 ### ItJobs
 
@@ -198,9 +198,6 @@ Jobs
 
 
 - **Test Automation / Java Developer** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/475365/test-automation-java-developer)
-
-
-- **Test Automation Engineer** @_team.it_ [here](https://www.itjobs.pt/oferta/475607/test-automation-engineer)
 
 
 - **QA Engineer** @_Neotalent_ [here](https://www.itjobs.pt/oferta/476157/qa-engineer)
