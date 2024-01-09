@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Mon, 08 Jan 2024 01:17_
+> _Last updated: Tue, 09 Jan 2024 01:17_
 
 ### ItJobs
 
@@ -136,9 +136,6 @@ Jobs
 - **QA Automation Engineer** @_Eidosmedia_ [here](https://www.itjobs.pt/oferta/476352/qa-automation-engineer)
 
 
-- **Senior QA Automation tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/474881/senior-qa-automation-tester)
-
-
 - **QA Engineer** @_Neotalent_ [here](https://www.itjobs.pt/oferta/475900/qa-engineer)
 
 
@@ -188,9 +185,6 @@ Jobs
 - **QA Automation Engineer** @_Eidosmedia_ [here](https://www.itjobs.pt/oferta/476352/qa-automation-engineer)
 
 
-- **Senior QA Automation tester** @_Dellent_ [here](https://www.itjobs.pt/oferta/474881/senior-qa-automation-tester)
-
-
 - **QA Engineer** @_Neotalent_ [here](https://www.itjobs.pt/oferta/475900/qa-engineer)
 
 
@@ -212,9 +206,6 @@ Jobs
 - **QA Engineer** @_Neotalent_ [here](https://www.itjobs.pt/oferta/476157/qa-engineer)
 
 
-- **Test Environment Engineer** @_Dellent_ [here](https://www.itjobs.pt/oferta/475043/test-environment-engineer)
-
-
 - **Software Quality Assurance Engineer** @_Vitruvian Shield PT_ [here](https://www.itjobs.pt/oferta/476844/software-quality-assurance-engineer)
 
 
@@ -231,4 +222,7 @@ Jobs
 
 
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/475825/automation-tester)
+
+
+- **QA Consultant** @_team.it_ [here](https://www.itjobs.pt/oferta/477162/qa-consultant)
 
