@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sat, 13 Jan 2024 01:17_
+> _Last updated: Sun, 14 Jan 2024 01:22_
 
 ### ItJobs
 
@@ -148,6 +148,9 @@ Jobs
 - **QA Engineer** @_Neotalent_ [here](https://www.itjobs.pt/oferta/475900/qa-engineer)
 
 
+- **QA Lead** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/476977/qa-lead)
+
+
 - **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/477302/quality-assurance-developer)
 
 
@@ -173,9 +176,6 @@ Jobs
 
 
 - **Cypress Quality Assurance** @_Optimizer - Serviços de Consultadoria Informática_ [here](https://www.itjobs.pt/oferta/477250/cypress-quality-assurance)
-
-
-- **Quality Assurance Engineer** @_akapeople_ [here](https://www.itjobs.pt/oferta/475600/quality-assurance-engineer)
 
 
 - **QA - Software Quality Assurance Engineer** @_YellowIpe_ [here](https://www.itjobs.pt/oferta/476649/qa-software-quality-assurance-engineer)
