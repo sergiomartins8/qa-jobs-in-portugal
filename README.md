@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Tue, 16 Jan 2024 01:17_
+> _Last updated: Wed, 17 Jan 2024 01:19_
 
 ### ItJobs
 
@@ -87,6 +87,9 @@ Jobs
 - **QA Automation Engineer** @_Eidosmedia_ [here](https://www.itjobs.pt/oferta/476352/qa-automation-engineer)
 
 
+- **QAE engineer** @_KCS IT_ [here](https://www.itjobs.pt/oferta/477347/qae-engineer)
+
+
 - **Senior QA Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/476535/senior-qa-automation-tester)
 
 
@@ -97,9 +100,6 @@ Jobs
 
 
 - **Senior Test Automation Architect** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/475520/senior-test-automation-architect)
-
-
-- **Test Automation / Java Developer** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/475365/test-automation-java-developer)
 
 
 - **Test Automation Engineer** @_Xpand IT_ [here](https://www.itjobs.pt/oferta/476049/test-automation-engineer)
@@ -151,9 +151,6 @@ Jobs
 - **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/477302/quality-assurance-developer)
 
 
-- **Functional Quality Assurance** @_akapeople_ [here](https://www.itjobs.pt/oferta/475916/functional-quality-assurance-m-f)
-
-
 - **Senior Test Automation Architect** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/475520/senior-test-automation-architect)
 
 
@@ -194,6 +191,9 @@ Jobs
 - **QA Automation Engineer** @_Eidosmedia_ [here](https://www.itjobs.pt/oferta/476352/qa-automation-engineer)
 
 
+- **QAE engineer** @_KCS IT_ [here](https://www.itjobs.pt/oferta/477347/qae-engineer)
+
+
 - **QAE engineer** @_KCS IT_ [here](https://www.itjobs.pt/oferta/477348/qae-engineer)
 
 
@@ -207,9 +207,6 @@ Jobs
 
 
 - **Team Lead - Test Automation** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/477185/team-lead-test-automation)
-
-
-- **Test Automation / Java Developer** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/475365/test-automation-java-developer)
 
 
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/476425/qae)
