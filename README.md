@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Wed, 17 Jan 2024 01:19_
+> _Last updated: Thu, 18 Jan 2024 01:17_
 
 ### ItJobs
 
@@ -81,7 +81,7 @@ Jobs
 
 #### Lisboa
 
-- **Software Tester (Mid/Senior)** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/476530/software-tester-mid-senior)
+- **Quality Assurance (Tester)** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/477384/quality-assurance-tester)
 
 
 - **QA Automation Engineer** @_Eidosmedia_ [here](https://www.itjobs.pt/oferta/476352/qa-automation-engineer)
@@ -203,10 +203,10 @@ Jobs
 - **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/477302/quality-assurance-developer)
 
 
-- **Test Automation Engineer** @_YellowIpe_ [here](https://www.itjobs.pt/oferta/475808/test-automation-engineer-qa-automation104-399)
-
-
 - **Team Lead - Test Automation** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/477185/team-lead-test-automation)
+
+
+- **QA Engineer** @_Neotalent_ [here](https://www.itjobs.pt/oferta/476157/qa-engineer)
 
 
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/476425/qae)
