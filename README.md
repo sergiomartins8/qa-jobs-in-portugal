@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sat, 20 Jan 2024 01:16_
+> _Last updated: Sun, 21 Jan 2024 01:23_
 
 ### ItJobs
 
@@ -80,6 +80,9 @@ Jobs
 - **Team Lead - Test Automation** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/477185/team-lead-test-automation)
 
 #### Lisboa
+
+- **Software Tester (Mid/Senior)** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/476530/software-tester-mid-senior)
+
 
 - **Quality Assurance (Tester)** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/477384/quality-assurance-tester)
 
@@ -154,10 +157,10 @@ Jobs
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/476425/qae)
 
 
-- **QA Automation Engineer** @_Neotalent_ [here](https://www.itjobs.pt/oferta/475902/qa-automation-engineer)
-
-
 - **Cypress Quality Assurance** @_Optimizer - Serviços de Consultadoria Informática_ [here](https://www.itjobs.pt/oferta/477250/cypress-quality-assurance)
+
+
+- **Web Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/477084/web-tester)
 
 
 - **Python QAE** @_KCS IT_ [here](https://www.itjobs.pt/oferta/477207/python-qae)
@@ -182,6 +185,9 @@ Jobs
 - **QA Engineer – Automation Tester (Python/Robot)** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/476813/qa-engineer-automation-tester-python-robot)
 
 
+- **QA Engineer** @_Neotalent_ [here](https://www.itjobs.pt/oferta/475900/qa-engineer)
+
+
 - **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/477302/quality-assurance-developer)
 
 
@@ -195,9 +201,6 @@ Jobs
 
 
 - **Software Quality Assurance Engineer** @_Vitruvian Shield PT_ [here](https://www.itjobs.pt/oferta/476844/software-quality-assurance-engineer)
-
-
-- **QA Automation Engineer** @_Neotalent_ [here](https://www.itjobs.pt/oferta/475902/qa-automation-engineer)
 
 
 - **Test Automation Engineer** @_team.it_ [here](https://www.itjobs.pt/oferta/477163/test-automation-engineer)
