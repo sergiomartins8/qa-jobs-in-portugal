@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sun, 21 Jan 2024 01:23_
+> _Last updated: Mon, 22 Jan 2024 01:20_
 
 ### ItJobs
 
@@ -58,9 +58,6 @@ Jobs
 
 #### Braga
 
-- **Test Automation Engineer** @_Xpand IT_ [here](https://www.itjobs.pt/oferta/476049/test-automation-engineer)
-
-
 - **QA Automation Engineer** @_Eidosmedia_ [here](https://www.itjobs.pt/oferta/476352/qa-automation-engineer)
 
 
@@ -72,9 +69,6 @@ Jobs
 #### Coimbra
 
 - **Quality Tester** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/477462/quality-tester-coimbra-covilha-guarda)
-
-
-- **QA Manual** @_Dellent_ [here](https://www.itjobs.pt/oferta/475266/qa-manual)
 
 
 - **Team Lead - Test Automation** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/477185/team-lead-test-automation)
@@ -100,9 +94,6 @@ Jobs
 
 
 - **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/477302/quality-assurance-developer)
-
-
-- **Test Automation Engineer** @_Xpand IT_ [here](https://www.itjobs.pt/oferta/476049/test-automation-engineer)
 
 
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/476425/qae)
@@ -137,9 +128,6 @@ Jobs
 
 
 - **QA Automation** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/477261/qa-automation)
-
-
-- **QA Engineer** @_Neotalent_ [here](https://www.itjobs.pt/oferta/475900/qa-engineer)
 
 
 - **QA Lead** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/476977/qa-lead)
@@ -185,9 +173,6 @@ Jobs
 - **QA Engineer – Automation Tester (Python/Robot)** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/476813/qa-engineer-automation-tester-python-robot)
 
 
-- **QA Engineer** @_Neotalent_ [here](https://www.itjobs.pt/oferta/475900/qa-engineer)
-
-
 - **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/477302/quality-assurance-developer)
 
 
@@ -198,6 +183,9 @@ Jobs
 
 
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/476425/qae)
+
+
+- **Test Automation Engineer** @_YellowIpe_ [here](https://www.itjobs.pt/oferta/477852/test-automation-engineer)
 
 
 - **Software Quality Assurance Engineer** @_Vitruvian Shield PT_ [here](https://www.itjobs.pt/oferta/476844/software-quality-assurance-engineer)
