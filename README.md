@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Wed, 31 Jan 2024 01:12_
+> _Last updated: Thu, 01 Feb 2024 01:15_
 
 ### ItJobs
 
@@ -93,6 +93,9 @@ Jobs
 
 #### Lisboa
 
+- **Automation Tester w/ French** @_Aubay_ [here](https://www.itjobs.pt/oferta/478074/automation-tester-w-french)
+
+
 - **Consultor de Testes de Automação** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/477757/consultor-de-testes-de-automacao)
 
 
@@ -120,19 +123,19 @@ Jobs
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/478090/quality-assurance-engineer)
 
 
-- **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/476425/qae)
-
-
 - **Test Automation Engineer** @_Xpand IT_ [here](https://www.itjobs.pt/oferta/477946/test-automation-engineer)
+
+
+- **QA Automation Engineer** @_Neotalent Conclusion_ [here](https://www.itjobs.pt/oferta/476491/qa-automation-engineer)
 
 
 - **Senior Automation Tester** @_Aubay_ [here](https://www.itjobs.pt/oferta/476627/senior-automation-tester)
 
 
-- **QA Automation Engineer** @_Neotalent_ [here](https://www.itjobs.pt/oferta/476491/qa-automation-engineer)
-
-
 - **Test Automation Architect** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/477452/test-automation-architect-all-locations)
+
+
+- **QAE** @_KCS IT_ [here](https://www.itjobs.pt/oferta/478275/qae)
 
 
 - **QA Automation** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/477144/qa-automation)
@@ -141,6 +144,9 @@ Jobs
 - **Quality Assurance Consultant** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/477389/quality-assurance-consultant)
 
 #### Porto
+
+- **Automation Tester w/ French** @_Aubay_ [here](https://www.itjobs.pt/oferta/478074/automation-tester-w-french)
+
 
 - **Consultor de Testes de Automação** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/477757/consultor-de-testes-de-automacao)
 
@@ -175,6 +181,9 @@ Jobs
 - **Cypress Quality Assurance** @_Optimizer - Serviços de Consultadoria Informática_ [here](https://www.itjobs.pt/oferta/477250/cypress-quality-assurance)
 
 
+- **QA Automation Team Leader** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/478429/qa-automation-team-leader)
+
+
 - **QA Tester (SFCC Back-End)** @_Metyis_ [here](https://www.itjobs.pt/oferta/478123/qa-tester-sfcc-back-end)
 
 
@@ -185,9 +194,6 @@ Jobs
 
 
 - **Python QAE** @_KCS IT_ [here](https://www.itjobs.pt/oferta/477207/python-qae)
-
-
-- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/477030/qa-engineer)
 
 #### Remote
 
@@ -225,6 +231,9 @@ Jobs
 
 
 - **Test Automation Engineer** @_team.it_ [here](https://www.itjobs.pt/oferta/477163/test-automation-engineer)
+
+
+- **QAE** @_KCS IT_ [here](https://www.itjobs.pt/oferta/478275/qae)
 
 
 - **Python QAE** @_KCS IT_ [here](https://www.itjobs.pt/oferta/477207/python-qae)
