@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sat, 03 Feb 2024 01:10_
+> _Last updated: Sun, 04 Feb 2024 01:16_
 
 ### ItJobs
 
@@ -114,6 +114,9 @@ Jobs
 - **Senior Automation Tester** @_Aubay_ [here](https://www.itjobs.pt/oferta/476627/senior-automation-tester)
 
 
+- **Functional Test Manager** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/478628/functional-test-manager)
+
+
 - **QAE** @_KCS IT_ [here](https://www.itjobs.pt/oferta/478275/qae)
 
 
@@ -143,9 +146,6 @@ Jobs
 
 
 - **Test Automation Developer** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/477455/test-automation-developer-porto)
-
-
-- **Quality Tester** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/477459/quality-tester-porto)
 
 
 - **Quality Assurance Engineer** @_Ebankit - Omnichannel Innovation_ [here](https://www.itjobs.pt/oferta/476647/quality-assurance-engineer)
@@ -207,6 +207,9 @@ Jobs
 
 
 - **Test Automation Engineer** @_YellowIpe_ [here](https://www.itjobs.pt/oferta/477852/test-automation-engineer)
+
+
+- **Functional Test Manager** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/478628/functional-test-manager)
 
 
 - **Test Automation Engineer** @_team.it_ [here](https://www.itjobs.pt/oferta/477163/test-automation-engineer)
