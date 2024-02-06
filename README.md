@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Mon, 05 Feb 2024 01:13_
+> _Last updated: Tue, 06 Feb 2024 01:11_
 
 ### ItJobs
 
@@ -93,6 +93,9 @@ Jobs
 - **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/477302/quality-assurance-developer)
 
 
+- **Test Automation Developer (UiPath)** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/478212/test-automation-developer-uipath-lisbon-hybrid)
+
+
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/477929/automation-tester)
 
 
@@ -130,6 +133,9 @@ Jobs
 - **QAE** @_KCS IT_ [here](https://www.itjobs.pt/oferta/478274/qae)
 
 
+- **QA Lead** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/478530/qa-lead)
+
+
 - **QAE engineer** @_KCS IT_ [here](https://www.itjobs.pt/oferta/477348/qae-engineer)
 
 
@@ -152,6 +158,9 @@ Jobs
 
 
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/476425/qae)
+
+
+- **Quality Assurance Engineer** @_Ebankit - Omnichannel Innovation_ [here](https://www.itjobs.pt/oferta/478704/quality-assurance-engineer)
 
 
 - **Cypress Quality Assurance** @_Optimizer - Serviços de Consultadoria Informática_ [here](https://www.itjobs.pt/oferta/477250/cypress-quality-assurance)
@@ -183,6 +192,9 @@ Jobs
 
 
 - **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/477302/quality-assurance-developer)
+
+
+- **Test Automation Developer (UiPath)** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/478212/test-automation-developer-uipath-lisbon-hybrid)
 
 
 - **Test Automation Developer** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/477455/test-automation-developer-porto)
