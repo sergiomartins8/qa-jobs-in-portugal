@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Tue, 06 Feb 2024 01:11_
+> _Last updated: Wed, 07 Feb 2024 01:09_
 
 ### ItJobs
 
@@ -99,6 +99,9 @@ Jobs
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/477929/automation-tester)
 
 
+- **Senior QA Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/478832/senior-qa-automation-tester)
+
+
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/478090/quality-assurance-engineer)
 
 
@@ -115,9 +118,6 @@ Jobs
 
 
 - **QAE** @_KCS IT_ [here](https://www.itjobs.pt/oferta/478275/qae)
-
-
-- **Tester Funcional** @_Mind Source_ [here](https://www.itjobs.pt/oferta/478055/tester-funcional)
 
 
 - **QA Automation** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/477144/qa-automation)
@@ -215,9 +215,6 @@ Jobs
 - **Functional Test Manager** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/478628/functional-test-manager)
 
 
-- **Test Automation Engineer** @_team.it_ [here](https://www.itjobs.pt/oferta/477163/test-automation-engineer)
-
-
 - **QAE** @_KCS IT_ [here](https://www.itjobs.pt/oferta/478275/qae)
 
 
@@ -225,7 +222,4 @@ Jobs
 
 
 - **QA Automation** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/477144/qa-automation)
-
-
-- **QA Consultant** @_team.it_ [here](https://www.itjobs.pt/oferta/477162/qa-consultant)
 
