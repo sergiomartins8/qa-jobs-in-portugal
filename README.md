@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Mon, 12 Feb 2024 01:12_
+> _Last updated: Tue, 13 Feb 2024 01:12_
 
 ### ItJobs
 
@@ -102,6 +102,9 @@ Jobs
 - **Senior QA Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/478832/senior-qa-automation-tester)
 
 
+- **Quality assurance/tester automação** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/478886/quality-assurance-tester-automacao)
+
+
 - **Quality assurance/tester funcional** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/478887/quality-assurance-tester-funcional)
 
 
@@ -127,9 +130,6 @@ Jobs
 - **Senior QA Automation Engineer** @_Devoteam_ [here](https://www.itjobs.pt/oferta/477658/senior-qa-automation-engineer)
 
 
-- **QAE** @_KCS IT_ [here](https://www.itjobs.pt/oferta/478274/qae)
-
-
 - **QA Lead** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/478530/qa-lead)
 
 
@@ -145,12 +145,6 @@ Jobs
 - **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/478353/quality-assurance-tester)
 
 
-- **Test Automation Developer** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/477455/test-automation-developer-porto)
-
-
-- **Quality Tester** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/477459/quality-tester-porto)
-
-
 - **QA Engineer** @_Adentis_ [here](https://www.itjobs.pt/oferta/478195/qa-engineer)
 
 
@@ -158,9 +152,6 @@ Jobs
 
 
 - **Quality Assurance Engineer** @_Ebankit - Omnichannel Innovation_ [here](https://www.itjobs.pt/oferta/478704/quality-assurance-engineer)
-
-
-- **Cypress Quality Assurance** @_Optimizer - Serviços de Consultadoria Informática_ [here](https://www.itjobs.pt/oferta/477250/cypress-quality-assurance)
 
 
 - **Web Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/477084/web-tester)
@@ -175,6 +166,9 @@ Jobs
 - **QA - Software Quality Assurance Engineer** @_YellowIpe_ [here](https://www.itjobs.pt/oferta/477845/qa-software-quality-assurance-engineer)
 
 #### Remote
+
+- **QA Tester** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/478619/qa-tester-lisbon)
+
 
 - **Test Automation Engineer** @_YellowIpe_ [here](https://www.itjobs.pt/oferta/477852/test-automation-engineer)
 
@@ -195,9 +189,6 @@ Jobs
 
 
 - **Test Automation Developer (UiPath)** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/478212/test-automation-developer-uipath-lisbon-hybrid)
-
-
-- **Test Automation Developer** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/477455/test-automation-developer-porto)
 
 
 - **QAE** @_KCS IT_ [here](https://www.itjobs.pt/oferta/478275/qae)
