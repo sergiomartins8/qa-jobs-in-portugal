@@ -36,13 +36,16 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Wed, 14 Feb 2024 01:12_
+> _Last updated: Thu, 15 Feb 2024 01:12_
 
 ### ItJobs
 
 #### Aveiro
 
 - **QA Test Automation (Information Technologies)** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/478227/qa-test-automation-it)
+
+
+- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/479155/qa-engineer)
 
 
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/478855/quality-assurance-engineer)
@@ -61,14 +64,23 @@ Jobs
 - **Test Automation Engineer** @_Xpand IT_ [here](https://www.itjobs.pt/oferta/477946/test-automation-engineer)
 
 
+- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/479155/qa-engineer)
+
+
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/478855/quality-assurance-engineer)
 
 #### Coimbra
+
+- **Test Automation Architect** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/478607/test-automation-architect-all-locations)
+
 
 - **Quality Tester** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/477462/quality-tester-coimbra-covilha-guarda)
 
 
 - **Team Lead - Test Automation** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/478616/team-lead-test-automation-todo-o-pais)
+
+
+- **Consultor de Testes de Automação** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/478609/consultor-de-testes-de-automacao-all-locations)
 
 #### Lisboa
 
@@ -105,6 +117,9 @@ Jobs
 - **Quality assurance/tester automação** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/478886/quality-assurance-tester-automacao)
 
 
+- **Test Automation Architect** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/478607/test-automation-architect-all-locations)
+
+
 - **Quality assurance/tester funcional** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/478887/quality-assurance-tester-funcional)
 
 
@@ -130,7 +145,13 @@ Jobs
 - **Senior QA Automation Engineer** @_Devoteam_ [here](https://www.itjobs.pt/oferta/477658/senior-qa-automation-engineer)
 
 
+- **QAE** @_KCS IT_ [here](https://www.itjobs.pt/oferta/478274/qae)
+
+
 - **QA Lead** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/478530/qa-lead)
+
+
+- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/479155/qa-engineer)
 
 
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/478855/quality-assurance-engineer)
@@ -145,16 +166,19 @@ Jobs
 - **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/478353/quality-assurance-tester)
 
 
+- **Python Automation Test Developer** @_Winprovit - Soluções Inteligentes_ [here](https://www.itjobs.pt/oferta/479163/python-automation-test-developer)
+
+
 - **QA Engineer** @_Adentis_ [here](https://www.itjobs.pt/oferta/478195/qa-engineer)
 
 
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/477929/automation-tester)
 
 
+- **Test Automation Architect** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/478607/test-automation-architect-all-locations)
+
+
 - **Quality Assurance Engineer** @_Ebankit - Omnichannel Innovation_ [here](https://www.itjobs.pt/oferta/478704/quality-assurance-engineer)
-
-
-- **Web Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/477084/web-tester)
 
 
 - **QA Automation Team Leader** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/478429/qa-automation-team-leader)
@@ -167,7 +191,7 @@ Jobs
 
 #### Remote
 
-- **QA Tester** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/478619/qa-tester-lisbon)
+- **Test Automation Architect** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/478607/test-automation-architect-all-locations)
 
 
 - **Test Automation Engineer** @_YellowIpe_ [here](https://www.itjobs.pt/oferta/477852/test-automation-engineer)
@@ -198,7 +222,4 @@ Jobs
 
 
 - **QA Automation** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/477144/qa-automation)
-
-
-- **QA Engineer - Selenium Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/478486/qa-engineer-selenium-tester)
 
