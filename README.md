@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Fri, 16 Feb 2024 01:11_
+> _Last updated: Sat, 17 Feb 2024 01:11_
 
 ### ItJobs
 
@@ -134,9 +134,6 @@ Jobs
 
 - **QAE** @_KCS IT_ [here](https://www.itjobs.pt/oferta/478275/qae)
 
-
-- **QA Automation** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/477144/qa-automation)
-
 #### Porto
 
 - **Automation Tester w/ French** @_Aubay_ [here](https://www.itjobs.pt/oferta/478074/automation-tester-w-french)
@@ -219,7 +216,4 @@ Jobs
 
 
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/477929/automation-tester)
-
-
-- **QA Automation** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/477144/qa-automation)
 
