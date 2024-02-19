@@ -36,16 +36,13 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sun, 18 Feb 2024 01:15_
+> _Last updated: Mon, 19 Feb 2024 01:12_
 
 ### ItJobs
 
 #### Aveiro
 
 - **QA Test Automation (Information Technologies)** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/478227/qa-test-automation-it)
-
-
-- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/479155/qa-engineer)
 
 
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/478855/quality-assurance-engineer)
@@ -62,9 +59,6 @@ Jobs
 #### Braga
 
 - **Test Automation Engineer** @_Xpand IT_ [here](https://www.itjobs.pt/oferta/477946/test-automation-engineer)
-
-
-- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/479155/qa-engineer)
 
 
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/478855/quality-assurance-engineer)
@@ -146,9 +140,6 @@ Jobs
 
 
 - **QA Lead** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/478530/qa-lead)
-
-
-- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/479155/qa-engineer)
 
 
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/478855/quality-assurance-engineer)
