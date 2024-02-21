@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Tue, 20 Feb 2024 01:10_
+> _Last updated: Wed, 21 Feb 2024 01:11_
 
 ### ItJobs
 
@@ -49,9 +49,6 @@ Jobs
 
 
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/478855/quality-assurance-engineer)
-
-
-- **Web Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/477084/web-tester)
 
 
 - **QA Engineer** @_Adentis_ [here](https://www.itjobs.pt/oferta/478195/qa-engineer)
@@ -151,10 +148,10 @@ Jobs
 - **Senior QA Automation Engineer** @_Devoteam_ [here](https://www.itjobs.pt/oferta/477658/senior-qa-automation-engineer)
 
 
+- **Cypress Quality Assurance** @_Optimizer - Serviços de Consultadoria Informática_ [here](https://www.itjobs.pt/oferta/479429/cypress-quality-assurance)
+
+
 - **QAE** @_KCS IT_ [here](https://www.itjobs.pt/oferta/478274/qae)
-
-
-- **QA Lead** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/478530/qa-lead)
 
 
 - **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/479155/qa-engineer)
@@ -164,6 +161,9 @@ Jobs
 
 
 - **Team Lead - Test Automation** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/478616/team-lead-test-automation-todo-o-pais)
+
+
+- **Quality Assurance Engineer** @_Winprovit - Soluções Inteligentes_ [here](https://www.itjobs.pt/oferta/479440/quality-assurance-engineer)
 
 
 - **Consultor de Testes de Automação** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/478609/consultor-de-testes-de-automacao-all-locations)
