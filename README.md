@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Thu, 29 Feb 2024 01:10_
+> _Last updated: Fri, 01 Mar 2024 01:17_
 
 ### ItJobs
 
@@ -96,9 +96,6 @@ Jobs
 - **QA Automação** @_Adentis_ [here](https://www.itjobs.pt/oferta/479541/qa-automacao)
 
 
-- **Test Automation Developer (UiPath)** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/478212/test-automation-developer-uipath-lisbon-hybrid)
-
-
 - **Performance Tester** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/479259/performance-tester-all-locations)
 
 
@@ -109,9 +106,6 @@ Jobs
 
 
 - **Automation QA Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/479657/qa-automatico)
-
-
-- **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/479201/quality-assurance-developer)
 
 
 - **Quality Assurance (Tester)** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/479147/quality-assurance-tester)
@@ -171,16 +165,7 @@ Jobs
 
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/479058/qae)
 
-
-- **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/479201/quality-assurance-developer)
-
 #### Remote
-
-- **QA Tester** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/478619/qa-tester-lisbon)
-
-
-- **QA Automation Engineer** @_Sepio Systems_ [here](https://www.itjobs.pt/oferta/479523/qa-automation-engineer)
-
 
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/479476/quality-assurance-engineer)
 
@@ -194,9 +179,6 @@ Jobs
 - **QA Automação** @_Adentis_ [here](https://www.itjobs.pt/oferta/479541/qa-automacao)
 
 
-- **Test Automation Developer (UiPath)** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/478212/test-automation-developer-uipath-lisbon-hybrid)
-
-
 - **Performance Tester** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/479259/performance-tester-all-locations)
 
 
@@ -204,9 +186,6 @@ Jobs
 
 
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/479058/qae)
-
-
-- **Quality Assurance Developer** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/479201/quality-assurance-developer)
 
 
 - **QA Engineer - Selenium Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/478486/qa-engineer-selenium-tester)
