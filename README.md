@@ -36,16 +36,19 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Tue, 05 Mar 2024 01:10_
+> _Last updated: Wed, 06 Mar 2024 01:11_
 
 ### ItJobs
 
 #### Aveiro
 
-- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/479476/quality-assurance-engineer)
+- **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/480080/automation-tester)
 
 
 - **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/479155/qa-engineer)
+
+
+- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/480146/quality-assurance-engineer)
 
 
 - **Web Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/479839/web-tester)
@@ -58,33 +61,36 @@ Jobs
 - **Test Automation Engineer** @_Xpand IT_ [here](https://www.itjobs.pt/oferta/479733/test-automation-engineer)
 
 
-- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/479476/quality-assurance-engineer)
-
-
 - **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/479155/qa-engineer)
+
+
+- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/480146/quality-assurance-engineer)
 
 #### Coimbra
 
-- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/479476/quality-assurance-engineer)
+- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/480146/quality-assurance-engineer)
 
 
 - **Performance Tester** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/479259/performance-tester-all-locations)
+
+
+- **Test Automation Architect** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/479673/test-automation-architect-all-locations)
 
 #### Lisboa
 
 - **QA Automation Engineer** @_Sepio Systems_ [here](https://www.itjobs.pt/oferta/479523/qa-automation-engineer)
 
 
-- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/479476/quality-assurance-engineer)
-
-
 - **QA Automation Engineer** @_Neotalent Conclusion_ [here](https://www.itjobs.pt/oferta/479608/qa-automation-engineer)
 
 
-- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/479155/qa-engineer)
+- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/480146/quality-assurance-engineer)
 
 
 - **Quality Assurance Engineer** @_Winprovit - Soluções Inteligentes_ [here](https://www.itjobs.pt/oferta/479566/quality-assurance-engineer)
+
+
+- **Consultor de Testes de Automação** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/479674/consultor-de-testes-de-automacao-all-locations)
 
 
 - **QA Automação** @_Adentis_ [here](https://www.itjobs.pt/oferta/479541/qa-automacao)
@@ -99,13 +105,16 @@ Jobs
 - **Automation QA Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/479657/qa-automatico)
 
 
-- **Quality Tester** @_Aubay_ [here](https://www.itjobs.pt/oferta/479114/quality-tester)
-
-
 - **Test Automation Engineer** @_Xpand IT_ [here](https://www.itjobs.pt/oferta/479733/test-automation-engineer)
 
 
+- **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/480080/automation-tester)
+
+
 - **Functional Test Manager** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/478628/functional-test-manager)
+
+
+- **Test Automation Architect** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/479673/test-automation-architect-all-locations)
 
 
 - **Testing Manager** @_Michael Page Portugal_ [here](https://www.itjobs.pt/oferta/479401/testing-manager)
@@ -115,7 +124,7 @@ Jobs
 
 #### Porto
 
-- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/479476/quality-assurance-engineer)
+- **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/480080/automation-tester)
 
 
 - **Test Automation Developer** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/479067/test-automation-developer-porto)
@@ -124,16 +133,25 @@ Jobs
 - **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/479155/qa-engineer)
 
 
+- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/480146/quality-assurance-engineer)
+
+
 - **Quality Assurance Engineer** @_Winprovit - Soluções Inteligentes_ [here](https://www.itjobs.pt/oferta/479440/quality-assurance-engineer)
-
-
-- **Web Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/479839/web-tester)
 
 
 - **Python Automation Test Developer** @_Winprovit - Soluções Inteligentes_ [here](https://www.itjobs.pt/oferta/479163/python-automation-test-developer)
 
 
+- **Consultor de Testes de Automação** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/479674/consultor-de-testes-de-automacao-all-locations)
+
+
+- **Software Tester** @_mgm technology partners_ [here](https://www.itjobs.pt/oferta/480206/software-tester)
+
+
 - **Performance Tester** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/479259/performance-tester-all-locations)
+
+
+- **Test Automation Architect** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/479673/test-automation-architect-all-locations)
 
 
 - **Automation QA Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/479657/qa-automatico)
@@ -141,12 +159,9 @@ Jobs
 
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/479058/qae)
 
-
-- **Quality Tester** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/479066/quality-tester-porto)
-
 #### Remote
 
-- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/479476/quality-assurance-engineer)
+- **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/480080/automation-tester)
 
 
 - **Test Automation Developer** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/479067/test-automation-developer-porto)
@@ -155,7 +170,13 @@ Jobs
 - **Functional Test Manager** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/478628/functional-test-manager)
 
 
+- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/480146/quality-assurance-engineer)
+
+
 - **Web Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/479839/web-tester)
+
+
+- **Consultor de Testes de Automação** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/479674/consultor-de-testes-de-automacao-all-locations)
 
 
 - **QA Engineer - TOSCA Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/479922/qa-engineer-tosca-tester)
@@ -167,11 +188,8 @@ Jobs
 - **Performance Tester** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/479259/performance-tester-all-locations)
 
 
+- **Test Automation Architect** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/479673/test-automation-architect-all-locations)
+
+
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/479058/qae)
-
-
-- **Quality Tester** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/479066/quality-tester-porto)
-
-
-- **QA Engineer - Selenium Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/478486/qa-engineer-selenium-tester)
 
