@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Tue, 12 Mar 2024 01:10_
+> _Last updated: Wed, 13 Mar 2024 01:12_
 
 ### ItJobs
 
@@ -157,6 +157,9 @@ Jobs
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/479058/qae)
 
 #### Remote
+
+- **QA Engineer - Selenium Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/480417/qa-engineer-selenium-tester)
+
 
 - **QA Tester** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/479970/qa-tester-lisbon)
 
