@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Fri, 15 Mar 2024 01:12_
+> _Last updated: Sat, 16 Mar 2024 01:10_
 
 ### ItJobs
 
@@ -68,26 +68,29 @@ Jobs
 
 #### Coimbra
 
-- **Quality Tester** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/480202/quality-tester-coimbra-covilha-guarda)
-
-
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/480146/quality-assurance-engineer)
 
 
-- **Performance Tester** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/479259/performance-tester-all-locations)
-
-
-- **Test Automation Architect** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/479673/test-automation-architect-all-locations)
+- **Quality Tester** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/480202/quality-tester-coimbra-covilha-guarda)
 
 #### Lisboa
 
-- **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/480196/quality-assurance-tester)
+- **Quality Tester** @_Aubay_ [here](https://www.itjobs.pt/oferta/479114/quality-tester)
+
+
+- **Test Automation Engineer** @_Xpand IT_ [here](https://www.itjobs.pt/oferta/479733/test-automation-engineer)
 
 
 - **QA Automation Engineer** @_Sepio Systems_ [here](https://www.itjobs.pt/oferta/479523/qa-automation-engineer)
 
 
+- **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/480080/automation-tester)
+
+
 - **QA Automation Engineer** @_Neotalent Conclusion_ [here](https://www.itjobs.pt/oferta/479608/qa-automation-engineer)
+
+
+- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/479155/qa-engineer)
 
 
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/480146/quality-assurance-engineer)
@@ -96,38 +99,20 @@ Jobs
 - **Quality Assurance Engineer** @_Winprovit - Soluções Inteligentes_ [here](https://www.itjobs.pt/oferta/479566/quality-assurance-engineer)
 
 
-- **Consultor de Testes de Automação** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/479674/consultor-de-testes-de-automacao-all-locations)
-
-
 - **QA Automação** @_Adentis_ [here](https://www.itjobs.pt/oferta/479541/qa-automacao)
 
 
-- **Performance Tester** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/479259/performance-tester-all-locations)
+- **Testing Manager** @_Michael Page Portugal_ [here](https://www.itjobs.pt/oferta/479401/testing-manager)
 
 
 - **Automation QA Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/479657/qa-automatico)
-
-
-- **Test Automation Engineer** @_Xpand IT_ [here](https://www.itjobs.pt/oferta/479733/test-automation-engineer)
-
-
-- **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/480080/automation-tester)
-
-
-- **Test Automation Architect** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/479673/test-automation-architect-all-locations)
-
-
-- **Testing Manager** @_Michael Page Portugal_ [here](https://www.itjobs.pt/oferta/479401/testing-manager)
 
 
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/479058/qae)
 
 #### Porto
 
-- **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/480196/quality-assurance-tester)
-
-
-- **Cypress Quality Assurance** @_Optimizer - Serviços de Consultadoria Informática_ [here](https://www.itjobs.pt/oferta/479429/cypress-quality-assurance)
+- **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/480080/automation-tester)
 
 
 - **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/479155/qa-engineer)
@@ -139,38 +124,35 @@ Jobs
 - **Quality Assurance Engineer** @_Winprovit - Soluções Inteligentes_ [here](https://www.itjobs.pt/oferta/479440/quality-assurance-engineer)
 
 
+- **Web Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/479839/web-tester)
+
+
 - **Senior Software Developer Engineer in Test** @_Dellent_ [here](https://www.itjobs.pt/oferta/479414/senior-software-developer-engineer-in-test)
-
-
-- **Consultor de Testes de Automação** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/479674/consultor-de-testes-de-automacao-all-locations)
-
-
-- **Performance Tester** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/479259/performance-tester-all-locations)
-
-
-- **Automation QA Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/479657/qa-automatico)
-
-
-- **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/480080/automation-tester)
 
 
 - **Software Tester** @_mgm technology partners_ [here](https://www.itjobs.pt/oferta/480206/software-tester)
 
 
-- **Test Automation Architect** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/479673/test-automation-architect-all-locations)
+- **Automation QA Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/479657/qa-automatico)
 
 
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/479058/qae)
+
+
+- **Quality Tester** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/479066/quality-tester-porto)
 
 #### Remote
 
 - **QA Engineer - Selenium Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/480417/qa-engineer-selenium-tester)
 
 
-- **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/480196/quality-assurance-tester)
+- **QA Tester** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/479970/qa-tester-lisbon)
 
 
 - **QA Automation Engineer** @_Sepio Systems_ [here](https://www.itjobs.pt/oferta/479523/qa-automation-engineer)
+
+
+- **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/480080/automation-tester)
 
 
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/480146/quality-assurance-engineer)
@@ -182,22 +164,10 @@ Jobs
 - **Senior Software Developer Engineer in Test** @_Dellent_ [here](https://www.itjobs.pt/oferta/479414/senior-software-developer-engineer-in-test)
 
 
-- **Consultor de Testes de Automação** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/479674/consultor-de-testes-de-automacao-all-locations)
-
-
 - **QA Automação** @_Adentis_ [here](https://www.itjobs.pt/oferta/479541/qa-automacao)
 
 
-- **Performance Tester** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/479259/performance-tester-all-locations)
-
-
-- **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/480080/automation-tester)
-
-
 - **Software Tester** @_mgm technology partners_ [here](https://www.itjobs.pt/oferta/480206/software-tester)
-
-
-- **Test Automation Architect** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/479673/test-automation-architect-all-locations)
 
 
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/479058/qae)
