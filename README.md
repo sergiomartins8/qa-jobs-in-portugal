@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sun, 17 Mar 2024 01:15_
+> _Last updated: Mon, 18 Mar 2024 01:12_
 
 ### ItJobs
 
@@ -75,16 +75,7 @@ Jobs
 
 #### Lisboa
 
-- **Quality Tester** @_Aubay_ [here](https://www.itjobs.pt/oferta/479114/quality-tester)
-
-
-- **Test Automation Engineer** @_Xpand IT_ [here](https://www.itjobs.pt/oferta/479733/test-automation-engineer)
-
-
 - **QA Automation Engineer** @_Sepio Systems_ [here](https://www.itjobs.pt/oferta/479523/qa-automation-engineer)
-
-
-- **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/480080/automation-tester)
 
 
 - **QA Automation Engineer** @_Neotalent Conclusion_ [here](https://www.itjobs.pt/oferta/479608/qa-automation-engineer)
@@ -99,18 +90,36 @@ Jobs
 - **Quality Assurance Engineer** @_Winprovit - Soluções Inteligentes_ [here](https://www.itjobs.pt/oferta/479566/quality-assurance-engineer)
 
 
+- **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/480733/quality-assurance-tester)
+
+
 - **QA Automação** @_Adentis_ [here](https://www.itjobs.pt/oferta/479541/qa-automacao)
-
-
-- **Testing Manager** @_Michael Page Portugal_ [here](https://www.itjobs.pt/oferta/479401/testing-manager)
 
 
 - **Automation QA Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/479657/qa-automatico)
 
 
+- **Test Environment Engineer** @_Findhu_ [here](https://www.itjobs.pt/oferta/480739/test-environment-engineer)
+
+
+- **Quality Tester** @_Aubay_ [here](https://www.itjobs.pt/oferta/479114/quality-tester)
+
+
+- **Test Automation Engineer** @_Xpand IT_ [here](https://www.itjobs.pt/oferta/479733/test-automation-engineer)
+
+
+- **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/480080/automation-tester)
+
+
+- **Testing Manager** @_Michael Page Portugal_ [here](https://www.itjobs.pt/oferta/479401/testing-manager)
+
+
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/479058/qae)
 
 #### Porto
+
+- **Cypress Quality Assurance** @_Optimizer - Serviços de Consultadoria Informática_ [here](https://www.itjobs.pt/oferta/479429/cypress-quality-assurance)
+
 
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/480080/automation-tester)
 
@@ -125,6 +134,9 @@ Jobs
 
 
 - **Web Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/479839/web-tester)
+
+
+- **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/480733/quality-assurance-tester)
 
 
 - **Senior Software Developer Engineer in Test** @_Dellent_ [here](https://www.itjobs.pt/oferta/479414/senior-software-developer-engineer-in-test)
