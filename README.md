@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sun, 24 Mar 2024 01:18_
+> _Last updated: Mon, 25 Mar 2024 01:13_
 
 ### ItJobs
 
@@ -124,13 +124,13 @@ Jobs
 - **Consultor de Testes de Automação** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/480729/consultor-de-testes-de-automacao-all-locations)
 
 
-- **Cypress Quality Assurance** @_Optimizer - Serviços de Consultadoria Informática_ [here](https://www.itjobs.pt/oferta/479429/cypress-quality-assurance)
+- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/480934/qa-engineer)
+
+
+- **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/480080/automation-tester)
 
 
 - **QA - Quality Assurance** @_Mind Source_ [here](https://www.itjobs.pt/oferta/480144/qa-quality-assurance)
-
-
-- **Quality Assurance Engineer** @_Winprovit - Soluções Inteligentes_ [here](https://www.itjobs.pt/oferta/479440/quality-assurance-engineer)
 
 
 - **Web Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/479839/web-tester)
@@ -142,18 +142,6 @@ Jobs
 - **Senior Software Developer Engineer in Test** @_Dellent_ [here](https://www.itjobs.pt/oferta/479414/senior-software-developer-engineer-in-test)
 
 
-- **Automation QA Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/479657/qa-automatico)
-
-
-- **Quality Tester** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/479066/quality-tester-porto)
-
-
-- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/480934/qa-engineer)
-
-
-- **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/480080/automation-tester)
-
-
 - **Software Tester** @_mgm technology partners_ [here](https://www.itjobs.pt/oferta/480206/software-tester)
 
 
@@ -161,6 +149,12 @@ Jobs
 
 
 - **Performance Tester** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/480730/performance-tester-all-locations)
+
+
+- **Automation QA Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/479657/qa-automatico)
+
+
+- **Quality Tester** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/479066/quality-tester-porto)
 
 #### Remote
 
