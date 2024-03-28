@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Wed, 27 Mar 2024 01:11_
+> _Last updated: Thu, 28 Mar 2024 01:12_
 
 ### ItJobs
 
@@ -93,9 +93,6 @@ Jobs
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/481140/qae)
 
 
-- **QA Automation Engineer** @_Neotalent Conclusion_ [here](https://www.itjobs.pt/oferta/479608/qa-automation-engineer)
-
-
 - **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/480733/quality-assurance-tester)
 
 
@@ -103,6 +100,9 @@ Jobs
 
 
 - **Test Environment Engineer** @_Findhu_ [here](https://www.itjobs.pt/oferta/480739/test-environment-engineer)
+
+
+- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/480934/qa-engineer)
 
 
 - **Test Automation Engineer** @_Xpand IT_ [here](https://www.itjobs.pt/oferta/479733/test-automation-engineer)
