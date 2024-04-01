@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sun, 31 Mar 2024 01:18_
+> _Last updated: Mon, 01 Apr 2024 01:18_
 
 ### ItJobs
 
@@ -127,10 +127,22 @@ Jobs
 - **Consultor de Testes de Automação** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/480729/consultor-de-testes-de-automacao-all-locations)
 
 
-- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/480934/qa-engineer)
-
-
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/481140/qae)
+
+
+- **QA - Quality Assurance** @_Mind Source_ [here](https://www.itjobs.pt/oferta/480144/qa-quality-assurance)
+
+
+- **Web Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/479839/web-tester)
+
+
+- **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/480733/quality-assurance-tester)
+
+
+- **Senior Software Developer Engineer in Test** @_Dellent_ [here](https://www.itjobs.pt/oferta/479414/senior-software-developer-engineer-in-test)
+
+
+- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/480934/qa-engineer)
 
 
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/480080/automation-tester)
@@ -139,16 +151,7 @@ Jobs
 - **QA Engineer** @_Dellent_ [here](https://www.itjobs.pt/oferta/480120/qa-engineer)
 
 
-- **QA - Quality Assurance** @_Mind Source_ [here](https://www.itjobs.pt/oferta/480144/qa-quality-assurance)
-
-
 - **Team Lead - Test Automation** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/480704/team-lead-test-automation-todo-o-pais)
-
-
-- **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/480733/quality-assurance-tester)
-
-
-- **Senior Software Developer Engineer in Test** @_Dellent_ [here](https://www.itjobs.pt/oferta/479414/senior-software-developer-engineer-in-test)
 
 
 - **Software Tester** @_mgm technology partners_ [here](https://www.itjobs.pt/oferta/480206/software-tester)
