@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Tue, 02 Apr 2024 01:16_
+> _Last updated: Wed, 03 Apr 2024 01:12_
 
 ### ItJobs
 
@@ -54,17 +54,17 @@ Jobs
 - **Web Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/479839/web-tester)
 
 
-- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/480868/quality-assurance-engineer)
+- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/481498/quality-assurance-engineer)
 
 #### Braga
 
 - **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/480934/qa-engineer)
 
 
+- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/481498/quality-assurance-engineer)
+
+
 - **Quality Assurance Engineer (mobile testing)** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/481071/qa-engineer-mobile)
-
-
-- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/480868/quality-assurance-engineer)
 
 #### Coimbra
 
@@ -77,7 +77,7 @@ Jobs
 - **Team Lead - Test Automation** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/480704/team-lead-test-automation-todo-o-pais)
 
 
-- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/480868/quality-assurance-engineer)
+- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/481498/quality-assurance-engineer)
 
 
 - **Performance Tester** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/480730/performance-tester-all-locations)
@@ -93,10 +93,16 @@ Jobs
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/481140/qae)
 
 
+- **Business Manager (Quality Assurance IT)** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/480543/business-manager-quality-assurance-it-lisboa)
+
+
 - **Automation QA Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/481438/automation-qa-engineer)
 
 
 - **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/480733/quality-assurance-tester)
+
+
+- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/481498/quality-assurance-engineer)
 
 
 - **Automation Engineer - Data Tester** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/481361/data-tester)
@@ -118,9 +124,6 @@ Jobs
 
 
 - **Testing Manager** @_Michael Page Portugal_ [here](https://www.itjobs.pt/oferta/480832/testing-manager)
-
-
-- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/480868/quality-assurance-engineer)
 
 
 - **Performance Tester** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/480730/performance-tester-all-locations)
@@ -145,6 +148,9 @@ Jobs
 - **Senior Software Developer Engineer in Test** @_Dellent_ [here](https://www.itjobs.pt/oferta/479414/senior-software-developer-engineer-in-test)
 
 
+- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/481498/quality-assurance-engineer)
+
+
 - **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/480934/qa-engineer)
 
 
@@ -160,9 +166,6 @@ Jobs
 - **Software Tester** @_mgm technology partners_ [here](https://www.itjobs.pt/oferta/480206/software-tester)
 
 
-- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/480868/quality-assurance-engineer)
-
-
 - **Performance Tester** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/480730/performance-tester-all-locations)
 
 #### Remote
@@ -176,6 +179,9 @@ Jobs
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/480080/automation-tester)
 
 
+- **Business Manager (Quality Assurance IT)** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/480543/business-manager-quality-assurance-it-lisboa)
+
+
 - **QA - Quality Assurance** @_Mind Source_ [here](https://www.itjobs.pt/oferta/480144/qa-quality-assurance)
 
 
@@ -185,10 +191,10 @@ Jobs
 - **Senior Software Developer Engineer in Test** @_Dellent_ [here](https://www.itjobs.pt/oferta/479414/senior-software-developer-engineer-in-test)
 
 
+- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/481498/quality-assurance-engineer)
+
+
 - **Software Tester** @_mgm technology partners_ [here](https://www.itjobs.pt/oferta/480206/software-tester)
-
-
-- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/480868/quality-assurance-engineer)
 
 
 - **Performance Tester** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/480730/performance-tester-all-locations)
