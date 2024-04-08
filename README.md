@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sun, 07 Apr 2024 01:18_
+> _Last updated: Mon, 08 Apr 2024 01:14_
 
 ### ItJobs
 
@@ -46,9 +46,6 @@ Jobs
 
 
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/481140/qae)
-
-
-- **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/480080/automation-tester)
 
 
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/481498/quality-assurance-engineer)
@@ -72,7 +69,13 @@ Jobs
 
 #### Lisboa
 
+- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/480934/qa-engineer)
+
+
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/481140/qae)
+
+
+- **Senior QA Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/480814/senior-qa-automation-tester)
 
 
 - **Business Manager (Quality Assurance IT)** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/480543/business-manager-quality-assurance-it-lisboa)
@@ -90,25 +93,16 @@ Jobs
 - **Automation Engineer - Data Tester** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/481361/data-tester)
 
 
-- **QA Automation Engineer** @_Neotalent Conclusion_ [here](https://www.itjobs.pt/oferta/481343/qa-automation-engineer)
-
-
-- **Test Environment Engineer** @_Findhu_ [here](https://www.itjobs.pt/oferta/480739/test-environment-engineer)
-
-
-- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/480934/qa-engineer)
-
-
-- **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/480080/automation-tester)
-
-
-- **Senior QA Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/480814/senior-qa-automation-tester)
-
-
 - **Testing Manager** @_Michael Page Portugal_ [here](https://www.itjobs.pt/oferta/480832/testing-manager)
 
 
 - **Quality assurance/tester funcional** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/481584/quality-assurance-tester-funcional)
+
+
+- **QA Automation Engineer** @_Neotalent Conclusion_ [here](https://www.itjobs.pt/oferta/481343/qa-automation-engineer)
+
+
+- **Test Environment Engineer** @_Findhu_ [here](https://www.itjobs.pt/oferta/480739/test-environment-engineer)
 
 #### Porto
 
@@ -118,13 +112,7 @@ Jobs
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/481140/qae)
 
 
-- **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/480080/automation-tester)
-
-
 - **QA Engineer** @_Dellent_ [here](https://www.itjobs.pt/oferta/480120/qa-engineer)
-
-
-- **QA - Quality Assurance** @_Mind Source_ [here](https://www.itjobs.pt/oferta/480144/qa-quality-assurance)
 
 
 - **Automation QA Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/481438/automation-qa-engineer)
@@ -139,7 +127,7 @@ Jobs
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/481498/quality-assurance-engineer)
 
 
-- **Software Tester** @_mgm technology partners_ [here](https://www.itjobs.pt/oferta/480206/software-tester)
+- **QA Automático** @_KWAN_ [here](https://www.itjobs.pt/oferta/480553/qa-automatico)
 
 #### Remote
 
@@ -149,22 +137,13 @@ Jobs
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/481140/qae)
 
 
-- **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/480080/automation-tester)
-
-
 - **Business Manager (Quality Assurance IT)** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/480543/business-manager-quality-assurance-it-lisboa)
-
-
-- **QA - Quality Assurance** @_Mind Source_ [here](https://www.itjobs.pt/oferta/480144/qa-quality-assurance)
 
 
 - **Senior Software Developer Engineer in Test** @_Dellent_ [here](https://www.itjobs.pt/oferta/479414/senior-software-developer-engineer-in-test)
 
 
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/481498/quality-assurance-engineer)
-
-
-- **Software Tester** @_mgm technology partners_ [here](https://www.itjobs.pt/oferta/480206/software-tester)
 
 
 - **QA Consultant** @_team.it_ [here](https://www.itjobs.pt/oferta/480904/qa-consultant)
