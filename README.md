@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sun, 14 Apr 2024 01:41_
+> _Last updated: Mon, 15 Apr 2024 03:31_
 
 ### ItJobs
 
@@ -97,6 +97,9 @@ Jobs
 
 
 - **Automation Engineer - Data Tester** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/481361/data-tester)
+
+
+- **Firmware Tester** @_KCS IT_ [here](https://www.itjobs.pt/oferta/482097/firmware-tester)
 
 
 - **Senior QA Automation Engineer** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/481600/senior-qa-automation-engineer)
@@ -186,6 +189,9 @@ Jobs
 
 
 - **QA Engineer - TOSCA Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/481839/qa-engineer-tosca-tester)
+
+
+- **Firmware Tester** @_KCS IT_ [here](https://www.itjobs.pt/oferta/482097/firmware-tester)
 
 
 - **Senior QA Automation Engineer** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/481600/senior-qa-automation-engineer)
