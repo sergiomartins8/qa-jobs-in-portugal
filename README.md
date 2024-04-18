@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Wed, 17 Apr 2024 01:13_
+> _Last updated: Thu, 18 Apr 2024 01:13_
 
 ### ItJobs
 
@@ -76,15 +76,15 @@ Jobs
 
 - **Team Lead - Test Automation** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/481703/team-lead-test-automation-todo-o-pais)
 
-
-- **Performance Tester** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/481710/performance-tester-all-locations)
-
 #### Lisboa
 
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/482118/quality-assurance-engineer)
 
 
 - **Software Test Automation Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/481779/software-test-automation-engineer)
+
+
+- **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/481140/qae)
 
 
 - **Consultor Sénior de Automação** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/481706/consultor-senior-de-automacao-todo-o-pais)
@@ -96,13 +96,7 @@ Jobs
 - **Automation QA Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/481438/automation-qa-engineer)
 
 
-- **Adobe Experience Manager (AEM) Developer** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/481934/adobe-experience-manager-aem-developer)
-
-
 - **Quality Assurance Analyst** @_Aubay_ [here](https://www.itjobs.pt/oferta/481973/quality-assurance-analyst)
-
-
-- **Automation Engineer - Data Tester** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/481361/data-tester)
 
 
 - **Firmware Tester** @_KCS IT_ [here](https://www.itjobs.pt/oferta/482097/firmware-tester)
@@ -112,6 +106,9 @@ Jobs
 
 
 - **QA Automation Engineer** @_Neotalent Conclusion_ [here](https://www.itjobs.pt/oferta/481343/qa-automation-engineer)
+
+
+- **Test Environment Engineer** @_Findhu_ [here](https://www.itjobs.pt/oferta/480739/test-environment-engineer)
 
 
 - **Senior QA Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/480814/senior-qa-automation-tester)
@@ -171,6 +168,9 @@ Jobs
 
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/481764/automation-tester)
 
+
+- **Software Tester** @_mgm technology partners_ [here](https://www.itjobs.pt/oferta/482248/software-tester)
+
 #### Remote
 
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/482118/quality-assurance-engineer)
@@ -191,9 +191,6 @@ Jobs
 - **QA Engineer (Python, C++)** @_Neotalent Conclusion_ [here](https://www.itjobs.pt/oferta/481590/qa-engineer-robot-framework)
 
 
-- **Adobe Experience Manager (AEM) Developer** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/481934/adobe-experience-manager-aem-developer)
-
-
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/481764/automation-tester)
 
 
@@ -203,5 +200,5 @@ Jobs
 - **Senior QA Automation Engineer** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/481600/senior-qa-automation-engineer)
 
 
-- **QA Consultant** @_team.it_ [here](https://www.itjobs.pt/oferta/480904/qa-consultant)
+- **Software Tester** @_mgm technology partners_ [here](https://www.itjobs.pt/oferta/482248/software-tester)
 
