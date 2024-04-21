@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sat, 20 Apr 2024 01:13_
+> _Last updated: Sun, 21 Apr 2024 01:19_
 
 ### ItJobs
 
@@ -118,9 +118,6 @@ Jobs
 
 
 - **QA Automation w/ Mandarin** @_Aubay_ [here](https://www.itjobs.pt/oferta/481865/qa-automation-w-mandarin)
-
-
-- **Testing Manager** @_Michael Page Portugal_ [here](https://www.itjobs.pt/oferta/480832/testing-manager)
 
 
 - **Quality assurance/tester funcional** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/481584/quality-assurance-tester-funcional)
