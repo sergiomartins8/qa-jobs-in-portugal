@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sat, 27 Apr 2024 01:13_
+> _Last updated: Sun, 28 Apr 2024 01:19_
 
 ### ItJobs
 
@@ -56,9 +56,6 @@ Jobs
 #### Braga
 
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/482118/quality-assurance-engineer)
-
-
-- **Quality Assurance Engineer (mobile)** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/481071/qa-engineer-mobile)
 
 
 - **QA Automation Engineer** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/481809/qa-automation-engineer)
