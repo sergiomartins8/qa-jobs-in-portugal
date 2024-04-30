@@ -36,13 +36,13 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Mon, 29 Apr 2024 01:16_
+> _Last updated: Tue, 30 Apr 2024 01:14_
 
 ### ItJobs
 
 #### Aveiro
 
-- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/482118/quality-assurance-engineer)
+- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/482763/quality-assurance-engineer)
 
 
 - **QA Engineer (Python, C++)** @_Neotalent Conclusion_ [here](https://www.itjobs.pt/oferta/481590/qa-engineer-robot-framework)
@@ -55,7 +55,7 @@ Jobs
 
 #### Braga
 
-- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/482118/quality-assurance-engineer)
+- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/482763/quality-assurance-engineer)
 
 
 - **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/482707/qa-engineer)
@@ -65,32 +65,29 @@ Jobs
 
 #### Coimbra
 
-- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/482118/quality-assurance-engineer)
+- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/482763/quality-assurance-engineer)
 
 
 - **Team Lead - Test Automation** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/481703/team-lead-test-automation-todo-o-pais)
 
 #### Lisboa
 
-- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/482118/quality-assurance-engineer)
-
-
 - **Software Test Automation Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/481779/software-test-automation-engineer)
-
-
-- **Business Tester** @_Aubay_ [here](https://www.itjobs.pt/oferta/481978/business-tester)
 
 
 - **Automation Engineer - Data Tester** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/482533/automation-engineer-data-tester)
 
 
+- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/482763/quality-assurance-engineer)
+
+
 - **Team Lead - Test Automation** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/481703/team-lead-test-automation-todo-o-pais)
 
 
+- **Frontend Developer** @_Neotalent Conclusion_ [here](https://www.itjobs.pt/oferta/482656/frontend-developer)
+
+
 - **Automation QA Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/481438/automation-qa-engineer)
-
-
-- **Release Manager** @_Aubay_ [here](https://www.itjobs.pt/oferta/482495/release-manager)
 
 
 - **Quality Assurance Analyst** @_Aubay_ [here](https://www.itjobs.pt/oferta/481973/quality-assurance-analyst)
@@ -130,10 +127,10 @@ Jobs
 - **Analista de Testes / Quality Assurance Tester** @_INSIA - Sistemas de Informação_ [here](https://www.itjobs.pt/oferta/482068/analista-de-testes-quality-assurance-tester)
 
 
-- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/482118/quality-assurance-engineer)
-
-
 - **Business Tester** @_Aubay_ [here](https://www.itjobs.pt/oferta/481978/business-tester)
+
+
+- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/482763/quality-assurance-engineer)
 
 
 - **Team Lead - Test Automation** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/481703/team-lead-test-automation-todo-o-pais)
@@ -173,7 +170,7 @@ Jobs
 
 #### Remote
 
-- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/482118/quality-assurance-engineer)
+- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/482763/quality-assurance-engineer)
 
 
 - **Team Lead - Test Automation** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/481703/team-lead-test-automation-todo-o-pais)
