@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Tue, 30 Apr 2024 01:14_
+> _Last updated: Wed, 01 May 2024 01:20_
 
 ### ItJobs
 
@@ -49,6 +49,9 @@ Jobs
 
 
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/481764/automation-tester)
+
+
+- **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/482731/qae)
 
 
 - **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/482707/qa-engineer)
@@ -114,6 +117,9 @@ Jobs
 - **QA Automation w/ Mandarin** @_Aubay_ [here](https://www.itjobs.pt/oferta/481865/qa-automation-w-mandarin)
 
 
+- **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/482731/qae)
+
+
 - **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/482594/quality-assurance-tester)
 
 
@@ -148,9 +154,6 @@ Jobs
 - **Quality Tester** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/481649/quality-tester-porto)
 
 
-- **QA Engineer** @_Dellent_ [here](https://www.itjobs.pt/oferta/480120/qa-engineer)
-
-
 - **Senior Software Developer Engineer in Test** @_Dellent_ [here](https://www.itjobs.pt/oferta/481533/senior-software-developer-engineer-in-test)
 
 
@@ -158,6 +161,9 @@ Jobs
 
 
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/481764/automation-tester)
+
+
+- **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/482731/qae)
 
 
 - **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/482594/quality-assurance-tester)
@@ -182,9 +188,6 @@ Jobs
 - **QA Tester** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/482138/qa-tester-lisbon)
 
 
-- **QA Engineer - TOSCA Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/481839/qa-engineer-tosca-tester)
-
-
 - **Firmware Tester** @_KCS IT_ [here](https://www.itjobs.pt/oferta/482097/firmware-tester)
 
 
@@ -201,6 +204,9 @@ Jobs
 
 
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/481764/automation-tester)
+
+
+- **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/482731/qae)
 
 
 - **QA Engineer - Selenium Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/482280/qa-engineer-selenium-tester)
