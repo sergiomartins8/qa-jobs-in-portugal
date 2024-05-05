@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sat, 04 May 2024 01:14_
+> _Last updated: Sun, 05 May 2024 01:20_
 
 ### ItJobs
 
@@ -96,9 +96,6 @@ Jobs
 - **Frontend Developer** @_Neotalent Conclusion_ [here](https://www.itjobs.pt/oferta/482656/frontend-developer)
 
 
-- **Automation QA Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/481438/automation-qa-engineer)
-
-
 - **Quality Assurance Analyst** @_Aubay_ [here](https://www.itjobs.pt/oferta/481973/quality-assurance-analyst)
 
 
@@ -132,9 +129,15 @@ Jobs
 - **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/482594/quality-assurance-tester)
 
 
+- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/482707/qa-engineer)
+
+
 - **Quality Assurance Consultant** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/482215/quality-assurance-consultant)
 
 #### Porto
+
+- **Analista de Testes / Quality Assurance Tester** @_INSIA - Sistemas de Informação_ [here](https://www.itjobs.pt/oferta/482068/analista-de-testes-quality-assurance-tester)
+
 
 - **Business Tester** @_Aubay_ [here](https://www.itjobs.pt/oferta/481978/business-tester)
 
@@ -146,9 +149,6 @@ Jobs
 
 
 - **Senior Automation Tester (Linux expert)** @_Aubay_ [here](https://www.itjobs.pt/oferta/481867/senior-automation-tester-linux-expert)
-
-
-- **Automation QA Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/481438/automation-qa-engineer)
 
 
 - **Senior QA Automation Engineer** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/481600/senior-qa-automation-engineer)
