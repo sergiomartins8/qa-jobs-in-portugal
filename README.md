@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Thu, 09 May 2024 01:16_
+> _Last updated: Fri, 10 May 2024 01:17_
 
 ### ItJobs
 
@@ -126,6 +126,9 @@ Jobs
 - **QAE** @_KCS IT_ [here](https://www.itjobs.pt/oferta/482927/qae)
 
 
+- **QA Automation Engineer** @_Sepio Systems_ [here](https://www.itjobs.pt/oferta/483313/qa-automation-engineer)
+
+
 - **Quality Assurance Consultant** @_Aubay_ [here](https://www.itjobs.pt/oferta/482468/quality-assurance-consultant)
 
 
@@ -136,9 +139,6 @@ Jobs
 
 
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/482731/qae)
-
-
-- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/482707/qa-engineer)
 
 #### Porto
 
@@ -209,9 +209,6 @@ Jobs
 - **QA Engineer (Python, C++)** @_Neotalent Conclusion_ [here](https://www.itjobs.pt/oferta/481590/qa-engineer-robot-framework)
 
 
-- **Firmware Tester** @_KCS IT_ [here](https://www.itjobs.pt/oferta/482097/firmware-tester)
-
-
 - **Senior QA Automation Engineer** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/481600/senior-qa-automation-engineer)
 
 
@@ -240,9 +237,6 @@ Jobs
 
 
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/482731/qae)
-
-
-- **QA Engineer - Selenium Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/482280/qa-engineer-selenium-tester)
 
 
 - **Software Tester** @_mgm technology partners_ [here](https://www.itjobs.pt/oferta/482248/software-tester)
