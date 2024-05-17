@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Thu, 16 May 2024 01:17_
+> _Last updated: Fri, 17 May 2024 01:17_
 
 ### ItJobs
 
@@ -77,9 +77,6 @@ Jobs
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/483444/quality-assurance-engineer)
 
 #### Lisboa
-
-- **Business Tester** @_Aubay_ [here](https://www.itjobs.pt/oferta/481978/business-tester)
-
 
 - **Automation QA Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/483228/automation-qa-engineer)
 
@@ -167,28 +164,28 @@ Jobs
 
 #### Remote
 
-- **Test coordinator in SAP Environment** @_KCS IT_ [here](https://www.itjobs.pt/oferta/483432/test-coordinator-in-sap-environment-germany)
-
-
-- **QAE** @_KCS IT_ [here](https://www.itjobs.pt/oferta/482928/qae)
-
-
-- **Senior QA Automation Engineer** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/483492/senior-qa-automation-engineer)
-
-
-- **Team Lead - Test Automation** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/481703/team-lead-test-automation-todo-o-pais)
-
-
 - **Java Expert** @_Devoteam_ [here](https://www.itjobs.pt/oferta/482838/java-expert)
+
+
+- **Test coordinator in SAP Environment** @_KCS IT_ [here](https://www.itjobs.pt/oferta/483432/test-coordinator-in-sap-environment-germany)
 
 
 - **Consultor de Testes de Automação** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/482697/consultor-de-testes-de-automacao-all-locations)
 
 
+- **QAE** @_KCS IT_ [here](https://www.itjobs.pt/oferta/482928/qae)
+
+
 - **Senior Test Automation Architect** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/482856/senior-test-automation-architect)
 
 
+- **Senior QA Automation Engineer** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/483492/senior-qa-automation-engineer)
+
+
 - **QAE** @_KCS IT_ [here](https://www.itjobs.pt/oferta/482927/qae)
+
+
+- **Team Lead - Test Automation** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/481703/team-lead-test-automation-todo-o-pais)
 
 
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/483444/quality-assurance-engineer)
@@ -198,9 +195,6 @@ Jobs
 
 
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/482731/qae)
-
-
-- **QA Engineer - Selenium Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/482280/qa-engineer-selenium-tester)
 
 
 - **Software Tester** @_mgm technology partners_ [here](https://www.itjobs.pt/oferta/482248/software-tester)
