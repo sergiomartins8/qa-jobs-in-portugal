@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Mon, 20 May 2024 01:18_
+> _Last updated: Tue, 21 May 2024 01:17_
 
 ### ItJobs
 
@@ -49,6 +49,9 @@ Jobs
 
 
 - **QA Automation Engineer (Information Technologies)** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/483587/qa-automation-engineer-information-technologies)
+
+
+- **QA Engineer (Python, C++)** @_Neotalent Conclusion_ [here](https://www.itjobs.pt/oferta/483452/qa-engineer-python-c)
 
 
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/482731/qae)
@@ -168,9 +171,6 @@ Jobs
 
 - **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/482707/qa-engineer)
 
-
-- **Software Tester** @_mgm technology partners_ [here](https://www.itjobs.pt/oferta/482248/software-tester)
-
 #### Remote
 
 - **Test coordinator in SAP Environment** @_KCS IT_ [here](https://www.itjobs.pt/oferta/483432/test-coordinator-in-sap-environment-germany)
@@ -180,6 +180,9 @@ Jobs
 
 
 - **Senior QA Automation Engineer** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/483492/senior-qa-automation-engineer)
+
+
+- **QA Engineer (Python, C++)** @_Neotalent Conclusion_ [here](https://www.itjobs.pt/oferta/483452/qa-engineer-python-c)
 
 
 - **QA Engineer (Python, C++)** @_Neotalent Conclusion_ [here](https://www.itjobs.pt/oferta/483451/qa-engineer-python-c)
@@ -213,7 +216,4 @@ Jobs
 
 
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/482731/qae)
-
-
-- **Software Tester** @_mgm technology partners_ [here](https://www.itjobs.pt/oferta/482248/software-tester)
 
