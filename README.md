@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sat, 25 May 2024 01:16_
+> _Last updated: Sun, 26 May 2024 01:23_
 
 ### ItJobs
 
@@ -87,6 +87,9 @@ Jobs
 - **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/484085/quality-assurance-tester)
 
 
+- **QA Automation Engineer** @_Neotalent Conclusion_ [here](https://www.itjobs.pt/oferta/483746/qa-automation-engineer)
+
+
 - **Mobile Automation Tester** @_Neotalent Conclusion_ [here](https://www.itjobs.pt/oferta/483548/mobile-automation-tester)
 
 
@@ -112,9 +115,6 @@ Jobs
 
 
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/482731/qae)
-
-
-- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/482707/qa-engineer)
 
 
 - **Software Test Automation Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/483637/software-test-automation-engineer)
@@ -165,9 +165,6 @@ Jobs
 #### Remote
 
 - **Test coordinator in SAP Environment** @_KCS IT_ [here](https://www.itjobs.pt/oferta/483432/test-coordinator-in-sap-environment-germany)
-
-
-- **QAE** @_KCS IT_ [here](https://www.itjobs.pt/oferta/482928/qae)
 
 
 - **Senior QA Automation Engineer** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/483492/senior-qa-automation-engineer)
