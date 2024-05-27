@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sun, 26 May 2024 01:23_
+> _Last updated: Mon, 27 May 2024 01:19_
 
 ### ItJobs
 
@@ -106,9 +106,6 @@ Jobs
 
 
 - **Automation QA Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/483222/automation-qa-engineer)
-
-
-- **Quality Assurance Consultant** @_Aubay_ [here](https://www.itjobs.pt/oferta/482468/quality-assurance-consultant)
 
 
 - **SAP Quality Engineer** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/483319/sap-quality-engineer-all-locations)
