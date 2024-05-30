@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Wed, 29 May 2024 01:21_
+> _Last updated: Thu, 30 May 2024 01:18_
 
 ### ItJobs
 
@@ -82,6 +82,9 @@ Jobs
 
 
 - **Senior QA Automation Engineer** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/483492/senior-qa-automation-engineer)
+
+
+- **QA Engineer** @_YellowIpe_ [here](https://www.itjobs.pt/oferta/482670/qa-engineer)
 
 
 - **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/484085/quality-assurance-tester)
@@ -145,6 +148,9 @@ Jobs
 - **Tester** @_Cleva Inetum_ [here](https://www.itjobs.pt/oferta/483017/test-analyst)
 
 
+- **QAE** @_KCS IT_ [here](https://www.itjobs.pt/oferta/484352/qae)
+
+
 - **SAP Quality Engineer** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/483319/sap-quality-engineer-all-locations)
 
 
@@ -162,6 +168,9 @@ Jobs
 #### Remote
 
 - **Test coordinator in SAP Environment** @_KCS IT_ [here](https://www.itjobs.pt/oferta/483432/test-coordinator-in-sap-environment-germany)
+
+
+- **QAE** @_KCS IT_ [here](https://www.itjobs.pt/oferta/482928/qae)
 
 
 - **Senior QA Automation Engineer** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/483492/senior-qa-automation-engineer)
@@ -189,6 +198,9 @@ Jobs
 
 
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/484228/quality-assurance-engineer)
+
+
+- **QAE** @_KCS IT_ [here](https://www.itjobs.pt/oferta/484352/qae)
 
 
 - **SAP Quality Engineer** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/483319/sap-quality-engineer-all-locations)
