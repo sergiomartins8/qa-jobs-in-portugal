@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Mon, 03 Jun 2024 01:20_
+> _Last updated: Tue, 04 Jun 2024 01:19_
 
 ### ItJobs
 
@@ -48,6 +48,9 @@ Jobs
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/484228/quality-assurance-engineer)
 
 
+- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/484506/qa-engineer)
+
+
 - **QA Engineer (Python, C++)** @_Neotalent Conclusion_ [here](https://www.itjobs.pt/oferta/483452/qa-engineer-python-c)
 
 
@@ -56,6 +59,9 @@ Jobs
 #### Braga
 
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/484228/quality-assurance-engineer)
+
+
+- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/484506/qa-engineer)
 
 #### Coimbra
 
@@ -69,25 +75,10 @@ Jobs
 
 #### Lisboa
 
-- **QA Engineer - Selenium Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/484377/qa-engineer-selenium-tester)
-
-
-- **Manual QA** @_Remote Crew_ [here](https://www.itjobs.pt/oferta/484123/manual-qa)
-
-
-- **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/483645/automation-tester)
-
-
 - **Automation QA Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/483228/automation-qa-engineer)
 
 
 - **Senior QA Automation Engineer** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/483492/senior-qa-automation-engineer)
-
-
-- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/484228/quality-assurance-engineer)
-
-
-- **Automation QA Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/483222/automation-qa-engineer)
 
 
 - **QA Automation Engineer** @_Neotalent Conclusion_ [here](https://www.itjobs.pt/oferta/483746/qa-automation-engineer)
@@ -96,13 +87,34 @@ Jobs
 - **Mobile Automation Tester** @_Neotalent Conclusion_ [here](https://www.itjobs.pt/oferta/483548/mobile-automation-tester)
 
 
+- **Mid/Senior Automation Tester** @_Aubay_ [here](https://www.itjobs.pt/oferta/484491/mid-senior-automation-tester)
+
+
+- **Tester Funcional** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/484301/tester-funcional)
+
+
+- **Manual QA** @_Remote Crew_ [here](https://www.itjobs.pt/oferta/484123/manual-qa)
+
+
+- **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/483645/automation-tester)
+
+
+- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/484228/quality-assurance-engineer)
+
+
+- **Automation QA Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/483222/automation-qa-engineer)
+
+
+- **Automation QA Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/483383/automation-qa-engineer)
+
+
+- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/484506/qa-engineer)
+
+
 - **SAP Quality Engineer** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/483319/sap-quality-engineer-all-locations)
 
 
 - **Software Test Automation Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/483637/software-test-automation-engineer)
-
-
-- **Tester Funcional** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/484301/tester-funcional)
 
 #### Porto
 
@@ -122,6 +134,9 @@ Jobs
 
 
 - **Tester** @_Cleva Inetum_ [here](https://www.itjobs.pt/oferta/483017/test-analyst)
+
+
+- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/484506/qa-engineer)
 
 
 - **QAE** @_KCS IT_ [here](https://www.itjobs.pt/oferta/484352/qae)
@@ -171,9 +186,6 @@ Jobs
 
 
 - **Tester** @_Cleva Inetum_ [here](https://www.itjobs.pt/oferta/483017/test-analyst)
-
-
-- **QAE** @_KCS IT_ [here](https://www.itjobs.pt/oferta/484352/qae)
 
 
 - **SAP Quality Engineer** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/483319/sap-quality-engineer-all-locations)
