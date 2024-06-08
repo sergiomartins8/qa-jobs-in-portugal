@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Fri, 07 Jun 2024 01:21_
+> _Last updated: Sat, 08 Jun 2024 01:19_
 
 ### ItJobs
 
@@ -71,13 +71,7 @@ Jobs
 
 #### Coimbra
 
-- **Consultor de Testes de Automação** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/484177/consultor-de-testes-de-automacao-all-locations)
-
-
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/484228/quality-assurance-engineer)
-
-
-- **SAP Quality Engineer** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/483319/sap-quality-engineer-all-locations)
 
 #### Lisboa
 
@@ -132,7 +126,7 @@ Jobs
 - **Quality Assurance Engineer - French Speaker** @_Aubay_ [here](https://www.itjobs.pt/oferta/484598/quality-assurance-engineer-french-speaker)
 
 
-- **SAP Quality Engineer** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/483319/sap-quality-engineer-all-locations)
+- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/484506/qa-engineer)
 
 
 - **Software Test Automation Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/483637/software-test-automation-engineer)
@@ -175,10 +169,13 @@ Jobs
 - **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/484506/qa-engineer)
 
 
-- **SAP Quality Engineer** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/483319/sap-quality-engineer-all-locations)
+- **QAE** @_KCS IT_ [here](https://www.itjobs.pt/oferta/484352/qae)
 
 
 - **Quality Assurance Engineer - Katalon / Selenium** @_Aubay_ [here](https://www.itjobs.pt/oferta/484597/quality-assurance-engineer-katalon-selenium)
+
+
+- **Quality Tester** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/483590/quality-tester-porto)
 
 
 - **QAE - Quality Assurance Engineer** @_KCS IT_ [here](https://www.itjobs.pt/oferta/484115/qae-quality-assurance-engineer)
@@ -209,6 +206,9 @@ Jobs
 - **QA Automation Engineer** @_KCS IT_ [here](https://www.itjobs.pt/oferta/483803/qa-automation-engineer-netherlands)
 
 
+- **QA Engineer - Selenium Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/484377/qa-engineer-selenium-tester)
+
+
 - **Manual QA** @_Remote Crew_ [here](https://www.itjobs.pt/oferta/484123/manual-qa)
 
 
@@ -216,9 +216,6 @@ Jobs
 
 
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/484228/quality-assurance-engineer)
-
-
-- **SAP Quality Engineer** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/483319/sap-quality-engineer-all-locations)
 
 
 - **QAE - Quality Assurance Engineer** @_KCS IT_ [here](https://www.itjobs.pt/oferta/484115/qae-quality-assurance-engineer)
