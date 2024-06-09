@@ -36,11 +36,14 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sat, 08 Jun 2024 01:19_
+> _Last updated: Sun, 09 Jun 2024 01:26_
 
 ### ItJobs
 
 #### Aveiro
+
+- **QA Automation** @_Dellent_ [here](https://www.itjobs.pt/oferta/483407/qa-automation)
+
 
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/483645/automation-tester)
 
@@ -163,9 +166,6 @@ Jobs
 - **Automation QA Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/483222/automation-qa-engineer)
 
 
-- **Tester** @_Cleva Inetum_ [here](https://www.itjobs.pt/oferta/483017/test-analyst)
-
-
 - **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/484506/qa-engineer)
 
 
@@ -210,6 +210,9 @@ Jobs
 
 
 - **Manual QA** @_Remote Crew_ [here](https://www.itjobs.pt/oferta/484123/manual-qa)
+
+
+- **QA Automation** @_Dellent_ [here](https://www.itjobs.pt/oferta/483407/qa-automation)
 
 
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/483645/automation-tester)
