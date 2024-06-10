@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sun, 09 Jun 2024 01:26_
+> _Last updated: Mon, 10 Jun 2024 01:22_
 
 ### ItJobs
 
@@ -77,9 +77,6 @@ Jobs
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/484228/quality-assurance-engineer)
 
 #### Lisboa
-
-- **Automation QA Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/483228/automation-qa-engineer)
-
 
 - **Senior QA Automation Engineer** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/483492/senior-qa-automation-engineer)
 
@@ -138,9 +135,6 @@ Jobs
 - **QA (testes manuais)** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/484617/qa-testes-manuais)
 
 #### Porto
-
-- **Automation QA Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/483228/automation-qa-engineer)
-
 
 - **Senior QA Automation Engineer** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/483492/senior-qa-automation-engineer)
 
