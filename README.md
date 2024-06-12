@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Tue, 11 Jun 2024 01:21_
+> _Last updated: Wed, 12 Jun 2024 01:21_
 
 ### ItJobs
 
@@ -48,9 +48,6 @@ Jobs
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/483645/automation-tester)
 
 
-- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/484228/quality-assurance-engineer)
-
-
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/484505/qae)
 
 
@@ -60,31 +57,34 @@ Jobs
 - **QA Engineer (Python, C++)** @_Neotalent Conclusion_ [here](https://www.itjobs.pt/oferta/483452/qa-engineer-python-c)
 
 
+- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/484844/quality-assurance-engineer)
+
+
 - **QA Engineer (Python, C++)** @_Neotalent Conclusion_ [here](https://www.itjobs.pt/oferta/483451/qa-engineer-python-c)
 
 #### Braga
-
-- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/484228/quality-assurance-engineer)
-
 
 - **Senior Quality Assurance Engineer** @_Aubay_ [here](https://www.itjobs.pt/oferta/484489/senior-quality-assurance-engineer)
 
 
 - **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/484506/qa-engineer)
 
+
+- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/484844/quality-assurance-engineer)
+
 #### Coimbra
 
-- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/484228/quality-assurance-engineer)
+- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/484844/quality-assurance-engineer)
 
 #### Lisboa
 
 - **Senior QA Automation Engineer** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/483492/senior-qa-automation-engineer)
 
 
+- **Quality Assurance Consultant** @_Aubay_ [here](https://www.itjobs.pt/oferta/484874/quality-assurance-consultant)
+
+
 - **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/484454/quality-assurance-tester)
-
-
-- **QA Engineer** @_YellowIpe_ [here](https://www.itjobs.pt/oferta/484534/qa-engineer)
 
 
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/484505/qae)
@@ -108,9 +108,6 @@ Jobs
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/483645/automation-tester)
 
 
-- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/484228/quality-assurance-engineer)
-
-
 - **Junior Quality Assurance Engineer** @_Aubay_ [here](https://www.itjobs.pt/oferta/484600/junior-quality-assurance-engineer)
 
 
@@ -129,10 +126,10 @@ Jobs
 - **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/484506/qa-engineer)
 
 
+- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/484844/quality-assurance-engineer)
+
+
 - **Software Test Automation Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/483637/software-test-automation-engineer)
-
-
-- **QA (testes manuais)** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/484617/qa-testes-manuais)
 
 #### Porto
 
@@ -157,9 +154,6 @@ Jobs
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/483645/automation-tester)
 
 
-- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/484228/quality-assurance-engineer)
-
-
 - **Automation QA Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/483222/automation-qa-engineer)
 
 
@@ -167,6 +161,9 @@ Jobs
 
 
 - **QAE** @_KCS IT_ [here](https://www.itjobs.pt/oferta/484352/qae)
+
+
+- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/484844/quality-assurance-engineer)
 
 
 - **Quality Assurance Engineer - Katalon / Selenium** @_Aubay_ [here](https://www.itjobs.pt/oferta/484597/quality-assurance-engineer-katalon-selenium)
@@ -218,7 +215,10 @@ Jobs
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/483645/automation-tester)
 
 
-- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/484228/quality-assurance-engineer)
+- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/484844/quality-assurance-engineer)
+
+
+- **Quality Assurance (Salesforce)** @_Aubay_ [here](https://www.itjobs.pt/oferta/484919/senior-quality-assurance-salesforce)
 
 
 - **QAE - Quality Assurance Engineer** @_KCS IT_ [here](https://www.itjobs.pt/oferta/484115/qae-quality-assurance-engineer)
