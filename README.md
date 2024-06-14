@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Thu, 13 Jun 2024 01:20_
+> _Last updated: Fri, 14 Jun 2024 01:20_
 
 ### ItJobs
 
@@ -108,6 +108,9 @@ Jobs
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/483645/automation-tester)
 
 
+- **Quality Assurance Engineer** @_KCS IT_ [here](https://www.itjobs.pt/oferta/484965/quality-assurance-engineer)
+
+
 - **Junior Quality Assurance Engineer** @_Aubay_ [here](https://www.itjobs.pt/oferta/484600/junior-quality-assurance-engineer)
 
 
@@ -127,6 +130,9 @@ Jobs
 
 
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/484844/quality-assurance-engineer)
+
+
+- **Quality Assurance (Salesforce)** @_Aubay_ [here](https://www.itjobs.pt/oferta/484919/senior-quality-assurance-salesforce)
 
 
 - **Software Test Automation Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/483637/software-test-automation-engineer)
@@ -200,9 +206,6 @@ Jobs
 - **QA Automation Engineer** @_KCS IT_ [here](https://www.itjobs.pt/oferta/483803/qa-automation-engineer-netherlands)
 
 
-- **QA Engineer - Selenium Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/484377/qa-engineer-selenium-tester)
-
-
 - **Manual QA** @_Remote Crew_ [here](https://www.itjobs.pt/oferta/484123/manual-qa)
 
 
@@ -213,6 +216,9 @@ Jobs
 
 
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/483645/automation-tester)
+
+
+- **Quality Assurance Engineer** @_KCS IT_ [here](https://www.itjobs.pt/oferta/484965/quality-assurance-engineer)
 
 
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/484844/quality-assurance-engineer)
