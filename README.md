@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Tue, 18 Jun 2024 01:21_
+> _Last updated: Wed, 19 Jun 2024 01:21_
 
 ### ItJobs
 
@@ -139,6 +139,9 @@ Jobs
 - **QA Automático** @_KWAN_ [here](https://www.itjobs.pt/oferta/485075/qa-automatico)
 
 
+- **QA Automático** @_KWAN_ [here](https://www.itjobs.pt/oferta/484078/qa-automatico)
+
+
 - **Quality Assurance Engineer (IT)** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/484313/quality-assurance-engineer-it)
 
 
@@ -183,6 +186,9 @@ Jobs
 
 
 - **Middle Salesforce QA Engineer** @_Ascendix_ [here](https://www.itjobs.pt/oferta/484660/middle-salesforce-qa-engineer)
+
+
+- **QA Engineer - Selenium Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/484377/qa-engineer-selenium-tester)
 
 
 - **Manual QA** @_Remote Crew_ [here](https://www.itjobs.pt/oferta/484123/manual-qa)
