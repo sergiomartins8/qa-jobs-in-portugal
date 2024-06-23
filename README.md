@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sat, 22 Jun 2024 01:19_
+> _Last updated: Sun, 23 Jun 2024 01:25_
 
 ### ItJobs
 
@@ -137,6 +137,9 @@ Jobs
 
 
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/484505/qae)
+
+
+- **QA Automático** @_KWAN_ [here](https://www.itjobs.pt/oferta/485075/qa-automatico)
 
 
 - **Quality Assurance Engineer (IT)** @_Randstad Portugal_ [here](https://www.itjobs.pt/oferta/484313/quality-assurance-engineer-it)
