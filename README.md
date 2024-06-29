@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Fri, 28 Jun 2024 01:21_
+> _Last updated: Sat, 29 Jun 2024 01:19_
 
 ### ItJobs
 
@@ -84,6 +84,9 @@ Jobs
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/484505/qae)
 
 
+- **Tester Funcional** @_Adentis_ [here](https://www.itjobs.pt/oferta/485590/tester-funcional)
+
+
 - **Quality Assurance Engineer - Automation** @_Aubay_ [here](https://www.itjobs.pt/oferta/484490/quality-assurance-engineer-katalon-selenium)
 
 
@@ -121,6 +124,9 @@ Jobs
 
 
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/485435/quality-assurance-engineer)
+
+
+- **Automation QA Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/485074/automation-qa-engineer)
 
 
 - **Quality Assurance (Salesforce)** @_Aubay_ [here](https://www.itjobs.pt/oferta/484919/senior-quality-assurance-salesforce)
@@ -185,7 +191,13 @@ Jobs
 - **Mid/Senior Quality Assurance Engineer** @_Aubay_ [here](https://www.itjobs.pt/oferta/484601/mid-senior-quality-assurance-engineer)
 
 
+- **Tester Funcional** @_Adentis_ [here](https://www.itjobs.pt/oferta/485590/tester-funcional)
+
+
 - **Middle Salesforce QA Engineer** @_Ascendix_ [here](https://www.itjobs.pt/oferta/484660/middle-salesforce-qa-engineer)
+
+
+- **Commodity Trading Risk Business Analyst** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/484972/commodity-trading-risk-business-analyst)
 
 
 - **QA Automation Engineer/Tester - QAE** @_KCS IT_ [here](https://www.itjobs.pt/oferta/484671/qa-automation-engineer-tester-qae)
@@ -207,9 +219,6 @@ Jobs
 
 
 - **Consultor Sénior de Automação** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/484801/consultor-senior-de-automacao-todo-o-pais)
-
-
-- **Calling All Tech Sleuths! Join Our QA Team (Junior Software QA Tester)** @_ITClinical_ [here](https://www.itjobs.pt/oferta/485045/calling-all-tech-sleuths-join-our-qa-team-junior-software-qa-tester)
 
 
 - **QA Engineer – Automation Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/485139/qa-engineer-automation-tester)
