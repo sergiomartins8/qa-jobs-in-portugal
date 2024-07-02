@@ -36,19 +36,205 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Mon, 01 Jul 2024 01:36_
+> _Last updated: Tue, 02 Jul 2024 01:21_
 
 ### ItJobs
 
 #### Aveiro
 
+- **QA Automation** @_Dellent_ [here](https://www.itjobs.pt/oferta/483407/qa-automation)
+
+
+- **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/484505/qae)
+
+
+- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/484506/qa-engineer)
+
+
+- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/485435/quality-assurance-engineer)
+
+
+- **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/485311/automation-tester)
+
 #### Braga
+
+- **Senior Quality Assurance Engineer** @_Aubay_ [here](https://www.itjobs.pt/oferta/484489/senior-quality-assurance-engineer)
+
+
+- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/484506/qa-engineer)
+
+
+- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/485435/quality-assurance-engineer)
 
 #### Coimbra
 
+- **Consultor Sénior de Automação** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/484801/consultor-senior-de-automacao-todo-o-pais)
+
+
+- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/485435/quality-assurance-engineer)
+
+
+- **SAP Quality Engineer** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/484803/sap-quality-engineer-all-locations)
+
 #### Lisboa
+
+- **QA Engineer – Katalon Studio Automation Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/485616/qa-engineer-katalon-studio-automation-tester)
+
+
+- **Tester Funcional** @_Adentis_ [here](https://www.itjobs.pt/oferta/485590/tester-funcional)
+
+
+- **Quality Assurance Engineer - Automation** @_Aubay_ [here](https://www.itjobs.pt/oferta/484490/quality-assurance-engineer-katalon-selenium)
+
+
+- **Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/485741/automation-tester)
+
+
+- **Mid/Senior Automation Tester** @_Aubay_ [here](https://www.itjobs.pt/oferta/484491/mid-senior-automation-tester)
+
+
+- **Middle Salesforce QA Engineer** @_Ascendix_ [here](https://www.itjobs.pt/oferta/484660/middle-salesforce-qa-engineer)
+
+
+- **Quality Assurance Engineer** @_KCS IT_ [here](https://www.itjobs.pt/oferta/484965/quality-assurance-engineer)
+
+
+- **Junior Quality Assurance Engineer** @_Aubay_ [here](https://www.itjobs.pt/oferta/484600/junior-quality-assurance-engineer)
+
+
+- **Junior Test Automation Developer** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/484968/junior-test-automation-developer-tagus-park)
+
+
+- **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/485552/quality-assurance-tester)
+
+
+- **Senior Quality Assurance Engineer** @_Aubay_ [here](https://www.itjobs.pt/oferta/484489/senior-quality-assurance-engineer)
+
+
+- **Senior QA Automation Engineer** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/485183/senior-qa-automation-engineer)
+
+
+- **Consultor Sénior de Automação** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/484801/consultor-senior-de-automacao-todo-o-pais)
+
+
+- **Quality Assurance Engineer - French Speaker** @_Aubay_ [here](https://www.itjobs.pt/oferta/484598/quality-assurance-engineer-french-speaker)
+
+
+- **QA Engineer – Automation Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/485139/qa-engineer-automation-tester)
+
+
+- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/485435/quality-assurance-engineer)
+
+
+- **Automation QA Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/485074/automation-qa-engineer)
+
+
+- **Quality Assurance (Salesforce)** @_Aubay_ [here](https://www.itjobs.pt/oferta/484919/senior-quality-assurance-salesforce)
+
+
+- **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/485311/automation-tester)
+
+
+- **SAP Quality Engineer** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/484803/sap-quality-engineer-all-locations)
+
+
+- **Senior Quality Tester (Salesforce)** @_Aubay_ [here](https://www.itjobs.pt/oferta/485127/senior-quality-tester-salesforce)
 
 #### Porto
 
+- **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/484505/qae)
+
+
+- **Middle Salesforce QA Engineer** @_Ascendix_ [here](https://www.itjobs.pt/oferta/484660/middle-salesforce-qa-engineer)
+
+
+- **QA Automation Engineer/Tester - QAE** @_KCS IT_ [here](https://www.itjobs.pt/oferta/484671/qa-automation-engineer-tester-qae)
+
+
+- **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/485552/quality-assurance-tester)
+
+
+- **Senior QA Automation Engineer** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/485183/senior-qa-automation-engineer)
+
+
+- **Consultor Sénior de Automação** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/484801/consultor-senior-de-automacao-todo-o-pais)
+
+
+- **QA Engineer – Automation Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/485139/qa-engineer-automation-tester)
+
+
+- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/484506/qa-engineer)
+
+
+- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/485435/quality-assurance-engineer)
+
+
+- **Quality Assurance Engineer - Katalon / Selenium** @_Aubay_ [here](https://www.itjobs.pt/oferta/484597/quality-assurance-engineer-katalon-selenium)
+
+
+- **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/485311/automation-tester)
+
+
+- **SAP Quality Engineer** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/484803/sap-quality-engineer-all-locations)
+
+
+- **Senior Quality Assurance Engineer** @_Go Yonder_ [here](https://www.itjobs.pt/oferta/485815/senior-quality-assurance-engineer)
+
 #### Remote
+
+- **Mobile Automation Tester** @_Aubay_ [here](https://www.itjobs.pt/oferta/484599/mobile-automation-tester)
+
+
+- **Quality Assurance Engineer** @_HumanIT_ [here](https://www.itjobs.pt/oferta/485817/quality-assurance-engineer)
+
+
+- **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/484505/qae)
+
+
+- **Mid/Senior Quality Assurance Engineer** @_Aubay_ [here](https://www.itjobs.pt/oferta/484601/mid-senior-quality-assurance-engineer)
+
+
+- **Tester Funcional** @_Adentis_ [here](https://www.itjobs.pt/oferta/485590/tester-funcional)
+
+
+- **Middle Salesforce QA Engineer** @_Ascendix_ [here](https://www.itjobs.pt/oferta/484660/middle-salesforce-qa-engineer)
+
+
+- **Commodity Trading Risk Business Analyst** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/484972/commodity-trading-risk-business-analyst)
+
+
+- **QA Automation Engineer/Tester - QAE** @_KCS IT_ [here](https://www.itjobs.pt/oferta/484671/qa-automation-engineer-tester-qae)
+
+
+- **QA Automation** @_Dellent_ [here](https://www.itjobs.pt/oferta/483407/qa-automation)
+
+
+- **Quality Assurance Engineer** @_KCS IT_ [here](https://www.itjobs.pt/oferta/484965/quality-assurance-engineer)
+
+
+- **Junior Test Automation Developer** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/484968/junior-test-automation-developer-tagus-park)
+
+
+- **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/485552/quality-assurance-tester)
+
+
+- **Senior QA Automation Engineer** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/485183/senior-qa-automation-engineer)
+
+
+- **Consultor Sénior de Automação** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/484801/consultor-senior-de-automacao-todo-o-pais)
+
+
+- **QA Engineer – Automation Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/485139/qa-engineer-automation-tester)
+
+
+- **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/485435/quality-assurance-engineer)
+
+
+- **Quality Assurance (Salesforce)** @_Aubay_ [here](https://www.itjobs.pt/oferta/484919/senior-quality-assurance-salesforce)
+
+
+- **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/485311/automation-tester)
+
+
+- **SAP Quality Engineer** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/484803/sap-quality-engineer-all-locations)
 
