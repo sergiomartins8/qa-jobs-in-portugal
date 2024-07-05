@@ -36,13 +36,16 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Thu, 04 Jul 2024 01:21_
+> _Last updated: Fri, 05 Jul 2024 01:21_
 
 ### ItJobs
 
 #### Aveiro
 
 - **QA Automation** @_Dellent_ [here](https://www.itjobs.pt/oferta/483407/qa-automation)
+
+
+- **QA Engineer (Python, C++)** @_Neotalent Conclusion_ [here](https://www.itjobs.pt/oferta/485459/qa-engineer-python-c)
 
 
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/484505/qae)
@@ -87,13 +90,13 @@ Jobs
 - **Quality Assurance Engineer - Automation** @_Aubay_ [here](https://www.itjobs.pt/oferta/484490/quality-assurance-engineer-katalon-selenium)
 
 
+- **QA Engineer – Embedded Systems** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/486086/qa-engineer-embedded-systems)
+
+
 - **Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/485741/automation-tester)
 
 
 - **Mid/Senior Automation Tester** @_Aubay_ [here](https://www.itjobs.pt/oferta/484491/mid-senior-automation-tester)
-
-
-- **Middle Salesforce QA Engineer** @_Ascendix_ [here](https://www.itjobs.pt/oferta/484660/middle-salesforce-qa-engineer)
 
 
 - **Quality Assurance Engineer** @_KCS IT_ [here](https://www.itjobs.pt/oferta/484965/quality-assurance-engineer)
@@ -138,9 +141,6 @@ Jobs
 - **Senior Quality Tester (Salesforce)** @_Aubay_ [here](https://www.itjobs.pt/oferta/485127/senior-quality-tester-salesforce)
 
 #### Porto
-
-- **QA Automation Engineer/Tester - QAE** @_KCS IT_ [here](https://www.itjobs.pt/oferta/484671/qa-automation-engineer-tester-qae)
-
 
 - **Senior QA Automation Engineer** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/485183/senior-qa-automation-engineer)
 
@@ -191,16 +191,16 @@ Jobs
 - **Tester Funcional** @_Adentis_ [here](https://www.itjobs.pt/oferta/485590/tester-funcional)
 
 
-- **Middle Salesforce QA Engineer** @_Ascendix_ [here](https://www.itjobs.pt/oferta/484660/middle-salesforce-qa-engineer)
+- **QA Engineer – Embedded Systems** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/486086/qa-engineer-embedded-systems)
 
 
 - **Commodity Trading Risk Business Analyst** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/484972/commodity-trading-risk-business-analyst)
 
 
-- **QA Automation Engineer/Tester - QAE** @_KCS IT_ [here](https://www.itjobs.pt/oferta/484671/qa-automation-engineer-tester-qae)
-
-
 - **QA Automation** @_Dellent_ [here](https://www.itjobs.pt/oferta/483407/qa-automation)
+
+
+- **QA Engineer (Python, C++)** @_Neotalent Conclusion_ [here](https://www.itjobs.pt/oferta/485459/qa-engineer-python-c)
 
 
 - **Quality Assurance Engineer** @_KCS IT_ [here](https://www.itjobs.pt/oferta/484965/quality-assurance-engineer)
