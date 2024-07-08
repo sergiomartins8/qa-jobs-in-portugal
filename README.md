@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sun, 07 Jul 2024 01:34_
+> _Last updated: Mon, 08 Jul 2024 01:23_
 
 ### ItJobs
 
@@ -58,9 +58,6 @@ Jobs
 
 #### Braga
 
-- **Senior Quality Assurance Engineer** @_Aubay_ [here](https://www.itjobs.pt/oferta/484489/senior-quality-assurance-engineer)
-
-
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/485435/quality-assurance-engineer)
 
 #### Coimbra
@@ -75,6 +72,9 @@ Jobs
 
 #### Lisboa
 
+- **QA Engineer – Katalon Studio Automation Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/485616/qa-engineer-katalon-studio-automation-tester)
+
+
 - **Quality Assurance Tester** @_PDMFC_ [here](https://www.itjobs.pt/oferta/486174/quality-assurance-tester)
 
 
@@ -82,9 +82,6 @@ Jobs
 
 
 - **Tester Funcional** @_Adentis_ [here](https://www.itjobs.pt/oferta/485590/tester-funcional)
-
-
-- **Quality Assurance Engineer - Automation** @_Aubay_ [here](https://www.itjobs.pt/oferta/484490/quality-assurance-engineer-katalon-selenium)
 
 
 - **QA Engineer – Embedded Systems** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/486086/qa-engineer-embedded-systems)
@@ -103,9 +100,6 @@ Jobs
 
 
 - **Junior Test Automation Developer** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/484968/junior-test-automation-developer-tagus-park)
-
-
-- **Senior Quality Assurance Engineer** @_Aubay_ [here](https://www.itjobs.pt/oferta/484489/senior-quality-assurance-engineer)
 
 
 - **Senior QA Automation Engineer** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/485183/senior-qa-automation-engineer)
