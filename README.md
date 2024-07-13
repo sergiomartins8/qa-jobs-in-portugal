@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Fri, 12 Jul 2024 01:22_
+> _Last updated: Sat, 13 Jul 2024 01:23_
 
 ### ItJobs
 
@@ -46,6 +46,9 @@ Jobs
 
 
 - **QA Engineer (Python, C++)** @_Neotalent Conclusion_ [here](https://www.itjobs.pt/oferta/485459/qa-engineer-python-c)
+
+
+- **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/486256/qae)
 
 
 - **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/486356/qa-engineer)
@@ -81,9 +84,6 @@ Jobs
 - **Quality Assurance Tester** @_PDMFC_ [here](https://www.itjobs.pt/oferta/486174/quality-assurance-tester)
 
 
-- **Quality Assurance Consultant** @_Aubay_ [here](https://www.itjobs.pt/oferta/484874/quality-assurance-consultant)
-
-
 - **Software Test Automation Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/485429/software-test-automation-engineer)
 
 
@@ -91,6 +91,9 @@ Jobs
 
 
 - **Tester Funcional** @_Adentis_ [here](https://www.itjobs.pt/oferta/485590/tester-funcional)
+
+
+- **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/486256/qae)
 
 
 - **QA Engineer – Embedded Systems** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/486086/qa-engineer-embedded-systems)
@@ -106,6 +109,9 @@ Jobs
 
 
 - **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/486048/quality-assurance-tester)
+
+
+- **QA Automation Engineer** @_Neotalent Conclusion_ [here](https://www.itjobs.pt/oferta/486142/qa-automation-engineer)
 
 
 - **Senior QA Automation Engineer** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/485183/senior-qa-automation-engineer)
@@ -157,6 +163,9 @@ Jobs
 - **QA Engineer – Automation Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/485139/qa-engineer-automation-tester)
 
 
+- **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/486256/qae)
+
+
 - **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/486356/qa-engineer)
 
 
@@ -180,6 +189,9 @@ Jobs
 
 
 - **Tester Funcional** @_Adentis_ [here](https://www.itjobs.pt/oferta/485590/tester-funcional)
+
+
+- **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/486256/qae)
 
 
 - **QA Engineer – Embedded Systems** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/486086/qa-engineer-embedded-systems)
