@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Mon, 15 Jul 2024 01:25_
+> _Last updated: Tue, 16 Jul 2024 01:24_
 
 ### ItJobs
 
@@ -126,10 +126,10 @@ Jobs
 - **Automation QA Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/485074/automation-qa-engineer)
 
 
-- **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/486356/qa-engineer)
-
-
 - **QA Funcional** @_Adentis_ [here](https://www.itjobs.pt/oferta/486199/qa-funcional)
+
+
+- **QA Automation Tester** @_KWAN_ [here](https://www.itjobs.pt/oferta/485883/qa-automation-tester)
 
 
 - **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/485311/automation-tester)
@@ -212,10 +212,13 @@ Jobs
 - **Consultor Sénior de Automação** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/484801/consultor-senior-de-automacao-todo-o-pais)
 
 
-- **Calling All Tech Sleuths! Join Our QA Team (Junior Software QA Tester)** @_ITClinical_ [here](https://www.itjobs.pt/oferta/485045/calling-all-tech-sleuths-join-our-qa-team-junior-software-qa-tester)
-
-
 - **QA Engineer – Automation Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/485139/qa-engineer-automation-tester)
+
+
+- **C# QA Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/485881/c-qa-engineer)
+
+
+- **Mobile QA Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/485880/mobile-qa-engineer)
 
 
 - **QA Funcional** @_Adentis_ [here](https://www.itjobs.pt/oferta/486199/qa-funcional)
