@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Sat, 20 Jul 2024 01:21_
+> _Last updated: Sun, 21 Jul 2024 01:35_
 
 ### ItJobs
 
@@ -134,9 +134,6 @@ Jobs
 
 - **SAP Quality Engineer** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/484803/sap-quality-engineer-all-locations)
 
-
-- **Senior Quality Tester (Salesforce)** @_Aubay_ [here](https://www.itjobs.pt/oferta/485127/senior-quality-tester-salesforce)
-
 #### Porto
 
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/486218/quality-assurance-engineer)
@@ -191,6 +188,9 @@ Jobs
 - **Lead QAE** @_Aubay_ [here](https://www.itjobs.pt/oferta/486170/lead-qae)
 
 
+- **Quality Tester (QA)** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/486178/quality-tester-qa-lisbon)
+
+
 - **Lead QA** @_KWAN_ [here](https://www.itjobs.pt/oferta/485875/lead-qa)
 
 
@@ -204,9 +204,6 @@ Jobs
 
 
 - **Senior QA Automation Engineer** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/485183/senior-qa-automation-engineer)
-
-
-- **Calling All Tech Sleuths! Join Our QA Team (Junior Software QA Tester)** @_ITClinical_ [here](https://www.itjobs.pt/oferta/485045/calling-all-tech-sleuths-join-our-qa-team-junior-software-qa-tester)
 
 
 - **QA Engineer – Automation Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/485139/qa-engineer-automation-tester)
