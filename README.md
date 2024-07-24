@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Tue, 23 Jul 2024 01:23_
+> _Last updated: Wed, 24 Jul 2024 01:24_
 
 ### ItJobs
 
@@ -52,9 +52,6 @@ Jobs
 
 
 - **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/486356/qa-engineer)
-
-
-- **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/485311/automation-tester)
 
 #### Braga
 
@@ -74,14 +71,11 @@ Jobs
 - **Consultor de Testes de Automação** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/486672/consultor-de-testes-de-automacao-all-locations)
 
 
-- **SAP Quality Engineer** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/484803/sap-quality-engineer-all-locations)
+- **Intermediate Quality Assurance Engineer** @_Imaginary Cloud_ [here](https://www.itjobs.pt/oferta/486006/intermediate-quality-assurance-engineer)
 
 #### Lisboa
 
 - **QA Funcional Junior** @_KWAN_ [here](https://www.itjobs.pt/oferta/486253/qa-funcional-junior)
-
-
-- **QA Engineer – Katalon Studio Automation Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/485616/qa-engineer-katalon-studio-automation-tester)
 
 
 - **Quality Assurance Tester** @_PDMFC_ [here](https://www.itjobs.pt/oferta/486174/quality-assurance-tester)
@@ -132,9 +126,6 @@ Jobs
 - **QA Engineer – Automation Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/485139/qa-engineer-automation-tester)
 
 
-- **Automation QA Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/485074/automation-qa-engineer)
-
-
 - **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/486356/qa-engineer)
 
 
@@ -144,10 +135,7 @@ Jobs
 - **QA Automation Tester** @_KWAN_ [here](https://www.itjobs.pt/oferta/485883/qa-automation-tester)
 
 
-- **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/485311/automation-tester)
-
-
-- **SAP Quality Engineer** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/484803/sap-quality-engineer-all-locations)
+- **Intermediate Quality Assurance Engineer** @_Imaginary Cloud_ [here](https://www.itjobs.pt/oferta/486006/intermediate-quality-assurance-engineer)
 
 #### Porto
 
@@ -184,13 +172,10 @@ Jobs
 - **Junior QA Functional w/ French** @_Aubay_ [here](https://www.itjobs.pt/oferta/485905/junior-qa-functional-w-french)
 
 
-- **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/485311/automation-tester)
-
-
-- **SAP Quality Engineer** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/484803/sap-quality-engineer-all-locations)
-
-
 - **Senior Quality Assurance Engineer** @_Go Yonder_ [here](https://www.itjobs.pt/oferta/485815/senior-quality-assurance-engineer)
+
+
+- **Intermediate Quality Assurance Engineer** @_Imaginary Cloud_ [here](https://www.itjobs.pt/oferta/486006/intermediate-quality-assurance-engineer)
 
 #### Remote
 
@@ -243,12 +228,6 @@ Jobs
 
 
 - **QA Funcional** @_Adentis_ [here](https://www.itjobs.pt/oferta/486199/qa-funcional)
-
-
-- **Automation Tester** @_Devoteam_ [here](https://www.itjobs.pt/oferta/485311/automation-tester)
-
-
-- **SAP Quality Engineer** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/484803/sap-quality-engineer-all-locations)
 
 
 - **Intermediate Quality Assurance Engineer** @_Imaginary Cloud_ [here](https://www.itjobs.pt/oferta/486006/intermediate-quality-assurance-engineer)
