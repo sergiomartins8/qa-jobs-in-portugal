@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Mon, 29 Jul 2024 01:25_
+> _Last updated: Tue, 30 Jul 2024 01:24_
 
 ### ItJobs
 
@@ -84,13 +84,13 @@ Jobs
 - **Quality Assurance Tester** @_PDMFC_ [here](https://www.itjobs.pt/oferta/486174/quality-assurance-tester)
 
 
-- **Software Test Automation Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/485429/software-test-automation-engineer)
-
-
 - **Senior Quality Assurance Engineer** @_Imaginary Cloud_ [here](https://www.itjobs.pt/oferta/486308/senior-quality-assurance-engineer)
 
 
 - **Quality Assurance Engineer (QA Engineer)** @_Twistag_ [here](https://www.itjobs.pt/oferta/486704/quality-assurance-engineer-qa-engineer)
+
+
+- **Senior QA Automation Engineer** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/487112/senior-qa-automation-engineer)
 
 
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/486256/qae)
@@ -145,6 +145,9 @@ Jobs
 - **Senior Quality Assurance Engineer** @_Imaginary Cloud_ [here](https://www.itjobs.pt/oferta/486308/senior-quality-assurance-engineer)
 
 
+- **Senior QA Automation Engineer** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/487112/senior-qa-automation-engineer)
+
+
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/486256/qae)
 
 
@@ -186,6 +189,9 @@ Jobs
 
 
 - **Quality Assurance Engineer (QA Engineer)** @_Twistag_ [here](https://www.itjobs.pt/oferta/486704/quality-assurance-engineer-qa-engineer)
+
+
+- **Senior QA Automation Engineer** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/487112/senior-qa-automation-engineer)
 
 
 - **QAE** @_Devoteam_ [here](https://www.itjobs.pt/oferta/486256/qae)
