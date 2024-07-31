@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Tue, 30 Jul 2024 01:24_
+> _Last updated: Wed, 31 Jul 2024 01:10_
 
 ### ItJobs
 
@@ -68,7 +68,7 @@ Jobs
 - **Quality Assurance Engineer** @_Altar.io_ [here](https://www.itjobs.pt/oferta/486784/quality-assurance-engineer)
 
 
-- **Senior Quality Assurance Engineer** @_Imaginary Cloud_ [here](https://www.itjobs.pt/oferta/486308/senior-quality-assurance-engineer)
+- **Senior Quality Assurance Engineer** @_Imaginary Cloud_ [here](https://www.itjobs.pt/oferta/487219/senior-quality-assurance-engineer)
 
 
 - **Consultor de Testes de Automação** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/486672/consultor-de-testes-de-automacao-all-locations)
@@ -84,7 +84,7 @@ Jobs
 - **Quality Assurance Tester** @_PDMFC_ [here](https://www.itjobs.pt/oferta/486174/quality-assurance-tester)
 
 
-- **Senior Quality Assurance Engineer** @_Imaginary Cloud_ [here](https://www.itjobs.pt/oferta/486308/senior-quality-assurance-engineer)
+- **Senior Quality Assurance Engineer** @_Imaginary Cloud_ [here](https://www.itjobs.pt/oferta/487219/senior-quality-assurance-engineer)
 
 
 - **Quality Assurance Engineer (QA Engineer)** @_Twistag_ [here](https://www.itjobs.pt/oferta/486704/quality-assurance-engineer-qa-engineer)
@@ -117,9 +117,6 @@ Jobs
 - **QA Engineer – Automation Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/487021/qa-engineer-automation-tester)
 
 
-- **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/486048/quality-assurance-tester)
-
-
 - **QA Automation Engineer** @_Neotalent Conclusion_ [here](https://www.itjobs.pt/oferta/486142/qa-automation-engineer)
 
 
@@ -136,13 +133,16 @@ Jobs
 
 #### Porto
 
+- **QA Automation** @_Aubay_ [here](https://www.itjobs.pt/oferta/487086/qa-automation)
+
+
 - **Tester Funcional** @_Adentis_ [here](https://www.itjobs.pt/oferta/486979/tester-funcional)
 
 
 - **QA Engineer** @_Dellent_ [here](https://www.itjobs.pt/oferta/485382/qa-engineer)
 
 
-- **Senior Quality Assurance Engineer** @_Imaginary Cloud_ [here](https://www.itjobs.pt/oferta/486308/senior-quality-assurance-engineer)
+- **Senior Quality Assurance Engineer** @_Imaginary Cloud_ [here](https://www.itjobs.pt/oferta/487219/senior-quality-assurance-engineer)
 
 
 - **Senior QA Automation Engineer** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/487112/senior-qa-automation-engineer)
@@ -166,9 +166,6 @@ Jobs
 - **QA Engineer – Automation Tester** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/487021/qa-engineer-automation-tester)
 
 
-- **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/486048/quality-assurance-tester)
-
-
 - **QA Engineer** @_Growin - Know to grow_ [here](https://www.itjobs.pt/oferta/486356/qa-engineer)
 
 
@@ -185,7 +182,7 @@ Jobs
 - **Quality Assurance Engineer** @_HumanIT_ [here](https://www.itjobs.pt/oferta/485817/quality-assurance-engineer)
 
 
-- **Senior Quality Assurance Engineer** @_Imaginary Cloud_ [here](https://www.itjobs.pt/oferta/486308/senior-quality-assurance-engineer)
+- **Senior Quality Assurance Engineer** @_Imaginary Cloud_ [here](https://www.itjobs.pt/oferta/487219/senior-quality-assurance-engineer)
 
 
 - **Quality Assurance Engineer (QA Engineer)** @_Twistag_ [here](https://www.itjobs.pt/oferta/486704/quality-assurance-engineer-qa-engineer)
@@ -219,9 +216,6 @@ Jobs
 
 
 - **QA Engineer (Python, C++)** @_Neotalent Conclusion_ [here](https://www.itjobs.pt/oferta/485459/qa-engineer-python-c)
-
-
-- **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/486048/quality-assurance-tester)
 
 
 - **C# QA Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/485881/c-qa-engineer)
