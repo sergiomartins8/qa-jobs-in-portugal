@@ -36,7 +36,7 @@ Every day and automatically, this solution goes through websites that allow orga
 Jobs
 ---------
 
-> _Last updated: Wed, 31 Jul 2024 01:10_
+> _Last updated: Fri, 02 Aug 2024 01:23_
 
 ### ItJobs
 
@@ -81,6 +81,9 @@ Jobs
 - **Senior Quality Tester (Salesforce)** @_Dellent_ [here](https://www.itjobs.pt/oferta/485525/senior-quality-tester-salesforce)
 
 
+- **Software Test Automation Engineer** @_KWAN_ [here](https://www.itjobs.pt/oferta/487260/software-test-automation-engineer)
+
+
 - **Quality Assurance Tester** @_PDMFC_ [here](https://www.itjobs.pt/oferta/486174/quality-assurance-tester)
 
 
@@ -100,6 +103,9 @@ Jobs
 
 
 - **QA Engineer – Embedded Systems** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/486086/qa-engineer-embedded-systems)
+
+
+- **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/487190/quality-assurance-tester)
 
 
 - **Automation Tester** @_Integer Consulting_ [here](https://www.itjobs.pt/oferta/485741/automation-tester)
@@ -154,6 +160,9 @@ Jobs
 - **Consultor de Testes de Automação** @_Noesis Portugal_ [here](https://www.itjobs.pt/oferta/486672/consultor-de-testes-de-automacao-all-locations)
 
 
+- **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/487190/quality-assurance-tester)
+
+
 - **Lead QAE** @_Aubay_ [here](https://www.itjobs.pt/oferta/486170/lead-qae)
 
 
@@ -198,6 +207,9 @@ Jobs
 
 
 - **QA Engineer – Embedded Systems** @_GRiT Solutions_ [here](https://www.itjobs.pt/oferta/486086/qa-engineer-embedded-systems)
+
+
+- **Quality Assurance Tester** @_Bee Engineering_ [here](https://www.itjobs.pt/oferta/487190/quality-assurance-tester)
 
 
 - **Lead QAE** @_Aubay_ [here](https://www.itjobs.pt/oferta/486170/lead-qae)
